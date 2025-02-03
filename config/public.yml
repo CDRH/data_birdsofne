@@ -1,0 +1,6 @@
+default:
+  collection: birds-of-nebraska
+  collection_desc: Birds of Nebraska
+  tei_html_xsl: scripts/overrides/tei_to_html.xsl
+  # NOTE: this has not been added to a non XTF lucene index
+  # not used in traditional solr / es
