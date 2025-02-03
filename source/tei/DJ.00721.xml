@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00721">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Red Eye [Red-eyed Vireo].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-08-06</date><biblScope>51(45): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Red Eye.</head>
+         
+         <p>Mighty catchy heading for an editorial, isn't it? Might mean anything from booze to an ocular disease.</p>
+         
+         <p>But those who are anticipating a prohibition or a medical discussion are to be disappointed, for this has merely to do with a bird, and a very dainty, songful little creature, too.</p>
+         
+         <p>The Red Eye is mighty familiar to those who have enough sense to frequent the woods and glades when the opportunity offers, and his real name is Red-Eyed Vireo.</p>
+         
+         <p>There are lots of Vireos in Nebraska - over half a dozen different members of the family, perhaps, but the Red Eye, as he is familiarly known, is probably the most frequent and therefore the most popular.</p>
+         
+         <p>Little Red Eye is well named, but you are seldom permitted to approach close enough to him to note the ruby glint in his bright little orbs. His best identification is a white line across his brow and the fact that he has no wing bars to be noticed at a casual glance.</p>
+         
+         <p>Red Eye has a song of many syllables, which he warbles either swiftly or with grave deliberation, according to his mood. It may be the mere fancy of an observer, but it would appear that the higher the perch of the songster, the more rapid his melody. When in the treetop his offering is hurriedly and vehemently uttered, while when in the low bushes he generally pauses between each syllable, as if in deep thought.</p>
+         
+         <p>The nest built by Mr. and Mrs. red Eye is a creation of note in itself. It is hung in the fork of two branches and swings below a good deal like that of the Baltimore Oriole.</p>
+         
+         <p>It would pay you to place the name of the red-Eyed Vireo upon you Sunday calling list, if you visit the woodland.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 6, 1916. Red Eye [Red-eyed Vireo]. <title>Omaha Sunday World-Herald</title> 51(45): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

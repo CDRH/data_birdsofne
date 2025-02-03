@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00118">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bluebird on the Loup.</title><title level="j">Omaha Sunday World-Herald</title><author>H.E.L.</author><date>1918-02-17</date><biblScope>53(20): 19-N. Griswold column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bluebird on the Loup</head>
+         
+         <p>Wednesday, Fullerton, Neb., Feb. 6.-To Sandy Griswold, Sporting Editor of the World-Herald: Of course everybody in Nebraska is familiar with your interest in our birds, and in this brief letter I wish to tell you that the bluebird, (Silvia sialis), of which you told us in such a charming way in last Sunday's World-Herald, and which bird almost entirely disappeared from this region after the cold winter of 1903, has returned in something like its old time normal abundance, but not quite up to the notch. This happy condition, however, was not reached until after the passage of several reasons. During the summers of 1904-05 I did not see a single bluebird, although I was on the almost constant lookout for them, but in 1906 I saw them scatteringly, and every season since, in fairly plentiful numbers. But as I said, for several seasons after the severe cold weather during the winter and spring of 1903, not a single specimen of these birds was seen in this locality, a locality where they had always been in great numbers. They began to come back, for the first time after that, in the spring of 1906.</p>
+         
+         <p>It is now regarded as almost certain that these little birds-down to the 30th parallel-were destroyed by that cold snap, and as a result some very interesting questions were discussed by those supposed to be versed in natural science. The bluebird was indigenous and resident in every southern state summer and winter, and only a summer resident in Nebraska, although not infrequently many of them remained with us during the greater part of the winters. The first pleasant spell of weather in March never failed to bring him as far north as this state, and he was regarded as the courier avant who came to tell us of the countless hosts of pretty birds that would soon come to people the fields and woods along the gurgling Loup.</p>
+         
+         <p>But it will be a long time, if ever, before he becomes as common as he once was. During the same cold snap immense numbers of robins, thrushes and other birds were found dead along the highways and in the woods and fields-all over the south-but no species suffered to the extent of the bluebirds.-H. E. L.</p>
+         
+         <cit>
+            
+            <bibl default="NO"> February 17, 1918. <title>Omaha Sunday World-Herald</title> 53(20): 19-N. Forest, Field and Stream.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

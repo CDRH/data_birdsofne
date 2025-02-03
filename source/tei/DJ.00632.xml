@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00632">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Suet for the Songsters.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-11-12</date><biblScope>52(7): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Suet for the Songsters.</head>
+         
+         <p>Recognized today as one of the foremost associations of its kind in this country, the Nebraska Audubon society, with its offices and meeting place in Omaha, continues to attract favorable attention everywhere and to give this metropolis a good deal of favorable advertising.</p>
+         
+         <p>"Bird Lore," the official organ of the national Audubons, and read all over the civilized world, devotes considerable space in its latest issue to a description of the great work done in Omaha and vicinity by the Nebraska Audubons. Certain New York, Boston, Philadelphia and Chicago papers, as well as scores of smaller publications, have commented upon the fact that the western city of Omaha should lead the rest in the matter of bird conservation and interest.</p>
+         
+         <p>It is known now, from coast to coast, that Omaha has the biggest and best bird reserve - the Fontenelle Forest - in the country. it is also known that in Forest Lawn cemetery it has one of the biggest and best bird sanctuaries, and that in the matter of the education of the young in bird lore, Omaha is well to the top, although the Nebraska Audubons' active campaign started but a year ago.</p>
+         
+         <p>All this merely to call attention to the latest progressive step taken by these active bird lovers of Omaha and this state. The Nebraska Audubons have purchased over 200 patented wire holders, to be filled with beef suet and to be placed in the public parks in order that the winter birds - songsters in their way as much as the birds of summertime - may be fed when snow has fallen and forage is scarce.</p>
+         
+         <p>Until the Boy Scouts have been recruited up to "war strength," the junior members of the Audubons will aid the seniors in filling these suet holders at least once a week. Afterward, the Scouts will take care of that work.</p>
+         
+         <p>The chief interest in this bird feeding campaign lies in the fact that it attracts so many different kinds of songsters and brings them close enough so that they may be better seen and studied. Many folks think the birds are all gone in the winter months, but about these suet stations will be found Downy and Hairy Woodpeckers, Cardinals, Bluejays, Flickers, Chickadees, Nuthatches, Brown Creepers, Goldfinches, Pine Siskins, Tree Sparrows and many other varieties. Some of these are seed eaters, but the suet seems to attract them just the same.</p>
+         
+         <p>It is the object of the Audubons of this city to urge those who have residence near wooded places on the outskirts, or near parks, to place similar suet stations in their yards, and thus bring the winter birds still closer.</p>
+         
+         <p>There is plenty of fun in the study of bird life in any season, but the birds will appreciate this feeding feature more in the winter, so why not let them in on the fun?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 12, 1916. Suet for the Songsters. <title>Omaha Sunday World-Herald</title> 52(7): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

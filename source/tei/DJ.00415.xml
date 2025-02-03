@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00415">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hunters After Jack Snipe. Ducks and Geese Go North, but the Scooters of the Sedge Come in Flocks.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1903-04-12</date><biblScope>page 11.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-20">2006-06-20</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hunters After Jack Snipe.</head>
+         
+         <head>Ducks and Geese Go North, but the Scooters of the Sedge Come in Flocks. </head>
+         
+         <p>Hunters have turned their attention during the last week away from the ducks and the geese and have gone agunning for jack snipe. The warm weather and blue skies have started the ducks on their journeys further north and they are plenty scarce where ten days ago they flocked in swarms. In their stead have come the jack snipe and they are almost as plentiful as were the ducks before and far easier to get. It is the common thing for the local hunters to drive out in the morning to Calhoun or to Waterloo and come back by sunset with a kill of twenty-five birds, which is the limit for one day in the state. The very plentifulness of water, which hindered the duck shooters, has proven their help since the coming into favor of the little water bird. They are gathered along the wet and boggy banks and shores of the Platte and Elkhorn and the lakes and ponds. There are a great many sloughs that have been formed by this spring's moisture that are hiding places and feeding grounds of the bird and the hunters are haunting them with great persistency. Charlie Lewis, William Brewer and H.A. Webb were up to Tekamah for two days and killed the limit both days and say that they had to loaf half of their time to keep from breaking the laws. The snipe are present in large numbers, but a trifle wild and it requires good shooting to get a respectable bag. W.D. Townsend took a little trip out to Calhoun Thursday morning, driving out and back, and brought home with him twenty-five snipe.</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 12, 1903. <title>Omaha Sunday Bee</title> page 11.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

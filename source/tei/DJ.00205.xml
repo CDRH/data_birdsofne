@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00205">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Danger for the Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-03-13</date><biblScope>56(24): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Danger for the Birds.</head>
+         
+         <p>With springtime so close and the past winter so mild, the early birds that have come up from the south in anticipation of continued Florida weather in these parts, solid as may have been their argument, may find themselves in distress - for March is treacherous.</p>
+         
+         <p>It has oft been proven that the early bird in Nebraska fails to catch the worm, maybe because the prohibition agents got there first, but generally because the last blizzard of the year got there last.</p>
+         
+         <p>This year it is common knowledge that Robins and Bluebirds and Chewinks and many other of the supposedly summer songsters have been around constantly, while there have been unofficial reports of Mourning Doves and Meadowlarks in this state in the meantime.</p>
+         
+         <p>Tragic evidence of what a late march storm does to these eager feathered fellows is found in the annals of every bird society.</p>
+         
+         <p>Chimneys of abandoned sod houses have been found clogged with the dead bodies of Larks and Doves, while hollow logs, covered with snow, have been known to hold the corpses of dozens of Bluebirds who took refuge there when the freezing weather came upon them.</p>
+         
+         <p>There is nothing that humans can do to prevent migratory birds from migrating, and it is equally certain that humans cannot control the weather, but it is a fact that food placed for these birds, such as beef suet, scraps of meat, seeds, bread crumbs and the like - placed in protected spots where such food cannot be covered by snow, will do a great deal toward saving lives of songsters.</p>
+         
+         <p>Such food would be wasted in most backyards. It should be taken out into the woods or fields, where the English or European Sparrow cannot monopolize it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 13, 1921. <title>Omaha Sunday World-Herald</title> 56(24): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

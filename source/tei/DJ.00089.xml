@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00089">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Season at Its Height.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-05-11</date><biblScope>54(32): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Season at Its Height.</head>
+         
+         <p>After prating and prattling of the wonders of birdland for the previous twelve months, it becomes a privilege on this particular day to announce the very height of the bird season.</p>
+         
+         <p>We rather scoff at the other days and months because they lack so much of the variety and luster that may be found in our fields and woods right now.</p>
+         
+         <p>This week, or the period included in the first two weeks of every May, is admitted by ornithologists to be the most prolific in checked specimens in the entire calendar year.</p>
+         
+         <p>Migratory birds have now arrived, including not only the Warblers and Sparrows, but the many varieties of water and shore birds along the lakes and rivers.</p>
+         
+         <p>Thus it is well that we should take a hike today - of we ever take one!</p>
+         
+         <p>It is no uncommon experience for a skillful bird-hunter to identify close to 100 different specimens at this time of the year - and the rankest tyro at the game will do poorly if he fails to "hit" more than forty.</p>
+         
+         <p>Modern education has discouraged the shooting of songbirds, and modern law has made such act a misdemeanor - so the making of a bird list by means of bird glasses is no longer bolstered by the taking of specimens per rifle.</p>
+         
+         <p>It is this that makes the game more interesting, for it is a sort of battle of wits between the bird lovers and the birds.</p>
+         
+         <p>Go out into the woods today and see how far you can reach with your check-list. It is a health-giving and educational amusement.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 11, 1919. <title>Omaha Sunday World-Herald</title> 54(32): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

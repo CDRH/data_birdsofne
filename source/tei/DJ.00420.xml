@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00420">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hunters Flock to Fields. Many Omaha Gunners Go to Places Where Game is Good. Boats Run on River to Florence. Reports Show Chicken Shooting Still Good, Although Most of the Sportsmen are After Duck.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1905-10-22</date><biblScope>page 1-E.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-19">2006-06-19</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hunters Flock to Fields</head>
+         
+         <head>Many Omaha Gunners Go to Places Where Game is Good.</head>
+         
+         <head>Boats Run on River to Florence</head>
+         
+         <head>Reports Show Chicken Shooting Still Good, Although Most of the Sportsmen are After Duck.</head>
+         
+         <p>Old firearms have been pulled from the shelf and polished up and new ones bought into requisition to head off some of the numerous ducks which are wending their way to the south for a winter's rest along the gulf coast. Numerous parties have gone from Omaha and others are daily jumping out for a day's shoot among the numerous lakes for which Nebraska is becoming so noted.</p>
+         
+         <p>The steamboat which did service on Cut-Off lake all summer has been pressed into service on the Missouri river by the owner, H.J. Enewold, and hunters are taken from Florence to the lakes to the north. The boat leaves every Saturday afternoon at 2:30 and Sunday morning at 7. These lakes are within a mile of the river and hunters can reach them at small expense.</p>
+         
+         <p>In bringing in game on the trains hunters should be careful to comply with the state law, which requires all bags to be marked with the owner's name and the number and kind of game. The game wardens are busy at this season of the year and have the right to confiscate game if not properly marked. Many are negligent about this matter, often entering a chair car with their bags of game, and then going to the smoker, so that when the warden enters the car he has no way of telling to whom a bag of game belongs.</p>
+         
+         <p>Reports also show chicken shooting is still good, although the majority of hunters are after ducks. Nearby lakes are good for the latter, which the recent cold snap has brought down in hordes, although the sandhills are still in great favor for those who have the time to go that far.</p>
+         
+         <head>Some Hunters and Their Fields.</head>
+         
+         <p>DeWitt Ellingwood and Paul Hoagland hurried to Clarks as soon as they received a telephone message that the birds were obscuring the sun by the hordes in which they were whirling down from the north.</p>
+         
+         <p>Rhody Kennedy, Guy Thomas and Warren Thomas have gone to Silver Creek to take a few cracks at the festive duck.</p>
+         
+         <p>Henry T. Clarke, Jr., and a party left Saturday for Schickley for a few days' shooting.</p>
+         
+         <p>W.A. Pixley, Ray Welsh, S.G.V. Griswold and son, Gerard, are at Geneva for a short stay, as the guests of the Geneva Gun club.</p>
+         
+         <p>Fred Goodrich, Gus and Charles Windheim, C.W. Bishop of Kansas City and Henry McDonald are at Lexington.</p>
+         
+         <p>Charles Lewis, Fred and Charles Metz, Dick Seimon, Billy Marsh, Pete Burke and Mike Fitzgibbons of Missouri Valley are putting in two weeks at Wood Lake.</p>
+         
+         <p>Dr. C.W. Downs and Walter Meisner returned Friday from a successful shoot, bringing in all that the law would allow.</p>
+         
+         <p>Bill Hardin went west by his lonesome to get a few birds for his birthday, which is approaching.</p>
+         
+         <p>One of the most portentous parties which has left Omaha for some time was that organized by Tom Foley. With a complete camp outfit of provisions, tents, wagons, cooks, etc., this party is making a two weeks' raid on the birds around Cody, Wyoming The party consists of T.J. Foley, E.C. Ketchmark of Bancroft, George Giacomini, John Kerns and Fred Davidson of Casper, Wyoming; Captain Stotts, U.S.A., of Cody, Wyoming, and Mickie J. Gibson.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 22, 1905. <title>Omaha Sunday Bee</title> page 1-E.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

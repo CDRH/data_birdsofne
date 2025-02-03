@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00072">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Hush in Birdland.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-09-17</date><biblScope>57(48=51): 14-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Hush in Birdland.</head>
+         
+         <p>By one who wanders today in the woods and fields, while the foliage is yet nearly as dense in midsummer, a dullness is to be noted in its colors; a dreariness that bespeaks the coming autumn gorgeousness and then the winter.</p>
+         
+         <p>The very life of the living trees and underbrush seems hushed, and the dying weeds and grasses in the desolate places add to this somewhat dispiriting effect. And it is easy to note that the birds, too, many of them at least, are hushed in spirit.</p>
+         
+         <p>A deep melancholy seems to have fallen over our friends of the past four or five months, perhaps because they are sorry that they will soon have to leave for more acceptable climes. Like fond parents forced to depart from the cozy birthplace of their children, or like the children themselves under such circumstances, the songsters grieve.</p>
+         
+         <p>Watch the Robins. Clustered now into groups, often in very large groups, they hop and run about the lawns and grassy stretches, or prowl the sides of melancholy ravines, in comparative silence. They pause motionless for long periods, as if in sorrowful meditation. Their bright red breasts are changing swiftly into the dull buff of winter dress and their keen eyes seem to have lost something of their sparkle - or do we imagine that?</p>
+         
+         <p>Mournful Bluebirds, now to be discovered in little company, plaintively murmur their distant "purity - purity - purity" with nothing of the eager spring-love in it, but now more of the respective adoration of lost memories. They, too, are swiftly losing the color richness of their April wedding togs.</p>
+         
+         <p>Burly Bronzed Grackles, however, lacking little of their original dark beauty, express their reluctance to leave in the utmost recklessness, and hustle back and forth over the city, and over the woods and fields, and glide from one residential yard to another, in a very flutter of impatience to do something. Their chorus of harsh and guttural squawks as they meander about is typical of this very season, and presently, no doubt, we shall be treated to another annual and tremendous flight of them to the southward - for they are black Arabs and travel in caravans on long journeys.</p>
+         
+         <p>But with all this quietude, and through it all, with many of the brighter songbirds already departed and the army of migratory sparrows not yet completely arrived from the north, there is one little chap of utmost good cheer, who now, as in every season we have, brightens up the woodland immensely - the Chickadee.</p>
+         
+         <p>Bless his plucky heart! Snow or rain, cold or hot, be it quiet as the tomb of blowing a very hurricane, his lively "Chick-a-dee-dee-dee," is sure to be heard to bid you be of good faith and staunch heart!</p>
+         
+         <p>Would there were more humans like him when our workaday woods are hushed.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 17, 1922. <title>Omaha Sunday World-Herald</title> 57(48=51): 14-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

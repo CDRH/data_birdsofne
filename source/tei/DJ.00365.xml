@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00365">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Those Goose Hunters. They Are Supposed to be Side-Tracked Because of Their Lack of Funds.</title><title level="j">Omaha Daily Herald</title><author>Herald editor.</author><date>1877-04-21</date><biblScope>12(162): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Those Goose Hunters.</head>
+         
+         <head>They Are Supposed to be Side-Tracked Because of Their Lack of Funds.</head>
+         
+         <p>Mention was made in these columns a few days since of the fact that E.P. Vining, General Freight Agent of the Union Pacific, had gone out west in a special car with a party of friends on a goose hunt-and a "wild goose hunt" at that. Yesterday one of the officials of the U. P. received the following communication in relation to this party:</p>
+         
+         <p>"Omaha, April 20.-Dear Sir: U. P. special car No. 100, Mr. E.P. Vining and party, in on No. 4, this run, from Clark's; no transportation, for car, nor pass or tickets for the party, and I presume no money to pay fare. I incidently learn they have with them fifteen old sand hill cranes and four wild (more probably tame) geese. Would it not be well to instruct the conductor of the train (4) to seize there defunct birds as security for transportation of the car and party? I see no other way of having a roast goose for Sunday. You take the cranes and I will accept the geese.</p>
+         
+         <p>"Yours truly, --"</p>
+         
+         <p>The officer to whom the communication was addressed evidently don't want any Sand Hill cranes "in his'n" for he promptly responded with this order.</p>
+         
+         <p>"Side-track the car till the fare is paid."</p>
+         
+         <p>And now those goose hunters are in a fix. It is to be hoped their sad fate will prove a warning to other impecunious chaps who endeavor to travel solely and wholly upon their cheek.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Herald editor. April 21, 1877. <title>Omaha Daily Herald</title>	13(5): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

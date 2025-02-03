@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00600">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nest Robbing Lads.</title><title level="j">Omaha Sunday World-Herald</title><author>Mrs. E.</author><date>1908-07-12</date><biblScope>43(41): 2-M.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nest Robbing Lads.</head>
+         
+         <p>Florence, Nebraska, July 7.—To Sandy Griswold, Sporting Editor of the World-Herald: All of we bird lovers admire your persistent efforts in the interests of our little feathered friends, and I merely wish, in this brief communication, to call your attention to the fact that many boy's about this time of the year form themselves into little bands and start out for the woods and fields on a crusade against the birds and their nests. Just a few weeks ago I was an eye witness to an inventory being made by three little chaps who had just returned from the fields north of Cut-Off lake with the results of such a raid. All had had some success, but one lad showed me no less than thirty-one eggs—redwinged, black bird, robin, bluejay and black breasted bunting eggs—and he told me he had gathered over 100 this spring. I talked with these boys and told them not only how wrong this work was, but that it was unlawful besides, and that if reported on it would go hard with them. They were all very penitent, and the boy with the most eggs said he could take them back to the nests he took them from, but I told him that would do no good now, and that he should keep them, but gather no more. I know that our children are being taught in our schools just what is right in connection with the birds, and I think that there is not one nest-robbing urchin today where there were hundreds years ago. I think all parents should admonish their boys against this shameful practice.—Mrs. E.</p>
+         
+         <cit>
+            
+            <bibl default="NO">July 12, 1908. <title>Omaha Sunday World-Herald</title> 43(41): 2-M.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00756">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Saving Nature's Wonders [Elmwood Park Work].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-12-08</date><biblScope>54(10): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Saving Nature's Wonders.</head>
+         
+         <p>Unless something is done, and right quickly, too, the last of Omaha's rustic parks will have joined the others in the ranks of prim artificiality.</p>
+         
+         <p>On many occasions the World-Herald has dipped its pen in defense of Elmwood park as it was and ever should be. This newspaper has endeavored to plead for the perpetuance of the natural beauties of these 200 acres in the belief that there are plenty of other parks in Omaha to be used for experimentation and landscape gardening.</p>
+         
+         <p>In fact it would encourage the exploitation of these other parks by artificial means, and favors appropriates to assist he commissioner of parks and boulevards in further adding to this city's builded charms.</p>
+         
+         <p>But when the Almighty has given to a metropolis such a wondrous, tangled and entrancing wildwood as was once to be found in Elmwood park these grandeurs should be let alone.</p>
+         
+         <p>Apparently it is useless to quote authorities in the face of the firm and destructive will of Commissioner Falconer and his Elmwood superintendent. The one gives the other authority, and the ax swings!</p>
+         
+         <p>The government chief of parks and reserves, direct from Washington, over his own signature, recently advised Omaha to preserve every iota of wildwood, every scintilla of nature, and warned that if this is not done, vast fortunes will sometime be spent in replacing that which is now being destroyed - even as is the case today in the East.</p>
+         
+         <p>In the face of direct testimony by the United States Department of Agriculture that the birds are the immediate saviors of the fields and orchards of this country, Commissioner Falconer permits his hired men to ruthlessly destroy vast breeding places in Elmwood park.</p>
+         
+         <p>Those who study the wants and habits of man's feathered friends have been termed "bird nuts" by Commissioner Falconer. The monument standing in the corner of Salt Lake City today, in honor of the Franklin Gull, which obliterated the pest of black beetles threatening the whole of Utah with famine, is the answer!</p>
+         
+         <p>Blackbirds eat grain. Thirty years ago the Nebraska state government, in its ignorance, encouraged the slaughter of these birds. The next year the insects devastated Nebraska's grain fields. Then a great light came to the law-makers and the Blackbirds came back to do their duty to Nature.</p>
+         
+         <p>This, however, is beside the question.</p>
+         
+         <p>But feeble alibis are offered by the park commissioner and his Elmwood superintendent for the wrecking of that beautiful tract. Pine needles are being raked from beneath the evergreen groves - for fear of fire!</p>
+         
+         <p>The only fire of any consequence that ever damaged Elmwood was started last fall by Falconer's superintendent in doing some "cleaning up" that would better have been left undone. The result was the burning of one of the prettiest stretches of sumac in the county.</p>
+         
+         <p>There has been a practice of burning off dry grass in the park. Nature never did that! Orchards and groves are thinned out with the ax - not by Nature. Springs are piper with clever plumbing fixtures - while Nature weeps.</p>
+         
+         <p>If ever the Civil Service should be applied, it is in the handling of the blessings God gives us, and among the foremost of these, our outdoor Nature.</p>
+         
+         <p>It takes fifty years for a fine tree to grow, and fifty minutes to cut it down!</p>
+         
+         <p>Think of that, Commissioner Falconer!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. December 8, 1918. <title>Omaha Sunday World-Herald</title> 54(10): 8-E.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

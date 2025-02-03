@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00185">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Coming of the Feathered Hosts.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy, Sporting Editor.</author><date>1896-09-27</date><biblScope>p. 18.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-07-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Coming of the Feathered Hosts.</head>
+         
+         <head>With the Shooters in the Field and at the Trap.</head>
+         
+         <p>That wild fowl shooting is the sportsman's favorite pastime is a fact not easy of dispute. It is not only the case here, where there is an abundance of almost all kinds of game, but elsewhere, both in the east and west, where there are advantages for big game killing we never have here. To be sure there are some who greatly prefer chicken and quail shooting, and it is surely grand sport, but where you find one wed to this class of pleasure you will find a score who long for the lake and the marsh, where the wild rice undulates in fields before the passing breeze, and the quack of the mallard and the honk of the goose is a common sound. Chicken and quail shooters are enamored of that species of sport, much an account of its cleanliness and the satisfactory condition of the birds when once bagged. And then, too, there is a charm in watching a thoroughly broken pair of dogs work, that would be difficult to portray. Still I feel bold in declaring that it in nowise can be compared to wild fowl shooting. There is a spice and variety about a day in a ducking blind that no other pursuit can supply. Again I repeat, there is a royal pleasure in a tramp over our immeasurable hay fields and limitless stubble for chicken and quail, as there is also in a trip after upland plover and curlew, but there is something indescribably matchless about duck shooting which claims for it a large majority of those ardent spirits devoted to the hammerless.</p>
+         
+         <p>The fall season—the grand climateric of the twelvemonth—is now on. There is no mistaking that fact. Our nights and mornings are growing keener and keener, the weeds and grasses are drooping and fast donning their somber garb, the foliage of the woods is flecking with flaming scarlets and gaudy golds, and all nature is preparing for the reception of the feathered hordes as they come down from the north on their final migration of the year. All worldly cares go whirling skyward in the face of this entrancing picture and upon the dark rotunda around it fancy hangs many a bright scene sportsmen's eyes alone can see.</p>
+         
+         <p>The duck hunters' idyl.</p>
+         
+         <p>Off there the timber land stretches down to the river's edge, robed in gilded gowns, while the distant bluffs seem shrouded in a haze of splendor. The sumac glows and burns in shady nooks, the broad expanse of field and prairie is a yellowing desert and all the frosty and decaying pursuivants of the hoar season ahead admonishes him that his day is here and must be improved.</p>
+         
+         <p>Down in the marsh.</p>
+         
+         <p>The wings of the teal whistle on every breeze and the blackbirds in myriads rise chirping petulantly from every mass of reeds. Their noisy clamor is music to his ear and he finds agreeable pastime when the ducks are not astir, watching their ceaseless motion. Thousands are mirrored in the lake's glassy depths as they stream back and forth overhead, and thousands more swing on swaying rice stalk and leaning cane. The marsh seems alive with them. They are everywhere. Some in greenish black coats which gleam in the sunlight like polished ebony, some in dirty brown, some with cardinal splotches on their wings and others with bright topaz head and collar. The kingfisher, as he darts showily up or down the slough, fills the air with his querulous cackle; the heron keeps silent vigil on the distant point, while the white and black plumage of the avocet gleams from every shallow. Along the shore the yellowleg, with his plaintive whistle atune with the breeze, wades and frets from early morn till late in the evening, and the red-tailed hawk curves his acute sharp against the distant sky.</p>
+         
+         <p>Such are the imaginary gems at this season of the year that warns the sportsman to be up and about. There is the boat to haul out of the shed loft for recalking and painting, waders to be looked over, shooting wammus to mend, decoys restrung and packed, shells to be reloaded and everything pertaining to the calling prepared for the ardent work everywhere foreshadowed.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold, Sporting Editor. September 27, 1896. <title>Omaha Sunday Bee</title> p. 18.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

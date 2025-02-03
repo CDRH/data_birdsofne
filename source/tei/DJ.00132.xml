@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00132">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bronzed Grackle.</title><title level="j">Oologist</title><author>Bonwell, J.R.—Aix Sponsa.</author><date>1892-01-01</date><biblScope>9(1): 10-11.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-06-30"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bronzed Grackle.</head>
+         
+         <head>
+            
+            <hi rend="italic">Quiscalus purpureus aeneas</hi>.</head>
+         
+         <p>This is one of our most interesting if not most gayly colored birds. It inhabits the territory enclosed in the Mississippi Valley, and those who have never had the good fortune to see this bird alive may know that it is one of the most energetic business-like birds in category of North American <hi rend="italic">avi fauna</hi>. They are extremely gregarious, very large flocks migrating together and nesting in the same vicinity. They usually make their appearance from the South about the middle of March and leave for warmer climes about the middle of September.</p>
+         
+         <p>I had always supposed that our Grackle was the "Purple Grackle," I suppose because it was "purple," until I received a skin of the Bronzed species from a Kansas friend. It then dawned upon me that our Grackle was the Bronzed and not the purple at all. Then followed the task of changing in my note books all references to the "Purple Grackle" and making a note in the margin as to the identity.</p>
+         
+         <p>The call of the Bronzed Grackle is by far the most rasping, scraping sound that ever came from <hi rend="italic">avian</hi> tongue, but, nevertheless, it is pleasant to hear on some clear, frosty morning in March, coming from the top of a tall tree.</p>
+         
+         <p>How well I remember the first one I heard in 1890. The wind was blowing quite a gale, when I heard the call of <hi rend="italic">quiscalus</hi> coming on the wind. I rushed out of doors and there on the topmost branch of a mammoth cottonwood tree sat <hi rend="italic">quiscalus</hi>, scraping away like the fiddler at a backwoods hoe-down, although he could hardly retain his equilibrium on the branch when an especially hard gust would come dashing down from the North.</p>
+         
+         <p>The Bronzed Grackle builds a large and bulky nest, usually in the upper part of a tree. They seem to have a special fondness for cedar trees, and as they are gregarious in their nesting habits, a grove of these trees is usually selected as their nesting site.</p>
+         
+         <p>During the breeding season "Bedlam reigns" in these tenanted groves, and I have walked through it when the ground was literally covered with the excrement, and every branch was white with it.</p>
+         
+         <p>In the nest the female deposits 4 to 6 eggs of an olivaceous green shade, thickly blotched with very dark brown. In size the eggs average 1.23x.90.</p>
+         
+         <p>The eggs of this bird I find to be highly variable in size as well as coloration. They are often almost without spots or blotches of any kind, and I have also seen some in which the blotches almost entirely covered the original back ground.</p>
+         
+         <p>But this bird has one strong opponent to contend against, and that is the bad name given it by a certain class of uneducated farmers who can look on but one side of the question, and can not be made to believe that the Grackle repays him tenfold for the comparative bite of grain that he consumes. Consequently they are often driven away and their homes despoiled by the farmers who thinks it is "a good riddance of bad rubbish."</p>
+         
+         <p>In conclusion I desire to urge all of our young ornithologists to write their experiences with their feathered friends or on the habits of birds that come under their special observation, as such articles are always read and enjoyed by all, old or young, who are interested in the study of ornithology and the advancement of this most interesting branch of natural science.</p>
+         
+         <list type="simple">
+            
+            <item>"<hi rend="smallcaps">Aix Sponsa</hi>,"</item>
+            
+            <item>Nebraska City, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">J.R. Bonwell. January 1892. <title>Oologist</title> 9(1): 10-11.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

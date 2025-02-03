@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00904">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Thrill of Hunting Quail in October].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-10-16</date><biblScope>34(16): 21. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <figure entity="ThrillHuntingQuail">
+            
+            <figDesc>Thrill of Hunting Quail—hunter and two dogs afield.</figDesc>
+         
+         </figure>
+         
+         <p>Scarlet and gold stars the maple's glossy green, the robin has fled for softer climes, the hazel-pods are bursting, and that vague yearning we have all felt so many times before is stealing over the sportsmen. It is an indefinable yet tender feeling, unlike anything else within the human breast, and it never fails to come about this time-the middle of October.</p>
+         
+         <p>Notwithstanding the green of the timbered bottoms is just beginning to be flecked with versi-colored hues, that the blue gentian has barely folded its blue petals, and down by the brook's side the chelone's pinkish hood is but a withered burr. In three more weeks November will have dawned and the quail season will be here!</p>
+         
+         <p>From the slender spikes of linaria still hang the straggling racemes of softest azure, amid the down of the thistle the gold of the salad-bird still gleams, and yet the signs of the season are all here, and that strange feeling that possesses the quail hunter deepens with each passing day.</p>
+         
+         <p>Listen! That is a bird calling now, off there in the brush, close to the standing corn. How thrilling, how penetrating, yet how gentle this autumn signal! He who has never felt its sweet power when the valleys and the ravines are arrayed in crimson and gold, and a softer light falls from the sky, has missed the most indescribable emotion of the human breast. And strong must be the bonds of the business, or inexorably hard the conditions, to hold one when the pearly scales of the everlasting rustic in the fall winds greets the hearing and the wild plum has fallen from its half bare branches, when the strident squawk of the jay in the russet of the cottonwoods is nearly all that remains of summer's music in the trees, and the crimson of the blackbird's wing the last flash of brilliant life.</p>
+         
+         <p>What bright cases on the desert of your existence were those mornings when the hoar-frost sparkled on the wheat stubble with the dogs in rolling canter sniffing the bracing air! The squeal of the yellowhammer or mournful carillon of the meadow lark, the flitting brown and red of some belated robin, the twittering of the sparrows and the disconsolate tinkle of some lone plover hastening south above our heads, all cast a saddening influence around the dying year. Yet the sportsman never felt so buoyant and so happy, hearts never beat with higher expectations, and dogs never showed more sparkling eyes.</p>
+         
+         <p>Do you remember how close the birds lay that day we were down to Fred Schroeder's last November, and yet how hard they were to get? Do you remember when old Duke stood over a clump of dead grass with nose almost perpendicular, how often you had to kick in it with your rubbered foot before anything would move? And when out it burst, and Duke made a futile snap at its tail, and it curled back over your head and vanished in the shadows of the blackberry bushes before you could turn round, and curiosity and reproach were mingled in the deep dark eye the old pointer turned for a moment upon you! And when again you found Duke in death-like rigidity where the bedraggled toils of the clematis made a haze in the thicket of wild plum by the Elkhorn's side, and through the dense tangle of twigs and still clinging leaves two rosewood streaks shot before him, and you had to be quick to get your gun's muzzle clear from the brush-I never expected to see you get a feather. But when I saw that puff of brown as the bird wheeled through an opening, mingling with a shower of dead leaves and twigs. I knew how your heart swelled with pride; foolish feeling, perhaps, but the best of our race has yielded to its soft sway, and this dear little bird has brought more rest to the business wearied soul, more new life to tired humanity, than nearly all other American game combined.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. October 16, 1898. [Thrill of Hunting Quail in October.] <title>Omaha Sunday World-Herald</title> 34(16): 21.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00430">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Hunting at the Headwaters of the North Loup River].</title><title level="j">Whitman Sun</title><author>Hough, Wm. Henry Stein and Joe Turner.</author><date>1897-08-14</date><biblScope>1(18): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hunting at the Headwaters of the North Loup</head>
+         
+         <p>Being advised as to the whereabouts of a large covey of "stubble duck," we organized a party consisting of William Hough, Henry Stein and Joe Turner last Sunday and, filled with excitement caused by the anticipation of an afternoon of excellent sport, started for the head waters of the North Loup. Never a prettier day dawned in the hills, and as we drove through rich valleys, decorated on either side by flower-clad hills and filled with thousands of fat, sleek cattle, we were thrilled with a feeling such as made us oblivious for a long time of the threatening clouds which we banking behind us. Soon a flock of curlew were started and in the excitement afforded by the excellent shooting they gave us we did not realize how wet we were all getting in the gentle rain that had began falling until we were completely soaked. 'Twas too late now to think of shelter so we hunted the balance of the afternoon in a drenching rain and were fairly successful, though all the party concede that water in such abundance is not the exact thing for a hunting party. Fears were entertained that severe colds might result from the exposure but next morning all came up smiling, none the worse for wear.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 14, 1897. <title>Whitman Sun</title> 1(18): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

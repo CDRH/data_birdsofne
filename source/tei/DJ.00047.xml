@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00047">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Barn Owl Evidence.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-02-05</date><biblScope>57(16=19): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Barn Owl Evidence.</head>
+         
+         <p>In a certain sequestered clump of evergreens in Elmwood park a Barn Owl has been making his home of late. That is to say, he made his home there up to a day close to last Sunday, when his body was found dead beneath his favorite tree.</p>
+         
+         <p>This Barn Owl had been shot.</p>
+         
+         <p>Barn Owls are very pretty, especially when dead. If you have the opportunity of killing one, you will find that the broad wings and mottled breast have intrinsic grandeur past your fondest belief. There is a color scheme in a dead Barn Owl that will attract you.</p>
+         
+         <p>Of course a Barn Owl doesn't amount to much. He has a lot of slang names, one of which is "Monkey-Faced Owl." But even Abraham Lincoln was not pretty, unless our history has served us falsely.</p>
+         
+         <p>Beneath the favorite tree of this Barn Owl, claimed as his natural home, were found the carcasses of at least six big rats, to say nothing of regurgitated pellets of scores of other noxious rodents silenced forever by this still more silent patrol of the night-wood and fields.</p>
+         
+         <p>The Barn Owl has been on the job. Faithfully had he performed his duties as he saw them, and yet he was slain.</p>
+         
+         <p>Not much to cry about, you may say - but here was a bird that left his credentials behind - and his soul must be somewhere planned for Useful Feathered Friends of Mankind!</p>
+         
+         <p>Do you go out on Sundays to see what the birds are doing for you?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 5, 1922. <title>Omaha Sunday World-Herald</title> 57(16=19): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

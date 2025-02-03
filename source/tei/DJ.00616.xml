@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00616">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Notes From Nebraska.</title><title level="j">Osprey</title><author>Bonwell, J.R.</author><date>1896-12-01</date><biblScope>1(4): 53-54.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-06-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Notes From Nebraska.</head>
+         
+         <head><hi rend="smallcaps">J.R. Bonwell</hi>, Nebraska City, Nebraska.</head>
+         
+         <p>A look into a millinery establishment this fall will show that feather trimmings are becoming the style again, and likewise that our birds <hi rend="italic">will</hi> become scarcer, the question is "how can we prevent the destruction of native birds by State legislation?" Our only hope would seem to rest with Congress, as it will be a long time before the individual states can prevent this evil.</p>
+         
+         <p>It is intended that nearly every school in Southeastern Nebraska shall establish a "Bird Day" next season.</p>
+         
+         <p>A Phoebe was seen here on the 31st of October, rather late for this locality.</p>
+         
+         <p>A bill favoring a better protection to our song and game birds will come up before the Nebraska Legislature this winter, and every person interested in the preservation of our birds will be asked to use their influence to secure the passage of the bill, as it is expected that a great many sportsmen (?) will object to it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">December 1896. <title>Osprey</title> 1(4): 53-54.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

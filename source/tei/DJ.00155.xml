@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00155">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">"Cheap Papa" [Robin]!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-03-19</date><biblScope>57(22=25): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>"Cheap Papa!"</head>
+         
+         <p>After all the nice things we have said about the Robin; after all the yards of costly "copy" that we have written about him, and the lengths to which we have gone to extoll his virtues - why should he come into our back yard at sunrise with a deadly insult?</p>
+         
+         <p>"Cheap Papa!"</p>
+         
+         <p>"Cheap, cheap Papa!"</p>
+         
+         <p>"Cheap, cheap, cheap Papa!"</p>
+         
+         <p>The accent is on the "cheap," to make the allegation the more offensive, and we cannot understand how all this ill-feeling sprung up, unless it is because we forgot to clean and fill the birdbath before the arrival of the Redbreasts.</p>
+         
+         <p>This failure in service was not entirely our fault, Mister Robin. There are more of you around the house now than at the same time in any other year we would of - and if our bath system broke down for the nonce, please realize that it is now in splendid shape, and working fluently.</p>
+         
+         <p>Please, in future mornings, do not perch on the wire near our sleeping porch and yell at us - </p>
+         
+         <p>"Cheap! Cheap! Cheap Papa!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 19, 1922. "Cheap Papa" [Robin]! <title>Omaha Sunday World-Herald</title> 57(22=25): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

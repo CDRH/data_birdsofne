@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00204">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Crown of Gold [Golden-crowned Kinglet at Elmwood Park].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-01-20</date><biblScope>53(16): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Crown of Gold.</head>
+         
+         <p>Being the most bitterly cold of all winters in an Omaha generation, this season has been particularly hard on bird life. Those who have long made a habit of Sunday hikes through the woods and fields report that specimens have been few and far between during the present month. Even the hardiest of our feathered pals evidently find sub-zero weather coupled with high north winds, a little too rich for a steady diet. Possibly they drifted a few miles south, or maybe they only sought deep thickets for better protection. At any rate, they were not to be found in their usual haunts.</p>
+         
+         <p>When the white breasted Nuthatch and even the omnipresent Chickadee are not found in a whole day of woodland research, there is something wrong. Yet this has happened in the very heart of Omaha's birdland this month. The slate colored Juncos, born and raised in the Arctic circle, seem to have caught a Tartar in Nebraska, for but a few individuals of this classification have been noted during the early weeks of this month.</p>
+         
+         <p>This preamble is to a point, although we may have been somewhat deliberate in reaching it.</p>
+         
+         <p>Elmwood park is recognized as one of the most densely populated bird havens in this territory, and yet two weeks ago today a couple of experienced bird students saw but three different species within its confines - and, only one of each, as well.</p>
+         
+         <p>One Chickadee, one Downy Woodpecker and one Golden Crowned Kinglet!</p>
+         
+         <p>The bird with the golden crown - he is the hero of this observation.</p>
+         
+         <p>Tiny, delicate, nervous and yet confiding, this pretty little fellow is apparently much hardier than his bigger winter companions, and to see him fluttering about among the thin, bare branches of some nearby bush is to more fully appreciate the loveliness of nature in all seasons. He would not be out of place among the gorgeous warblers of the springtime, yet here he is in the middle of a bitter winter, gleaming his golden coronet in the pale sun, and "swee-swee-sweeing" away in the best of spirits. Coal shortages or human chilblains bother him not at all. He revels in the winter, and the poor, frigid mortals who are privileged to find him at home, glory in his beauty and in his spunk.</p>
+         
+         <p>No bigger than a house Wren, but of a richer drab in color, this Kinglet has a rich, golden crown-patch upon his head, which will identify him among a thousand birds. he is usually found about the thick cedars or dense underbrush of some ravine, and is more fearless than most birds, when it comes to humans.</p>
+         
+         <p>Bless his little heart! - he seems to make the zero weather more endurable, and to tide over the weary months between migrations, until his gaudy pals have come back from the southland.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 20, 1918. The Crown of Gold [Golden-crowned Kinglet at Elmwood Park]. <title>Omaha Sunday World-Herald</title>	53(16): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

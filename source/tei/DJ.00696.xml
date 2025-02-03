@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00696">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Professor Aughey on Insectivorous Birds.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1876-12-12</date><biblScope>19(149): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Professor Aughey on Insectivorous Birds.</head>
+         
+         <p>We call attention to the communication of Professor Aughey in another column. The Professor in a private note to the editor states that he fears the article may be the subject of unfavorable criticism from sportsmen, and perhaps from other citizens; but he hopes, and we confidently expect, that from feelings of patriotism and a desire to promote the general good of the state they will seriously consider the subject. We do not anticipate such a result from its publication.</p>
+         
+         <p>This article like everything we have seen from the pen of our Nebraska scientist, will command the respect of every one who reads it, for its good common sense. While Professor Riley of a neighboring state has been finding out where the Rocky Mountain locust comes from, counting his legs and eyes, and telling when and where <hi rend="italic">he</hi> (so to speak) laid his eggs, how many there are of them, when they hatched out, how old they had to be before they could fly, and a hundred other things that any homesteader could have told - Professor Aughey has been spending his time in devising some practical way to get rid of them, and of other noxious insects as well. In all the modes of destruction which one finds in Professor Riley's works there is nothing but what he has learned from the farmers, but Professor Aughey here points out something that the ordinary farmer could not as well know as a man of science.</p>
+         
+         <p>The <hi rend="italic">facts</hi> here given by Professor Aughey should lead to some <hi rend="italic">practical laws</hi> on the subject for our incoming legislature. The loss to Nebraska by various kinds of insects every year is enormous,-probably twice the amount of all taxes levied; and the professor here tells our legislators how the <hi rend="italic">larger part of this loss can be saved</hi>. It is to be hoped that they will consider the facts set forth, and provide the remedy, and we are sure that the great body of our people will heartily and vigorously co-operate with the legislature.</p>
+         
+         <cit>
+            
+            <bibl default="NO">December 12, 1876. <title>Omaha Daily Republican</title> 19(149): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

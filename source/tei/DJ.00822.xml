@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00822">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Sparrows Come.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-09-24</date><biblScope>57(49=52): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sparrows Come.</head>
+         
+         <p>With the official departure of summer and the advent of the fall season comes a most welcome visitation from the north - the flight of migratory sparrows to their winter fields in the southland. From the present time to the snow there will be many of these charming feathered creatures about the nearby woods and weed patches and underbrush to make the weekly hikes the more enjoyable to the lover of nature.</p>
+         
+         <p>While there are scores of different families of sparrows, there is but one brute among them - the European Sparrow - better known and perhaps wrongfully as the English Sparrow. Practically useless, and certainly a filthy nuisance, lacking even the redeeming feature of melody, this creature was planted in this country by some misguided zealot who thought he was doing us a favor. he wasn't.</p>
+         
+         <p>Forgetting this House Sparrow of evil reputation, there are many, many varieties of this classification, several of them with us even now, that comprise a most delightful acquaintanceship.</p>
+         
+         <p>Sweet little Vesper Sparrow is already here, with his white outer tail feathers and his dainty little evening song, heard mostly in the springtime. The burly but beautiful Harris Sparrow is arrived also, the male with his jet black hood and pinkish bill, while the thrush-like Fox Sparrow should be scratching around in the fallen leaves almost any moment.</p>
+         
+         <p>White Throated and White Crowned Sparrows come through about this time, along with such Song Sparrows as did not remain resident with us. Later, when th snow flies and the mercury drops, there will be the tough little Tree Sparrow with the pencil mark on his gray breast, to stay here until spring, blizzards and other weather tumults notwithstanding.</p>
+         
+         <p>All in all, while these are but a few of the specimens you may see on your trudge today, or within the next week or two, the fall season is made particularly pleasant to hikers because of the presence of these sparrows. All are useful birds, and many of them lovely songsters. Moreover, many of them are very difficult to identify, and thus add spice to the game of bird hunting with field glasses.</p>
+         
+         <p>Try it today. It will do you good in more ways than one.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 24, 1922. <title>Omaha Sunday World-Herald</title> 57(49=52): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00287">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Fauna of Nebraska.</title><title level="j">Forest and Stream</title><author>Phillips, C. H.</author><date>1876-06-08</date><biblScope>6(18): 284.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Fauna of Nebraska.</head>
+         
+         <list type="simple">
+            
+            <item>Gilmore, Sarpy county.</item>
+            
+            <item>Editor <title>Forest and Stream</title>: -</item>
+         
+         </list>
+         
+         <p>Undoubtedly Nebraska is one of the finest States in the Union for hunting purposes. A sportsman can have his choice as to what kind of game to hunt, from a Wilson snipe to a bison or a mountain lion. The Union Pacific Railroad runs through the heart of the hunting grounds, which makes it very convenient for parties who wish to enjoy a glorious hunt. Every accommodation may be obtained at reasonable rates. Parties from abroad wishing to take a hunt can obtain all of the necessary information on their arrival at Omaha. The following are the different kinds of game that may be hunted successfully in their season:-</p>
+         
+         <p>Geese.-The Canada goose, wild goose, Hutchin's goose; white-fronted goose, speckled brant; brant goose, gray brant; snow goose, white brant.</p>
+         
+         <p>Swans.-The trumpeter; American.</p>
+         
+         <p>Ducks.-The canvas-back duck; mallard duck, green head; red-headed duck, red-head; gadwall; buffle-headed duck; ruddy duck; dusky duck, black duck; widgeon, bald pate, wood duck, summer duck; pin-tail duck; scaup duck; green-winged teal; blue-winged teal; shoveler.</p>
+         
+         <p>Mergansers.-The Red-breasted merganser; hooded merganser.</p>
+         
+         <p>Quail.-The Common American quail.</p>
+         
+         <p>Grouse.-The pinnated grouse, prairie chicken. We also have a very few sharp-tailed grouse. These, also the rock ptarmigan, are found in large numbers at the base of the Rocky Mountains. But as long as the pinnated grouse continue to be as plentiful as they are now they will afford much better sport than their western relatives.</p>
+         
+         <p>Snipe.-Woodcock; Wilson snip, jack snip, English snipe. The two latter are very plentiful, and afford plentiful sport. Woodcock are to be found among the willows on the banks of the Missouri River. I will not recommend it as pleasant shooting. The willows are very thick, and it is almost impossible to force a passage through them.</p>
+         
+         <p>Plovers.-We have several varieties of this class, but principally the golden plover, frost bird.</p>
+         
+         <p>Curlews.-The Esquimaux curlew; sickle-bill curlew; Hudsonian curlew. The Esquimaux curlew, like the golden plover, visits us in large numbers, and afford splendid shooting.</p>
+         
+         <p>Sandpipers.-I will not give the names of the different kinds, but will simply say that we have an endless variety.</p>
+         
+         <p>Turkeys.-We have a few of these king birds, but it being winter shooting, the sportsmen hardly ever attempt to hunt them. Also the hare-we have three kinds-are not molested to any great extent. We have two kinds of rails, the sora and Virginia, and sometimes we bag a clapper, but not often.</p>
+         
+         <p>Quadrupeds.-The bison, buffalo; elk; black-tailed deer; common deer; and the antelope.</p>
+         
+         <p>Piscatorial.-Nebraska is not a very good place for fishing, but there is splendid trout fishing further west, on the line of the Union Pacific Railroad.</p>
+         
+         <p>C. H. Phillips, Agt. U. P. R. R.</p>
+         
+         <cit>
+            
+            <bibl default="NO">June 8, 1876. <title>Forest and Stream</title> 6(18): 284. Scientific names not included in transcription.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

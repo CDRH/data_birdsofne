@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00055">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Belated Matrimony [Goldfinch].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-07-08</date><biblScope>52(41): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Belated Matrimony.</head>
+         
+         <p>Nearly all of our summer birds have long since nested and are now putting their children through kindergarten, or first grade, according to their lights, while some of the baby Robins are already in the conceited precocious stage - trying to imitate their elders and showing off on every possible occasion.</p>
+         
+         <p>There is one tribe, however, that doesn't believe in June weddings, and their fancy doesn't turn to thoughts of love in the springtime, either. The Goldfinches are more deliberate in their affairs of the heart, and their nuptials are never celebrated until at least the middle of July, and sometimes as late as the latter weeks in August.</p>
+         
+         <p>Just now, if you choose to notice such things, you will find that the brilliant little canary yellow and black fellows are vehemently laying siege to the duskier yellow lassies of their feather and the skies are all a-twitter with the lovers' nonsense that they sing to each other, and the chatter of their lovers' spats, too, no doubt - in which respect it is easy to find many human instincts in them.</p>
+         
+         <p>The Goldfinches, bless them! - bounding through the air with all the ecstasy of clean and healthy emotion, are wooing, and next we know there will be dainty little, fluffy little, cozy little nests in the thistle bushes beside the road. In September, when the leaves are turning a bit, there will still be tiny broods of tinier birds from these nature-cottages, tumbling about in the tall grass and learning to be real Goldfinches.</p>
+         
+         <p>And in the winter, when the snows are deep and the winds are cold, these splendid creatures, in their drab overcoats, will still be with us to cheer us on until the coming spring.</p>
+         
+         <p>Good luck to the Goldfinches! May their tribe increase!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 8, 1917. Belated Matrimony [Goldfinch]. <title>Omaha Sunday World-Herald</title> 52(41): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

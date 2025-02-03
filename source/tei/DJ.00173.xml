@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00173">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Chippies in the Garden [Chipping Sparrows After Insects].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-08-26</date><biblScope>52(48): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Chippies in the Garden.</head>
+         
+         <p>There was a considerable commotion among the big, broad beet tops and under the sheltering, green canopies formed by the turnip leaves. Sharp chips and squeaks, so run together that they were insect-like in their chorus, told of his big doings in this diminutive world. The unwise amateur farmer dashed out to see if anything was bothering his fall crop.</p>
+         
+         <p>To his horror he discovered half a dozen tiny brown birds, hopping up off the ground and pecking viciously at the leaves of the plants. His loud cry of "scat!" and flapping of arms resulted in a miniature panic among the bird band, which hastily mobilized and departed, in queer, jerky little swoops of flight.</p>
+         
+         <p>Then the gardener made a careful inspection of his beloved beets and things, and was relieved to find that little, if any, damage had been done. Next day he spread the report that the sparrows were ruining his garden.</p>
+         
+         <p>As is the case with most people who do not understand their best natural friends, he was doing these fluffy little fellows a miserable injustice.</p>
+         
+         <p>The sparrows he referred to were Chipping Sparrows, the gentlest and sweetest and commonest of our useful birds of that misunderstood clan. The chippies nest in vines and small trees or bushes near our homes and exist almost entirely on insect life. The white line over their eyes and the brownish red crown on their little heads are distinctive. Their young are just getting the strength of near maturity and pa and ma are showing them how to hunt.</p>
+         
+         <p>When discovered by the horrified amateur gardener, they were doing "setting-up exercises" - jumping up to pick noxious bugs off the plants.</p>
+         
+         <p>Go out in your garden this morning or evening. You will be likely to find the Chippies there - but don't make the mistake this amateur did, for they are helping your war-farm a great deal.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 26, 1917. Chippies in the Garden [Chipping Sparrows After Insects]. <title>Omaha Sunday World-Herald</title> 52(48): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

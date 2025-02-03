@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00369">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Gorgeous Colors of September.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-09-30</date><biblScope>58(53): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Gorgeous Colors of September.</head>
+         
+         <p>All summer Mother Nature has been raising her children and the air, the rain and the sunshine have been her able nurse-maids. Now all the various families are putting on their bright colored robes for an autumn pageant. And such brilliant moving pictures are are unrolling up and down the roads and spreading all over the immense fields of the middlewest! Red and gold and green, Ak-Sar-Ben colors are celebrating the finishing of the year's work. Slowly, too, they are changing to the autumn browns and grays and almost black.</p>
+         
+         <p>September has not presented her usual bit of frost that brings early death, following it with a long season of pleasant sunshine, when only the very hardiest autumn flowers and vines can still delight with their color. This year September has given a long period when the early flowers still linger and give unusual variety, and are supplemented by the slow-changing of the leaves of oak to bronze, cottonwood to gold and gorgeous red of the sumach to make an even greater display than usual. Our eastern brothers have still more gorgeous red of the hard maple and the golden of other forest beauties, but they do not excel the beautiful shading of the western forests that fringe the streams.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 30, 1923. <title>Omaha Sunday World-Herald</title> 58(53): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

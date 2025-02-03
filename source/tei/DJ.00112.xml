@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00112">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">This Is Bird-Tide [Spring Migration].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-05-04</date><biblScope>54(30=31): 7-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>This Is Bird-Tide.</head>
+         
+         <p>Daddy Flynn can boost his blood-tide idea all he wants, but the amateur ornithologist will not pay much attention just now - for this is Bird-Tide!</p>
+         
+         <p>During the next ten days the woods and fields in the vicinity of Omaha will be the scene of the great spring migration. Many of the advance guard have already arrived, including several varieties of sparrows, the Myrtle Warbler, a few specimens of Thrush and some of the water and shore birds. the big flight, consisting largely of Warblers, is scheduled for this week.</p>
+         
+         <p>On next Saturday, May 10, the Nebraska Ornithological Union holds its annual field day in the neighborhood of Lincoln, while the Nebraska Audubon society conducts a similar expedition from Omaha. The latter has decided to split up into parties covering most of the territory around the metropolis, but, naturally, Child's Point, Fontenelle Reserve and Camp Gifford will be the most largely patronized.</p>
+         
+         <p>This day is picked because it is squarely in the middle of the Warbler migration. On previous occasions of the sort the Audubons have seen nearly 100 different varieties of birds at Child's Point in a single forenoon. The outlook, therefore is tempting.</p>
+         
+         <p>While there are scores of familiar birds to be expected during this week - it is the unexpected that attracts the true Audubon.</p>
+         
+         <p>For instance, there is the Prothonotary Warbler - beautiful little creature of orange-yellow and brown, with a blackish touch, that is always found in the marshland. There are not many of them to be seen, but at least one pair is always located near the site of Camp Gifford, the Boy Scout camp, each spring.</p>
+         
+         <p>The Louisiana Water-Thrush will also be passing through, and the Ovenbird will arrive to spend the summer in the Reserve, where its nest will never be found without the utmost skill and patience.</p>
+         
+         <p>To enumerate all of the possibilities in Birdland this week would be to run the gamut of the check-list, so we can simply urge that nature enthusiasts make preparations to take advantage of this migration, and, if possible, to assist the Nebraska Audubon society in its "Bird-Tide" hike next Saturday.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 4, 1919. This Is Bird-Tide [Spring Migration]. <title>Omaha Sunday World-Herald</title> 54(30=31): 7-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

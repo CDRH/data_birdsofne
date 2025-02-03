@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00290">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Feast of Game. The Grand Supper of the Omaha Sportsmen's Club at the Grand Central Last Evening. To Bring the Ladies Out, It is Supposed to Have Dancing Added to the Attractions of the Next Supper.</title><title level="j">Omaha Daily Republican</title><author>Omaha Sportsmen's Club.</author><date>1877-10-23</date><biblScope>20(104): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Feast of Game.</head>
+         
+         <head>The Grand Supper of the Omaha Sportsmen's Club at the Grand Central Last Evening.</head>
+         
+         <head>To Bring the Ladies Out, It is Supposed to Have Dancing Added to the Attractions of the Next Supper.</head>
+         
+         <p>The annual game supper of the Omaha Sportsmen's Club took place at the Grand Central hotel last evening. The doors of the dining hall were opened at about 8:45 o'clock, and in a few minutes every seat at the table was occupied. There was a goodly representation of ladies. The bill of fare was as follows:</p>
+         
+         <head>Menu.</head>
+         
+         <head>Soup.</head>
+         
+         <head>Non-Insectivorous Game.</head>
+         
+         <head>Roast Ducks With Jelly.</head>
+         
+         <p>Mallard. Widgeon. Green Wing Teal. Red Head. Wood. Blue Wing Teal. Pin-tail. Gadwall. Shoveller. Ruddy. Bald Plate.</p>
+         
+         <head>Entries.</head>
+         
+         <p>Pate of Small Game, a la Chasseuer. Salmi of Scorp. Compote of Teal Duck. Red-breasted Snipe Gilse, Sauce Chasseur.</p>
+         
+         <p>Yellow Shank Snipe, a la mode. Wilson Snipe on Toast. Sand-pipers on Toast. Roast Ring-necks P'que.</p>
+         
+         <head>Vegetables.</head>
+         
+         <p>Mashed Potatoes. Sweet Potatoes. Boiled Onions. Stewed Tomatoes. Hubbard Squash.</p>
+         
+         <head>Special Course.</head>
+         
+         <p>Kennedy's Woodcock, in all Styles. Hughes' Coons, Oppossum Style. Sutphen's Goose, Stuffed with Grasshopper.</p>
+         
+         <head>Pastry and Desert.</head>
+         
+         <p>Snow Pudding, with Vanilla Custard. Lady Cake. Sponge Cake. Victoria Biscuit. Marachino Jelly. Vanilla Ice Cream. Rum Jelly. Nuts. Raisins. Fruit.</p>
+         
+         <head>Coffee.</head>
+         
+         <p>Capt. Smith, of the losing side, presided.</p>
+         
+         <p>After the dishes were removed, calls were made upon various gentlemen, several of whom responded. It could scarcely be said that there was any speech-making. The remarks were chiefly personal recollections of the last hunt, and humorous hits at various gentlemen of the club. The "special course" received its share of attention, and called forth several explanations. Hon. G.W. Doane gave the ladies and gentlemen present a very pleasant talk. B.E.B. Kennedy, Esq., said he should advocate dancing at future club suppers, so as to bring the ladies out in greater force. Mr. John Wilbur made the hit of the evening, in his reference to the "glass ball supper" that the bank clerks had though of giving to the club in return for hospitalities extended. At 10:45 the club adjourned, having passed an unanimous vote of thanks to Mr. Thrall for the excellent supper he had spread before them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 23, 1877. <title>Omaha Daily Republican</title> 20(104): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

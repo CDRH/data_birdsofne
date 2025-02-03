@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00128">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Bright Outlook for the Prairie Chicken Crop].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-06-26</date><biblScope>33(269): 24. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <p>There is a bright outlook for the chicken crop this year in many sections of the state. In localities where the birds have been extremely scarce for two years past an unusual abundance is reported this summer. While I deem it highly improbable that the chicken will ever abound again in this region as they have in the past, a rigid enforcement of the law would insure at least tolerable sport for many years to come. In talking with Jim Den, the celebrated Arapahoe shot, and familiarly known as the Man-From-Wild-Horse-Canyon, he advanced a theory combating the idea that there is a chance for any considerable multiplying of chicken, which is to say the least reasonable. Mr. Dan says that the birds have no earthy chance, that the market hunters utterly preclude the possibility of multiplication. This nefarious craft are in the field as early as the last of the coming month. And in heating up the breeding grounds kill off the mother birds before the chicks are out of their pin feathers. On approaching a brood of chickens hiding in the long grass, the old hen is the first to flush. She gets up with a solicitous cluck, flutters over the tops of the grass in her reluctance to leave her helpless chicks, and affords an easy shot for the miscreant approaching. In this way a large proportion of the hen birds are killed off every season and the result is that none but males are left. Each season adds to this depletion, and it has become so that in a day's hunt in season now one will bag a half dozen cocks to one hen.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. June 26, 1898. [Bright Outlook for the Prairie Chicken Crop.] <title>Omaha Sunday World-Herald</title> 33(269): 24.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

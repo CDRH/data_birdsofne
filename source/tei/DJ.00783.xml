@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00783">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Shooting Paradise About Omaha - Woodcock in July].</title><title level="j">Omaha Sunday World-Herald</title><author>Sportsman, Old [pseud.].</author><date>1900-03-11</date><biblScope>35(161): 23. Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Shooting Paradise About Omaha - Chicken and Fowl - Woodcock in July </head>
+         
+         <p>Omaha, Neb., March 6.-To the Sporting Editor of the World-Herald: Your exceedingly interesting article of a week ago upon the subject of the shooter's paradise about waterloo and Valley in the good old days gone by, reminds me. Very few of the younger generation of sportsmen, now living in Omaha, can realize that twenty-five years ago the grounds where the poor farm now stands was plenty far enough to go to kill prairie chicken, and often in the fall they were killed while flying over what is now Georgia avenue and Leavenworth street, but such is neverthenouveauless the fact. Within the grounds recently occupied by the exposition, along the Bluffs tract and running north three to four miles, in fact clear to Florence, was a large slough extending in breadth almost to the river, now Cut-off lake, and here many jacksnipe, teal, mallard and woodcock were killed.</p>
+         
+         <p>Early in July the shooting of woodcock would open and during the sultry heat of the day they would extend themselves beneath the wild goose berry bushes on the damp earth and remain close, moving only when the hunter aroused him. Florence and Willow lakes were also a favorite resort for the woodcock, and many a large bag has been made by those old school sportsmen, John Petty, Judge Kennedy, John Collins, Henry Homan and others, not to mention the ones killed by the younger gunners such as Charley Johannes, Frank Parmalee, Will Simeral, Frank Hamilton and many others.</p>
+         
+         <p>One of these latter gentlemen told me that he had often seen Charles Johannes and Will Simeral starting out on Saturday morning accompanied by their dogs, Charlie's gun a single barrel muzzle loader, longer than himself, powder and shot in bottles and few newspapers for wadding. Will's gun was an old army carbine, which John Petty had bored out, and was of course very short. Their dogs were great. Charlie's "dash," a large, liver and white settler, and Will's "Pont," also liver and white, but a cross between a setter and spaniel. If they ever stood anything I don't believe they remember it, but be the dogs untrained and the guns of ancient pattern, those boys used to make some great bags of game.</p>
+         
+         <p>Another favorite grounds in those days was down where South Omaha is now located. There was to be found in season chicken, squirrels and rabbits galore, with an occasional wild turkey. Those were really halcyon days, and the sportsmen of the day little realize the field pleasures that here abounded a quarter of a century ago-Old Sportsman.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Old Sportsman [pseud.]. March 11, 1900. [Shooting Paradise About Omaha - Woodcock in July.] <title>Omaha Sunday World-Herald</title> 35(161): 23. Forest, Field and Stream column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

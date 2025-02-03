@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01019">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Omaha Sportsmen's Club.</title><title level="j">Omaha Daily Herald</title><author>Editor</author><date>1877-11-24</date><biblScope>8(301): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-25"/>
+    <respStmt>
+	<name>Anastasia Smallcomb</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Omaha Sportsmen's Club.</head>
+
+<head>Game Supper Last Night to the Members of the Club and Their Guests.</head>
+
+<p>The member's of the Omaha Sportsmen's Club and other invited guests sat down to a splendid game supper last night at Wirth's. The table was sumptuously arrayed with decorative skill, and the elaborate bill of fare when put to the test was found to be genuine. The company was large, and for the most part ate as hunters should. The meals were mostly game prepared in a great variety of ways. The following is only one divisions of the bill of fare, and comprise but a small portion of it, viz roasts:</p>
+
+<p>Wild Turkey ala Chipolata, Canada Goose ala Dauphiaise, White front Goose ala Eatauffade, Hutchins ala Aberdeen, Snow Goose ala Normande, Dusky Duck ala Provencale, Pentast ala Regence, Gadwal ala Payssane, Teal ala Financlere, and Entrees, Pate chaud of Rabbit ala Perigneux, Carresole of Rice garnished with Puree of Game ala Bellevue, Pate Chawd of Woodcock ala Chasseur, Saline of Grouse ala Chuclenna, Blanvuets of Snipe ala Richelleu, Roodins of Red of Red Breast ala Deluynes, Fillets of Quail ala Deluynes, Salines of Widgeon ala Bigarrade Uxeller, Scallops of Balpate ala Ecalarte, Prairie Chicken ala Marergo, Timboles of Macaroni ala Poiyeade, Quail au Gratin ala Finanoure, Kromeskys of Virginia Rail ala Russe, Tourte of Squirrels ala Milanaise.</p>
+
+<p>The supper ended, Hon. B.E.B. Kennedy, the President of the Club, called the company to order, and proceeded to recall to the memory of those present the objects of the organization and to congratulate the members upon the success which had been attained in realizing them. He said a principal end sought had been the proper preservation of game by protecting it at the proper season when the mother is rearing its young. Every person familiar with the situation knows that game is far more plenty now than it was before this society was organized in all the hunting districts which lie within its reach. The reason is in the game laws and in the knowledge, which is now general throughout the State, that this club means to see to it that they are enforced.</p>
+
+<p>Mr. Kennedy said that a pleasant feature of these reunions has always been that the members of the club have gathered round the social board and related the experiences of the hunt. With a view to perpetuate this pleasant custom he called in turn upon Dr. Pinney, Judge Lake, Dr. McClelland, Mr. Hathaway, Mayor Brewer, Dr. Coffman, Mr. D.C. Sutphen, Mr. Loveland, Mr. Newman, and Mr. McAusland. These gentlemen all responded less or greater length and elucidated the late hunt pretty thoroughly, and with great gusto. The company separated in good order and with the most agreeable impressions of the worthy club and its latest entertainment.</p>
+
+<cit>
+            
+            <bibl default="NO">October 5, 1873. <title>Omaha Daily Herald</title> 8(301): 4.</bibl>
+         
+         </cit>
+
+</body>
+</text>
+</TEI.2>

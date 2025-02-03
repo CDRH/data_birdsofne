@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00191">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Comrade Crow [in Dundee].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-03-25</date><biblScope>58(26): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Comrade Crow.</head>
+         
+         <p>During one of the dismalest of all those icy days just past, when there was a real blizzard zipping out of the north, and even the brave Robin seemed to have retired to the thickets for a spell, leaving the field open to the roughneck house-sparrows - there arrived in the backyard of a certain Omaha citizen a Big Black Crow.</p>
+         
+         <p>Now these Crows are not rare birds out in the open, but when you find one in your backyard in the closely built-up residential section of inner Dundee - during a blizzard - you are likely to make mental note of it.</p>
+         
+         <p>Still further, if that Big Black Crow came crashing into your said backyard during the said blizzard, like an airplane out of gas, and bore in his large and useful bill about half a loaf of bread - you would, perhaps, take yet more interest.</p>
+         
+         <p>This isn't really an editorial, but the recounting of a narrative with a possible moral. It happened - all of it - during Omaha's recent storm.</p>
+         
+         <p>Comrade Crow blew into the backyard with his knapsack about his shoulders, figuratively speaking. If you remember, it was General Phil Sheridan who promised Grant that he would skin the Valley of Virginia so that a Crow would have to carry a knapsack with him in flying down it. Sheridan kept his promise and thus, in all probability, was the chief secondary factor in the winning of the civil war. The Crow that lit in the Dundee backyard must have been a veteran of that campaign, for he had his knapsack along, and sat down, unperturbed, in the blizzard, to stuff himself. Which he did, in placid fashion, and then, after stretching and yawning a couple of times, took the air and was literally blasted southward - to the God-of-All-Crows knows where!</p>
+         
+         <p>We liked that Crow, possibly for his crust. We liked him so much that we are sorry to say that in many states there is a bounty on his head. Whether or not a Crow is a useful bird, no two communities seem to be able to agree - but all will admit that he is funny and robust and looks good in a blizzard!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 25, 1923. Comrade Crow [in Dundee]. <title>Omaha Sunday World-Herald</title> 58(26): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

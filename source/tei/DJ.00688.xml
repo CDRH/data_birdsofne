@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00688">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Prairie Chicken Prospects.</title><title level="j">Forest and Stream</title><author>D. B. F.</author><date>1882-07-27</date><biblScope>18(26): 506.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+      <revisionDesc>
+      <change>
+        <date value="2005-08-01"/>
+          <respStmt>
+      	<name>Katharine Potter</name>
+          </respStmt>
+          <item>Proofread from Source</item>
+      </change>
+      </revisionDesc>
+      
+      
+      
+      
+      
+         
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Prairie Chicken Prospects.</head>
+         
+         <p>In your last issue you ask your Western readers to report the prairie chicken prospects. They never were better in this part of the West, viz., in the South Platte country, Nebraska. It was generally remarked by all our local sportsmen that there were more old chickens last spring than they had seen in many years. The season has been favorable, and the young ones seem to be coming on first rate. The game laws have been well observed in this vicinity.</p>
+         
+         <p>Fairmont, Nebraska.   D. B. F.</p>
+         
+         <cit>
+            
+            <bibl default="NO">July 27, 1882. <title>Forest and Stream</title> 18(26): 506.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

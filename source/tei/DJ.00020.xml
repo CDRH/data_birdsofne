@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00020">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Annual Hunt. Captain Homan's Party Victorious - The Count of Yesterday - Incidents of the Hunt.</title><title level="j">Omaha Weekly Herald</title><author>Editor.</author><date>1871-11-08</date><biblScope>7(5): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Annual Hunt.</head>
+         
+         <head>Captain Homan's Party Victorious-The Count of Yesterday-Incidents of the Hunt.</head>
+         
+         <p>Yesterday, at 3 <hi rend="small">P.M.</hi>, the members of the Omaha Sportsman's Club gathered at McAusland's gun store to count their game. The first glance at the scene showed that the hunt had been successful. There were geese, ducks of various kinds, and other sorts of game scattered about the floor of the basement room or ranged in groups on the long tables. Indeed, the appearances would indicate that whichever aside might prove victorious in the contest, both wings of the club had proved themselves capital sportsmen.</p>
+         
+         <p>The club had been divided, as was previously announced in this paper, into two companies, commanded respectively by Captains George T. Mills and H.A. Homan. They were to hunt where they liked, in any locations which might suit them, during Wednesday, and only game killed on that day was to count.</p>
+         
+         <p>It will be seen that from pressing business engagements, a good many members of the club did not go to the hunt at all. It is one of the rules of the club, that when any one does not go, the game killed by his immediate opponent in the other wing of the club shall not be counted. The following is the actual count of game brought in by the party of Captain Henry A. Homan, who, it will be seen, were victors:</p>
+         
+         <table width="250">
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Captain Henry A. Homan ...</cell>
+               
+               <cell role="data" cols="1" rows="1">113</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">B.E.B. Kennedy (President) ...</cell>
+               
+               <cell role="data" cols="1" rows="1">76</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">H.B. Sackett ...</cell>
+               
+               <cell role="data" cols="1" rows="1">71</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">R.N. Withnell ...</cell>
+               
+               <cell role="data" cols="1" rows="1">60</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Dr. J.H. Peabody ...</cell>
+               
+               <cell role="data" cols="1" rows="1">30</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">E.B. Chandler ...</cell>
+               
+               <cell role="data" cols="1" rows="1">46</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Albert H. Loveland ...</cell>
+               
+               <cell role="data" cols="1" rows="1">45</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">H.H. Cook ...</cell>
+               
+               <cell role="data" cols="1" rows="1">4</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">John Withnell ...</cell>
+               
+               <cell role="data" cols="1" rows="1">69</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">E.F. Tenery ...</cell>
+               
+               <cell role="data" cols="1" rows="1">17</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">J.B.H. Gardiner ...</cell>
+               
+               <cell role="data" cols="1" rows="1">15</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Total ...</cell>
+               
+               <cell role="data" cols="1" rows="1">556</cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>The following is the count of Captain Geo. T. Mills' party:</p>
+         
+         <table width="250">
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Captain G.T. Mills ...</cell>
+               
+               <cell role="data" cols="1" rows="1">71</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Byron Reed ...</cell>
+               
+               <cell role="data" cols="1" rows="1">67</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">John W. Petty ...</cell>
+               
+               <cell role="data" cols="1" rows="1">69</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">William Preston ...</cell>
+               
+               <cell role="data" cols="1" rows="1">72</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">J.L.C. Jewett ...</cell>
+               
+               <cell role="data" cols="1" rows="1">52</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Dr. C.H. Pinney ...</cell>
+               
+               <cell role="data" cols="1" rows="1">70</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">P.M. Kean ...</cell>
+               
+               <cell role="data" cols="1" rows="1">45</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Dr. W.H. McClelland ...</cell>
+               
+               <cell role="data" cols="1" rows="1">10</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">R.H. Willis ...</cell>
+               
+               <cell role="data" cols="1" rows="1">9</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Total ...</cell>
+               
+               <cell role="data" cols="1" rows="1">461</cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>By applying the rule above mentioned-that of excluding the game of any man whose opponent does not hunt-the count is changed so as to read as follows: Captain Homan's party, 423; Captain Mills' party, 332.</p>
+         
+         <p>It will be seen that Captain Homan and his party are still victors, and, by the rules of the contest, they are to be treated this (Friday) night to a game supper, at the expense of the vanquished.</p>
+         
+         <p>We interviewed the whole party as to the incidents of the hunt, and, we confess, with not very satisfactory results. They were willing, each and all, to tell where they had been, and the number of game killed, and that was about all. Of the moving accidents by flood and field; of the arts employed to trap the wary game, and the thousand little way-marks of the chase, we are left in nearly absolute darkness. Probably this is due to the fact that men of action are, Ceasar and Napoleon excepted, seldom chroniclers of events.</p>
+         
+         <p>Dr. Gardner and Mr. P.H. Kean hunted in the Platte valley-the lower Platte-between the Elkhorn and the village of La Platte. They went out on Tuesday evening, and struck in early Wednesday morning at Smith's Lake, and hunted down to the "cut-off." They found but little game, and the weather so hot that when the birds raised they would immediately fly off to another lake.</p>
+         
+         <p>Messrs. J.J.L.C. Jewett and Horace C. Newman hunted on Dyer's Lake, and on the Elkhorn. The count of 52 (which was for geese) ought to be divided between these two. In the count it is given to Jewett, but they hunted together, and don't know which shot the most.</p>
+         
+         <p>Capt. Homan, who brought in the surprising string of 113 geese, hunted alone on the Santee lakes, which are near his farm, on the lower Platte. Withnell Brothers were below him, three miles. They found the game plentiful but wild and high.</p>
+         
+         <p>Messrs. B.E.B. Kennedy, H.B. Sackett and Dr. Peabody hunted at Bartlett, about thirty miles south of this city, on the St. Joe road. They say they found game scarce, but the count shows that they made a splendid success.</p>
+         
+         <p>Messrs. E.B. Chandler and Albert Loveland hunted in Missouri Valley, near Loveland's Mills. There game was plentiful, but they had no dog, and lost a good many ducks in consequence.</p>
+         
+         <p>Dr. McClellan and Dr. Pinney went north of Council Bluffs to Skeleton Lake. They found game plenty and succeeded well. Byron Reed went to Blackman's Lake, three miles further north, and brought in the handsome count of 67. Mr. Sutphen went to Childs' Mills, and Mr. Willis to Elkhorn.</p>
+         
+         <p>It was much regretted that so many members of both companies found it inconvenient to attend this hunt. Judge Lake was detained by pressing legal engagements; Mr. Geo. T. Hoagland by business which he could not postpone, and Dr. Fichers broke his gun by stepping on it in a boat when he was starting, and at once went home.</p>
+         
+         <p>We are indebted to B.E.B. Kennedy, Esq., President of the Club, for substantial evidence of his skill and success.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 8, 1871. <title>Omaha Weekly Herald</title> 7(5): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

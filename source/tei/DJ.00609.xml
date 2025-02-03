@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00609">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Note on Prairie Chicken and Game Prospects].</title><title level="j">Forest and Stream</title><author>Polk, Burr H.</author><date>1882-08-10</date><biblScope>19(2): 27.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+      <revisionDesc>
+      <change>
+        <date value="2005-08-08"/>
+          <respStmt>
+      	<name>Katharine Potter</name>
+          </respStmt>
+          <item>Proofread from Source</item>
+      </change>
+      </revisionDesc>
+      
+      
+      
+            
+      
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>There is no doubt that prairie chickens are unusually abundant in Nebraska this year. Everything is abundant and the crops marvelous. Ponds are full of water and we anticipate excellent fall goose and duck shooting. Quail are heard on every hand.</p>
+         
+         <p>Burr H. Polk. 
+<lb/>Lincoln, Neb., July 31.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 10, 1882. [Note on Prairie Chicken and Game Prospects.] <title>Forest and Stream</title> 19(2): 27.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

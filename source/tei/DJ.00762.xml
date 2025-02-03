@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00762">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Boy Scouts and Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-06-23</date><biblScope>53(38): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Boy Scouts and Birds.</head>
+         
+         <p>If there is any sure way of protecting bird life in the generations to come, it is by educating the children in the usefulness of our feathered friends.</p>
+         
+         <p>Laws do much to rectify evil by punishing the evil-doers, but when everyone comes to realize that human welfare is dependent to an astonishing degree on the services rendered by the birds, there will be little need for laws protecting them.</p>
+         
+         <p>No same person is likely to shoot the man who comes to carry away the reeking garbage on a hot summer day, nor to assault the municipal servant who removes a piece of carrion from the street, nor to object to a tree surgeon saving a stately maple in the front yard, when it is beset by bores or leaf-lice.</p>
+         
+         <p>If a couple of dozen busy people were to volunteer to work in your garden, knocking off potato bugs and killing the sundry and diverse worms and bugs that were ruining your cabbages and other crops - would you run into the house, grab a shotgun, and proceed to blow their heads off?</p>
+         
+         <p>It is education of this sort that must be and is being given young Americans, to the wondrous benefit of posterity, and by means of that truly glorious institution, the Boy Scouts!</p>
+         
+         <p>These lads are constantly going through a course of training in the study of birds, and means for their propagation and protection. It is part of the lads' lesson; part of the work they must do to win their "commissions."</p>
+         
+         <p>Boys Scouts are increasing in numbers every day, and the hour is approaching when nearly every boy will wear the honored uniform of that body. The birds need not fear a Scout, and will soon learn it. When these Scouts are men and their own sons are growing up, the birds will not fear these lads, either - nor the grandchildren - nor the great-grandchildren.</p>
+         
+         <p>So the noble work of Audubon is being fostered and pushed by our Boy Scouts, and the time is not far off when a person who harms a useful bird will be shunned as is a disloyalist today - for to injure so willing and loveable and necessary an agent of prosperity is disloyalty indeed.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 23, 1918. <title>Omaha Sunday World-Herald</title> 53(38): 4-E. A bird editorial. Several spelling errors corrected.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

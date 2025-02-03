@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00343">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game Out of Season. "Owls" and "Upland Plover" Served to Omaha Gourmets.</title><title level="j">Omaha Daily World-Herald</title><author>Editor.</author><date>1890-08-14</date><biblScope>25(305): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-10"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game Out of Season.</head>
+         
+         <head>"Owls" and "Upland Plover" Served to Omaha Gourmets.</head>
+         
+         <p>Customers at a stylish Farnam street restaurant are paying $1 for a whole bird or 50 cents for a half which is known on the bill of fare as an "owl." Clubmen are inquiring of the stewards when "upland plover" will be on the table.</p>
+         
+         <p>Both of these are aliases for prairie chickens shot out of season. A sportsman says: "It has come to this that farmers and persons who are on friendly terms with them go out and shoot the prairie chicken long before the legal season opens. Some began to hunt in July and by the first of next month there will hardly be a whole brood in the state. 'Owls,' of course are a joke. Upland plover are never found in broods of more than two or three, and a man who gets a half dozen in a day's shooting does well. There is one commission house in Omaha which gets prairie chickens by the barrel labeled poultry, and there is many an ice chest filled with them, sometimes mutilated so that a game law constable could not swear that they were prairie chickens. And it makes an honest sportsman tired."</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 14, 1890. <title>Omaha Daily World-Herald</title> 25(305): 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

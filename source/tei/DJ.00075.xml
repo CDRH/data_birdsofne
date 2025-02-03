@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00075">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Birds of the Air.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-08-14</date><biblScope>56(46): 6-E. A bird editorial and a nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Birds of the Air.</head>
+         
+         <p>Study of birdlife is so interesting that it is difficult for the amateur to keep eyes aloft and groundward at the same time. Thus, while studying the more numerous and more colorful feathered gentry closer to terra firma, those that indulge themselves in the healthful pastime of ornithology are fairly likely to forget the birds that wheel the skies, both by day and by night.</p>
+         
+         <p>There is no class more engrossing than this. The Swallows and the Swifts and the Nighthawks, to say nothing of the varied kinds and sorts of other altitudinous creatures of winged accomplishment, make up a distinctive study - certain to make a hike through the open meadows on a bright summer day more glorious than ever.</p>
+         
+         <p>Here in Eastern Nebraska we have the Barn Swallow, with his sharply forked combination of wing and tail, and his reddish breast; the Bank Swallow of the grayish underparts and brownish collar, and the Tree Swallow of the metallic blue-green back and silvery-gray breast. The former gains its name by nesting under the eaves of barns or sheds with clay-molded structures that would baffle a human architect. The Bank Swallow makes his home in holes in the banks of gullies and creek sides, as is suggested by his monicker, while the Tree Swallow nests in holes in trees. Simple -- isn't it?</p>
+         
+         <p>The Chimney Swifts nest in chimneys, as might be presumed from the name, but their habits in the winter, being a complete mystery to scientists, are thus doubly interesting to the layman. These birds, that rapidly flutter through the skies, particularly ahead of a storm, leave the north on a southern migration in the fall, cross the Mexican border, and are never seen again until the following spring, when they once more flit northward. it is said that they may hibernate in the craters of extinct volcanoes, or in uncharted caverns - but, certainly, they completely disappear in winter.</p>
+         
+         <p>As for the Night Hawks, their queer squawk may be heard any evening over the heart of the city, as they sail about, consuming noxious flies and mosquitoes and other insects, that are steered into their maws by clusters of whiskers about their capacious faces. They nest on the gravelled roofs of buildings, or on gravelly or stony spots in fields, laying their eggs practically in the open, and relying on nature's camouflage to protect them and their offspring.</p>
+         
+         <p>The birds that wheel about up yonder all are working for humanity by keeping down the insect pests, with the exception of a few of the larger hawks that prey on mice and gophers and moles, thus doing a great good for the farmers. Some of the Hawks - the Cooper's Hawk, Goshawk and Sharp-shinned Hawk - are really harmful, killing useful birds and preying on poultry in the farmyard.</p>
+         
+         <p>Study of the birds of the air should be a study in itself. The wanderer of the woods and fields should inform himself thereupon, and take a good look during his next hike.</p>
+         
+         <head>The Humble Bullsnake.</head>
+         
+         <p>Ornithologists are continually singing the praises of the feathered friends of man. They rhapsodize upon the beautiful music of the birds, their attractive plumage, their interesting habits and especially upon their service to humanity in the destruction of insects. We have laws to protect the song birds and game wardens to enforce them. Audubon societies and bird clubs are in existence everywhere, their chief purpose being to promote measures for the preservation of bird life. A good job they are doing, too, because if it weren't for the birds all life would probably be reduced to the insectivora in a little while.</p>
+         
+         <p>But there is another humble friend of man who has no societies nor clubs dedicated to his protection, no cheerful song to endear him to his human associates, no attractive personality to make him friends. He is the ugly and repulsive bullsnake, who wars on the natural enemies of man and is therefore in his way quite as valuable as the birds.</p>
+         
+         <p>The bullsnake really needs protection more than do the birds. Because man feels naturally friendly to the birds they probably would not suffer too severely even if there were no laws and no organizations devoted to their protection. But the bullsnake belongs to a family that has been instinctively feared and hated by man ever since a memorable happening in the garden of Eden. A body's first impulse is to heave a rock at him or club him over the head. Yet he is one of the most inoffensive of creatures and death on rodents. Some people affect tomcats as protection against rats and mice, but a tomcat is just an amateur beside a good, peppy bullsnake.</p>
+         
+         <p>A good many farmers have learned his worth and let him live. Public recognition is now given him by the Kansas agricultural college. Statisticians there have figured his actual dollars and cents value to the human race and have issued a bulletin on him. They say he can clean out the gophers from an acre of alfalfa in a month and will take care of six acres during a season. Since the average gopher damage to an alfalfa field is reckoned at $2.50 an acre the value of the bullsnake, that is a full grown one with a healthy appetite, is fixed at $2.50 a month.</p>
+         
+         <p>During off days, when the gopher supply runs short, he takes a run down to the barn and cleans up on rats and mice. And for all this, the bulletin points out, all he asks is just the right to live. he really seems to have earned it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 14, 1921. <title>Omaha Sunday World-Herald</title> 56(46): 6-E. A bird editorial and a nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

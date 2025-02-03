@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00133">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Brown Thrasher [and Thrush Arrival].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-04-30</date><biblScope>51(31): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Brown Thrasher.</head>
+         
+         <p>Hidden deep in the underbrush he scratches and scuttles about in his mysterious search for food, but at the next instant he is to be found on the very highest tip of some giant tree, gloriously shouting his wondrous song, in which is reflected the voice of nearly every other bird that is common in his neighborhood.</p>
+         
+         <p>It is the Brown Thrasher, perhaps the best known of the thrush family in these parts and a mimic of no mean ability. Although the southern Mocking Bird has occasionally been seen near Omaha, reports of this sort have generally followed a particularly complete program rendered in the dusk by some enraptured Thrasher.</p>
+         
+         <p>There seems to be no limit to the repertoire of this splendid bird, who happily finds a home more than occasionally in the lilac bushes and shrubbery far within the city limits. The parks are sanctified with his song and the whole community is better for his presence. Nearly everybody knows and loves this gracious songster and his arrival a week or so ago was the occasion of much rejoicing, especially with the children, who know him especially well.</p>
+         
+         <p>The Brown Thrasher, in his hunt for grubs and insects among the underbrush can be heard thrashing about for some distance, and yet it is often very hard to flush him—to catch a glimpse of his rich, auburn back, his mottled breast and his long, graceful tail. Yet, strange to say, when the nest is once built in some bush, not far from the ground, the father or mother will stay thereupon until one can almost touch their feathers. This pathetic faith in humankind, thanks to a new era, is seldom misplaced by the Brown Thrasher these days.</p>
+         
+         <p>The Wood Thrush and the Wilson Thrush should arrive presently, if they are not already in the park tangles, but the Thrasher awaits you when you commune with nature today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 30, 1916. Brown Thrasher [and Thrush Arrival]. <title>Omaha Sunday World-Herald</title> 51(31): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

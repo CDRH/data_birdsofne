@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00299">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Feathered Snipers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-01-05</date><biblScope>54(14): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Feathered Snipers.</head>
+         
+         <p>When the woods and fields are clogged and blanketed with snow, and thus the precious weed seeds are covered and the bark crevices filled with ice, concealing the toothsome larvae and insect eggs so necessary to winter bird life, the feathered folks of winter are mighty busy.</p>
+         
+         <p>It is then that the faithful ornithologist, who has been maintaining suet "stations" through such woods and along the ravines, reaps his harvest of gratitude to the fullest degree.</p>
+         
+         <p>The birds pay little attention to such artificial food while Dame Nature is on the job, but when she fails - they know where to go!</p>
+         
+         <p>The Chickadees, Nuthatches, Brown Creepers, Tufted Titmice, Woodpeckers, Tree Sparrows, Cardinals, Juncos - all of them, and others unmentioned, locate these beef-suet restaurants and certainly make the most of this knowledge.</p>
+         
+         <p>Those who know how to peck the suet out of the holders do so, while the seed-eaters wait below for the crumbs that fall upon the snow.</p>
+         
+         <p>But this is not the most attractive part of feeding the birds.</p>
+         
+         <p>After you have maintained these suet stations for awhile, the birds know you when you come - and will follow you through the woods - sniping crumbs of the precious beef-fat!</p>
+         
+         <p>This is no nature-fake! The Chickadees are especially apt in making the acquaintance of their friends, and chipper about alongside the suet caravan like energetic newsies trying to sell their last paper.</p>
+         
+         <p>One who has tasted the joys of this service will never be weaned away from it. Just like Christmas - the joy of giving is the best.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 5, 1919. <title>Omaha Sunday World-Herald</title> 54(14): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00085">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Birds Bagged. The Annual Hunt of the Omaha Sportsmen's Club. A Vigorous Blazing Away That Brought Down the Game.</title><title level="j">Omaha Weekly Herald</title><author>Omaha Sportsmen's Club.</author><date>1880-04-02</date><biblScope>15(27): 7. On March 27th in Omaha Daily Herald.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-08-08"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Birds Bagged.</head>
+         
+         <head>The Annual Hunt of the Omaha Sportsmen's Club.</head>
+         
+         <head>A Vigorous Blazing Away That Brought Down the Game.</head>
+         
+         <p>The members of the Omaha Sportsmen's Club, who were chosen to maintain its prestige in the annual club hunt, having polished up their guns so carefully, sallied out in all directions prior to Thursday, to bag all the birds possible that day for the grand count. This latter affair came off at 4 o'clock yesterday at Collins &amp; Petty's, the sportsmen flocking in from every direction, with any outfit from a game bag to a four-horse wagon. The outcome of the hunt was a highly respectable bringing down of birds. Several of the men chosen on the respective sides were unable to take the field, and therefore the sides were not balanced. The number of pieces of game, with the number of points they counted, are given below:</p>
+         
+         <p>Captain Henry Homan.— Fifteen red head, 30 points; three pintails, 6; three ballpates [baldpate], 6; two gadwalls, 4; two mallards, 6; seven greenwing teal, 7; one scop [scaup], 1; three snow geese, 24; three white front geese, 24; two Canadian geese, 24. Total-132 points.</p>
+         
+         <p>John Petty— Two Canadina geese, 24 points; one Hutchison goose; 8; six whitefront geese, 48; one snow goose, 8; three canvas back ducks, 15; three mallards, 9; eighteen redheads, 36; six ballpates, 12; nineteen gadwall teal, 19; four pintails, 8; two gadwalls, 4; two B.B. Mergansers, 10; one scop, 1; one yellow snipe, 1. Total-203 points.</p>
+         
+         <p>General Crook.— One Canada goose, 12 points; five whitefront geese, 40; thirteen redheads, 26; four gadwalls, 8; four ballpates, 8; three green wing teal, 3; two scop, 2; one pin tail, 2. Total, 101 points.</p>
+         
+         <p>Withnell Bros.— One Hutchison goose, 8; one Buffalo B Merganser, 5; four gadwalls, 8; three ballpattes, 6; five redheads, 10; three green wing teal, 3; one scop, 1. Total, 41 points.</p>
+         
+         <p>William Krug— three mallards, 9; three green wing teal, 3; one pin tail, 2; one ballpate, 2; one gadwall, 2; one buffalo-head [?bufflehead], 1; six redheads, 12; six white front geese, 48; two snow geese, 16. Total, 95 points.</p>
+         
+         <p>Z. Taylor— One red head, 2 points; one canvas back, 5; one ball pate, 2; one blue wing teal-1. Total 10 points.</p>
+         
+         <p>Dr. Peabody— Twenty-eight red-heads, 56 points; one canvas back, 5; one scop, 1; one ball pate, 2; one gadwall, 2 - Total 66 points.</p>
+         
+         <p>Capt. S.B. Hathaway— Two canvas back ducks, 10 points; two ball pate ducks, 4; two gadwall ducks, 4; one shovel duck, 1; two greenwing teal ducks, 2; one buffalo head, 2; two scops, 4; eleven red heads, 22; one yellow shank, 1.-Total, 50 points.</p>
+         
+         <p>Wm. Preston— Three red heads, 6; three gadwalls, 6 points; one pintail, 2; one golden eye, 2; five scop, 5; four buffalo heads, 4; one greenwing teal, 1; one killdeer plover, 1.-Total, 27 points.</p>
+         
+         <p>N.B. Sacket— Four red heads, 8; one buffalo merganser, 5; one pin tail, 2; one spoon bill, 1; one ball pate, 2; one gadwall, 2; one scop, 1; one sand piper teal 1.-Total, 22 points.</p>
+         
+         <p>L.T. Spriggs— Ten red heads, 20; four Gadwalls, 8; five ball pates, 10; three canvas back, 15; two scops, 2; one shell drake merganser, 5; one pin tail, 2; one mallard, 3; one Buffalo head, 1.-Total, 66 points.</p>
+         
+         <p>Fred Blake— One hawk, 5; four shovel ducks, 8; four ball pates, 8; one gadwall, 2; three red heads, 6; one wood, 2; one scop, 1; one green wing teal, 1; one Buffalo head, 1.-Total, 34 points.</p>
+         
+         <p>Peter Windheim— Two canvas backs, 10 points; five gadwalls, 10; two red heads, 4; two ball pates, 5; one pin tail, 2; one wood duck 2; one shoveler, 1 - total 33 points.</p>
+         
+         <p>Goodley Brusher— One scop duck, 1 point; one gadwall, 2; one hawk, 5-total 8 points.</p>
+         
+         <p>M.W. Kennedy— Four gadwalls, 8 points; one ball pate, 2; one scop, 2; one jack snipe, 2; one killdeer, 1 - total 15 points.</p>
+         
+         <p>B.E.B. Kennedy— Five redheads, 10; one canvasback, 5; two gadwalls, 4; five green wing teal, 5; one baldpate, 2; one scop, 1; one buffalo-head, 1; two jack snipe, 4; Total 32 points.</p>
+         
+         <p>W.H.S. Hughes— One killdeer, 1.</p>
+         
+         <p>Dick Berlin— One killdeer, 1.</p>
+         
+         <p>George Mills— One ballpate, 1.</p>
+         
+         <p>Mr. Mills, who is the vice-president of the Sportsman's Club, struggled hard for another ballpate or killdeer, but the "walking was bad," and he gave up the fight and came home early with his game.</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 2, 1880. Omaha Weekly Herald 15(27): 7. On March 27th in <title>Omaha Daily Herald</title>.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00855">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Spring Season for Wild Fowl Shooting Rapidly Approaching. No Place Excels Ranch of Stilwell].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1902-02-23</date><biblScope>37(146): 18.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>[Spring Season for Wild Fowl Shooting Rapidly Approaching - No Place Excels Ranch of Stilwell]</head>
+         
+         <p>The spring season for wild fowl shooting is rapidly approaching. Already some few scattered flocks of venturesome sprigtails have already made their appearance along the Platte and the Missouri and in another fortnight the birds can be expected to have arrived in fairly good numbers, that is, of course, barring the intervention of severe winter weather. it promises to be a great season and there will evidently be no dearth of good shooting grounds, but of all the attractive points of the many this favored state affords I can think of none more attractive than those up about Hackberry, Trout and Rice lakes, and their contiguous marshes in Cherry county, south of Valentine. And of all the places to go there is none that excels the ranch of E. Stilwell on Hackberry's rice bound shores. He has a big sod hostelrie built for the delection of visiting hunters and says that those who do not wish to camp, will find the best of accommodations there. he has room for a dozen or more, good beds, good grub, good boats and all the accessories necessary to a good time. Stilwell's place is situated on the east end of Hackberry, about five miles west of the celebrated North Marsh lake, and from the crown more lakes spread out their glistering surface to the view of the enrapt hunter. Hackberry and Trout lake's which are great feeding grounds, with an abundance of wild rice, wapito, nutgrass and other wild fowl dainties, are within an easy walk of Stilwell's. I am in receipt of a letter from the proprietor, dated February 15, in which he says all the lakes are filling up in grand shape and he is anticipating a big flight of birds and excellent sport with the ides of the coming month.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. February 23, 1902. [Spring season for wild fowl shooting rapidly approaching. No place excels ranch of Stilwell]. <title>Omaha Sunday World-Herald</title> 37(146): 18.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

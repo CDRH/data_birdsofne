@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00518">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">And Now for March.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-02-24</date><biblScope>53(21): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>And Now for March.</head>
+         
+         <p>This is the last Sunday in February, and busy birdlovers welcome it for that reason. Those who toil on weekdays and take advantage of the Lord's day of rest to tramp out among his loveliest works realize that within the next two or three Sabbaths there will have returned many of their dearest feathered friends.</p>
+         
+         <p>It has been a bitter, bitter winter! This is perhaps better appreciated by the bird student than by most, for we all buy coal and overcoats and heavy underwear. The bird "crank" realizes the severity of a season by calculations in addition to these. he knows that when the hardy winter birds disappear from the woods, the meteorological situation is indeed unusual.</p>
+         
+         <p>For weeks and weeks, with the mercury generally below zero and biting gales crowding down from the north, the Nuthatches, Creepers and other "eskimo" birds have been mighty hard to find - which is astounding. On several Sundays in the pst two months as few as three different species of birds have been seen in Elmwood park by those who know how to look for the,. and who have yearly fed them with suet at appointed places therein. Ordinarily the Sunday census in January and February would show as least eight different varieties in this park on any trip. So the amateur ornithologist knows that it has been a very bad winter.</p>
+         
+         <p>But by the middle of next month we may be assured that such beautiful visitors as the Meadowlark, Bluebird and Phoebe will have returned - unless the weather man plays still further tricks on us. The Robins will have come up from the south, and their hardier brethren from the river thickets where they have stayed all year. The migratory Sparrows will be among us again, and all will be merry.</p>
+         
+         <p>The birdlover will be glad to have this Sabbath day safely behind him. The future promises to be warmer and more songful.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 24, 1918. <title>Omaha Sunday World-Herald</title> 53(21): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

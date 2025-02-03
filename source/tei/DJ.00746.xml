@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00746">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Ruthless Warfare in Birdland [Sharp-shinned Hawk in Elmwood Ravine].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-04-29</date><biblScope>52(31): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Ruthless Warfare in Birdland.</head>
+         
+         <p>Springtime glory was shimmering into one of Elmwood's deep ravines, coaxing the leaves and flowers to come out and enjoy what was left of April. Perhaps the verdure knew of the impending drip of sopping snow, for it was very reluctant to heed the siren overtures of the sin, and hesitated, like a virgin at the bath, fearing that the plunge might be too cold or that unchaste eyes might be peering from behind those stark yet sappy tree trunks.</p>
+         
+         <p>It was a splendid afternoon, yet no more splendid than the plumage of the trim, slender murderer of the air which perched upon a mossy stump above the trickling brooklet that cleft the ravine.</p>
+         
+         <p>The Sharp-shinned Hawk, glorious in his plumage of glittering red and blue, and with imperious eyes flashing sternly to and fro, held his bloody meal beneath his talons and tore at the tender flesh with a voracity terrible in contrast with his beauty of person.</p>
+         
+         <p>About the base of the stump, feebly twitching in the spring air as if some life yet remained in such pitiful ashes of a spritely and beautiful creature of the air, lay the torn and bloody feathers of a Cardinal.</p>
+         
+         <p>Here was a birdland tragedy in its enactment!</p>
+         
+         <p>The Sharp-shinned Hawk, possessed of a physical pulchritude that has brought winsome women to the feet of Blackbeard, Captain Kidd and Pancho Villa - had smitten one of nature's most glorious songbirds, probably in the height of his wondrous carolling. Equipped with weapons unknown to the innocent warblers of the woods, and possessing a speed exceeded by no creature of the air, this Hawk thus preys upon all living things of his dimensions in the field or forest.</p>
+         
+         <p>those who know and love the darling Cardinal cannot suppress their horror at this ruthless warfare in birdland - yet there is a lesson to be learned thereby.</p>
+         
+         <p>Surely it is not enough that an innocent, glorious and useful feathered wonder like the Cardinal be called upon to evade the pirates of the air without molestation at the hand of humans, who should know better!</p>
+         
+         <p>There are small boys in Omaha still permitted to range at large with shotguns and rifles. The temptation to shoot living things is strong. Do the fathers of these boys wish to classify the lads with the Sharp-Shinned hawk?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 29, 1917. Ruthless Warfare in Birdland [Sharp-shinned Hawk in Elmwood Ravine]. <title>Omaha Sunday World-Herald</title> 52(31): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

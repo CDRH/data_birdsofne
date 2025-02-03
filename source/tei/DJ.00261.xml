@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00261">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The English Sparrow in America.</title><title level="j">Omaha Daily Herald</title><author>Herald editor.</author><date>1877-05-15</date><biblScope>12(182): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The English Sparrow in America.</head>
+         
+         <p>It is beginning to appear that the English sparrow has been basely slandered by such crotchety scolds as edit the Troy <hi rend="italic">Whig</hi>, from which we quoted a few days ago. The rage against the little bird reminds one of the frenzy of the New York <hi rend="italic">Herald</hi> against the Spitz dog, and it will probably turn out to be just about as senseless. The matter has become of practical concern to our people, and hence the prominence we have given the subject. That the busy little worm-eater has cleaned the parks of New York, Boston, and other metropolitan cities, of their hideous worms and insects has been denied by some, and yet the fact is indisputable. The assaults upon the birds have been indiscriminate. all that aroused our fear of importing him here grew out of the charges that the sparrow drives out other birds to which we are so much attached. But even this charge against him appears to be not well grounded, as we find in the following paragraph which we take from the Albany <hi rend="italic">Argus</hi>:</p>
+         
+         <p>The city forester of Boston likes the English sparrows. he says their introduction is attended with great benefit, almost beyond all calculation, in the destruction of caterpillars and canker worms, and he denies that they molest or interfere with any other bird.</p>
+         
+         <p>The city forester of boston is much better authority than the city editor of the Troy <hi rend="italic">Whig</hi> or any other editor, and we are inclined to repudiate the whole outcry against the sparrow and ask for their introduction to our city and State. Mr. William Stephens, Jr. of this city has an opportunity to bring the bird to Omaha, and we hope he will go ahead with the enterprise. We want millions of these insect-eaters in Nebraska, and the power of the sparrow for increase is tremendous. The State ought to made to swarm with them. They would probably make mince pie of young grasshoppers; we do not know whether they would wrestle with the full-grown beast, or that they would relish him as a principal diet. But the sparrow would be of great use to our country, and we do not believe it is true that they would drive off the robin and other feathered favorites.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Herald editor. May 15, 1877. <title>Omaha Daily Herald</title> 12(182): 2. An editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

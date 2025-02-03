@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00143">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Tree Carpenters.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-11-13</date><biblScope>57(7): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Tree Carpenters.</head>
+         
+         <p>Most foliage being gone and winter threatening, it is easy to see what is the matter with our trees - if anything, and it is also easy to see who is taking care of them.</p>
+         
+         <p>With all respect for the park commissioner and his force of highly capable and diligent employees, a still more efficient and larger organization is on the job of preserving our trees for the coming year.</p>
+         
+         <p>They are the winter "bark-birds" - if the phrase will stand - and the include the Nuthatches, the Brown Creepers, the Downy and Hairy Woodpeckers, the Flickers, Chickadees and some strangers that occasionally float in to help the good work along.</p>
+         
+         <p>Nature provides well for its trees, but in some instances fails to take care of the birds that do the work. So, in these days when sleet and snow is daily possible, why not put out some beef suet to enhance the diet of these sturdy tree carpenters, when other food is hard to get?</p>
+         
+         <p>We repeat that this is naturally a treeless state, and that the trees now growing are protected mostly by the birds - so therefore the birds should be most jealously protected by us.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 13, 1921. <title>Omaha Sunday World-Herald</title> 57(7): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

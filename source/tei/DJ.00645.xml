@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00645">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Art of Owl Hunting.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-12-04</date><biblScope>57(10): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Art of Owl Hunting.</head>
+         
+         <p>One of the most interesting winter pastimes for the amateur ornithologist is the hunting of our owls, for the purpose, of course, of observation, and not with any deadly intent. To kill an owl is an unspeakable felony to a true bird lover, for these strange creatures of the air and of the night are extremely useful.</p>
+         
+         <p>Hunting them, as we have said, is mighty interesting. They are most easily found by looking at the ground instead of in the trees, for they practice regurgitation in the most expert fashion and their pellets of mouse-skins, bones and claws of various noxious rodents, ejected through their mouths after the simplest form of digestion has been completed, scatter below wherever they perch. They consume their food whole - skins and all, only tearing it into sizes suitable to their mouths.</p>
+         
+         <p>Silent and mysterious, these birds spend the daytime in the tops of trees - generally conifers in some thick grove - and are mighty hard to see without the discovery of their pellets. They are hard to flush - and even when flushed are difficult to identify, because they generally scramble rather blindly about among the tree tops until they find another roosting place.</p>
+         
+         <p>The owl pellets, however, are supremely interesting, because almost any first-class Boy Scout can open one of these and tell you just how many mice, moles, gophers or other critters the bird has consumed, by counting the skulls of the same.</p>
+         
+         <p>Among the members of this classification to be easily found in our parks and woods are the Long Eared Owl, Barn Owl, Screech Owl, an occasional Horned Owl, probably of the "Lesser" breed; and the Short Eared Owl, which "hangs around" on the ground most of the time.</p>
+         
+         <p>See if you can find an owl or two today. Elmwood park is full of them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 4, 1921. <title>Omaha Sunday World-Herald</title> 57(10): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

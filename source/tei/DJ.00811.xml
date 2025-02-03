@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00811">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Something About the Birds.</title><title level="j">Omaha Sunday Bee</title><author>Hub [pseud.].</author><date>1893-09-24</date><biblScope>page 18.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Something About the Birds.</head>
+         
+         <p>Broken Bow, Sept. 20. - To the Sporting Editor of The Bee: This is an unprecedented year for game fowl. Such an abundance of prairie chickens, grouse, quail, plover and snipe have never been seen since civilization set in in western Nebraska.</p>
+         
+         <p>As has been the case for years as will be the case until the state adopts the game warden system, prairie chicken shooting commenced this summer by the middle of July, and about the 10th of September was practically ended. I venture to say that the daily shipment of game for August to points outside the state averaged 25,000 birds. There is still good shooting left on prairie chicken if one but knows where to go and the way to get at the birds when he arrives at his destination. A dog is not of much account now in hunting chickens unless he is a retriever and can be kept at heel. The chickens have all taken to the cornfields, though in districts where they have not been hunted some good shooting can be obtained on the stubble late in the evening and early in the morning. It is not such an easy trick to bring down a chicken now as it was two weeks ago either. The birds are strong, swift flyers and most of them being "bobs," or birds which are moulting and lack tail feathers, their peculiar wobbling flight embarrasses "ye callow sportsman" quite a good deal, resulting in more misses than hits and more cripples than clean kills. A crippled bird in a cornfield is about as hard to find as the proverbial needle in the haystack, too, and even the keenest nosed retriever may be excused from trailing one up over the dry, hard dirt of the plowed field. One wants to load hearty. No. 6 shot is none too large. A duck load is about the proper caper. Al Stuckey and I got eighty-two birds on the opening day and we didn't work very hard, either. "Humph, game hogs! What did they do with their birds!" Well, never you mind now. "Sour Grapes." You would have killed twice as many if you had been there and found 'em and your ammunition held out. And you would have sold all the birds you couldn't use to help pay expenses, too, just as we did.</p>
+         
+         <p>But speaking frankly it is altogether wrong for one man to shoot more birds than he can use, either himself or as gifts to his friends who can't go shooting. I know it and have always preached against it, and I don't do it often myself (because I don't get the chance once in six years).</p>
+         
+         <p>Still, every season I see men slaughter ten times the game there is any need of, just because they get the chance, and at home these self-same fellows get up a howl every time they hear of a man shooting above the regulation dozen birds in a day. I do it myself; we all howl and at the same time say to ourselves, "Oh, Lord, how I wish I had been there."</p>
+         
+         <p>As soon as Jack Frost gets a whack at the foliage the quail shooting will begin, and what a glorious old fall it is going to be!</p>
+         
+         <p>The bevies are large and most of them are now well grown.</p>
+         
+         <p>Every little plum thicket holds its quota. I am told that between Gothenburg and Callaway prairie chicken are so thick in the corn fields that the farmers hire boys to drive them out and that they are so glad to have hunters kill them off that they furnish board, team and driver to all who come. I can't vouch for the truth of this statement, but I do know that sixteen miles north of Gothenburg I shot fourteen chickens in half an hour last fall, and could have gone right on all day shooting sixteen to the half hour from all appearances, only, as I have before stated, I am no game hog and so I quit when I got enough. Cozad, Gothenburg, Brady Island or most any point between Lexington and North Platte will afford good chicken shooting for two or three weeks yet.</p>
+         
+         <p>Mr. Charles T. Field and party of four will leave harbor, O., September 24 for a general hunt among the grouse, duck and geese of the sand hills of northwestern Nebraska. Their destination is Hyannis and they intend to spend three weeks shooting.</p>
+         
+         <p>Mr. R.C. Baughman and two friends from Omaha opened the shooting season at Willow ranch on the South Loup river and went home with a total of 140 birds to their credit. Rain is badly need to lay the dust and freshen things p a bit for the dogs to do good work.</p>
+         
+         <list type="simple">
+            
+            <item>Hub.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">September 24, 1893. <title>Omaha Sunday Bee</title> page 18.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

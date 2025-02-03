@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00054">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Beginning of a Romance [Goldfinch].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-07-15</date><biblScope>58(42): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Beginning of a Romance.</head>
+         
+         <p>With midsummer approaching, most of the songsters have already raised at least one brood of youngsters, many of them have doubled that order and some of them completed their domestic program for the year so to propagation of the species. But with still other of the feathered beauties, the trysting season is just commencing.</p>
+         
+         <p>The glorious little Goldfinch, for instance, is just selecting the object of his heart's desire and is wooing her to beat the band. It is a considerable project; would be discouraging to a human, for Miss Goldfinch believes in long engagements, and the wedding bells and subsequent housekeeping arrangements don't get into the opera until along in the middle of August generally, and often as late as September. Baby Goldfinches have been found in the nest well toward the close of September.</p>
+         
+         <p>But during these days of the commencement of the Goldfinch romance, that songster's vocal efforts are charming - as charming as his wondrous raiment of canary-yellow and black. This striking colorature is responsible for him being known to the laity generally as the "Wild Canary."</p>
+         
+         <p>As a matter of fact the Goldfinch song greatly resembles that of many of the captive canaries. It is certainly a delight to see one of these dainty blessings from heaven, swinging from some bright flower and feeding upon the seeds thereof, singing his little offering of thanksgiving - "Swee-ee-eet! Swee-ee-eet!"</p>
+         
+         <p>This is one of the most gorgeous and most useful small songsters, and although he changes his coat to a drab in the winter, he remains with us all the year around, and consumes bushels and bushels of noxious weed seeds.</p>
+         
+         <p>Make his acquaintance today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 15, 1923. Beginning of a Romance [Goldfinch]. <title>Omaha Sunday World-Herald</title> 58(42): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00250">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Earth Babies Waking Up.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-04-25</date><biblScope>55(31): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Earth Babies Waking Up.</head>
+         
+         <p>Good old Mother Earth is just getting a lot of her children out of bed from the soft mattress of leafy mould where they have lain all winter under their silken coverlets of quilted autumn-tinted leaves. Snug and happy down in some ravine under the trees they have lain and now as the snows and rains soften the leafy cover and break it gently away they send up a tiny leaf that says, "Her I am, the first of my brothers and sisters and bringing along my blossom bud, to tell you that we are heeding the message the sun tried to bring us but has been a bit slow about it because Old Boreas kept sanding his winds down from way up north, and making us draw the covers over our heads for another nap." Mother Earth does not make much fuss over these children of hers, just lets them come out as they will, knowing very soon they will make such a showing that every hillside and valley will be covered with them.</p>
+         
+         <p>Tiny Dutchman's Breeches are not tinted very pink yet, but soon they will be and they are in the very latest style, too, broad at the top and running down to a tight-fitting cuff at the knee. The dear violets that every human has loved for untold years are just pushing up the tiniest buds from the center of the whorl of leaves and a very few days will show the bit of blue that another round of days will open up to the real violet heart shape. Ferns just barely visible under the coverlet surround the other children in the heartiest companionship, an occasionally some damp fallen dead branch is bedecked with the most brilliant red lichens, that give the touch of color to the grays and browns and dun colors touched with the green of the new babies, earth children.</p>
+         
+         <p>And the nature lovers are happy over the companionship they have with these earth babies, that they so softly touch and handle and caress but do not hurt a bit, as they gently draw away the covers and see how fast they are growing and what they are.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 25, 1920. <title>Omaha Sunday World-Herald</title> 55(31): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

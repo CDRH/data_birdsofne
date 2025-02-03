@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00839">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Spot on the Breast [Tree Sparrow].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-07</date><biblScope>56(6): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Spot on the Breast.</head>
+         
+         <p>This is not the title of a great movie drama full of thrills and things, but is the principal distinguishing feature of a very distinguished and valuable visitor that has returned to use after about seven months spent in the summer resorts of the north.</p>
+         
+         <p>We refer to no less a personage than the Tree Sparrow.</p>
+         
+         <p>This feathered chap spends the winter in these parts and devotes most of his time to eating weed seeds, of which he takes a ton or so per annum - with apologies for hyperbole. Federal experts give him credit for being the most useful winter bird we have, for he certainly cleans up the weed patches for the farmers, who otherwise would be pestered to death with hemp and vegetables of that brand the following spring.</p>
+         
+         <p>The Tree Sparrow is sometimes known as the "Winter Chippy," as the make has the reddish-brown crown that marks the Chipping Sparrow of the summer. But the surest identification is the dark mark in the middle of the gray breast - the spot being about as big in diameter as that of an ordinary lead pencil.</p>
+         
+         <p>In the weed along roadsides, or in any clump of weeds, for that matter, the Tree Sparrow is likely to be found all winter long. It dotes on cold weather, and its little "chip" will be heard even when the blizzard is raging.</p>
+         
+         <p>This helpful feathered friend has returned, so why not go out today and give him the "glad hand?"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 7, 1920. The Spot on the Breast [Tree Sparrow]. <title>Omaha Sunday World-Herald</title> 56(6): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

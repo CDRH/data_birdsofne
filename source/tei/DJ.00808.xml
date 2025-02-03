@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00808">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Snowy Owls.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-12-10</date><biblScope>58(11): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Snowy Owls.</head>
+         
+         <p>Only recently an ardent bird lover of this city, a young woman, was both surprised and delighted, during a ramble through the fields west of Omaha on a crisp November afternoon, to come upon a splendid specimen of the Snowy Owl. She followed the beautiful creature as it sailed heavily before her, until it finally perched upon a tee box on the Happy Hollow golf course. Here she had ample time to pause and inspect the specimen at respectful distance, through her nature study glasses.</p>
+         
+         <p>There was no doubt as to its identity, of course, for there is nothing like it under the sun. The Snowy Owl, as its name suggests, is of the purest white in the adult male species, and likes to sit silently in the open fields, upon a fence post or shock. It invites discovery, and also death.</p>
+         
+         <p>For it is unfortunately the case with every distinguished creature of the wilds that the first human impulse seems to be to slay the poor thing. That is why the true bird lover hesitates to report anything unusual along this line, for the vast majority of bird hunters use guns instead of glasses.</p>
+         
+         <p>It is hoped that this Snowy Owl has returned farther north, where it belongs, but perhaps by this time its skin is in some hunter's den.</p>
+         
+         <p>How sad it is to ponder upon the fact that the Snowy Owl, and the gorgeous Wood Duck, have but to make one appearance and the whole countryside "springs to arms overnight" and cannot be satisfied until the bird is dead!</p>
+         
+         <p>The more rare and more beautiful the specimen, the more eager are many for a killing.</p>
+         
+         <p>Some years ago there was a surprising raid by the Snowy Owls into this territory, and the taxidermy shops were simply swamped by the specimens sent in for mounting. It was tragedy, pure and simple. But few of the birds have been here since.</p>
+         
+         <p>Why not use a little of the Golden Rule idea in regard to these birds?</p>
+         
+         <p>It's a good thing it isn't customary to shoot every beautiful woman who appears on the streets.</p>
+         
+         <p>Why the birds - especially the useful ones?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. December 10, 1922. <title>Omaha Sunday World-Herald</title> 58(11): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

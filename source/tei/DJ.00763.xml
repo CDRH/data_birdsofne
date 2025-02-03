@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00763">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Scouts and Birds [Feeding Stations].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-11-27</date><biblScope>57(9): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Scouts and Birds.</head>
+         
+         <p>Some years ago the Nebraska Audubon Society, in the heyday of its prosperity before grim war took the activity of everyone into different channels, opened a campaign for winter bird feeding. It enlisted the Boy Scouts in the movement and the Scouts, as usual, responded. But the war was all-important, and hundreds of feeding stations were not placed, and those that were placed, were not kept filled.</p>
+         
+         <p>It is different now. There is no war, and the prospects for more are remote. Being back on the old job, the bird-lovers are intent on resuming the feeding campaign for the songsters of the Jack Frost regime, and the movement should be encouraged.</p>
+         
+         <p>Winter birds should be fed because they deserve it. Although many of them die of starvation or malnutrition during hard winter seasons, no ornithologist claims that a few feeding stations will necessarily prevent this tragedy. The idea of feeding them is paramount; because that idea will grow, and the time will sometime come when intelligent citizens will protect and guard useful trees, useful plants, useful evidences of nature's goodness in any form.</p>
+         
+         <p>Birds - winter birds more especially - occasionally have real need of human help. Sleet and snow cover the bark of trees, the seed-pods of noxious weeds - every source of food supply upon which they rely. Their "chow" is in a safe - and then they need beef suet and other food - and need it badly.</p>
+         
+         <p>Boy Scouts can put up suet feeding stations - and have the holders to do it with. They should be enabled to keep these holders filled with suet, which requires a little money - but that, too, should be easily arranged - for suet can be procured from packing houses in large lots for an inconsiderable outlay.</p>
+         
+         <p>These are days for economy - essentially so - and can there be any better economy than the protection of the feathered creatures that God has given us to protect us?</p>
+         
+         <p>It is pretty generally admitted by all experts that not a tree, not a spear of grain, could exist for long were it not for the sentry duty done by birds.</p>
+         
+         <p>The winter "bird-guards" are among us. Go out and get acquainted today, and then help feed them until spring.</p>
+         
+         <p>There were seventeen different varieties seen in Elmwood Park last Sunday.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 27, 1921. Scouts and Birds [Feeding Stations]. <title>Omaha Sunday World-Herald</title> 57(9): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

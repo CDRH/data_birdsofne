@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00685">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Pot Hunters and Bird Protection].</title><title level="j">Omaha Sunday Bee</title><author>Simpson, P.</author><date>1897-01-10</date><biblScope>p. 7.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-22">2006-06-22</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>St. Edward, Neb., Jan. 3.—To the Sporting Editor of The Bee: Now that the state of Nebraska is on the eve of another session of the legislature, won't it be well for the shooters or gun clubs to get a move on themselves in regard to the enforcement of the game laws? Since I left Omaha and made my home in the country, I see the necessity for the protection of game. It is killed at all seasons of the year, and shipped in season and out of season.</p>
+         
+         <p>If it was not for the dollars and cents that the pot hunters get out of what they kill there would be plenty of game for all. The commission firms send out price lists of game in July and then the slaughter begins, and by the first of September the birds that are not killed are so wild that there is no sport in hunting them, and no one but the market hunter gets any benefit. It is no sport to him, but a matter of gain and the most worthless of all humanity is the market hunter. He shoots old and young in season and out just so they bring him money.</p>
+         
+         <p>This season there was in Boone county plenty of birds, more than any time since I have been in the county. In regard to water fowl the law should protect that class of game also. In regard to the time of day they can be shot-there should be no shooting between sun set and sun rise. I have been on the Platte in the spring and the sand bars have been covered with ducks and geese at dusk, and along in the night you would hear the booming of guns and often you see a boat or raft with a headlight floating down stream shooting and driving the game off from their roosting places, and the consequences were that not a birds is to be seen in the morning, nor will they roost in the same place the next night, but leave or go farther west. There is nothing that will scare ducks or geese like shooting after dark. Nebraska needs game wardens, or before long there will be no game to shoot. I have spoken to Mr. Kelster, one of the representatives from Boone county, and he has promised to give this matter his attention if brought before the legislature this session. Please lay the matter open in The Bee.</p>
+         
+         <cit>
+            
+            <bibl default="NO">P. Simpson. January 10, 1897. [Pot Hunters and Bird Protection.] <title>Omaha Sunday Bee</title> p. 7.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

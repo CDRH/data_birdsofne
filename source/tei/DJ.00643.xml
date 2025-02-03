@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00643">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">In the Big Outdoors.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-03-23</date><biblScope>54(25): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>In the Big Outdoors.</head>
+         
+         <p>While it is very probable that Bluebirds have been seen before this date in Omaha, it is none the less peculiar that they have not been seen in larger numbers, in view of the warm and open winter enjoyed by Omaha and vicinity.</p>
+         
+         <p>Amateur ornithologists who keep close tab on the advent of the spring birds have been astonished by the tardiness of the first songsters. This burning question, or quandary, naturally arises- why do the birds arrive later after a warm winter than after a cold one, such as 1917-18.</p>
+         
+         <p>Bluebirds and Robins were common two weeks earlier than this in 1918 and were seen in flocks during a near-blizzard in Elmwood Park in 1915. In the intervening years the records show that the Bluebird was heard or seen at least that much earlier.</p>
+         
+         <p>While a couple of Bluebirds have been identified by Mr. William Marsh in the Carter Lake bottoms since the first of March, he admits that the scarcity of this beautiful bird is astonishing.</p>
+         
+         <p>The "Big Outdoors" is a wonderful study.</p>
+         
+         <p>For the first time in the history of this vicinity, the Tufted Titmouse has spent the winter with us. Two years ago the Red Breasted Nuthatch was common - and has scarcely been seen since. The Redpoll and the Red Crossbill were fairly common two years ago, but no specimens have been reported recently.</p>
+         
+         <p>These "funny things" in the big outdoors add to the interest of bird study, but the World-Herald would like to have someone explain why Bluebirds, who love this part of the country, are later in arrival after a warm winter, than after one marked with more zero weather than ever before!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 23, 1919. <title>Omaha Sunday World-Herald</title> 54(25): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

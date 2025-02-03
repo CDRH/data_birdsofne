@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00207">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Day Flower.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-15</date><biblScope>55(46): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Day Flower.</head>
+         
+         <p>It was such a cunning little flower, a perfect blue, on a stem about a foot high. The petals seemed to be only two curved backward, but a tiny green one was afterward discovered and the dainty yellow stamens and the one pistil curving the other way, gave a graceful effect that was very charming. What was it? The leaves and stem looked like those of the commonplace Wandering Jew, although this plant was not trailing down out of a flower box but standing erect in the grass and almost hidden by it. Carried home and submitted to the botany it soon got a family name that was as pretty as the flower, Commelina, but its special Christian name was not so easy to find nor was its popular name quite exact although it was soon decided to be a Spiderwort and some variety of Day-Flower. Virginia Day-Flower did not quite fit it, perhaps because it had traveled away to Nebraska, neither did Slender Day-Flower, or Commelina Erecta, and the special services of botanical experts was called in to find out if Nebraska had a variety of Commelina peculiar to itself.</p>
+         
+         <p>Why it was called Day-Flower soon was manifest when carried home and put in a little silver vase with plenty of water. It only remains open for a part of the day, when the two petals of blue dissolved down into a sort of jelly over the pretty stamens. The blossom is enclosed in a spathe of two leaves joined together heart-shaped cuplet for the flower to stand out of. The plant continued to grow in the water producing several flowers that opened with the morn and closed at noon. As often as a flower was manifest the plant was studied by the experts, and finally a specimen was sent to Nebraska's state botanist, and we must be content to call our specimen just Day-Flower until he decides whether we may add Nebraska to it in the place of Virginia, and give another plant to Nebraska's special flora.</p>
+         
+         <p>When taking a hike along a side hill where the grass is not very dense or high, keep a lookout for this dainty Day-Flower, of deepest blue.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 15, 1920. <title>Omaha Sunday World-Herald</title> 55(46): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

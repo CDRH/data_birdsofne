@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00526">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Our Master Musician [Western Meadowlark].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-03-16</date><biblScope>54(24): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Our Master Musician.</head>
+         
+         <p>Heifetz was in our midst last week, with his violin, and taught Omaha a good deal about the art of melody, and there was some argument among authorities as to his status as compared with Ysaye and Kreisler.</p>
+         
+         <p>Being a bit inclined to the outdoors, we really had to smile at these arguments, for we had just heard the Master Musician - The Western Meadowlark!</p>
+         
+         <p>This wondrous songster is back again for the summer, and we sincerely hope that his 1919 season is as prolific in bugs and insects as will be Mr. Heifetz's in American dollars.</p>
+         
+         <p>The Western Meadowlark is no slouch of a bird. He is big and handsome and daring. Also he is intelligent, and knows his friends. More than that he can hide his nest so cunningly that it takes a golfer's caddy to locate the same, while searching for a missing gutta percha pill.</p>
+         
+         <p>But we care nothing for these details. The fact that the brisk March air has been beautified by the "Whoopla! Potato Bug!" song of the lark is enough for us!</p>
+         
+         <p>Scores of other summer birds will be coming in as the days roll by, but the Meadowlark is ours first - and ours forever.</p>
+         
+         <p>When J.J. Audubon, the world's greatest ornithologist, stood on the Iowa bluffs in the Forties and heard this wonderful bit of music for the first time, he had the same thrill that others felt the other night when Heifetz was at his best.</p>
+         
+         <p>There is no song like that of the Western Meadowlark, nor any bird as loveable nor more useful than this.</p>
+         
+         <p>Welcome, then, to the pet bird-property of the Western Plains.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 16, 1919. Our Master Musician [Western Meadowlark]. <title>Omaha Sunday World-Herald</title> 54(24): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

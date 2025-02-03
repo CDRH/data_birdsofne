@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00233">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">O, You Duck Hunt.</title><title level="j">Omaha Sunday World-Herald</title><author>Love, Ray E.</author><date>1911-02-02</date><biblScope>46(19): 10-N.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>O, You Duck Hunt.</head>
+         
+         <list type="simple">
+            
+            <item>I love the gentle rains of spring -</item>
+            
+            <item>The robin's song.</item>
+            
+            <item>How sweet the smell of waking earth;</item>
+            
+            <item>The days grow long.</item>
+            
+            <item> </item>
+            
+            <item>I love the meadow lark's refrain,</item>
+            
+            <item>I rural ways;</item>
+            
+            <item>Greeting the time of nature's birth,</item>
+            
+            <item>And balmier days.</item>
+            
+            <item> </item>
+            
+            <item>I love the open marsh and slough -</item>
+            
+            <item>The mallard's call;</item>
+            
+            <item>Then fix the hunting outfit up,</item>
+            
+            <item>We had last fall.</item>
+            
+            <item> </item>
+            
+            <item>I love to join the boys, and go</item>
+            
+            <item>To lake or stream,</item>
+            
+            <item>Where birds are thick and shooting good,</item>
+            
+            <item>Ah what a dream,</item>
+            
+            <item> </item>
+            
+            <item>I love to find an ideal spot,</item>
+            
+            <item>Then build my blind;</item>
+            
+            <item>Then leave the world with all it's cares,</item>
+            
+            <item>Far, far behind.</item>
+            
+            <item> </item>
+            
+            <item>I love to watch the wavelets dance</item>
+            
+            <item>'Round my decoys,</item>
+            
+            <item>And note the "chances taken by</item>
+            
+            <item>The other boys.</item>
+            
+            <item> </item>
+            
+            <item>I love to sit within my blind,</item>
+            
+            <item>And smoke my pipe;</item>
+            
+            <item>Sometimes a nip of Yellowstone,</item>
+            
+            <item>that's good and ripe.</item>
+            
+            <item> </item>
+            
+            <item>I love to try my marksmanship</item>
+            
+            <item>On some big goose;</item>
+            
+            <item>Take chances on a long, hard shot,</item>
+            
+            <item>And jar him loose.</item>
+            
+            <item> </item>
+            
+            <item>I love to see the teal dash in,</item>
+            
+            <item>Like cannon balls;</item>
+            
+            <item>For each barrel of my hammerless</item>
+            
+            <item>A green wing falls.</item>
+            
+            <item> </item>
+            
+            <item>I love the campfire's ruddy glow -</item>
+            
+            <item>The grub we chew;</item>
+            
+            <item>When Piper He'dseick's passed around,</item>
+            
+            <item>I love that too.</item>
+            
+            <item> </item>
+            
+            <item>I love to feel my heart beat in</item>
+            
+            <item>Each finger tip.</item>
+            
+            <item>As campfire stories help promote</item>
+            
+            <item>Good fellowship.</item>
+            
+            <item> </item>
+            
+            <item>I love to write these little rhymes</item>
+            
+            <item>Sometimes, don't you?</item>
+            
+            <item>Here comes a bunch of redheads - quick</item>
+            
+            <item>Binb-b'ng! Adieu.</item>
+            
+            <item>- Ray E. Love</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">February 2, 1911. <title>Omaha Sunday World-Herald</title> 46(19): 10-N.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

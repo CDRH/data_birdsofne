@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00099">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds of Omaha. A List of the Species Observed In and About the City of Omaha.</title><title level="j"/><author>Anonymous.</author><date/><biblScope>Unpublished manuscript. Miscellaneous pages. Available at the library of the Nebraska Ornithologists' Union at the University of Nebraska State Museum.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds of Omaha.</head>
+         
+         <p>A list of the species observed in and about the city of Omaha.</p>
+         
+         <head>The Diving Birds</head>
+         
+         <list type="simple">
+            
+            <item>The Grebes</item>
+            
+            <item>1 Western Grebe. Occasional migrant.</item>
+            
+            <item>4 American eared Grebe. Common migrant and occasional summer resident.</item>
+            
+            <item>6 Pied-billed Grebe. Abundant migrant; common summer resident.</item>
+            
+            <item>The Loons</item>
+            
+            <item>7 Loon. Migrant, not common.</item>
+            
+            <item>11 Red-throated Loon. Rare migrant.</item>
+         
+         </list>
+         
+         <head>The Long-winged Swimmers</head>
+         
+         <list type="simple">
+            
+            <item>The Gulls and Terns</item>
+            
+            <item>51a American Herring Gull. Migrant, not common.</item>
+            
+            <item>54 Ring-billed Gull. Fairly common migrant.</item>
+            
+            <item>58 Laughing Gull. Rare migrant. (Skow)</item>
+            
+            <item>59 Franklin's Gull. Fairly common migrant.</item>
+            
+            <item>69 Forster's Tern. Occasional migrant.</item>
+            
+            <item>70 Common Tern. Rare migrant. (Skow)</item>
+            
+            <item>74 Least Tern. Common migrant; occasional summer resident. (Skow)</item>
+            
+            <item>77 Black Tern. Common migrant; fairly common summer resident.</item>
+         
+         </list>
+         
+         <head>The Totipalmate Swimmers</head>
+         
+         <list type="simple">
+            
+            <item>The Darters</item>
+            
+            <item>118 Anhinga. Accidental visitor; a single specimen shot near Omaha several years ago. (Bruner)</item>
+            
+            <item>The Cormorants</item>
+            
+            <item>120 Double-crested Cormorant. Migrant, not common.</item>
+            
+            <item>120a Florida Cormorant. Rare migrant. (Bruner)</item>
+            
+            <item>The Pelicans</item>
+            
+            <item>125 American White Pelican. Fairly common migrant.</item>
+            
+            <item>126 Brown Pelican. Rare migrant. (Skow)</item>
+         
+         </list>
+         
+         <head>The Short-winged Swimmers</head>
+         
+         <list type="simple">
+            
+            <item>The Ducks, Brants, Geese and Swans</item>
+            
+            <item>129 American Merganser. Common migrant.</item>
+            
+            <item>130 Red-breasted Merganser. Migrant, not common.</item>
+            
+            <item>131 Hooded Merganser. Migrant, not common. (Bruner) (Skow)</item>
+            
+            <item>132 Mallard. Abundant migrant, rare summer resident.</item>
+            
+            <item>133 Black Duck. Migrant, not common.</item>
+            
+            <item>135 Gadwall. Common migrant.</item>
+            
+            <item>136 Widgeon. Seen at rare intervals in the markets, but probably brought from a distance. (Bruner)</item>
+            
+            <item>137 American Widgeon. Common migrant.</item>
+            
+            <item>139 Green-winged Teal. Common migrant.</item>
+            
+            <item>140 Blue-winged Teal. Abundant migrant, rare summer resident. (Skow)</item>
+            
+            <item>141 Cinnamon Teal. Rare migrant. (Trostler)</item>
+            
+            <item>142 Shoveller. Common migrant.</item>
+            
+            <item>143 Pintail. Abundant migrant.</item>
+            
+            <item>144 Wood Duck. Common migrant; occasional summer resident. (Skow) (Trostler)</item>
+            
+            <item>146 Red-head Duck. Abundant migrant.</item>
+            
+            <item>147 Canvas-back Duck. Common migrant.</item>
+            
+            <item>148 Scaup Duck. Common migrant.</item>
+            
+            <item>149 Lesser Scaup Duck. Common migrant.</item>
+            
+            <item>150 Ring-necked Duck. Fairly common migrant.</item>
+            
+            <item>151 Golden-eye. Rare migrant. (Trostler)</item>
+            
+            <item>153 Buffle-head. Fairly common migrant.</item>
+            
+            <item>154 Old-Squaw Duck. Market. (Bruner)</item>
+            
+            <item>155 Harlequin Duck. "A rare migrant; two seen which were killed on the Missouri river, September 16, 1893; one also killed on September 19, 1895, on Florence Lake." (Trostler)</item>
+            
+            <item>167 Ruddy Duck. Irregular migrant.</item>
+            
+            <item>169 Lesser Snow Goose. Abundant migrant.</item>
+            
+            <item>169a Greater Snow Goose. fairly common migrant.</item>
+            
+            <item>169.1 Blue Goose. Migrant, not common.</item>
+            
+            <item>171 American White-fronted Goose. Common migrant.</item>
+            
+            <item>172 Canada Goose. Abundant migrant.</item>
+
+
+
+            
+            <item>172a Hutchin's Goose. Common migrant.</item>
+            
+            <item>173 Brant. Rare migrant.</item>
+            
+            <item>180 Whistling Swan. Rare migrant.</item>
+            
+            <item>181 Trumpeter Swan. Rare migrant.</item>
+         
+         </list>
+         
+         <head>The Herons, Bitterns, Ibises, etc.</head>
+         
+         <list type="simple">
+            
+            <item>The Ibises</item>
+            
+            <item>186 Glossy Ibis. Accidental. (Brezee)</item>
+            
+            <item>187 White-faced Glossy Ibis. "A straggler killed on Florence Lake, August 19, 1893. (Trostler)</item>
+            
+            <item>The Herons and Bitterns</item>
+            
+            <item>190 American Bittern. Common migrant; rare summer resident.</item>
+            
+            <item>191 Least Bittern. Common migrant; common summer resident.</item>
+            
+            <item>194 Great Blue Heron. Common migrant; occasional summer resident.</item>
+            
+            <item>196 Great White Egret. "A straggler was killed near Omaha, July 12, 1894." Tros.</item>
+            
+            <item>200 Little Blue Heron. Rare migrant; possibly summer resident. (Trostler)</item>
+            
+            <item>201 Green Heron. Common summer resident.</item>
+            
+            <item>202 Black-crowned Night Heron. Rare migrant. Summer resident ? (Skow)</item>
+            
+            <item>203 ? Yellow-crowned Night Heron. (Trostler)</item>
+         
+         </list>
+         
+         <head>The Cranes, Rails, etc.</head>
+         
+         <list type="simple">
+            
+            <item>The Cranes</item>
+            
+            <item>204 Whooping Crane. Common migrant.</item>
+            
+            <item>205 Little Brown Crane. Rare migrant.</item>
+            
+            <item>206 Sandhill Crane. Common migrant.</item>
+            
+            <item>The Rails, Coots and Gallinules</item>
+            
+            <item>208 King Rail. Summer resident, not common.</item>
+            
+            <item>212 Virginia rail. Common migrant.</item>
+            
+            <item>214 Carolina Rail. Common migrant.</item>
+            
+            <item>215 Yellow Rail. Market.</item>
+            
+            <item>216 Black Rail. Market.</item>
+            
+            <item>219 Florida Gallinule. Common migrant and summer resident.</item>
+            
+            <item>221 Coot. Abundant migrant, formerly a common summer resident.</item>
+         
+         </list>
+         
+         <head>The Shore Birds</head>
+         
+         <list type="simple">
+            
+            <item>The Phalaropes</item>
+            
+            <item>223 Northern Phalarope. Rare migrant.</item>
+            
+            <item>224 Wilson's Phalarope. Common migrant.</item>
+            
+            <item>The Avocets and Stilts</item>
+            
+            <item>225 American Avocet. Fairly common migrant.</item>
+            
+            <item>226 Black-necked Stilt. Migrant, not common.</item>
+            
+            <item>The Snipes, Sandpipers, etc.</item>
+            
+            <item>228 American Woodcock. Rare summer resident and uncommon migrant.</item>
+            
+            <item>230 Wilson's Snipe. Common migrant.</item>
+            
+            <item>231 Red-breasted Snipe. Common migrant.</item>
+            
+            <item>232 Long-billed Dowitcher. Migrant, not common.</item>
+            
+            <item>233 Stilt Sandpiper. Migrant, not common.</item>
+            
+            <item>234 Knot. "A very rare migrant; one killed on Missouri river by a gunner September 30, 1893." Trostler.</item>
+            
+            <item>239 Jack Snipe. Common migrant.</item>
+            
+            <item>240 White-rumped Sandpiper. rare migrant.</item>
+            
+            <item>241 Baird's Sandpiper. Migrant, not common.</item>
+            
+            <item>242 Least Sandpiper. Abundant migrant.</item>
+            
+            <item>243a Red-backed Sandpiper. Fairly common migrant.</item>
+            
+            <item>246 Semipalmated Sandpiper. Common migrant.</item>
+            
+            <item>247 Western Sandpiper. Skow</item>
+            
+            <item>248 Sanderling. Fairly common migrant.</item>
+            
+            <item>249 Marbled Godwit. Common migrant.</item>
+            
+            <item>254 Greater Yellow-legs. Abundant migrant.</item>
+            
+            <item>255 Yellow-legs. Abundant migrant.</item>
+            
+            <item>256 Solitary Sandpiper. Common migrant.</item>
+            
+            <item>258a Western Willet. Migrant, not common.</item>
+            
+            <item>261 Bartramian Sandpiper. Common migrant, occasional summer resident.</item>
+            
+            <item>262 Buff-breasted Sandpiper. Rare migrant.</item>
+            
+            <item>263 Spotted Sandpiper. Abundant migrant, common summer resident.</item>
+            
+            <item>264 Long-billed Curlew. Common migrant. Breeds?</item>
+            
+            <item>265 Hudsonian Curlew. Rare migrant. Skow</item>
+            
+            <item>266 Eskimo Curlew. Common migrant.</item>
+            
+            <item>The Plovers</item>
+            
+            <item>270 Black-bellied Plover. Rare migrant.</item>
+            
+            <item>272 Golden Plover. Common migrant.</item>
+            
+            <item>273 Killdeer. Abundant migrant, common summer resident.</item>
+            
+            <item>274 Semipalmated Plover. Common migrant.</item>
+            
+            <item>277a Belted Piping Plover. Rare migrant.</item>
+         
+         </list>
+         
+         <head>The Gallinaceous Birds</head>
+         
+         <list type="simple">
+            
+            <item>The Grouse, Partridges, etc.</item>
+            
+            <item>289 Quail. Formerly an abundant resident; still common, but becoming rarer.</item>
+            
+            <item>300 Ruffed Grouse. "Rare resident; one killed near Florence November 4, 1894, and several killed near Bellevue during winter of 1892." Trostler</item>
+            
+            <item>305 Pinnated Grouse. Resident, not common. Formerly abundant.</item>
+         
+         </list>
+         
+         <head>The Pigeons and Doves</head>
+         
+         <list type="simple">
+            
+            <item>The Pigeons</item>
+            
+            <item>315 Passenger Pigeon. "A flock of fifteen was seen by Geo. W. Sabine, of Omaha, flying over his residence Nov. 28, 1985." Trostler</item>
+            
+            <item>316 Mourning Dove. Abundant summer resident.</item>
+         
+         </list>
+         
+         <head>The Birds of Prey</head>
+         
+         <list type="simple">
+            
+            <item>The American Vultures</item>
+            
+            <item>325 Turkey Vulture. Fairly common summer resident. Several pairs nest each year in the woods south of Omaha.</item>
+            
+            <item>The Falcons, Hawks, Eagles, etc.</item>
+            
+            <item>327 Swallow-tailed Kite. A rare summer resident.</item>
+            
+            <item>329 Mississippi Kite. "A flock of six or seven was seen at Omaha October 12." Year? (R.E. Dinges)</item>
+            
+            <item>331 Marsh Hawk. Summer resident, not common.</item>
+            
+            <item>332 Sharp-shinned Hawk. Resident(?) (Tros.) Not common.</item>
+            
+            <item>333 Cooper's Hawk. Common resident; more common as a summer resident.</item>
+            
+            <item>334 American Goshawk. Rare summer resident.</item>
+            
+            <item>334a Western Goshawk. A single specimen seen by Mr. Skow north of Omaha, 1889.</item>
+            
+            <item>337 Red-tailed Hawk. Common resident.</item>
+            
+            <item>337a Krider's Hawk. Rare summer resident.</item>
+            
+            <item>337d Harlan's Hawk. "One killed on farm near Omaha and mounted by L. Skow." (Date?)</item>
+            
+            <item>339 Red-shouldered Hawk. Rare summer resident (Prob. res.; consult Fisher)</item>
+            
+            <item>342. Swainson's Hawk. Resident, not common; summer resident, rare.</item>
+            
+            <item>343 Broad-winged Hawk. Summer resident, not common.</item>
+            
+            <item>347a American Rough-legged Hawk. rare migrant.</item>
+            
+            <item>348 Ferruginous Rough-leg. Rare migrant.</item>
+            
+            <item>349 Golden Eagle. "Straggler; one seen Sept. 21, 1895, in Sarpy county." (Tros.)</item>
+            
+            <item>352 Bald Eagle. Resident, rare.</item>
+            
+            <item>355 Prairie Falcon. rare migrant.</item>
+            
+            <item>356 Duck Hawk. Rare migrant. (Skow)</item>
+            
+            <item>357 Pigeon Hawk. Common migrant.</item>
+            
+            <item>358 Richardson's Merlin. Fairly common migrant. (Bruner)</item>
+            
+            <item>360 American Sparrow Hawk. Fairly common resident.</item>
+            
+            <item>364 American Osprey. Occasional migrant.</item>
+            
+            <item>The Barn Owls</item>
+            
+            <item>365 American Barn Owl. Summer resident, not common.</item>
+            
+            <item>The Horned Owls, etc.</item>
+            
+            <item>366 American Long-eared Owl. Resident, not common.</item>
+            
+            <item>367 Short-eared Owl. Rare resident.</item>
+            
+            <item>368 Barred Owl. Fairly common resident.</item>
+            
+            <item>370 Great Gray Owl. "Rare winter resident; one seen December 17th, 1893, in county poor farm woods." -- Trostler.</item>
+            
+            <item>372 Acadian Owl. (Skow)</item>
+            
+            <item>373 Screech Owl. Common resident.</item>
+            
+            <item>375 Great Horned Owl. Fairly common resident.</item>
+            
+            <item>375a Western Horned Owl. (Skow)</item>
+            
+            <item>375b Arctic Horned Owl. Rare winter visitant. (Florence; Skow)</item>
+            
+            <item>375c Dusky Horned Owl. "Near Omaha--accidental." (?) (Skow)</item>
+            
+            <item>376 Snowy Owl. Winter resident, not common.</item>
+            
+            <item>377a American Hawk Owl. "Once near Omaha." (Skow)</item>
+            
+            <item>378 Burrowing Owl. "None in the vicinity of Omaha within the past twelve years - formerly a small colony about ten miles west."--Trostler.</item>
+         
+         </list>
+         
+         <head>The Cuckoos, etc.</head>
+         
+         <list type="simple">
+            
+            <item>The Cuckoos</item>
+            
+            <item>387 Yellow-billed Cuckoo. Common summer resident.</item>
+            
+            <item>388 Black-billed Cuckoo. Summer resident, not common.</item>
+            
+            <item>The Kingfishers</item>
+            
+            <item>390 Belted Kingfisher. Summer resident, common. Occasionally seen during open winter.</item>
+         
+         </list>
+         
+         <head>The Woodpeckers, etc.</head>
+         
+         <list type="simple">
+            
+            <item>The Woodpeckers</item>
+            
+            <item>393 Hairy Woodpecker. Fairly common resident.</item>
+            
+            <item>393a Northern Hairy Woodpecker. Rare winter visitant.</item>
+            
+            <item>394 Downy Woodpecker. Common resident.</item>
+            
+            <item>400 Arctic Three-toed Woodpecker. "A rare winter visitant; one taken Dec. 15, 1895."-Tros. (F.J. Brezee)</item>
+            
+            <item>402 Yellow-bellied Woodpecker. Summer resident, not common.</item>
+            
+            <item>405 Pileated Woodpecker. "A very rare straggler, one seen May 20, 1895." Tros.</item>
+            
+            <item>406 Red-headed Woodpecker. Common summer resident; occasionally remains through mild winters.</item>
+            
+            <item>409 Red-bellied Woodpecker. Summer resident, not common. Specimen seen in Hanscom Park _______ 1899.</item>
+            
+            <item>412 Flicker. Abundant summer resident.</item>
+            
+            <item>413 Red-shafted Flicker. Summer resident, not common.</item>
+         
+         </list>
+         
+         <head>The Goatsuckers, Swifts, etc.</head>
+         
+         <list type="simple">
+            
+            <item>The Goatsuckers, etc.</item>
+            
+            <item>417 Whippoorwill. Common summer resident.</item>
+            
+            <item>420 Nighthawk. Common summer resident.</item>
+            
+            <item>420a Western Nighthawk. Common summer resident.</item>
+            
+            <item>The Swifts</item>
+            
+            <item>423 Chimney Swift. Abundant summer resident.</item>
+            
+            <item>The Hummingbirds</item>
+            
+            <item>428 Ruby-throated Hummingbird. Common summer resident.</item>
+         
+         </list>
+         
+         <head>The Perching Birds</head>
+         
+         <list type="simple">
+            
+            <item>The Tyrant Flycatchers</item>
+            
+            <item>444 Kingbird. Common summer resident.</item>
+            
+            <item>447 Arkansas Kingbird. "One seen Sept, 1895."-Tros.</item>
+            
+            <item>452 Great-crested Flycatcher. Common summer resident.</item>
+            
+            <item>456 Phoebe. Common summer resident.</item>
+            
+            <item>457 Say's Phoebe. Summer resident, not common. (Skow)</item>
+            
+            <item>461 Wood Pewee. Common summer resident.</item>
+            
+            <item>462 Western Wood Pewee. Summer resident--common? (Skow)</item>
+            
+            <item>465 Acadian Flycatcher. Common summer resident.</item>
+            
+            <item>466a Traill's Flycatcher. fairly common summer resident.</item>
+            
+            <item>467 Least Flycatcher. Rare summer resident.</item>
+            
+            <item>The Larks</item>
+            
+            <item>474 Horned Lark. (Bruner)</item>
+            
+            <item>474a Pallid Horned Lark. (Skow)</item>
+            
+            <item>474b Prairie Horned Lark. Abundant resident.</item>
+            
+            <item>474c Desert Horned Lark. (Skow)</item>
+            
+            <item>The Crows, Jays, etc.</item>
+            
+            <item>477 Blue Jay. Common resident.</item>
+            
+            <item>486 American Raven. (Skow)</item>
+            
+            <item>488 American Crow. Abundant resident.</item>
+            
+            <item>The Blackbirds, Orioles, etc.</item>
+            
+            <item>494 Bobolink. Common migrant, rare summer resident.</item>
+            
+            <item>495 Cowbird. Abundant migrant and summer resident.</item>
+            
+            <item>497 Yellow-headed Blackbird. Common migrant, occasional summer resident.</item>
+            
+            <item>498 Red-winged Blackbird. Abundant migrant and summer resident.</item>
+            
+            <item>501 Meadowlark. Summer resident, rare. Frequently confused with following species.</item>
+            
+            <item>501b Western Meadowlark. Abundant summer resident.</item>
+            
+            <item>506 Orchard Oriole. Summer resident, not common.</item>
+            
+            <item>507 Baltimore Oriole. Common summer resident.</item>
+            
+            <item>509 Rusty Blackbird. Abundant migrant.</item>
+            
+            <item>510 Brewer's Blackbird. Common migrant.</item>
+            
+            <item>511 Purple Grackle. Abundant migrant and fairly common summer resident.</item>
+            
+            <item>511b Bronzed Grackle. Common summer resident.</item>
+            
+            <item>The Finches, Sparrows, Grosbeaks, etc.</item>
+            
+            <item>514 Evening Grosbeak. Rare migrant; two noted during spring of 1898.</item>
+            
+            <item>515 Pine Grosbeak. Rare winter visitant.</item>
+            
+            <item>517 Purple Finch. Irregular migrant; occasional winter resident.</item>
+            
+            <item>521 American Crossbill. Migrant, not common; rare winter resident.</item>
+            
+            <item>521a Mexican Crossbill. (Skow)</item>
+            
+            <item>522 White-winged Crossbill. Rare winter visitant.</item>
+            
+            <item>524 Gray-crowned Leucosticte. (Skow)</item>
+            
+            <item>528 American Redpoll. Common migrant; winter resident.</item>
+            
+            <item>528b Greater Redpoll. Migrant, not common; occasional winter resident.</item>
+            
+            <item>529 American Goldfinch. Common resident.</item>
+            
+            <item>533 Pine Siskin. Common migrant and winter resident.</item>
+            
+            <item>--- European House Sparrow. Abundant resident.</item>
+            
+            <item>534 Snow Bunting. Irregular migrant and winter resident.</item>
+            
+            <item>536 Lapland Longspur. Fairly common winter resident.</item>
+            
+            <item>538 Chestnut-collared Longspur. Fairly common migrant.</item>
+            
+            <item>539 McCown's Longspur. Rare migrant.</item>
+            
+            <item>540 Vesper Sparrow. Summer resident, not common.</item>
+            
+            <item>542a Savanna Sparrow. Common migrant and occasional summer resident.</item>
+            
+            <item>542b Western Savanna Sparrow. Summer resident, rare. (Skow)</item>
+            
+            <item>545 Baird's Sparrow. Common migrant; rare summer resident.</item>
+            
+            <item>546 Grasshopper Sparrow. Common summer resident.</item>
+            
+            <item>548 LeConte's Sparrow. Fairly common migrant.</item>
+            
+            <item>552 Lark Sparrow. Abundant summer resident.</item>
+            
+            <item>553. Harris' Sparrow. Common migrant.</item>
+            
+            <item>554 White-crowned Sparrow. Migrant, not common.</item>
+            
+            <item>554a Intermediate Sparrow. Abundant migrant, occasional in winter.</item>
+            
+            <item>558 White-throated Sparrow. Common migrant.</item>
+            
+            <item>559 Tree Sparrow. Abundant winter resident.</item>
+            
+            <item>559a Western Tree Sparrow. The western form of the preceding species; winter resident, of infrequent occurrence.</item>
+            
+            <item>560 Chipping Sparrow. Common summer resident.</item>
+            
+            <item>561 Clay-colored Sparrow. Common migrant.</item>
+            
+            <item>563 Field Sparrow. Abundant migrant and summer resident.</item>
+            
+            <item>567 Slate-colored Junco. Common winter resident, abundant migrant.</item>
+            
+            <item>567a Oregon Junco. Of same occurrence as preceding species, but less numerous.</item>
+            
+            <item>581 Song Sparrow. Common summer resident; occasional in winter.</item>
+            
+            <item>584 Swamp Sparrow. (Skow)</item>
+            
+            <item>585 Fox Sparrow. Common migrant.</item>
+            
+            <item>585a Slate-colored Sparrow. Of rare occurrence. (Skow)</item>
+            
+            <item>587 Chewink. Abundant summer resident.</item>
+            
+            <item>593 Cardinal Grosbeak. Resident, not common; sometimes breeds.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">Anonymous 1899. Actual date not known. <title level="u">Unpublished manuscript</title>. Miscellaneous pages. Available at the library of the Nebraska Ornithologists' Union at the University of Nebraska State Museum. Scientific names have not been included.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

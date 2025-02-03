@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00866">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Squatter Arrives [Cowbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-04-07</date><biblScope>53(27): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Squatter Arrives.</head>
+         
+         <p>With a thin, wiry squeak the first Squatter of the spring bird season arrived in Omaha the other day, alighted in the top of a tall tree and looked around with the critical gaze of a shrewd prospector.</p>
+         
+         <p>"See-e-e! See-e-e!" he cried in delight as he noted a large number of Robins and Bluebirds and Phoebes there below him.</p>
+         
+         <p>ALthough not particularly interested in these acquaintances, the Squatter knew they foretold the early arrival of other feathered folk who will ultimately be of great service to him and his lazy helpmeet.</p>
+         
+         <p>For the Squatter, in ornithology, is the Cowbird - and the Cowbird has arrived.</p>
+         
+         <p>As far as it is known, this Cowbird is the only winged critter in America that does not build its own nest, but deposits eggs in the homes of others, notably warblers, catbirds, field sparrows and the like - while Mister Cowbird sits around and brags about it!</p>
+         
+         <p>The arrival of the Cowbird is a pretty sure sign that spring is here to stay, and that he and his gang will be followed by the more lovable winged creatures to take up residence in our parks and woods.</p>
+         
+         <p>There is nothing against the Cowbird except the stealing of the nests of other birds. In his habits - or her habits, if you please - the Cowbird does a great deal of good in taking insects and worms of different palatable brands.</p>
+         
+         <p>The English cuckoo, on the "tight little isle," is another bird which never builds a nest of its own - but in the Cowbird America has a curiosity second to none.</p>
+         
+         <p>It would be wrong to kill the Cowbird, perhaps, but when you see a little Warbler's happy home broken up by a pair of these ebon Squatters you are likely to be tempted.</p>
+         
+         <p>But the Cowbird is back - ready for business, nevertheless.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 7, 1918. The Squatter Arrives [Cowbird]. <title>Omaha Sunday World-Herald</title> 53(27): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

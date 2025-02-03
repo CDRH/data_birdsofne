@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00853">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Spring Notes.</title><title level="j">Forest and Stream</title><author>Locke, J.F.</author><date>1886-04-29</date><biblScope>26(14): 263.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Spring Notes—Salem, Richardson County </head>
+         
+         <p>Spring Notes.—Salem, Neb., April 16.—Cranes arrived here March 18, killdeer plover March 19, golden-winged woodpecker April 3, blackbirds and robins about a week earlier, bluebirds (<hi rend="italic">Sialia sialis</hi>) have been here nearly all winter. I saw the first turkey buzzard this season April 9. There is another bluebird sometimes seen here that is smaller and darker blue than <hi rend="italic">Sialia sialis</hi>. What are they?-J.F.L.<lb/>[Perhaps <hi rend="italic">Sialia arctica</hi>, a common species in the mountains to the west of you, but only accidental on the plains.]</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 29, 1886. <title>Forest and Stream</title>	26: 263.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

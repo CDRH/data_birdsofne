@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00259">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[End of the Spring Shooting Season].</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy, Sporting Editor.</author><date>1897-04-25</date><biblScope>p. 19. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-21"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <head>Weekly Jaunt With Votaries of the Rod and Gun.</head>
+         
+         <p>The snipe shooters were in high feather all last week, the weather being warm and sultry, and the birds plentiful. But the spring shooting season is now practically over. The wild fowl, with the exception of teal and spoonbill, have about all winged their way to their breeding grounds in the fastnesses of he far north, and the jacks will remain but a brief time longer. From this on until the golden rod hoists its lovely plume in mid-July trapshooting will almost wholly claim the attention of the gunners. Interest in this tamer sport has received a marked impetus since the organization of the Dupont club, and it is more than likely that the activity which marked the years of 1888-89 is to be seen here again this summer. Of course it is true there is yet considerable sport to be had afield with the yellowlegs and sandpipers, but when the shooing dwindles down exclusively to this class of birds the ardor of the sportsman grows lukewarm and the game is but little pursued. With the departure of the royal little gallinagos much of the charm of marsh and slough disappears, and the gunners turn to the trap as an antidote for ennui. However, there are few better table birds than the lesser yellowlegs and the little mottled sandpipers, more commonly known as grass plover, but this is not generally recognized, and they always have a low rating in the markets. Just now these birds are veritable tiny rolls of fat, and as their flesh is sweet and delicious, they compare favorably with the birds of higher order that have gone, and make a capital substitute for the same. Along about the 15th of July the upland plover come down from the north and frequent our measureless hay fields and meadows until late in August, when they again take up their line of flight for the flowery plateaus of New Mexico and Texas. As a game bird, the upland plover has but few superiors. They are fully as large if not larger than a quail and have the remarkable faculty of always being in prime condition. Baked or broiled plover is a morceau that is hard to beat, many gastronomes ranking them with the jacksnipe and woodcock, but of course this requires considerable elasticity in one's imagination. They are to be found no more plentiful than right here in Nebraska, and their pursuit affords unparalleled midsummer sport. By the last of July they are always to be found extremely plentiful in this immediate vicinity, haunting the broad hay fields and grassy uplands just west of this city a few miles by the thousands. Later on in the season comes the young dove shooting, a sport not to be winked at even by the sportsman who has been favored with fine snipe and plover shooting. Doves are not included in our state's game law, but they are almost universally recognized as a superior table morsel, and have been given their regular close and open season in the game laws of most of the states of the union. In August the sickle-bill curlew arrives, but in latter years they have systematically succeeded in dodging this neighborhood, but put in an appearance in the sandhills country in larger numbers than any other feathered game, with the possible exception of the wild fowl. They are a queer bird, decoy blindly, and hence make easy shooting. As to their table qualifications, there are a good many birds I would rather have, although many epicures consider a young curlew a beauty and a joy forever. September sees the opening of the chicken season. Then again comes the hordes of ducks and geese, and later on in the bleak days of November and early December the lordly little Bob White has the call over all competitors.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold, Sporting Editor. April 25, 1897. [End of the Spring Shooting Season.] <title>Omaha Sunday Bee</title> p. 19.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

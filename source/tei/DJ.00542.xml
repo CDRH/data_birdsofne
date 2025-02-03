@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00542">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Migration. [Wild Geese Traveling Southward - Quail Very Plentiful].</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1860-10-17</date><biblScope>3(201): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Migration.</head>
+         
+         <p>The wild geese are traveling southward in large numbers, giving us warning that winter is approaching. The sand bars on the river are sprinkled with them as they alight in their southward journey, and we hear that sportsmen are having rare sport among them. We have seen a few samples of the sportsmen's skill at our butchers' stalls.</p>
+         
+         <p>Quails are very plentiful hereabouts this season, and frequent the outskirts of the city in large numbers it is said by the sportsmen. It is a pretty good season for game of all sorts.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor. October 17, 1860. Migration. [Wild Geese Traveling Southward - Quail Very Plentiful]. <title>Omaha Daily Republican</title> 3(201): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+
+   
+   </text>
+
+</TEI.2>

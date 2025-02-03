@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00404">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Honkings From the Platte.</title><title level="j">Forest and Stream</title><author>Wolfe, W.M.—Shoshone.</author><date>1889-04-04</date><biblScope>32(11): 212.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Honkings From the Platte.</head>
+         
+         <p>Kearney, Nebraska, March 15.—The proper nomenclature of geese and brant is, to me, a regular "13-14-15" puzzle. It has been my hope that with specific names arranged according to the A.O.U. check list the problem would be simplified, but I have found that the problem would be simplified, but I have found that the only way to do is to determine the species by careful study, without reference to geographical distribution as given be recognized manuals, and then to let local sportsmen decide as to local names. We have, in central Nebraska, as spring and fall visitants, five anserine species, known locally as the "Canada goose," "Mexican goose," "white goose," "speckled brant" and "black-winged brant." Some of these are easily identified, the first being <hi rend="italic">Branta canadensis</hi> (Linn.); second, <hi rend="italic">B. c. hutchinsii</hi> (Sw. and Rich.), though why it should be called Mexican instead of Hutchin's goose I cannot imagine. The speckled brant almost corresponds with <hi rend="italic">Anser albifrons gambeli</hi> (Hartl.), but the upper parts seem to be rather a dove color. <hi rend="italic">Chen hyperboria</hi> (Pall.) will answer for black-winged brant, but should we not have <hi rend="italic">C. c&#156;rulescens</hi> (Linn.) or does not the blue goose fly so far west of the Mississippi? The white goose I have never shot. In the air it appears perfectly white, and those who have shot it say that it is white with the exception of yellowish feathers upon the neck. Feet yellow. It is extremely rare and shy. From the description given by those who claim to have handled the bird, I cannot make any satisfactory determination of the species, though it seems to be a <hi rend="italic">Chen</hi>.</p>
+         
+         <p>My midwinter notes closed with the extremely cold wave of Feburary 22, and the consequent southern flight of all game and ducks. The 23rd was warm, and the next day was quite springlike. On Feburary 25, Canadas and Hutchin's geese returned in considerable numbers. Two flocks flew over the Platte and probably did not alight before reaching the Loup. Since then geese have become more numerous each day. The same week brought a few mallards and a great number of pintails. Duck hunters are compelled for the present to devote themselves to the pintails. As yet there are no teal. On March 4 speckled brant began to arrive, and on this date I saw the first robin of the season. Six days later came the black-winged brant, and with them meadowlarks put in an appearance.</p>
+         
+         <p>Already the migration is well under way. From this point the geese uniformly take a northwesterly direction in their flight. Upland shooting on the feeding grounds is fair, but not as good as at the same time last year. The country about Kearney is getting so thickly settled that the main line of migration has taken another westward move.</p>
+         
+         <p>There must be a certain social instinct in geese whereby they can select friends and acquaintances from a particular flock and one flock from another. Yesterday afternoon, just before sundown, I heard the honkings of some Canadas, and rushed to the door to see whether the flight was sufficient to warrant a four o'clock call in the morning. Within fifteen minutes six large flocks passed directly overhead on their way to the feeding ground. While the last flock was in full view there appeared to the west and about a half a mile distant an equally large flock returning from the feeding grounds to the river. When they were opposite each other the nearer flock was thrown into confusion from some unknown cause. The Canadas lost their line and huddled as though they had been shot at. Suddenly a pair of geese darted from the bunch, in spite of the evident efforts of the rest to detain them, and, instead of going toward the feeding grounds, rapidly retraced their way, flying in a southwesterly direction to the second flock. This, too, became confused in welcoming the new comers, but, as soon as the formal introduction was concluded, the line resumed its proper position. It looked as though the pair of fugitives had voluntarily given up a feast with enemies in order that they might be with friends.</p>
+         
+         <p>Two of our local sportsmen went to the feeding grounds a day or two since, and as they both have records we expected nothing less than a wagonload of game. They found that the cornstalks in the field had been raked into long winrows, thus affording the best possible cover; so they crawled under the pile and awaited the sound of wings. They had lain there perhaps half an hour, when one of them complained in the great amount of smoke in the atmosphere. A few minutes later they crawled out to find the row in flames and two small boys superintending the conflagration. The opulent sportsmen put their hands in their pockets and offered twenty-five cents apiece if the lads would put out the fire. But the innocents could not be bribed. "Can't do it, boss, for less'n dollar," was the ultimatum; so the hunters journeyed homeward, and the sad-eyed boys wished that they had taken the quarter, and the geese laughed audibly as they alighted in the next field. Such, at least, is the story of the smoked-out shots.</p>
+         
+         <p>All that is needed to make first-rate shooting is a hard storm. The weather is too fine at present, and with a moderate south wind the flight of geese is out of range, except near the river, where birds are liable to drop into the stream and be carried away.</p>
+         
+         <p>Shoshone [W.M. Wolfe].</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 4, 1889. <title>Forest and Stream</title> 32(11): 212.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

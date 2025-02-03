@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00917">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Our Trip to Birdland.</title><title level="j">Omaha Sunday Bee</title><author>Johnson, Frances.</author><date>1909-06-13</date><biblScope>38(52): part 4, page 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Our Trip to Birdland.</head>
+         
+         <p>By Frances Johnson, 13 years, 933 North Twenty-fifth Avenue, Omaha. Blue side.</p>
+         
+         <p>(This poem is based on a recent birding trip by two Busy Bees.)</p>
+         
+         <head>I.</head>
+         
+         <list type="simple">
+            
+            <item>It was an ideal day in perfect May,</item>
+            
+            <item>Butterflies flitted o'er flower-faces gay;</item>
+            
+            <item>Softly shed they their fragrant breath, the sweet apple bloom—</item>
+            
+            <item>While the dainty wild plum wafted fragrant perfumes</item>
+            
+            <item>To a woodland nook where the two girl friends sat by a brook.</item>
+            
+            <item>Perhaps you would have thought their expressions quite glum,</item>
+            
+            <item>But you know not the reason for which they had come.</item>
+            
+            <item>They were very wide awake all the same,</item>
+            
+            <item>And to see Birdville choir was their greatest aim.</item>
+         
+         </list>
+         
+         <head>II.</head>
+         
+         <list type="simple">
+            
+            <item>Ah, what is that? Tread lightly—hark!</item>
+            
+            <item>Is not that the song of the meadow lark?</item>
+            
+            <item>It's he who prefers his larklings concealed</item>
+            
+            <item>In some fragrant meadow, or in some grassy field.</item>
+            
+            <item>Oh, see the thrasher up in that tree!</item>
+            
+            <item>Hear him warble forth his sparkling notes of glee!</item>
+            
+            <item>Did you, as he flew, the oriole behold,</item>
+            
+            <item>With his shining gown of black all trimmed in richer gold</item>
+            
+            <item>Than e'en e'er wore the pagan kings of old?</item>
+         
+         </list>
+         
+         <head>III.</head>
+         
+         <list type="simple">
+            
+            <item>There sits the blue bird, with his back of velvety blue;</item>
+            
+            <item>Ah, who could wish to see a more brilliant hue!</item>
+            
+            <item>Not e'en the one who has seen the Vesuvian bay, so blue;</item>
+            
+            <item>Not e'en the one who has had of some clear Swiss lake a view.</item>
+            
+            <item>Then there was somber cat-bird, with his medley of notes,</item>
+            
+            <item>While in the swamps there were scores of Maryland yellowthroats.</item>
+            
+            <item>Amid the dandelions the friends espied swarms of gold finches,</item>
+            
+            <item>And it would be very hard to decide</item>
+            
+            <item>Which was prettier, Mr. Wren or his plain but pretty bride.</item>
+         
+         </list>
+         
+         <head>IV.</head>
+         
+         <list type="simple">
+            
+            <item>The swallow was next on their program to see,</item>
+            
+            <item>As he dipped through the air so swiftly and free.</item>
+            
+            <item>Once they thought an old oak on fire,</item>
+            
+            <item>But soon perceived 'twas cardinal in his most gorgeous attire.</item>
+            
+            <item>This, of a sudden, was the conversation to be heard:</item>
+            
+            <item>"Oh, look over in that cottonwood, pray, what is that bird?</item>
+            
+            <item>Did e'er you hear such a mysterious squeak?"</item>
+            
+            <item>"Ah, dear friend, that's the rose-breasted grosbeak!"</item>
+         
+         </list>
+         
+         <head>V.</head>
+         
+         <list type="simple">
+            
+            <item>Then they saw Mr. Woodpecker, with his conspicuous apron of white,</item>
+            
+            <item>And his cap, all gemmed in rubles, presented a most brilliant sight.</item>
+            
+            <item>Now my pen will stop for this time,</item>
+            
+            <item>For fear the Busy Bees tire of such a monotonous rhyme.</item>
+            
+            <item>But let me say, just one more thing,</item>
+            
+            <item>That those songs in my ears re-echo and ring;</item>
+            
+            <item>For, besides I, the other one was—don't you know who I mean?"</item>
+            
+            <item>It was Myrtle Jensen, our former sovereign queen!"</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">June 13, 1909. <title>Omaha Sunday Bee</title> 38(52): part 4, page 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

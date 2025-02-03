@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00516">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Marathon Songster [Dickcissel].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-07-04</date><biblScope>50(40): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Marathon Songster.</head>
+         
+         <p>As is very often the case in other matters of life, the commonest of birds are generally the least understood and the least studied. The public schools furnish a shining example of this during the past year, when the kindergarten pupils were asked to ascertain whether a robin hops or runs while enroute to the nearest and most succulent worm. Just in passing, there is a neat little question for you grown-ups, too. But that is another affair.</p>
+         
+         <p>If you will take a walk through the open country today, for the good of your lungs, legs, disposition and cerebral convolutions, you will be serenaded by a beautiful songster who makes up in persistence what he lacks in melody. You have heard him so often and so continuously during the summertime that you pay no more attention to his remarks than to the buzzing of a fly. You would not even deign to give him one careful inspection, which would prove him to be a mighty pretty fellow, with his cream-yellow breast and jet-black throat. His song, likewise, is far from discordant. Perched on the tip of some isolated weed, or on a fence or telephone wire along the road, he tilts back his comely head and observes, time after time -</p>
+         
+         <p>"Chip! Chip! Chee-chee-chee-chee-chee!"</p>
+         
+         <p>Some bird lover with an extremely fertile imagination made a study of the song of this plentiful and persistent vocalist of the roadside, with the result that the Black Throated Bunting is now known as the Dickcissel. The imaginative party contends that the bird's real overture is -</p>
+         
+         <p>"Dick! Dick! Cissel!"</p>
+         
+         <p>All right! Call him a Black Throated Bunting of call him Richard Cissel - it's all the same - he is the prize marathon singer of all the summer birds, for he even stays on the job during the pitchy blackness of night, while during the day he is positively irrepressible. It is no strange thing to awake after midnight and hear, bursting forth from the Stygian darkness, that vigorous and unmistakable declaration of independence - </p>
+         
+         <p>"Chip! Chip! Chee-chee-chee!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 4, 1915. A Marathon Songster [Dickcissel]. <title>Omaha Sunday World-Herald</title>	50(40): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+
+   
+   </text>
+
+</TEI.2>

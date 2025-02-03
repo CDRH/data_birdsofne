@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00266">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Enthusiastic Picknickers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-07-22</date><biblScope>52(43): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Enthusiastic Picknickers.</head>
+         
+         <p>Every park in the city is well filled with picnic parties these Sundays, and the roisterers seem to have a mighty good time. In some of the parks the humans are not the only beings to relish the picnic stunt, however. They have company; black company; hungry company.</p>
+         
+         <p>The Bronzed Grackles or Crow Blackbirds are the most enthusiastic picnickers in the business, although most of the feathered fellows stand by about lunch time in the woods. The grackles, with their somber eyes and long, black, aeroplane tails, lead them all, nevertheless.</p>
+         
+         <p>When the humans have finished their repast, the Grackles get busy, and if you think that one of them cannot carry off at least half his weight in bread of cake you are entitled to another guess. With raucous squawks they swoop down, pounce upon some huge morsel, and lumber heavily off with it to the evergreens, where are their homes and families. A baby grackle can open up a maw and swallow a hunk of bread that would simply horrify Mr. Hoover.</p>
+         
+         <p>In the meantime the Catbirds and Wrens and Robins and the rest are skirmishing about in a less vociferous fashion, taking care of the smaller bets which may be found on the campground. It is an interesting and a pleasing spectacle.</p>
+         
+         <p>Commissioner Hummel never has to clean up after a picnic party in Elmwood park - at least as far as scraps of food are concerned. he has a feathered gang out there that works for its keep and no more; in all kinds of weather and without any squabbles as to hours or working conditions.</p>
+         
+         <p>The birds are enthusiastic picnickers and should furnish you plenty of fun during your visit to the parks today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 22, 1917.  <title>Omaha Sunday World-Herald</title> 52(43): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

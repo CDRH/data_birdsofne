@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00359">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Going and Coming [Bird Migration].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-09-26</date><biblScope>55(52): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Going and Coming.</head>
+         
+         <p>Somebody with a very good eye recently prophesied a cold spell early last week because he saw a great flock of blackbirds going south. He told the World-Herald that this tremendous migration presaged a lot of weather trouble and left the insinuation that the Blackbirds had left these parts completely.</p>
+         
+         <p>As a matter of fact, these Blackbirds, probably Red-wings mixed with Bronzed Grackles, at this stage of the game get together and swarm around the cornfields stuffing themselves for their long trip to the south. A great migration might indicate the first movement to the southern zone, but would by no means suggest a cold weather spell. The birds referred to travel in great groups from field to field and wait until actually driven southward by the weather.</p>
+         
+         <p>In other words, they follow the weather, rather than precede it.</p>
+         
+         <p>Just as the Sparrows float down from the north in the teeth of the cold autumn blasts, the local resident birds of the nature of Blackbirds and Grackles, leisurely meander toward the Gulf. We are a sort of transfer station in Birddom, just as we are in the east and west mail service. One bird comes in, and another goes out.</p>
+         
+         <p>Great flights of ducks and geese to the south are likely to register a cold wave on its way, but the Blackbirds and Grackles are not reliable.</p>
+         
+         <p>When you see a Brown Creeper, Junco or Red Breasted Nuthatch - prepare to shovel coal!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 26, 1920. Going and Coming [Bird Migration]. <title>Omaha Sunday World-Herald</title> 55(52): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

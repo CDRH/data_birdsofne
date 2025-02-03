@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00025">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Another First Robin.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-01-09</date><biblScope>56(14=15): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Another First Robin.</head>
+         
+         <p>In answer to the burning question of the day we would chronicle the fact that the first Robin of 1921 was seen at Camp Gifford by a group of Boy Scouts.</p>
+         
+         <p>The last Robin of 1920 was noted on December 31 in the jungles northeast of Carter Lake by Bill Marsh, a noted amateur ornithologist. Robins and moonshiners seem to habitate the latter locality all the year around, but Mr. Marsh lays no claim to being either of these.</p>
+         
+         <p>Seriously, the "first Robin" story printed annually in every newspaper in these parts is a considerable jest. As we have previously remarked, it is very hard to differentiate between the last Robin and the first one - because they are here all the year.</p>
+         
+         <p>Robins are very hardy birds, and large numbers of them stay in the thickets and underbrush along the river and other lowlands, where there is plenty of protection from storms, and also plenty of food. When an unusually warm day comes along, they often come up into the city for a change of diet, and then some excited person is pretty sure to telephone his or her favorite newspaper and report the "first Robin." As a matter of fact, one was seen in Turner park the last week in December.</p>
+         
+         <p>Not only do the Robins stay in this underbrush and jungles all the year, but Chewinks and Bluebirds are very near to Carter lake at this writing.</p>
+         
+         <p>The birds, like humans, seem to adore Omaha and stay here in spite of everything.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 9, 1921. <title>Omaha Sunday World-Herald</title> 56(14=15): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

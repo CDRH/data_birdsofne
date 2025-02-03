@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00740">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Last Robin.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-11-16</date><biblScope>55(9=7): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Last Robin. </head>
+         
+         <p>In view of the fact that so much importance is attached to the appearance of "the first Robin" in the late winter months of early year, why not give some attention to "the last Robin" of the late year?</p>
+         
+         <p>As a matter of fact, the Robins never leave us entirely. They migrate to the south in tremendous numbers, it is true, but there are always a few of the hardy ones to remain behind and keep up the watch for the benefit of the equally hardy ornithologist who may choose to look for them.</p>
+         
+         <p>At present a few Robins may be seen scratching about in the leaves in wooded places, searching for the bugs and worms they adore as a diet. Gradually these birds will disappear from the high ground and retire to the thickets along the river bottoms, where they are accorded perfect protection against all sorts of weather, and where they may find open water and insect life at the springs. The Chewink, or Towhee, does about the same thing, but not in as large numbers. The latter bird is often known to stay here all winter.</p>
+         
+         <p>But now is your last change to make yourself famous by seeing "the last Robin."</p>
+         
+         <p>Then you may go out after January 1, 1920, and maybe have the honor of seeing "the first Robin."</p>
+         
+         <p>The great trouble is that there may be too short a space of time between the last and the first.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 16, 1919. <title>Omaha Sunday World-Herald</title> 55(9=7): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

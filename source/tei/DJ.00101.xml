@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00101">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds' Prophecy [Winter Birds].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-11-30</date><biblScope>55(11=9): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds' Prophecy.</head>
+         
+         <p>It would seem that the feathered folk of the frigid months know which side their figurative bread is buttered on!</p>
+         
+         <p>Winter birds of certain sorts have been known to come to Omaha only on the long cold winters. They did not appear here last season in the two or three days of early January when the mercury ducked below the zero line. The last appearance in numbers as large as at present was three years ago, when Nebraska "enjoyed" one of the most severe winters in recent history.</p>
+         
+         <p>Lately it was observed by the World-Herald that the arrival of the Red Crossbills, the Red Breasted Nuthatches, the Siskins, the Redpolls and the Tufted Titmice presaged what might be called, in the language of the proletariat, a "tough winter."</p>
+         
+         <p>The "tough winter," it would seem, has now arrived.</p>
+         
+         <p>These birds are very seldom wrong in their guess as to weather conditions, and the fact that they are to be seen in all our woods and parks would seem to show that the conservation of coal is a mighty fine idea.</p>
+         
+         <p>But the birds themselves, being of a particularly beautiful and interesting character, do a great deal toward taking the sting out of the frigid stuff they prophesy, and we can only recommend that all amateur ornithologists take advantage of the present opportunity of studying them.</p>
+         
+         <p>Brother Hicks can't hold a candle to a Red Crossbill when it comes to prognostication.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 30, 1919. The Birds' Prophecy [Winter Birds]. <title>Omaha Sunday World-Herald</title> 55(11=9): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

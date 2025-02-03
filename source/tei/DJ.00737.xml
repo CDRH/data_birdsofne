@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00737">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Robin, the Immaculate.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-04-15</date><biblScope>52(29): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Robin, the Immaculate.</head>
+         
+         <p>When one considers the infamy of the unknown and misguided lunkhead who brought the English Sparrow into American he is likely to regret that we are now an ally of England. This feeling is based on a misapprehension, however, for the so-called English Sparrow is not essentially a British pest, but hails from all of western Europe and should therefore be known as the European Sparrow - a monicker found only in scientific volumes on ornithology.</p>
+         
+         <p>All this is merely a preface to the observation that the European Sparrow, pugnacious pest today in nearly every state of the union, is not as numerous as the good old Robin!</p>
+         
+         <p>Yes sir - Uncle Sam's experts have repeatedly asserted, after months of arduous field work, that the old Red Breast has a decided majority among the songbirds of this nation.</p>
+         
+         <p>It is very good to know this, for the Robin is one of the finest of all feathered fellows.</p>
+         
+         <p>In the first place he is immaculate in his habits, and bathes every time the opportunity offers. Those who have installed bird baths in their yards will agree in this statement, for the Robins generally monopolize the tiny pool and will often be found up to their necks in the bath when ice is still floating on the surface of the same.</p>
+         
+         <p>Moreover, the Robin is as friendly as the Chickadee, and scarcely less inquisitive. The Red Breast will follow you as you spade the garden, pulling out long, rubber worms after eery turned-over spadeful of earth. He will look at you with the most interested and complimentary glances, his bright eyes fairly gleaming with appreciation and, perhaps, with a twinkle of humor. And after he has feasted in this manner, he will immediately take to the bath, to cleanse himself - a good deal as we humans indulge in the fingerbowl.</p>
+         
+         <p>Robins are everywhere, in and out of the city, and will nest in the most densely populated districts. They are good friends to humankind, and deserve the proper appreciation.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 15, 1917. <title>Omaha Sunday World-Herald</title> 52(29): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

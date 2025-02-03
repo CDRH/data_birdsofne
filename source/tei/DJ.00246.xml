@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00246">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">In the Early Morn.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-08-28</date><biblScope>56(48): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>In the Early Morn.</head>
+         
+         <p>This has to do with tent caterpillars and their most bitter enemies - ourselves and the birds.</p>
+         
+         <p>We are their enemies because they build tent-like webs about our trees and bushes, under which to ruin the foliage and ultimately kill the entire growth unless something of a preventive nature is done. We have modern methods of halting the disastrous march of this caterpillar, and of destroying the tent camps after they are built. Therefore we are enemies of that busy little white worm.</p>
+         
+         <p>The birds, however, are their real enemies. They are sent by the omnipotent, it would seem, to give the tent caterpillar a reliable insight as to his place in the world, and to thin out his numbers so that he may be of due humility.</p>
+         
+         <p>Early in the morn it is interesting to see these birds "on the job."</p>
+         
+         <p>Humans have discovered that rings of different sorts of poison or tanglefoot preparations about the trunks of trees will prevent the tent caterpillars from parading up there into the foliage to build their nefarious circus cities, thus keeping the noxious wormlets congested in a bunch below that magic circle.</p>
+         
+         <p>Here's where the birds have their innings - early in the morn!</p>
+         
+         <p>There you will find 'em - Flickers, Red Headed Woodpeckers, Downy and Hairy Woodpeckers - even smaller birds of the finch family trying to master a caterpillar almost their own size - busily engaged in harvesting an easy table d'hote breakfast.</p>
+         
+         <p>While this is going on - up there in the foliage you will see the Yellow Billed Cuckoo and the Baltimore Oriole and the Rose Breasted Grosbeak and the Robin - and many other of the larger and more beautiful of our feathered friends, working like the proverbial beavers to fill their stomachs and save our trees.</p>
+         
+         <p>Is it any wonder that bird conservation grows more popular year by year?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 28, 1921. In the Early Morn. <title>Omaha Sunday World-Herald</title> 56(48): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

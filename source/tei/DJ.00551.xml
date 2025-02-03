@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00551">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Messrs. Downy and Hairy.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-03-05</date><biblScope>51(23): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Messrs. Downy and Hairy.</head>
+         
+         <p>"Peenk!"</p>
+         
+         <p>This abrupt and somewhat eery remark echoes through the wooded places of Omaha and vicinity all the year 'round. It is delivered with a punch and can be heard a long way, for it is the hunting call of the Downy and Hairy Woodpeckers.</p>
+         
+         <p>These two hardy birds are so much alike that there is scarcely any way to distinguish them except by their size, the Hairy being at least twice as large as the Downy, and having just that much more vim in his warwhoop. They both are tree doctors of the greatest skill and spend all their time, both winter and summer, in boring away at the bark in search of insect pests and worms.</p>
+         
+         <p>A long time ago these mighty useful birds were termed the Greater and Lesser Sapsuckers, but it has since been proven that they do not touch the sap of trees, and that their work is entirely beneficial.</p>
+         
+         <p>Aside from their money value to humankind, the Downy and Hairy Woodpeckers are really beautiful creatures of black and white feathering, the proud he-birds, as is always the case among the songsters, wearing the decorations—bright red caps upon their crowns.</p>
+         
+         <p>In the bitterest of winter weather, when the storm is raging and the mercury is loafing around in the basement, the Downy is particularly busy, rivaling the irrepressible Chickadee in his cheerful campaign for grub.</p>
+         
+         <p>These two woodpeckers may easily be identified while in flight by their sweeping, undulating dives, with closed wings, at the end of every stroke. The Downy often clings to weed stalks, swaying precariously in the wind, while he searches for seeds. The Hairy is more likely to be beating a hollow and resounding tatoo far up in some giant tree.</p>
+         
+         <p>If you have time today, take a little walk through some wooded park and make yourself acquainted with Messrs. Downy &amp; Hairy.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 5, 1916. <title>Omaha Sunday World-Herald</title> 51(23): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

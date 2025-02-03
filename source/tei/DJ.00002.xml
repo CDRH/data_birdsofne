@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00002">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska's Abundant Game.</title><title level="j">Forest and Stream</title><author>Hubbard, C.P.</author><date>1893-11-18</date><biblScope>41(20): 427.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-07-12"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska's Abundant Game.</head>
+         
+         <p>Broken Bow, Nebraska.—<hi rend="italic">Editor <title>Forest and Stream</title>:</hi> Never before has Nebraska seen such an abundance of game as this season has produced. First—prairie chicken yielded the hunter some tremendous bags in September and now the abundance of quail, geese, snipe and duck fills the sportsman's bosom with delight. Though the flight of wildfowl is no greater than in some former years, still the combination of land and water fowl that may be found in many localities in Nebraska cannot be excelled in any State of the Union and can be equalled by but few. As in former years, the Platte River from Columbus to North Platte affords shooting <hi rend="italic">par excellence</hi> for waterfowl. At Clark's the well known hostelry of Col. West has entertained numerous parties of jolly sportsmen who have departed with well filled bags, and the remembrance of many a happy incident to relate to their less fortunate brethren who have remained at home, "chained to business."</p>
+         
+         <p>Cozad, Brady's Island and Gothenburg have had their quota of visiting sportsmen, and still they come. Any of the points mentioned along the line of the Union Pacific R.R. will be found <hi rend="italic">ne plus ultra</hi> for all kinds of game, the accommodations good and the officials of the U.P.R.R. courteous and obliging to their patrons.</p>
+         
+         <p>The variety of game that one can bag is surprising. Near Clark's I shot in one day seven distinct varieties of duck and geese, besides snipe, prairie chicken, sharptail grouse and quail. There may be localities where one can make larger bags of some particular bird, but no place where one can find good shooting on a different kind of game each day in the week as they can here.</p>
+         
+         <p>The semi-occasional stir among Nebraska sportsmen to have the game laws better enforced has just broken out, and I hope will do some good. It is safe to say, however, that these spasmodic attempts will amount to little until an organized effort is made to protect game during the close season. The game warden system is the only one that has ever proved satisfactory, and until a fund is raised to support such system, local protection will be of little avail.</p>
+         
+         <p>I am always willing to advise brother sportsmen who intent visiting Nebraska as to routes, locations, etc., for the best shooting, and am amply repaid in the knowledge that I have done a good turn. I will gladly answer any inquiries that may be made.</p>
+         
+         <p>C.P. Hubbard.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 18, 1893. <title>Forest and Stream</title> 41(20): 427.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

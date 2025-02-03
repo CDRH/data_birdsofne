@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00426">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hunting at Army Posts.</title><title level="j">Forest and Stream</title><author>D.</author><date>1886-02-11</date><biblScope>26(3): 45.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+<revisionDesc>
+<change>
+  <date value="2005-06-13"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hunting at Army Posts.</head>
+         
+         <p>About a month ago a brief note was sent from this office to several of the outlying posts of the regular army, asking for information about the use of the Springfield shotgun, which is issued for use by the men in their leisure hours. The object of the inquiry was to see how far these guns were successful in the purpose of their manufacture and issue in keeping the company and post larder well supplied with game delicacies in season.</p>
+         
+         <p>The responses from the army posts have been general and prompt, and show that the members of Uncle Sam's scattered frontier patrol force have not failed to take advantage of the opportunities for field sport thrown in their way.</p>
+         
+         <p>The letters speak best for themselves, and the few we are enabled to give in this issue show that from the Canadian to the Mexican border there is always some manner of healthful exhilarating sport to be had:</p>
+         
+         <list type="simple">
+            
+            <item>
+               
+               <hi rend="italic">Editor <title>Forest and Stream</title>:</hi>
+            
+            </item>
+         
+         </list>
+         
+         <p>Your note of the 9th inst. is at hand, and in reply would state that the large game, such as deer and antelope, have almost entirely disappeared. A few deer have been killed in the vicinity of the post, and they by hunters and trappers. The only small game we have are ducks (mallard and teal) and the willow grouse. The ducks are not very plenty, and we only get them during the fall flight south. The grouse are with us the year round, and occasionally give good sport. This part of Nebraska is filling up so rapidly with settlers and farmers that I believe the grouse will increase. The corn, wheat and oats fields give the young birds cover from hawks and other destroyers of small game. The Springfield shotgun issued by the Government to the troops is used by the enlisted men almost exclusively, and with fair success. For a person who has been accustomed to an 8 1/2 pound Scott double gun the Springfield would not be a success. The Springfield is a better gun for the enlisted men, for the reason that few of them are good wing-shots.</p>
+         
+         <p>Jack rabbits and the small bush rabbits are found in some places along the streams. The bush rabbits are plenty. There are no quail in this part of Nebraska.</p>
+         
+         <p>D.<lb/>Fort Robinson, Neb., Jan. 26.</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 11, 1886. <title>Forest and Stream</title> 26(3): 45.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

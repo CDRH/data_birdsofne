@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00706">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Quail Hunting is Quite Expensive. At Least a Boston Man Found it So While Out with Some of His Omaha Friends. Caught Without a License.</title><title level="j">Omaha Daily Bee</title><author>Bee Reporter.</author><date>1915-11-10</date><biblScope>45(124): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Quail Hunting is Quite Expensive</head>
+         
+         <head>At Least a Boston Man Found it So While Out with Some of His Omaha Friends.</head>
+         
+         <head>Caught Without a License</head>
+         
+         <p>Shooting the festive quail in Nebraska is a pleasant pastime, but it occasionally proves expensive.</p>
+         
+         <p>J.L. Bachelor, a wealthy Boston man, is one who will testify that there is more truth than poetry in the above assertions.</p>
+         
+         <p>Last week Mr. Bachelor, in company with W.M. Burgess, Myron Learned, Frank Hamilton, Fred Hamilton and Fred Montmorency, five prominent Omahans, went out to Benkelman, Neb., to enjoy a few days of quail shooting. Mr. Bachelor had heard glorious tales of the excellent quail shooting in the Cornhusker state, so a private car was fitted out and the party started out.</p>
+         
+         <head>Quail Not Considerate.</head>
+         
+         <p>Everything was lovely. Mr. Bachelor was heard to complain that the quail were not very considerate towards huntsmen, because they flew too high, until one evening when the party were enjoying the evening in the private car following a day of shooting. Then it happened.</p>
+         
+         <p>John Holmes of Orleans, Neb., is deputy state game warden and therefore represents the well known law. Mr. Holmes horned into the private car party, although he wasn't invited.</p>
+         
+         <p>He wanted a look at the licenses. Five men were in sight. He was given a slant at five licenses. All seemed O.K.</p>
+         
+         <p>But Holmes is foxy. He had some inside information. "Where's the sixth man of this party?" he demanded.</p>
+         
+         <p>No answer. Far be it from the Omahans to deny a sixth man existed, for that would be deviating from the truth, but they didn't have to answer if they didn't want to.</p>
+         
+         <p>So Holmes proceeded to investigate the car, and he discovered Bachelor secreted in a closet.</p>
+         
+         <p>The Boston man confessed he had forgotten to take out a nonresidence license.</p>
+         
+         <p>So the cruel Holmes took bachelor in charge, yanked him before a justice at midnight, and the justice proceeded to charge the Boston man $60.30 for shooting live quail. The scale was determined by assessments of 20 for hunting without a license. $5 for each quail plugged and $15.30 costs.</p>
+         
+         <p>This all happened last week, but didn't leak out until Holmes made a visit to Omaha and let slip the news.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 10, 1915. <title>Omaha Daily Bee</title> 45(124): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

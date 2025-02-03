@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00826">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Sporting Tournament at Nebraska City and Bird-Murder.</title><title level="j">Omaha Weekly Herald</title><author>Globe, Lincoln.</author><date>1880-05-07</date><biblScope>15(32): 6. From the Lincoln Globe.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-08-08"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sporting Tournament at Nebraska City and Bird-Murder.</head>
+         
+         <p>The Lincoln <hi rend="italic">Globe</hi> says:</p>
+         
+          <p>The people of Nebraska City are sparing no efforts towards making the approaching tournament of the State sportsmen's association the most successful event of the kind ever held in Nebraska. Were it not for the useless and wanton murder of useful and inoffensive birds, these tournaments would be very enjoyable affairs both to the spectators as well as to the participants.</p>
+         
+         <p>The <hi rend="italic">Globe</hi> speaks the well known sentiments of The Herald in regard to the wanton slaughter and murderous wounding of birds as a source of delight to sportsmen, but it is not likely that either the <hi rend="italic">Globe</hi> or Herald will live long enough to see the passion that is coextensive with the Anglo-American race for these destructive sports eradicated. The most that can be done is to create a public opinion that will protect the birds against starvation and slow murder for want of food and water where they are transported long distances, packed in cages so that they can scarcely breathe, and to persuade our sportsmen to make arrangements at their tournaments for putting wounded birds out of their misery by killing them. It gives us much pleasure to learn that Mr. F.P. Ireland has arranged for this kind of mercy to any birds that may be wounded at the coming tournament at Nebraska City. The example should be followed everywhere, and our true sportsmen should help to enforce it in all the ways in which this is possible.</p>
+         
+         <p>In speaking discouragingly of the success of efforts that have been so long making to prevent bird-murder, reference is had to be civilized methods of sportsmen who organize for tests of skill with the shot-gun. The other kind of bird-murder in vogue which slays the birds at all seasons, without even the excuse of the real sportsman, is a barbarism that is being so generally condemned as to have already received a wholesome check, and promises to be still further restrained by a gradually strengthening public opinion. In the correction of this form of bird-murder, those who despise it in all its forms are receiving strong help from gentlemen of character who are sportsmen in the better and higher sense. It is to these men that we owe the benefits of the game laws and their enforcement, and to the spread of important information among the farmers respecting the value of birds of a certain kind as protectors against the destructive ravages of insects. For all these good things never forgetting fish culture, which the Nebraska Sportsmen's Association and Mr. Louis May, the managing head of the Fish Commission, and his associates have arranged and are so successfully carrying forward, the people are much indebted to our sportsmen, and none of us fail to understand and appreciate it. But the numbers of them who deprecate bird-slaughter as a sport as a great wrong are increasing, and if they cannot stop it entirely they have the right to expect to be able to relieve the so-called sport of those features of cruelty which it is the main object of this article to bring to the attention of Nebraska sportsmen. </p>
+         
+         <cit>
+            
+            <bibl default="NO">May 7, 1880. <title>Omaha Weekly Herald</title> 15(32): 6. Results of the hunt in the May 14 issue; no details on birds.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

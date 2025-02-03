@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00683">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Popular Guests.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-12-03</date><biblScope>58(10): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Popular Guests.</head>
+         
+         <p>While the autumn season in this section of Nebraska has been  more than unusually balmy, with a complete absence of snow to cover up the food most popular with those birds, the presence of large flocks of Mourning Doves and Meadowlarks in the fields surrounding Omaha is worthy of note. Also their presence makes the Sabbath hiking even more enjoyable than otherwise.</p>
+         
+         <p>It is often the case that a few of these birds will remain all winter in thickly weeded ravines or river bottoms, where there is both protection and food, but for such large bodies of them to be circling about in the open, as at present, is not exactly usual - but certainly delightful.</p>
+         
+         <p>What confidence our legal protection has given the Mourning Doves and Meadowlarks can be judged from the perfect nonchalance with which these December coveys flutter about over the very heads of the numerous rabbit hunters who thrash the very weed patches and underbrush where both the cottontails and the aforesaid songsters hold forth. Even a salvo from the shotguns, directed at some fleeing bunny, doesn't seem to pester the larks and the doves very much. They merely hustle up into the air for a moment, make a grand wheel or two, and return to their feedings.</p>
+         
+         <p>Last winter there were flocks of Mourning Doves reported along the Elkhorn river valley, west of Omaha, through all of the chillier months, and it would seem that this is to be the case again this season, unless the meteorologist produces something a little rougher in the way of weather than he has offered thus far.</p>
+         
+         <p>Meadowlarks are very hardy, and are not bothered by low temperatures as long as there is food to be had. Of course this might be said of nearly any bird, but especially of the larks. Even the Mourning Doves, which appear so gentle and fragile during the summertime, get along nicely while the grain and seeds hold out.</p>
+         
+         <p>It is very possible that we are to have these lovely feathered creatures with us for a while. At any ate, it will be a healthful and invigorating pleasure for you to take a tramp through the underbrush and fields this morning and see if you can keep up your acquaintance with these popular guests.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 3, 1922. <title>Omaha Sunday World-Herald</title> 58(10): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

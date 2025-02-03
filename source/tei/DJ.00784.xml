@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00784">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Shooting Rails and Their Habits].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-09-11</date><biblScope>33(346): 20. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Shooting Rails and Their Habits (1898)</head>
+         
+         <p>Rail shooting is good just now at Manawa and ought to be at Cut-Off. The birds round the Iowa lake are of both species, the clapper and sora, but they will soon be gone, and those wishing to take a crack at them cannot afford to procrastinate. The sora rail, which abounds the most plentiful here, is a mystic little sprite of the mucky marsh and shallow, reedy river beds, delicate in texture and extremely sensitive to the cold, the first tinges of frost being all that is necessary to start him a-wing for softer climes. Western sportsmen have not been in the habit of paying much attention to rail shooting, but in the eastern states the coming of no class of feathered game is looked forward to in the early autumn more eagerly than this self-same puzzling little marsh hen, about which cluster many a fable and many a myth. Although the rail is reared in all our fresh water marshes, its range extends far to the north as well, and when the nights grow cooler he moves to the southward, flying by night and dropping into the wild rice and tule beds he knows so well at the break of day, and there rests and feeds until moonrise the next evening, when he resumes his journey.</p>
+         
+         <p>The sora rail is a simple bird, of awkward flight and easily killed. it is a luxurious sort of shooting, too much so, I think, for our rugged western sportsmen. Now and then, if you are shooting along the edge of lake or marsh, there is an opportunity for a quick shot, as a rail shows itself above the long slough grass for a couple of yards only, as it reaches the shelter of cattails or weeds where a boat cannot go, or if a gale is blowing, the rising bird is swept away and a good allowance must be made for him. But ordinarily, in fair weather and on the wide marshes he is a poor shot or woefully out of practice who fails to knock down nine out of the ten rail that flush before him. To knock down, however, is not always to bag, for the crippled rail is an adept in hiding himself in the grass or weeds. Of course misses are made by the best of us, for we are human, but for the most of those made on rail there is no valid or legitimate excuse. And yet there are many who hold that the man who can turn over the whirring quail in the brush or stop the zigzagging jack as he shoots over the bog has no business to shoot rail.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. September 11, 1898. [Shooting Rails and Their Habits.] <title>Omaha Sunday World-Herald</title> 33(346): 20. Forest, Field and Stream.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

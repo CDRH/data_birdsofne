@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00940">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Very Vivacious Vireos.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-06-17</date><biblScope>52(38): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Very Vivacious Vireos.</head>
+         
+         <p>While the warblers and the Sparrows are exceedingly puzzling to the amateur ornithologist and wanderer of the woods, because of their aloofness and similarity, the Vireos are almost equally baffling, although they are with us all the summer long. Many of the first named families drift through in the spring and fall, giving the occasional "hiker" but one or two chances for becoming acquainted, but the Vireos remain to tantalize us many months.</p>
+         
+         <p>Pretty little chaps - these Vireos. Pretty and likeable - also useful. They consume billions of bad bugs and tiny caterpillars in a season, and our trees would be in a bad mess without them. They flit around from leaf to leaf in the treetops or bushes and every song is the death knell of some noxious insect. The Red Eyed Vireo, particularly, is said to thus express his glee over conquest. His song is a series of short syllables, with a swallowed bug or worm marking each pause.</p>
+         
+         <p>Then there is the Yellow Throat, and the White Eye, and the Bell Vireo - and the Warbling Vireo, the latter being one of the most common. You can tell his energetic, prolonged little song because it has no pauses in it, and ends with a snap.</p>
+         
+         <p>In the nesting season, which is now, the Vireos are well worth studying, for their homes are the delightfulest little creations, slung like bags in the fork of some tiny branch. Their eggs are diminutive in proportion, and as delicate as the dawn.</p>
+         
+         <p>Taking them as a group, there is no lovelier bird nor any better entitled to our admiration and protection than the Vireo. Make yourself known to him today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 17, 1917. <title>Omaha Sunday World-Herald</title> 52(38): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

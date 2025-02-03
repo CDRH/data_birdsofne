@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00407">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Horse-shoe Lake. Transforming It Into a Pleasure Resort. Drives, Trees and Boats Along its Banks.</title><title level="j">Omaha Weekly Herald</title><author>Association, Omaha Fish and Game Protective.</author><date>1880-05-21</date><biblScope>15(34): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+      <revisionDesc>
+      <change>
+        <date value="2005-08-08"/>
+          <respStmt>
+      	<name>Katharine Potter</name>
+          </respStmt>
+          <item>Proofread from Source</item>
+      </change>
+      </revisionDesc>
+      
+      
+      
+      
+      
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Horse-Shoe Lake.</head>
+         
+         <head>Transforming It Into a Pleasure Resort.</head>
+         
+         <head>Drives, Trees and Boats Along its Bank.</head>
+         
+         <p>Mention was made a few days ago that the Omaha Fish and Game Protective Association was endeavoring to secure the waters and adjacent grounds of Horse-shoe Lake, immediately outside of the city limits. They closed negotiations yesterday and will meet on Friday night to make preliminary arrangements for transforming it into a pleasure resort, by building a boat house, launching a fleet of sail and row boats, planting trees on the banks, and laying out five acres of ground adjoining the lake.</p>
+         
+         <p>The association has received applications for membership to the number of one hundred and fifty from prominent citizens. It will doubtless increase its membership beyond that in time, and may eventually throw open the grounds to the public generally. In any event the association will develop the grounds into a most picturesque resort, which will be doubly valuable because of its proximity to the city. There is a stretch of water for four miles along the horse-shoe, averaging a quarter mile in width and from three to fifteen feet in depth, with a drive laid out along the banks, and bordered by trees, and a boat house, fitted with fine crafts. This lake is essentially proof against the severest drought, which was not the case with the horse-shoe lake in Washington county, which body of water the association was formed to secure, but was obliged to abandon after building a boat house upon it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 21, 1880. <title>Omaha Weekly Herald</title> 15(34): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

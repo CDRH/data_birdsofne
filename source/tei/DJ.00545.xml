@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00545">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Few Miles - Much Difference [Song Sparrows].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-08-11</date><biblScope>53(45): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Few Miles - Much Difference.</head>
+         
+         <p>To a person interested in the study of birds, the matter of a few miles make a great deal of difference. It is remarkable to what extent bird life changes with an over-night journey in a sleeping car or a few hours' jaunt in a motor.</p>
+         
+         <p>The class of people characterized by Commissioner Falconer as "bird nuts," but who are so numerous that they have forced the most dramatic national and international legislation in protection of our migratory, feathered friends, are likely to note the slightest difference in bird life while on a trip to strange lands, be it only an adjacent county.</p>
+         
+         <p>Columns, pages, books and editions of matter concerning the Song Sparrow have been produced by students of this wonderful little bird, but one has to follow it a while in person to realize its gorgeousness of song.</p>
+         
+         <p>Perhaps "gorgeous" isn't the word - but we are fishing for the superlative of something already superlative in dealing with the light, tinkling yet splendidly impressive melody of the Song Sparrow, as heard in every hour of the day in the northern tier of states. In Minnesota the lakeside underbrush is fairly alive with them.</p>
+         
+         <p>There are so many different sorts of Song Sparrows that none but a scientist devoting his entire life to the study may hope to know them all. Yet they are practically the same in habits and in general appearance, and there is no difference, to amount to anything, in their warble.</p>
+         
+         <p>The SOng Sparrow passes through Omaha and vicinity in the spring and in the fall, during migration, and it is possible that a very few stay here or close by, but to hear that delightful song carolling from every bush, in every condition of weather, from dawn to twilight, is to understand where this remarkable little bundle of feathers with the star in its bosom, got its name!</p>
+         
+         <p>May God bless and keep the Song Sparrow, who deserves it!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 11, 1918. Few Miles - Much Difference [Song Sparrows]. <title>Omaha Sunday World-Herald</title> 53(45): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

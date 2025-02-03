@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00303">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Federal License Law Designed to Protect Vanishing Game Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1923-01-21</date><biblScope>58(17): 3-W.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Federal License Law Designed to Protect Vanishing Game Birds</head>
+         
+         <head>By Sandy Griswold.</head>
+         
+         <p>There is now pending in congress a bill "providing for establishing shooting grounds for the public, for establishing game refuges and breeding grounds for protecting migratory birds, and requiring a federal license to hunt them."</p>
+         
+         <p>This bill should be passed. The United States have signed a treaty with Great Britain which puts on us and on Canada the obligation to conserve the migratory birds that visit the two countries. This treaty was signed because it is obviously the best that can be secured by a federal law.</p>
+         
+         <p>We take it there is no necessity to argue the desirability of protecting these birds, wild fowl and others, for they are not only useful to us as insect killers that protect trees and other crops, but they also supply the incentive which draws many to open air activities that greatly help their health.</p>
+         
+         <p>According to the purpose of the bill a fee would be charged for the license to shoot these birds. This fee, which may be regarded as a tax, would be appropriated toward the carrying out of our treaty obligations and also toward the purchase and administration of lands for public shooting grounds. These shooting grounds would be maintained as safe refuges for the birds during the period when the birds ought not to be disturbed.</p>
+         
+         <p>The bill has been drawn with a scrupulous regard for the rights of separate states. It provides that "no deed or other instrument of conveyance transferring public shooting grounds and migratory bird refuges to the United States shall be accepted or approved by the secretary of agriculture under the act until the legislature of the state in which the property lies shall have consented to the acquisition of such property by the United States for the purpose of public shooting grounds and migratory bird refuges.</p>
+         
+         <p>If this bill is passed it will not only prove an economic benefit to our farmers, it will provide an opportunity for the man of small means to enjoy good hunting, and it will protect the birds, which we are by treaty bound to protect from the vandals whose selfishness now threatens to exterminate many of the species, as those that have already been exterminated.</p>
+         
+         <p>As reclamation projects encroach on unused lands in the United States and as transit facilities extend into formerly uncultivated districts, the swamps and forests that once served as a refuge for migratory birds decrease steadily in area. If no provision were made to protect the wild duck, the prairie chicken, the pheasant and other game birds from extermination they would certainly vanish before the advance of civilization. They haven't a chance of life against increasing numbers of dogs and guns.</p>
+         
+         <p>To save the birds while there is still time, this bill has been introduced both in the senate and in the house requiring a federal license for hunters and providing out of the proceeds game refuges and breeding grounds, as well as hunting preserves are established for the use of the public. The measure should receive support from the friends of the birds as well as the lovers of sport, for there will be neither birds nor sport if wild game is abandoned to the fate which has overtaken it in the thickly settled areas of Europe.</p>
+         
+         <p>The country is large enough to be able to afford grants of safe quarters in perpetuity for the wild fowl that are born to an unequal contest in which the shotgun always wins. Later we will give a project now being urged upon the legislature for purely local or state reservations of grounds unfit for either pasture or cultivation and of which Game Warden George Koster is the moving spirit.</p>
+         
+         <cit>
+            
+            <bibl default="NO">January 21, 1923. <title>Omaha Sunday World-Herald</title> 58(17): 3-W.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

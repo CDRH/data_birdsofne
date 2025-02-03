@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00956">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Welcome Stranger [Warblers].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-05-18</date><biblScope>54(33): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Welcome Stranger.</head>
+         
+         <p>As we have said many times in these columns, the chief charm of bird study is its never-ending variety, and the omnipresent possibility of seeing something tomorrow that you never saw before.</p>
+         
+         <p>Also we have previously called attention to the fact that this is the very best time o' year to do your bird hiking, for the feathered critters are now migrating, especially the Warblers.</p>
+         
+         <p>These Warblers are tough customers to identify, as a general thing, for they chiefly patronize the tops of the trees where they are hard to see, even with the glasses.</p>
+         
+         <p>There are some, however, that potter around in the underbrush or weeds, and these are much easier to become acquainted with. One of 'em is the Wilson Warbler, which appeared in Omaha last week.</p>
+         
+         <p>The Wilson Warbler is very common in the east during migration, but is not seen very frequently in these parts is such experts as Dr. Solon R. Towne may be believed.</p>
+         
+         <p>But this dainty little yellow bird with the jet-black crown is now in these parts, and is worth knowing.</p>
+         
+         <p>The scientists say that he is never found in the deep woods, but always along the edge of them, in the underbrush or weeds, close to the ground. Those who have identified him near Omaha say that this specification is very true.</p>
+         
+         <p>Wilson's Warbler is a very useful and beautiful bird, but the main point of the editorial is that you never can tell what you may see when you go hiking at this season.</p>
+         
+         <p>Therefore - hike!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 18, 1919. Welcome Stranger [Warblers]. <title>Omaha Sunday World-Herald</title> 54(33): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00318">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Flying on Swans.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1899-03-05</date><biblScope>page 8. Includes a sketch.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-16">2006-06-16</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Flying on Swans.</head>
+         
+         <figure entity="FlyingSwansTaleGraphic">
+            
+            <figDesc>Indian and swans of flying swan tale</figDesc>
+         
+         </figure>
+         
+         <p>"After the old woman with the fish go 'way, Wiesahke take the trail for home.</p>
+         
+         <p>"Soon he come to some lake, an' he think, 'how I get by this lake.' Then he see some Swans fly an' play in the water.</p>
+         
+         <p>"Wiesahke is ver' clever fellow. When he's got trouble he think some treek to get out that hole.</p>
+         
+         <p>"Then he calls to the Swans. 'Ho, Brothers, come here. Open you' beautiful wing an' come here, I wan' tell you something.</p>
+         
+         <p>"The Swans they fly little close, an' Wiesahke say: 'My Brother, you see I blin' - I can' see. You see my eye? It is not good.'</p>
+         
+         <p>"The Swan look, an' say, 'Poor Wiesahke! Hes eye all grey, he can' see.'</p>
+         
+         <p>"'I can' find my tepee,' say Wiesahke. "Help me, Brother, to go to my lodge.'</p>
+         
+         <p>"'How can we help you?' says the Swans. "'S'pose you take me, an' fly with me to my home?'</p>
+         
+         <p>"'But we can' lif' you,' say the Swans.</p>
+         
+         <p>"Then Wiesahke say, 'See, I can tie you' feet all together like basket, an' you can carry me that way.'</p>
+         
+         <p>"Now the old Swan say: "Better you look out for Wiesahke, he play you some treek."</p>
+         
+         <p>"Now the young Swan say: 'Oh, poor Wiesahke! He blin'. We mus' help any poor blin' man.</p>
+         
+         <p>"'I no play any treek,' say Wiesahke; 'believe me, Brother. Firs' you can fly a little with me here, an' see how you like it. If you don' like you can fly away an' leave me.'</p>
+         
+         <p>"So the Swans they all get together, an' Wiesahke take some shaganapple (raw deerskin strings) from his pocket, an' he tie their legs like a net. That alway the way with Wiesahke, he make anything believe he good man firs', then by-an-bye he get hol' them."</p>
+         
+         <p>"Well, the Swans start fly with Wiesahke. 'Brother, go easy firs' till I see,' he say. 'P'r'aps I get 'fraid.'</p>
+         
+         <p>"'Why you take a steek, Wiesahke?' say one the swans.</p>
+         
+         <p>"'That so I can't poin' the trail,' he say.</p>
+         
+         <p>"Then the Swans fly ver' fas'. 'By Goss!' say Wiesahke, 'I like this. I like be Swan an fly all the time.'</p>
+         
+         <p>"'Brother,' he say, 'when I come close my tepee you mus' fly low so I can see.'</p>
+         
+         <p>"When they get cross the lake Wiesahke he not 'fraid. He strike the Swan with his steek an' day, 'Fly fas'! fly fas!'</p>
+         
+         <p>"'Don't strike us, brother,' say the Swan, 'we take you home.'</p>
+         
+         <p>"When Wiesahke can see his tepee he strike one Swan on the head with his steek an' kill him. That makes them fly lower. Soon he kill 'nother one, an' they fly a little lower. Then he kill 'nother one, an' then 'nother one; every time he kill one they fly little lower.</p>
+         
+         <p>"At las', jus' they come close his tepee he kill the las' one.</p>
+         
+         <p>"That way Wiesahke get home an' kill plenty meat."</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 5 1899. <title>Omaha Sunday Bee</title> page 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

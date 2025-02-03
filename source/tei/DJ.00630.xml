@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00630">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">An Old Fashioned Snipe Hunt.</title><title level="j">Omaha Daily Herald</title><author>Snipe Till You Can't Rest.</author><date>1868-03-19</date><biblScope>3(144): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>An Old Fashioned Snipe Hunt.</head>
+         
+         <p>Probably one of the most successful snipe hunts that ever came off, took place a few weeks since near McPherson siding of the U.P. R.R. The citizens at the station all turned out. The men employed in baling hay at that point were the most conspicuous in conducting the affair. They were fortunate in being possessed of a pair of red lanterns, old hunters intimating that these lights attracted snipe from all directions. The main cause of the enthusiasm of the hay balers seemed to be to initiate a young telegraph operator, just from Michigan, in the art of bagging snipe. He had frequently expressed a strong aversion to western society, and they, in return, were generously trying some means to divert the young man's mind from imbibing such bad taste.</p>
+         
+         <p>They escorted him down to Brady Island, placed him between the red lanterns, provided him with a large bag, the mouth of which was encircled with wire, fixed him in position, then left him, the whole party proceeding to "scare and drive." Of course he bagged lots of snipe, and it is supposed he played sharp by hiding them, as he brought home no game next morning, but looked as if he had successfully sprung some kind of a trap.</p>
+         
+         <p>Owing to the grand success of the affair, the station hereafter will be known as "Snipe Siding."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Snipe Till You Can't Rest. March 19, 1868. <title>Omaha Daily Herald</title> 3(144): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

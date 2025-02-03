@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00221">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Dickey Bird Chirps. The Opening of the Spring Wild Fowl Shooting Season.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1891-03-15</date><biblScope>20(267): 16. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Dickey Bird Chirps.</head>
+         
+         <head>The Opening of the Spring Wild Fowl Shooting Season.</head>
+         
+         <p>The long winter, although there has been but short and infrequent spells of inclement weather, is about over at last, and the spring wild fowl shooting will open up shortly. The sportsmen are all busy discussing the prospects and the unanimous opinion seems to be that the shooting will be good. There was plenty of feed left over from last fall and with an abundance of water this spring, and there is every likelihood that there will be, the birds will return to their favorite haunts in large numbers. While the statement holds good that there will be plenty of attractive feed for the ducks, who subsist chiefly upon the seeds of aquatic plants smartweed, not grass and the like, it will not be so with the geese. They feed principally in the corn fields and stubble, and it is a well known fact that the cereal crop in this state last year was pretty much of a failure, still not to such an extent as to wholly deprive the geese of their nourishment. That it will not be as plentiful as in ordinary years is still a fact however. Notwithstanding this condition of things, the old shooters are predicting great sport with both ducks and geese.</p>
+         
+         <p>The mallards and pintails have already begun to drop in at the open waters, and the impatient gunners are all in a flurry of activity. Guns are being cleaned up, hunting clothes hauled forth, waders put in order, boats overlooked, and in fact everything done that will warrant a jumping out on the first train at a moment's notice.</p>
+         
+         <p>And what a grand and health-giving life is this outdoor life of the sportsmen, who have been housed all these dreary winter days, with only an occasional break in the monotony furnished by an afternoon behind the trap. But they are delighted to turn from these artificial substitutes to try their skill on real flesh and feathers, the only true sport. And what is grander or more exhilaration than a trip to the lakes and rivers and lagoons and lowlands in these balmy spring days, a tramp through the rustling woods along some tortuous slough, or a morning and evening in a blind on the river shore or in the marsh, with the multifarious perfumes of the budding vegetation and the teeming waters in your nostrils and the music of the mallard and the redhead's wing, the sounding "honk ah-honk" of the noble Canada or the sharp, thrilling "skeap" of the jack-snipe filling the fragrant air all about you. Begone with range and trap, with their petty jealousies and bickerings over competitive scores, when these intenser pleasures are proffered you.</p>
+         
+         <p>Like poets, the true sportsman is born, not made. His proclivities are inherited and inbred, and whether he be successful or unsuccessful in filling his bag or creel, with gun or rod, he would not exchange a day's communion with nature, such as are his when out for wild fowl in the sweet spring time, for years at the scratch behind a trap loaded with a pigeon or black bird made of asphaltum and clay, with a cheap metal as a reward for skill. Once a sportsman, always a sportsman, and there is no joy in the whole twelvemonth so dear to him as the time when he does the picturesque habiliments of the field and sallies forth to try his skill on fin, fur or feather.</p>
+         
+         <p>The first ducks to come in here are generally the pintails, anas acuta, a peculiarly handsome duck, but not so much thought of for table purposes. They are on the best terms with the mallard family, traveling, feeding and roosting with them, but in no-wise to be compared with them. Although pintails come in here in countless numbers, I have never been fortunate in seeing but a few of them, and have succeeded in bagging but three or four years shooting. Following the pintails, come the blue bills, fuligula marila, the canvas back, red head, mallard, widgeon and teal, the latter in great numbers, both blue and green wing. The mallard, too, is a very numerous bird in the region, and well cornfed is equal for table purposes to either the gastronome's favorites, the canvas-back and red head. The blue bill, a rare little beauty, is also another fine table bird, and as they decoy beautifully, afford as fine sport as any member of the family. In the past five years there has been a notable diminishment in the numbers of the canvas back that visit these waters, and it is a rare thing that a bag of a dozen is reported. It was no trick at all, ten years ago, for Jack Knowles, John Petty, or any of the old market shooters to sally forth any morning in season and return in the evening with a bag of from forty to sixty canvas backs. They can't do that today on even mixed ducks, and the gunner that knocks over his dozen in the morning, and another in the evening, is doing good work.</p>
+         
+         <p>The whole goose family may be counted among our visitors, from the stately Canada down to the snow or white goose, and speckled brant, and while there is no bird so shy and wary, they furnish the most exhilarating and enjoyable sport of all. Look! there they come now!</p>
+         
+         <list type="simple">
+            
+            <item>"Sailing in the solemn midnight, underneath the frosty moon,</item>
+            
+            <item>I can hear the clanging pinions of each shadowy platoon</item>
+            
+            <item>Near the winged hosts, commotion, marching to the southern ocean.</item>
+            
+            <item>File on file, rank on rank, speeding to some reedy bank,</item>
+            
+            <item>Oozy fens or marshes gray, far from Baffin's icy bay</item>
+            
+            <item>Honking clamoring on their flight, under the black clouds of the night."</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">Sporting Editor [Sandy Griswold]. March 15, 1891.	<title>Omaha Sunday Bee</title> 20(267): 16. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

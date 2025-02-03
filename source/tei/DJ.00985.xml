@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00985">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">What Are They Here For?</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-10-09</date><biblScope>57(2): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>What Are They Here For?</head>
+         
+         <p>Meteorologists object to outdoor weather dope from amateurs, and they are correct in their presumption that the latter class hasn't the slightest notion what he, she or it is talking about.</p>
+         
+         <p>But there are exceptions to such objection.</p>
+         
+         <p>While it is probable that the thickness of a squirrel's fur has little to do with the sort of a winter impending, and that the case of blooming violets in October is identical - nevertheless the birds know something about weather and will generally prove it.</p>
+         
+         <p>This fall the winter birds are arriving far ahead of schedule. In fact the Red Breasted Nuthatch, which was not seen here last winter at all, is already in our midst, and has been noted at many different points. The Slate Colored Juncoes have come, too, which is very astonishing at this time o' year.</p>
+         
+         <p>The Red Breasted Nuthatch only comes south when there has been or is immediate danger of severe weather in the upper tier of states. It is a bird that enjoys cold, and merely the bitterest sort of weather starts it in our direction.</p>
+         
+         <p>While the Junco is a cold weather bird that visits us in great flocks every winter, it scarcely ever comes before the latter weeks of October. Records show that they have arrived in 1921 far ahead of the ornithological menu.</p>
+         
+         <p>Those interested in bird life may draw their own conclusions. We would not pretend to say what will happen here this winter, but we are fairly certain that something must have happened up north to drive the Red Breasted Nuthatches and the Juncos down to us at such an early date.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 9, 1921.  <title>Omaha Sunday World-Herald</title> 57(2): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

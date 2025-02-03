@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00544">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Our Migration Treaty.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-01-19</date><biblScope>54(16): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Our Migration Treaty.</head>
+         
+         <p>Since the supreme court of the United States has held unconstitutional the migratory game law and its accompanying enabling act, some exulting hunters have gleefully figured on a lot of spring shooting this year and hereafter.</p>
+         
+         <p>As far as this newspaper can ascertain, their hopes are groundless, for it is beyond the power of the supreme court to open up the slaughter of breeding birds when the nation is in a treaty with Great Britain to the contrary.</p>
+         
+         <p>Such a contract exists. It was signed in 1916, between the United States and Canada, and expressly prohibits the shooting of certain game birds in the spring. The enabling act, which provided a penalty, was not passed until 1917, and as a result there was no spring shooting in 1918.</p>
+         
+         <p>As a matter of common sense, the hunters should not object to this law, for expert Omaha sportsmen report the best shooting in history among the sandhills, where the lakes were fairly black with birds last fall as a result of the spring protection. Unfortunately these birds migrated suddenly and not through the usual channels, which deprived the hunters on the lower valleys of much of their sport, but the game was there and in marvelously increased numbers.</p>
+         
+         <p>Uncle Sam and John Bull have decided that ducks and geese, as well as other gamebirds, are mighty valuable to the welfare of the nations, and propose to protect them while they are breeding. In the fall, the better the shooting the better these governments like it.</p>
+         
+         <p>But the supreme court, we are assured, cannot abrogate a treaty.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 19, 1919. <title>Omaha Sunday World-Herald</title> 54(16): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

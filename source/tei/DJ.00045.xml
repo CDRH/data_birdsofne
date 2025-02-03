@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00045">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Autumn Tribute.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-10-21</date><biblScope>59(3): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Autumn Tribute.</head>
+         
+         <p>"If you would truly know your neighbor, look not upon the fair facade of his dwelling, but seek to learn something of his back yard."</p>
+         
+         <p>The above was found in "Happy Hunting Days," a work written and most exquisitely illustrated more than thirty years ago by that prince of flower-lovers, William Hamilton Gibson. Rewritten this fall it would tell, not of the back yard alone, but of the roadside that borders the dwelling with its marvelous growth following the long week of rain and damp, moist, thunderful weather. It would call attention to the dainty oxalis stricta; which presented its dainty blossoms early in the season and had not entirely ceased, but again began to exhibit luxuriant yellow blossoms larger and finer than ever before. It would comment with pleasure on the fall dandelions succeeding the cessation of bloom when the hot weather came, and now starring the vivid green of turf that never before was so green, so clean and luxuriant. And it would chronicle with delight the coming forth of a single blow ball bud that promised another perfect sphere glistening in the rays of the sun.</p>
+         
+         <p>Even yet they linger, and the leaves of the Virginia Creeper, in the back yard, now the most brilliant red, and the golden ash down in the ravine forming the background for the wealth of green. But the north wind is here and our long, beautiful fall may soon be merged into the colors and tints that mean winter.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 21, 1923. <title>Omaha Sunday World-Herald</title> 59(3): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

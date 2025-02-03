@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00202">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Crowding the Season.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-03-07</date><biblScope>55(23): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Crowding the Season.</head>
+         
+         <p>With spring so close at hand it is difficult to refrain from the delicious pastime of imagining it is already here. A group of Robins, a few Bluebirds and a single Meadowlark are sufficient to warrant the early deductions of Phoebes, Chewinks and the like. It was from a single drop of water that some smart chap deduced an ocean.</p>
+         
+         <p>Speaking very seriously, the Phoebes are not far away. While these lines are written "snow and colder" rules. But this doesn't deter us from hoping that Mr. Phoebe will be perched upon the topmost twig of some small tall tree within a week or so.</p>
+         
+         <p>There are scientific grounds for this hope, too. last year, 1919, the first Phoebe was seen in Elmwood park on Sunday, March 16 - which is just about one week from today. In 1916 the first Phoebe in the same park made his appearance on March 19 - not so very far away. So, if we have fair weather, who can say what merry miracles may come to pass in birdland?</p>
+         
+         <p>A whole flock of Meadowlarks "blew in" at the Happy Hollow golf course on March 9, 1919 - just a year ago today. Why shouldn't they be pretty close to the same terminals right now?</p>
+         
+         <p>No matter how superlatively optimistic we may be, the fact remains that there are but a few weeks until the springsters are certain to warble - and don't forget, as we have said before, that the Horned larks have already nested and doubtless laid their eggs!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 7, 1920. <title>Omaha Sunday World-Herald</title> 55(23): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

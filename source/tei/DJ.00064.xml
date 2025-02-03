@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00064">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bird Bug [Audubon Society and Bird Study].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-01-27</date><biblScope>53(17): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bird Bug.</head>
+         
+         <p>Thanks to the propaganda of the Audubon Society, there are now hundreds of thousands of "bird bugs" in the United States.</p>
+         
+         <p>It is only within the past decade that Americans generally began to realize the tremendous debt of gratitude owed to birds of their own country. it was only by dint of excessive publicity and intensive education that they were made to see that the food crops of the United States are dependent almost entirely upon the birds for protection against the ravages of insects.</p>
+         
+         <p>Scientists have plied their skill toward the application of chemical compounds that when properly administered will save our trees from moths, our grain from worms and our pastures from extermination, but all have had to admit, through the mouthpiece of Uncle Sam's Department of Agriculture, that the cheap and certain method to prevent this depredation is to protect the birds.</p>
+         
+         <p>The birds, - God bless them - do this work for nothing! They know naught of wage scales, hours of service, nor of shortage in supplies. The war makes no difference to them. They only ask the opportunity to go unhampered and undisturbed about their business, which is that of saving for us our food. That is one reason why there are so many "bird bugs" today interested in studying in promoting the welfare of our feathered friends - the best we have!</p>
+         
+         <p>If you only knew the wonderful pleasure, the whole-hearted, healthy joy of wandering through the fields and forests in any season, studying and observing the birds, you would soon become a "bug" yourself, and would discover in this study the finest recreation you ever dreamt of. You would welcome each change in season for the accompanying change in bird personality.</p>
+         
+         <p>Spring, Summer, Fall and Winter each brings its new feathered folks to greet you in the glades. From the Junco which comes from the polar regions to spend the winter with us, to the Warblers that fly from near the Equator to give us their summers - each and every one is a wonderful source of pleasure.</p>
+         
+         <p>And each one of these beautiful little creatures is working to help us win the war!</p>
+         
+         <p>No insect ot worm will escape them in warmer months. The Woodpeckers, in all seasons, are constantly after the larvae in the tree trunks. The Hawks and Owls are ever pursuing the harmful rodents. While there are one or two really harmful birds, what a tragedy it is for any human to test his judgement by killing one, with the possibility of destroying his best friend. Far better leave that to the skilled naturalists!</p>
+         
+         <p>Let everyone, then, become a "bird bug." Let this delightful and useful study become a part of every education, in and out of school. Let the parents teach it to their children, and the children to their parents. Let the teachers give it to their pupils, and the pupils to their teachers. it is worth while.</p>
+         
+         <p>Let us shoot no birds.</p>
+         
+         <p>Let us not permit our children to carry weapons with which to shoot the birds, for the temptation is great.</p>
+         
+         <p>Let us tear down no nests, nor permit our children to collect birds' eggs.</p>
+         
+         <p>Let us see that the family cat, if such pet be kept, be corralled in the yard and not permitted to kill the songsters, as he surely will do unless watched.</p>
+         
+         <p>Let suet be provided for the winter birds, and water for those of the summer.</p>
+         
+         <p>Let every true American realize that Hoover's best friend is the wild bird, large or small - for that is the truth!</p>
+         
+         <p>So let us all be "bird bugs" - a most honorable calling!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 27, 1918. The Bird Bug [Audubon Society and Bird Study]. <title>Omaha Sunday World-Herald</title> 53(17): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

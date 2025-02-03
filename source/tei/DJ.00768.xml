@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00768">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Semi-annual Fall Hunt of the Omaha Sportsman's Club. The Result of One Day's Hunt.</title><title level="j">Omaha Weekly Tribune and Republican</title><author>Editor.</author><date>1871-11-08</date><biblScope>13(33): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sporting.</head>
+         
+         <head>Semi-annual Fall Hunt of the Omaha Sportsman's Club.</head>
+         
+         <head>The Result of One Day's Hunt.</head>
+         
+         <p>The semi-annual fall hunt of the Omaha Sportsman's Club, long anticipated by its zealous members, is over.</p>
+         
+         <p>This Club was organized on the 11th of March, 1863, and for the first few years the members were content with an annual hunt, but the Club was enlarged, and it has now come to be a custom withthem to turn out twice a year in pursuit of game.</p>
+         
+         <p>For this last hunt, George T. Mills and Henry A. Homan, both youngmen, but crack shots, were chosen captains at a regular meeting of the Club. They then organized separate parties in the same manner that we used to choose sides at spelling school. The Captains tossed for first choice, and Mills won; he choose Byron Reed, in his opinion the best marksman in the Club. Captain Homan chose Mr. Kennedy, as the next best shot; and so on, until all the members were chosen. It is a rule with the Club that if a gentleman cannot make it convenient to go, the game brought in by his opponent on the other side shall not be reckoned on the strict count.</p>
+         
+         <p>In looking over the list of members published below, it will be seen that the Club is respectable in a very eminent degree. On its roll are the names of our most valued citizens, the most enterprising of the business men, and the ablest professional gentlemen. They delight once or twice a year to exchange the cares of business for the excitement of the chase, and they find themselves none the worse for a day's hunting.</p>
+         
+         <p>Those of the club who had decided to take part in this fall's hunt, started on Tuesday last, armed and equipped as the law directs. Some went by rail, some in teams, and the rest walked.</p>
+         
+         <p>They scattered themselves all over the country, and on Wednesday, the day of the hunt, they made a long day of it, and were quite successful withal, which is attested by the large amount of birds that they brought in yesterday. They all report game as very plentiful, but the day was too pleasant, and birds flew very high. Nearly every hunter lost as many birds, by falling into the water where they had not time to follow and capture them, as they secured.</p>
+         
+         <p>Messrs. Sackett, Kennedy, and Peabody hunted together near Bartlett, south of this city.</p>
+         
+         <p>Messrs. Loveland and Chandler blazed away around Loveland's Mill, near Missouri Valley.</p>
+         
+         <p>Capt. Homan and the Withnell Brothers went South to the Platte.</p>
+         
+         <p>Byron Reed went off alone in a northerly direction to Blackman's lake, where good luck attended his efforts.</p>
+         
+         <p>Capt. Mills, and Messrs. Pinney, Petty and McClelland wandered up north to Skelton.</p>
+         
+         <p>Messrs. Jewett and Newman hunted near Valley Station.</p>
+         
+         <p>Messrs. Willis and Kane went west to the Elkhorn.</p>
+         
+         <p>Mr. Preston hunted near Bartlett on the St. Joe road.</p>
+         
+         <p>Mr. Sutphen hunted along the river bottom from Florence to Child's Mill, and he was rewarded with a fine string of quails.</p>
+         
+         <p>Mr. Parmalee went out to the Elkhorn, Dr. Gardinder to Valley Station, and E.F. Tennery hunted north of the city.</p>
+         
+         <p>Messrs. Hoagland, Lake, Clopper, G.H. Collins, Miller, Estabrook, John Collins, and others, were obliged to excuse themselves.</p>
+         
+         <p>At 3 o'clock yesterday afternoon, the sportsmen met at McAusland's gun store, and the game was counted. As each one arrived, he took his load down in the basement of the store, where it was assorted and counted by Messrs. Clopper and Sutphen.</p>
+         
+         <p>In counting the game, small birds are the basis of reckoning; for instance, one mallard duck is equivalent to three small birds.</p>
+         
+         <p>The following was the result of the count:</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Captain Mills' Side.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>George T. Mills</item>
+                     
+                     <item>Byron Reed</item>
+                     
+                     <item>John W. Petty</item>
+                     
+                     <item>William Preston</item>
+                     
+                     <item>Yankee Hathaway</item>
+                     
+                     <item>J.J.L.C. Jewett</item>
+                     
+                     <item>Horace C. Newman</item>
+                     
+                     <item>G.H. Collins</item>
+                     
+                     <item>Dr. C.H. Pinney</item>
+                     
+                     <item>P.H. Kean</item>
+                     
+                     <item>Frank Buckley</item>
+                     
+                     <item>Alfred Donaghue</item>
+                     
+                     <item>Smith Saunders</item>
+                     
+                     <item>D.C. Sutphen</item>
+                     
+                     <item>Dr. W. McClelland</item>
+                     
+                     <item>P. Windheim</item>
+                     
+                     <item>R.H. Willis</item>
+                     
+                     <item>J.F. Young</item>
+                     
+                     <item>E.D. Pratt</item>
+                     
+                     <item>Dr. W.H.H. Sisson</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>71</item>
+                     
+                     <item>67</item>
+                     
+                     <item>69</item>
+                     
+                     <item>72</item>
+                     
+                     <item> </item>
+                     
+                     <item>52</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item>70</item>
+                     
+                     <item>43</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item>10</item>
+                     
+                     <item> </item>
+                     
+                     <item>9</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Captain Homan's Side.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Henry A. Homan</item>
+                     
+                     <item>B.E.B. Kennedy</item>
+                     
+                     <item>Geo. T. Hoagland</item>
+                     
+                     <item>Geo. B. Lake</item>
+                     
+                     <item>Dan S. Parmalee</item>
+                     
+                     <item>H.B. Sackett</item>
+                     
+                     <item>R.N. Withnell</item>
+                     
+                     <item>Dr. J.H. Peabody</item>
+                     
+                     <item>E.B. Chandler</item>
+                     
+                     <item>Albert E. Loveland</item>
+                     
+                     <item>Dr. M. Fichera</item>
+                     
+                     <item>H.H. Cook</item>
+                     
+                     <item>John Withnell</item>
+                     
+                     <item>J.Y. Clopper</item>
+                     
+                     <item>E.F. Tenery</item>
+                     
+                     <item>S.S. Caldwell</item>
+                     
+                     <item>Dr. J.B.W. Gardiner</item>
+                     
+                     <item>William Miller</item>
+                     
+                     <item>E. Estabrook</item>
+                     
+                     <item>John S. Collins</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>113</item>
+                     
+                     <item>76</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item>71</item>
+                     
+                     <item>60</item>
+                     
+                     <item>30</item>
+                     
+                     <item>46</item>
+                     
+                     <item>55</item>
+                     
+                     <item> </item>
+                     
+                     <item>4</item>
+                     
+                     <item>69</item>
+                     
+                     <item> </item>
+                     
+                     <item>17</item>
+                     
+                     <item> </item>
+                     
+                     <item>15</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <table width="200">
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">The Game.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <p>The following is the total number of the different species of game brought in by the two parties.</p>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Mallard duck</item>
+                     
+                     <item>Gadwall duck</item>
+                     
+                     <item>Widgeon duck</item>
+                     
+                     <item>Scaup duck</item>
+                     
+                     <item>Shoveller duck</item>
+                     
+                     <item>Canvasback duck</item>
+                     
+                     <item>Ruddy duck</item>
+                     
+                     <item>Bufflehead duck</item>
+                     
+                     <item>Greenwing teal duck</item>
+                     
+                     <item>Wood duck</item>
+                     
+                     <item>Hooded merganser</item>
+                     
+                     <item>Hutchins goose</item>
+                     
+                     <item>Canada goose</item>
+                     
+                     <item>White-fronted goose</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Sora rail</item>
+                     
+                     <item>Golden plover</item>
+                     
+                     <item>Prairie chicken</item>
+                     
+                     <item>Quail</item>
+                     
+                     <item>Rabbit</item>
+                     
+                     <item>Fox squirrel</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>169</item>
+                     
+                     <item>17</item>
+                     
+                     <item>7</item>
+                     
+                     <item>4</item>
+                     
+                     <item>11</item>
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                     
+                     <item>5</item>
+                     
+                     <item>17</item>
+                     
+                     <item>8</item>
+                     
+                     <item>3</item>
+                     
+                     <item>21</item>
+                     
+                     <item>4</item>
+                     
+                     <item>2</item>
+                     
+                     <item>20</item>
+                     
+                     <item>1</item>
+                     
+                     <item>2</item>
+                     
+                     <item>11</item>
+                     
+                     <item>26</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>About eleven on each side went on the hunt. Some of the above named returned too late to have their game counted, and their record is therefore blank. The gross count is al follows: Captain Homan and party, 556; Captain Mills and party, 463. In favor of Captain Homan and party, 93.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 8, 1871. <title>Omaha Weekly Tribune</title> and Republican 13(33): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

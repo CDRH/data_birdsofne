@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00798">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Snipe Seeking. How a Well-known Railroad Telegraph Operator of Council Bluffs Bagged His Game and Treated His Friends to a Game Supper.</title><title level="j">Omaha Daily Republican</title><author>Anonymous</author><date>1875-06-29</date><biblScope>18(23): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Snipe Seeking.</head>
+         
+         <head>How a Well-known Railroad Telegraph Operator of Council Bluffs Bagged His Game and Treated His Friends to a Game Supper.</head>
+         
+         <p>A few days ago several of the sportsmen of our sister city concluded to have a little field sport, and issuing invitations to the right kind of man, who never flinch, get tired or discouraged. Our friend, Billy K--r, who is well known to be one of this kind, received a card to be present at the hunt. "This is just my pie," says Billy, "I'll go. What shall I do-shoot, hold the dogs, bag the game, or what?" The president of the club (Brainard) declared the latter was just the thing. Billy should bag the game. Accordingly they started, some on horseback, others in buggies; but our stalwart young friend, like a true son of Mars, preferred to walk.</p>
+         
+         <p>After a pleasant walk by moonlight, seven miles or more being gone over, they came to a tree. Game being here, Billy was told to stand under the tree with the bag wide open to catch the snipe as they fell, all of which was done. The gunners fell back a short distance, Billy under the tree patiently waiting to hear the snap of the guns and see the game tumble into his capacious bag. The hunters kept retreating until Billy wearying of his bag looked at his watch which told him he had been there several hours, and smelling a mice, he left with his bag minus the snipe, for home, where he arrived to find his companions enjoying a comfortable sleep. Billy has now more friends than he knows what to do with, as it is only necessary to say "snipe" and Billy says "come up."</p>
+         
+         <cit>
+            
+            <bibl default="NO">June 29, 1875. <title>Omaha Daily Republican</title> 18(23): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

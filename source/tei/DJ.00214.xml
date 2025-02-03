@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00214">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hunters Declare Against the Spring Shooting of Ducks.</title><title level="j">Omaha Sunday Bee</title><author>Editor.</author><date>1912-03-31</date><biblScope>41(41): 4S.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hunters Declare Against the Spring Shooting of Ducks.</head>
+         
+         <p>Several Omaha nimrods and lovers of hunting have begun to take an interest in the wild fowl and are in favor of putting a stop to spring shooting. "A federal law prohibiting all spring shooting seems to be the only means to prevent the eventual extermination of migratory web-footed waterfowl," said one man.</p>
+         
+         <p>At present forty states favor federal protection for these birds and several states have put a stop to spring shooting without waiting for the government to act. In some of the eastern states ducks and geese that have weathered the dangers of fall shooting on their way south, and also eluded the gunners throughout the cold weather months while adjourning in the southern states, are safe from guns as they wing their way north in March and April, whereas in other states, such as Nebraska and Iowa more ducks are killed in the spring flight northward than during all other months in the year.</p>
+         
+         <p>Shooting is permitted as late as April 5 in Nebraska, and in Delaware as late as April 15. Ducks are well along in their housekeeping preparations by that time, and every duck killed means the cutting off of next fall;s supply to the extent of about six birds, to place it at a very low average, and this, too, at a time when the promised increase is practically in sight. It is because the ducks are engrossed by their mating interests that they are such easy marks for the unscrupulous or unthinking gunners who kill them in March and April.</p>
+         
+         <p>Very few ducks and geese have been killed this spring by the Nebraska hunter on account of the poor weather and the rising lakes and rivers which have flooded their banks to such an extent that it is almost impossible to get within range of the wild bird.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 31, 1912. <title>Omaha Sunday Bee</title> 41(41): 4S.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

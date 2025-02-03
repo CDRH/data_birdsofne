@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00628">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">October Surprises [Birds in the Woods].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-10-01</date><biblScope>58(1): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>October Surprises.</head>
+         
+         <p>Those who have been fortunate enough to become habitual prowlers of the big outdoors as often as the opportunity offers are well aware that at this particular period in the fall there is a vast change in the character of the bird population. Summer birds, for the most part, have departed, and the winter birds are beginning to arrive - at least their advance guards. Also the migratory feathered folks are passing steadily through, or having already passed.</p>
+         
+         <p>But there is more interest than this in the woods these days, for it is pathetically true that many of our summer songsters seem to like our company, and look upon the act of leaving with great sorrow. This seems to be especially true of the Bluebird and of the Robin, who linger just as long as they can without endangering their physical welfare. Indeed it is a fact that the Bluebird often stays too long, is caught in an early and unusually severe storm, and thus meets a death sadder than most, because it resulted from devotion.</p>
+         
+         <p>There are several of our hot weather beauties of birdland, however, that are scheduled to depart southward far in advance of the rest, and who yet leave individual members of their tribes hiding in the underbrush, maybe as rear guards, to astonish the nature lover on his Sabbath hike.</p>
+         
+         <p>For instance, it is not an entirely strange spectacle these days to find a Rose Breasted Grosbeak fluttering about in what is left of the foliage, and the silent and motionless Yellow Billed Cuckoo may be noticed by sharp eyes, perched silently on a branch above. Catbirds, while sometimes scarce in the woods themselves, often will remain in some backyard tangle, where there are woodbine berries to eat and a bath for comfort's sake. Wood Pewees are yet to be heard once in a while, and seen little oftener.</p>
+         
+         <p>But for the most part the summer birds have gone, and what we have left should be appreciated to the fullest possible extent. The scarcity of Towhees this fall is marked, it is said, but doubtless a few of them will remain all winter in the underbrush and tangles along the river, where the usual colony of robins will remain to cheer us when the snow is deep on the uplands.</p>
+         
+         <p>Bird Study now is more a study of bird character and feeling. It will pay you to take a little tramp today, and see for yourself.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. October 1, 1922. October Surprises [Birds in the Woods]. <title>Omaha Sunday World-Herald</title> 58(1): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

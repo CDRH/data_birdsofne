@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00821">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Spare the Birds.</title><title level="j">Columbus Democrat</title><author>Anonymous.</author><date>1883-08-25</date><biblScope>4(21): 5.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+
+<revisionDesc>
+<change>
+  <date value="2005-08-18"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Spare the Birds.</head>
+         
+         <p>We call attention to the fact that many of the town boys are in the practice of shooting the harmless little birds that make their homes in the outskirts of our city. This should not be permitted. Such wantonness is not only an outrage on the common feelings of humanity, but is also an offense against the law of the land. On page 675 of our statutes, we find the following provision:</p>
+         
+         <p>It shall be unlawful for any person in the state of Nebraska to knowingly and intentionally kill, injure or harm, except upon lands owned by such person, any robin, lark, thrush, blue bird, king bird, sparrow, wren, jay, swallow, turtle dove, oriole, woodpecker, yellow hammer, cuckoo, yellow bird, bobolink, or other bird or birds of like nature, that promote agriculture and horticulture by feeding on noxious worms and insects, or that are attractive in appearance or cheerful in song. Any person violating any of the provisions of this section, shall be fined not less than three nor more than ten dollars for each bird killed, injured or harmed.</p>
+         
+         <p>Were there no statute protecting these little creatures, still the better instincts of our nature dictate protection to them. They are not only pleasing to the eye and ear but are useful to everyone who plants a seed in the earth. They are particularly needful in protecting fruit trees from the ravages of insects. What we generally term a blight in the fruit, is simply the result of a puncture of the minute fruit-germ, and deposit therein of an insect's egg. These injurious insects diminish in proportion as the birds increase. The martin, swallow, tit-bird and wren are among the most useful, and should be specifically protected not only from wanton and heartless boys, but from cats, hawks, brown wood-peckers, and other marauders. They can be protected from these latter, by furnishing the little darlings with boxes properly prepared and placed on poles, or between the branches of trees. We may put any number of boxes among the trees of our orchard, and they will all be tenanted. By a little care we can in a short time multiply the number of birds to such an extent that orchards will flourish, and fruit be plenty as in the east. Spare the birds.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Anonymous. August 25, 1883. <title>Columbus Democrat</title> 4(21): 5.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

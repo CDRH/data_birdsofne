@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00530">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[May Days and Bird-Life].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-04-30</date><biblScope>34(211): 23. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-07"/>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <p>May Days!</p>
+         
+         <p>Once more they will dawn with the morrow. The lifeless dun of the close-cropped southward slopes and the tawny tangles of the swales are fast kindling to living green with the blaze of the sun and the moist tinder of the river's slow. The faithful swallows have returned, though the faithless season delays. The yellowhammer flashes his golden shafts in the sunlight and gladdens the ear with his merry cackle. The upland plover wails his greeting as he wings on north over the tussocked pastures, where day and night rings the shrill chorus of the hylas and the vibrant trill of the Bufo batrachirans continually trembles in the soft air.</p>
+         
+         <p>The first comers of the birds are already mated and nest-building, robin and song-sparrow, each in his chosen place, setting the foundations of his house with mud and shreds of last year's grass. The crow clutters out his tenderest love note, and the woodpecker is mining a fortress in the heart of an old oak or cottonwood. The fox squirrels wind a swift ruddy chain about the base of yon shaggy elm, and now you may surprise the vixen coyote watching the first gambols of her sickly gray cubs by the sunny borders of the sandhill blow-out.</p>
+         
+         <p>The brown haze of the undergrowth and lofty ramage is turning to a misty green, and the shadows of opening buds knot the meshes on the tawny woods' floor that is splashed with white moose flowers and spent arrows of blood root tossed aloof from the green quiver and yellow adder tongues bending above their mottled beds and rusty trails of arbutus leaves leading to the secret of their hidden bloom that their fragrance half betrays. Marsh marigolds lengthen their golden chain, link by link, along the ditches. The magpies are yellow with paler bloom and graceful hazels are bent with their light burden of tassels. The dandelion answers the sun, the violet the sky. Blossom and greenness everywhere, even the brown path of the plow and harrow are greening with uprising grain.</p>
+         
+         <p>We listen to the rain-crow's monotonous flute among the white drift of orchard bloom and the incessant murmur of bees, the oriole's half plaintive carol as of departed joys in the locusts and the jubilant song of the bobolink in the meadows, where he is not an outlaw, but a welcome guest, mingling his glad notes with the merry voices of flower gathering picnickers as by and by he will, with the ringing cadence of the scythe and vibrant chirr of the mower. Down by the marshes the scarlet of the water maples and the flash of the starling's wings are repeated in the broad mirror of the still water. The turtle basks on the sand bars or the long incline of stranded logs. Flooded runways and drifting fragments of cane, reed and flag-stalk are symbols that the farm lad's warfare against the muskrat is ended and that the decimated remnant of the tribe is left in peace to re-establish itself.</p>
+         
+         <p>The spendthrift waste of untimely shooting is stayed, save on unfavored jack and yellowleg. The resident ducks have entered upon the enjoyment of a summer truce that will be unbroken, if the taxidermist is not abroad, at whose hands science ruthlessly demands mating birds and callow brood.</p>
+         
+         <p>Of all the sportsmen, only the angler, often attended by his winged ally, the kingfisher, is, by rights, astir, wandering by pleasant waters, where the black bass lurks in the tangles of an eddy's writhing currents, or the pickerel poises and then glides through the intangible golden meshes that waves and sunlight knit, or where the luscious trout rests beneath silver domes of foam boils.</p>
+         
+         <p>The redtail hawk soars above slough and lagoon, and the loon laughs again on the lake, where again the freed waves toss the shadows of the shores, the white reflections of floating clouds and flash back the sunlight or the glitter of stars and the beacon of May's rekindled gleam.</p>
+         
+         <p>Sun and sky, forest, field and stream, bird and blossom, declare the fullness of spring and the coming of summer, for such are our lovely and incomparable May days.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. April 30, 1899. [May Days and Bird-Life.] <title>Omaha Sunday World-Herald</title> 34(211): 23.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

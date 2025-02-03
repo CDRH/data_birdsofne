@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00385">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A New Habitat of the Black-throated Rock Swift, Micropus Melanoleucus.</title><title level="j">Science</title><author>Barbour, Erwin H.</author><date>1892-10-21</date><biblScope>20(507): 235-236.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   <revisionDesc>
+<change>
+  <date value="2005-06-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+   </teiHeader>
+
+
+
+   
+   <text>
+      
+      <body>
+         
+         <head><hi rend="bold">A New Habitat of the Black-Throated Rock Swift, Micropus Melanoleucus.</hi></head>
+         
+         <p>As curator of the museum I have just procured for the State University of Nebraska a set of bird-skins prepared during the past summer, among which are five skins that must be of interest to ornithologists. They verify the discovery made by Professor Lawrence Bruner of the University of Nebraska, that the White-throated Rock Swift builds and breeds in the precipitous bluffs around Squaw Canon, Sioux Co., Nebraska, and, what is more likely, throughout the Pine Ridge regions, as Professor Bruner has observed them also at Crow Butte, near Crawford, Nebraska.</p>
+         
+         <p>This isolated habitat of the Wbite-tbroated Rock Swift, Micropus Melanoleucus (Panyptila Saxatilis), is several hundred miles east of its most eastern limits as known hitherto. Perhaps the Pine Ridge Buttes and bluffs, particularly those about Squaw Canon, are so admirably adapted to their nesting and high-flying habits as to be the attractive forces.</p>
+         
+         <p>Although five specimens were secured, no eggs were found. It should be mentioned, perhaps, that the egg of this swift is unknown. However, it is the expectation of the author that they will be found on some of his own, or some of the other numerous excursions sent annually to this excellent field by the university.</p>
+         
+         <p>The nests are built high up in the cliffs, in the most inaccessible places. The semi-lithified sandstone of these buttes is easily excavated; and, as nearly as could be learned, the swifts dig back about eighteen inches, the opening barely admitting the hand but expanding somewhat at the nest. The nests are built of grass.</p>
+         
+         <p>As their early name implies, these swifts are all wings; accordingly the swiftness of their flight is such that the best shots make many misses and few hits. It took several rounds of ammunition for the five just added to the State collections. These specimens are all males, and inasmuch as their measurments differ slightly from published measurements, i.e., length 6.50-7.00 inches; extent, 14.00; they are given below for each bird:</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1"> </cell>
+               
+               <cell role="data" cols="1" rows="1">No. 1.</cell>
+               
+               <cell role="data" cols="1" rows="1">No. 2.</cell>
+               
+               <cell role="data" cols="1" rows="1">No. 3.</cell>
+               
+               <cell role="data" cols="1" rows="1">No. 4.</cell>
+               
+               <cell role="data" cols="1" rows="1">No. 5.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Length,</cell>
+               
+               <cell role="data" cols="1" rows="1">6 1/2</cell>
+               
+               <cell role="data" cols="1" rows="1">6 3/8</cell>
+               
+               <cell role="data" cols="1" rows="1">6 1/2</cell>
+               
+               <cell role="data" cols="1" rows="1">6 3/8</cell>
+               
+               <cell role="data" cols="1" rows="1">6 1/4</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Expanse,</cell>
+               
+               <cell role="data" cols="1" rows="1">14</cell>
+               
+               <cell role="data" cols="1" rows="1">14 1/2</cell>
+               
+               <cell role="data" cols="1" rows="1">14 1/8</cell>
+               
+               <cell role="data" cols="1" rows="1">14 3/8</cell>
+               
+               <cell role="data" cols="1" rows="1">14</cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>From the foregoing measurements it will be seen that, while the length is less, the expanse is greater than those published. These swifts were first observed by Professor Bruner while on a government entomological expedition in the Summer of 1891. At the direction of Professor Bruner his ornithological assistant, Mr. J.B. White, shot and prepared the above specimens this past summer. Being in charge of the Morrill geological expedition sent to this region by the University, I had occasion to fall in with Professor Bruner's party, and to observe these swifts personally. We must have seen several hundred at Squaw Canon flying in and out among the buttes which rise with nearly vertical walls five hundred to twelve hundred feet above the Hot [Hat] Creek Basin.</p>
+         
+         <p>Having occasion to visit this region several times annually with parties of students, it is to be hoped that we may obtain data for further notes, and that it may be possible to secure their nests and eggs, in spite of their inaccessible abodes.</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="smallcaps">Edwin H. Barbour</hi>.</item>
+            
+            <item>University of Nebraska, Sept. 30.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">October 21, 1892. <title>Science</title> 20(507): 235-236.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

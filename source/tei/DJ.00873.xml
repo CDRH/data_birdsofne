@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00873">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Will the Strangers Return?</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-21</date><biblScope>56(8): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Will the Strangers Return?</head>
+         
+         <p>Bird lovers of the real vintage by this time have their suet baskets well-filled in the wooded parks or in the natural forestry with which this section of Douglas county is blessed.</p>
+         
+         <p>These "bird cafeterias" are being largely patronized, and when the ground is first covered with snow, cutting off a great deal of nature's own food supply, the patronage will be still more pronounced.</p>
+         
+         <p>But the main question with the amateur bird student is as to just how many of the comparatively strange feathered folk will be on the job this winter.</p>
+         
+         <p>last year - that is, December, January, February and March - brought forth so many unusual notations for the students' books that 1919-1920 will long be remembered.</p>
+         
+         <p>The burning question of the day with your true lay ornithologist is as to whether he will be able to see Red and White-winged Crossbills, Red Breasted Nuthatches, Tufted Titmice, Townsend Solitaires, Siskins and others of the mysterious northern aerial tribes that visited us last winter.</p>
+         
+         <p>If not, these eager students of the winter birdland will have to content themselves with the "usuals," such as Brown Creepers, White Breasted Nuthatches, Slate Colored Juncos, Tree Sparrows, Chickadees, and the like.</p>
+         
+         <p>As for the mysterious Redpoll, seen in such large numbers in the winter of 1918-1919, and not seen at all here in 1919-1920, - all the bird student can do is hope - and hope hard!</p>
+         
+         <p>Put up your suet and lay down your birdseed - and then see what interesting old Mother Nature does for you!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 21, 1920.  <title>Omaha Sunday World-Herald</title> 56(8): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

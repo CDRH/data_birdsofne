@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00568">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mysterious Migrants.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-09-28</date><biblScope>54(52): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mysterious Migrants.</head>
+         
+         <p>Two seasons, above all others, are supremely interesting to the bird student - spring and fall.</p>
+         
+         <p>By spring we refer to the first ten days in May, when the migrant feathered folk are on their way to the north. By fall is meant the first week in October, when many of the same migrants are going southward. It must be specified as an exception, however, that many of the Warblers pass through this territory long before King Ak-Sar-Ben arrives.</p>
+         
+         <p>There is still plenty of time, nevertheless, to see several "brands" of this mysterious tribe in our woods and fields. In fact, the flight is now on, and if you know what is good for you, a little hike today in the wilds will teach you a lot.</p>
+         
+         <p>Sparrows should be arriving from the north by this time, and it was this classification that we referred to particularly when we spoke of the flight now on. The Harris, White-crowned, White-throated, Grasshopper and many other fellows of the Sparrow breed should be seen. Kinglets also are arriving - and thereby hangs this tale.</p>
+         
+         <p>Young birds, born and bred in the present season, are coming down from the north, and no ornithologist has yet presumed to essay a complete illustrated work by which they all may be identified.</p>
+         
+         <p>First year Ruby-crowned Kinglets, for instance, are reported to have been seen in large numbers near Elmwood Park, and yet no one can positively verify this identification. The same exists, no doubt, with young Warblers.</p>
+         
+         <p>One of the greatest drawing powers of the bird study game is its mystery.</p>
+         
+         <p>Can you solve the problems; help in the identification of these young birds?</p>
+         
+         <p>If so, your hike today will be worth while.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 28, 1919. <title>Omaha Sunday World-Herald</title> 54(52): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

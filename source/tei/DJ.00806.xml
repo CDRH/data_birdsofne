@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00806">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Snowy Owls.</title><title level="j">Forest and Stream</title><author>T. F. C.</author><date>1890-01-30</date><biblScope>34(2): 23.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-04-25"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Snowy Owls.</head>
+         
+         <list type="simple">
+            
+            <item>
+               
+               <hi rend="italic">Editor <title>Forest and Stream</title>
+               
+               </hi>:</item>
+         
+         </list>
+         
+         <p>In answer to your correspondent for information concerning the snowy owl: I killed one on Dec. 26, 1889; it is a mottled female, and when shot measured 4ft. 9in. from tip to tip (across wings) and now standing stuffed on the table is the exact height of <title><hi rend="smallcaps">Forest and Stream</hi></title>. I killed it 1½ miles south of town on the Platte River. There was another much larger one, perfectly white, within a short distance, which a friend of mine has since killed, and is now to be mounted. When done I will send measurements.</p>
+         
+         <list type="simple">
+            
+            <item>T. F. C.</item>
+            
+            <item><hi rend="smallcaps">Schuyler</hi>, Neb., Jan. 23.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">January 30, 1890. <title>Forest and Stream</title> 34(2): 23.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

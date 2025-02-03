@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00621">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Number of Nebraska Birds and Idea for Bird Day].</title><title level="j">Omaha Sunday Bee</title><author>Bruner, Lawrence.</author><date>1896-07-26</date><biblScope>p. 7. Sporting news column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>Prof. Bruner of the Nebraska University says there are 730 species of birds for the whole of North America north of the Mexican boundary; that 415 species and subspecies visit Nebraska, and that 227 species breed within our borders, and that more than 100 winter with us. The professor also says that Nebraska has an unusually large bird fauna, and while this is true, it is also a fact that a large number of the species that visit this state do so in but comparatively small numbers, the robin being a noticeable instance. As Prof. Bruner says, we are situated nearly in the middle of the country and meet the representatives of the eastern and western, northern and southern faunas, and Nebraska probably furnishes as many facilities for the prosecution of the study of ornithological life as any state in the union. His idea for "Bird day," as well as "Arbor day," is a good one.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Lawrence Bruner. July 26, 1896. [Number of Nebraska Birds and Idea for Bird Day.] <title>Omaha Sunday Bee</title> p. 7. Sporting news column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

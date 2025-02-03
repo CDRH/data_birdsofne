@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00231">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Duck Hunting at the Lakes and Sloughs North of Cody].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1904-03-13</date><biblScope>39(165): 18. A portion of the Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Duck Hunting at the Lakes and Sloughs North of Cody (1888) </head>
+         
+         <p>I shall never forget the first fall I shot in Cherry county, way back in 1888, on the lakes and sloughs north of Cody. The country then was practically a desert inclosed by dreary cactus-covered hills of brown on one side and reaching out in a vast stretch of yellowing plain on the other sides. Many thousands of acres lying in a depressed basin north of Newberry's hunting lodge, formed an oasis such as can be seen only where the wondrous power of perennial springs is evoked. The stand of wild prairie grass was such as is rarely met with anywhere between the Missouri river and the mountains, and the consequence was that the countless hordes of ducks, geese, brants and sandhills and the smaller species of water fowl, stopping for rest and refreshment en route from polaric regions for the winter home in the south, congregated here as in no other locality within fifty miles.</p>
+         
+         <p>The birds had a special passion for that favored spot in the early days, and from all sides there was a steady din of resounding wings and clamorous throats as the birds poured in and out nights and mornings. The burnished green of the mallard's head shone in the bright autumn sun beside the white and red of the canvasback, the wings of the bluebills whistling on every side and the wings of the tiny teal throbbing among them, but on the be-tussocked, rice and cane strewn lake thousands more mingled with sprigtails, goldeneyes, widgeon and redheads, and which sat either idly watching the hunting prospectors on the shore without apparent alarm or waddled about over the mucky places picking up rice kernels or digging for wapato. Yet those that rested on the water or ground beyond, or rose in uproarious huddles now and then, were nothing to the hordes which in all directions and as far as the lowlands extended were pouring across the purpling horizon. Long strings, wedge-shaped masses and crescent lines, were skimming the top of the prairie grass or tules on every side, or with stiff, set wings were descending into the open sloughs and swales, while thousands of geese were winging their way above them or with their answering aun-unks were wheeling or pitching to the lake's surface in their peculiar way, to alight. In long dark ranks and with light and even stroke of wing, the big blue crane fanned the sunlit air, and with him went many a flock of yellowlegs and sickle-billed curlew. Wilson snipe pitched around on high with many a varying tack or descended in a long spiral line to about the same place from which the intruders on the shores had started them, while snowy avocets stood silent along the way or rose to join the other birds when the hunters drew near. And everywhere, on the ground, in the zenith and along the distant horizon, surpassing all else in size and dignity, keeping far out of danger and making the air ring with their wild, weird, penetrating gro-oooo-oooo, were flocks of sandhill crane. And, mingling occasionally with them, but generally in small bunches and keeping far aloof from all sight or sound of the wanderers below, was this great glossy white congener, the whooping crane, today the rarest and noblest of all North American game birds.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. March 13, 1904. [Duck Hunting at the Lakes and Sloughs North of Cody]. <title>Omaha Sunday World-Herald</title> 39(165): 18. A portion of the Forest, Field and Stream column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

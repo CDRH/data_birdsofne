@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00161">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cheerily! Cheerily! Cheer Up! [Robin Ballad].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-03-11</date><biblScope>52(24): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cheerily! Cheerily! Cheer Up!</head>
+         
+         <p>Encouraged by the bliss of a couple of warm days, the Robin has come up from his tangled winter quarters, to negotiate for a summer residence and to renew acquaintance with his old friends.</p>
+         
+         <p>It is a delicious surprise to hear that incessant, bubbling, joyful song for the first time after the long winter months, as this red-breasted chap perches on some vantage point and warbles his encouraging message.</p>
+         
+         <p>"Cheerily! Cheerily! Cheerily! Cheer up!"</p>
+         
+         <p>Over and over again he practices this favorite ballad, sometimes with pretty little variations, but always with his heart in the endeavor. It is indeed a sodden and pessimistic human who cannot find hope and encouragement in such music.</p>
+         
+         <p>The Robin is one of the commonest and yet among the most useful birds in the country, and is every bit as friendly and daring as the diminutive Chickadee. Presently you will find him following the plow or standing beside you as you spade the garden, watching with sparkling eyes for the succulent worms that may be turned up. And you need not be surprised if he occasionally gets in the way, for once satisfied that you are a friend, he is inclined to take all manner of liberties.</p>
+         
+         <p>Since friend Robin is one of the cleanest birds of all featherdom, it now behooves us to fill our bird baths for the season, and one need not be astonished to find a red-breast diligently breaking the thin ice to take his morning tub until the weatherman will attend to that detail for him.</p>
+         
+         <p>He is more than welcome, this old pal of mankind, and we will indeed try to "cheerily, cheerily, cheer up!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 11, 1917. Cheerily! Cheerily! Cheer Up! [Robin Ballad]. <title>Omaha Sunday World-Herald</title> 52(24): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

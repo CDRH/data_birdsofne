@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00543">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Migration on the Plains.</title><title level="j">Forest and Stream</title><author>Wolfe, W. M.—Shoshone.</author><date>1889-05-02</date><biblScope>32(15): 295.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Migration on the Plains.</head>
+         
+         <p>In observing the avifaunal migrations this spring, I have learned to look for arrivals and departures immediately after a storm. This seems to be the period chosen by all our game birds for their long flights. Comparison of observations with the Report of Migration, recently issued by the Department of Agriculture shows that the migratory wave is about a week later on the ninety-ninth meridian than it is in the level country immediately adjacent to the Mississippi River.</p>
+         
+         <p>The week ending April 6 was marked by the northern flight of ducks in great waves. The weather was mild but threatening, and the prevailing direction of the wind was northeast. Teals and widgeons did not migrate at this time. On April 4 I secured a ruddy duck, being the first one of the species for the season. This is not a common bird in this section.</p>
+         
+         <p>With the departure of the ducks came the cranes and swans. One party on the 3d secured nine specimens of the sandhill crane, and two of the white or whooping crane (<hi rend="italic">G. americana</hi>). Another party on the same date secured two trumpeter swans (<hi rend="italic">Olor buccinator</hi>).</p>
+         
+         <p>After the storm of April 7 the marsh birds began to arrive, and on the 8th I noticed the killdeer, Wilson's snipe and American golden plover. Two days later the long-billed curlew was first seen.</p>
+         
+         <p>On the 17th, while after ducks, my companion exclaimed, "What a curious white-breasted lark!" As he had a few shells loaded with No. 8 shot I asked him to secure it, but the bird was so tame that it seemed impossible to get so far away that it would not be blown to pieces. It proved to be a horned lark (<hi rend="italic">Otocoris alpestris praticola</hi>), and served to convince several of the local sportsmen that this bird is really found in Central Nebraska. Those who have hunted over the country for years told me that it was the first bird of the kind that they had ever seen. Another comparatively rare visitant that I saw to-day was the great blue heron (<hi rend="italic">Ardea herodias</hi>). It was shot on Wood River. I learn that the first duck wave reached the Niobrara eight days after it was chronicled on the Platte. This would indicate a short rest on the Loups.</p>
+         
+         <p>This year an unusual proportion of the specimens that are shot of the lesser snow goose (our white brant) are gray or slaty above. Can this be a cross between <hi rend="italic">Chen c&#156;rulescens</hi> and <hi rend="italic">C. hyperborea</hi>? The two species may be found together between Hudson's Bay and the Rocky Mountains, upon the breeding grounds of the snow goose.</p>
+         
+         <p>The ducks that nest in northern and western Nebraska are already at their breeding grounds, and we begin to ask ourselves about the prospects for fall shooting. They never were better. The mild winter and early prairie fires insure double the number of chickens and quail that there were last year. There will be no cooked eggs this season. I have never seen the prairie sharp-tailed grouse in Nebraska, but old settlers tell me that ten years ago they were common in this section, while the pinnated grouse were rare—another proof that civilization has its disadvantages.</p>
+         
+         <list type="simple">
+            
+            <item>Shoshone [W. M. Wolfe].</item>
+            
+            <item>Kearney, Neb., April 18.</item>
+         
+         </list>
+         
+         <list type="simple">
+            
+            <item>[The gray or slaty "brant" may be young <hi rend="italic">C. hyperborea</hi>.]</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">May 2, 1889. <title>Forest and Stream</title> 32(15): 295.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

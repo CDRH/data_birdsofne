@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00346">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Gaudy Village Visitor [Cardinal].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-12-05</date><biblScope>56(9=10): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Gaudy Village Visitor.</head>
+         
+         <p>There is no lovelier bird in all creation than the Cardinal, and none more skillful in the art of making itself hard to see when danger approaches.</p>
+         
+         <p>In the spring and summer the male bird is radiant in its red coat, while the peculiar copperish red and green effect of the female is nearly as beautiful.</p>
+         
+         <p>Sequestered as these birds generally are in the underbrush and thickets, except when the paterfamilias perches on the most prominent peak of the tallest tree to whistle his "What Cheer! Whew!" it is pretty hard to see or follow these feathered folks when they are alarmed.</p>
+         
+         <p>They are masters of the art of running through a broken field, and can do vast sweeps underneath bushes and low-hung branches with the touch of the perfect expert. If they had not this peculiar prowess their line would be lost, for ruthless and lawless hunters, both human and otherwise, constantly endeavor to prey upon them.</p>
+         
+         <p>But late last week a pair of these gorgeous Cardinals came right into Dundee, amid the bare limbs of trees draped over very busy residence streets - and their crisp "chip!" was bound to attract attention.</p>
+         
+         <p>Up and down the old-time village, now a part of Omaha, they proceeded, and their pronounced crest and remarkable color attracted many.</p>
+         
+         <p>When such wonderful birds seek the company of humans, it would be well, we think, for humans to reciprocate.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 5, 1920. A Gaudy Village Visitor [Cardinal]. <title>Omaha Sunday World-Herald</title> 56(9=10): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

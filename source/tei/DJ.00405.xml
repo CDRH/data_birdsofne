@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00405">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hookey Among the Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-10-30</date><biblScope>57(5): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hookey Among the Birds.</head>
+         
+         <p>Our priceless feathered friends are chock-full of sentiment for their homes and favorite playgrounds, at least in many instances, as noted by explorers of the woods and fields.</p>
+         
+         <p>This is particularly noticeable at this season when the late summer songsters have mostly departed for warmer lands, leaving a few behind "playing hookey."</p>
+         
+         <p>There are certain leaf-carpeted glades in Elmwood park, for instance, where Robins may be found until snow and bitter cold drive them away. Even then they often hibernate in the underbrush along the river bottoms, where there is protection and food, only to come back to their favorite nook upon each warm, sun-shiny day that occasionally adds variety to winter.</p>
+         
+         <p>There are particular patches of heavy bush in which a pair of Chewinks will remain, in the same park, until the weather situation becomes impossible.</p>
+         
+         <p>There these birds will stay and stay and stay. They seem to dread the hour that they must leave, for, perhaps, there they were born - or there they raised their young - or there they first met.</p>
+         
+         <p>At any rate students of ornithology will often find this the case, and it is doubly interesting because the same birds, as proven by scientific "banding," return to the same spot year after year.</p>
+         
+         <p>This is known chiefly of Bluebirds and Martins, which occupy man-made houses provided for them, but it apparently holds good for the wilder birds, as well.</p>
+         
+         <p>Just now many have "played hookey" and are staying with us, although their myriad pals have gone away for the winter.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 30, 1921. <title>Omaha Sunday World-Herald</title> 57(5): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

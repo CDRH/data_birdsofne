@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00834">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Sportsmen on a Duck and Grouse Shoot by Mumper.]</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1905-09-24</date><biblScope>40(359): 14. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+<revisionDesc>
+<change>
+<date value="2006-06-20">2006-06-20</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sportsmen Report on A Duck and Grouse Shoot by Mumper</head>
+         
+         <p>Omaha, September 19.—To Sandy Griswold, Sporting Editor of the World-Herald: As you asked me to give you a report of my hunting trip in the sandhills I take pleasure in doing so. In company with Frank Ankeney and Ben Hawkes of Chicago, some ten days ago, we left for Lakeside. En route we met Messrs. Wright, Carpenter, Dumont and Streight, who were going to the same town for a week's hunt. After a long but pleasant journey we reached Lakeside where Mr. Tulley met us and took us to his home. He took in charge the wholesalers and they departed for the Star ranch, and we for the Crescent ranch, twenty-five miles south of Lakeside, reaching there in the evening. Awaiting us were several gentlemen from Chicago, and Clinton, Ia., who had been invited to join the house party, and we had quite a jolly bunch of good sportsmen.</p>
+         
+         <p>Mr. Ankeney, who owns the ranch, entertained us royally. The village of Mumper, which is Mr. Ankeney's domain, is where Ed Hamilton formerly had his sod house, in the country where you made your famous canvas back kill ten years ago. I was there the same fall, but the country is very much changed since then, instead of sod houses and no conveniences, Mr. Ankeney has all the comforts of city life in his up-to-date home; telephones, baths, buffet and everything else were at our disposal. In the evening, instead of the former barking of the coyote, the planola and phonograph furnished sweet music.</p>
+         
+         <p>The sandhills, which a few years ago were so barren and desolate, are now covered with beautiful green and the meadow lands are like those of Kentucky. There has been so much rain this summer that all vegetation has grown wonderfully.</p>
+         
+         <p>We had very good success in shooting, and our table was supplied every meal with young grouse and duck. The ducks were all native birds, and mostly teal, and more plentiful now than for a number of years. I thought the grouse shooting was very good, but was told that there were not so many birds as last year. A great many young birds seemed to have been killed by the heavy rains.</p>
+         
+         <p>The country is certainly ideal for sportsmen and anyone who is a lover of nature can find much to enjoy in the sandhills of which Mr. Peattle painted such a gloomy picture in one of her books, a few years ago. Yours very truly.—J.M. Baldrige.</p>
+         
+         <cit>
+            
+            <bibl default="NO">September 24, 1905. [Sportsmen on a duck and grouse shoot by Mumper.] <title>Omaha Sunday World-Herald</title> 40(359): 14. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

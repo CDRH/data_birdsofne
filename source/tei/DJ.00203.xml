@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00203">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Crows Herald the Coming of Spring].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1902-04-13</date><biblScope>37(195): 18. Portion of Forest Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-20">2006-06-20</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest Field and Stream</head>
+         
+         <head>By Sandy Griswold.</head>
+         
+         <p>Caw! caw! caw!</p>
+         
+         <p>Not the robin's first sweet tune nor the lemon-breasted song sparrow's thrill, nor the blue bird's mournful melody, heralds really the coming of spring, but attends its vanguard. These blithe musicians accompany the soft winds that bare the fields, empurple the maple's buds and fan the blooms of the first squirrel cup in the Pappio's bottom and set the hylas shrill chime a-singing along Cut-Off's marshy shore.</p>
+         
+         <p>Preceding these, you have all noticed, while the fields are yet an unbroken whiteness and the coping of the drifts maintain the fantastic grace of their storm built shapes, before a really recognized waft of spring is felt or the voice of the freed stream is heard, comes that sable pursuivant, the crow, fighting his way against the still fierce north wind, tossed alow and aloft, buffeted to this side and that, yet persevering bravely onward and sounding his querulous note in the face of the raging antagonist, and far in advance of its banners proclaiming spring.</p>
+         
+         <p>The crow's cry is truly the first audible promise of the longed for season, and it fills us with hope, though there be dreary days of waiting for its fulfillment, while the bold herald is beset by storm and pinched by hunger as he holds his outpost and gleans his scant rations in the winter-desolated land. But he finds some friendliness in nature even now. Though her forces assail him with relentless fury, she gives him here the shelter of her thick willows in the bottom lands, in the windless depths of the Elkhorn's woods, and bares for him in the fields a rood of sward or stubble whereon to find some crumb of comfort, leaves for ungathered buds on the wild rose bushes, and on matted tangles of vines, fox-eye grapes—poor raisins of the frost—the remnants of autumnal feasts of robins and jays. Thankful now for such meager fare and eager for the full of disgusting repasts, in the bounty of other seasons, he becomes an epicure whom only the choicest food will satisfy. He has the pick of the fattest grubs and field mice, he makes stealthy raids on the earliest song birds' nests, and from some lofty lookout watches the farmer plant his corn and awaits its sprouting into the daintiest tidbits, a fondness for whose sweetness is his overmastering weakness, and, the one which makes him the ruralists' pest. In the springtide days he turns aside from mouse and corn hunting—the evil and the good—for spousal allurements wherein you hear his strident cawing attuned in cluttering notes, and having wooed his mate, the pair begins the work of nest building and family raising. The crow's nest is the rudest and clumsiest of all bird architecture, a jumble of sticks and twigs as even the winds may lodge upon its forked foundations, but woe betide the sparrow hawk of screech owl who ventures near, or fox squirrel who dares flaunt his yellow brush too near his sacred precincts.</p>
+         
+         <p>In the late summer when the young crows have come to weeks of discretion and the parents are liberated from the bondage of care, a long holiday begins for all the black clansmen. The shorn meadows and close cropped pastures swarm with plum grasshoppers, and lake shore, field and road offer their abundant fruits. Careless, unhunted and uncared for, what luxuriant lives they lead, sauntering here along aerial paths on sagging wing, through the sunshine from chosen field to chosen wood, and at nightfall bivouacking in the odorous tents of the bottom's willows. At last the cold, cheerless somber banners of November signal their departure a little further south and the flocking hosts file away, straggling columns flecking the steely blue sky with pulsating dots of ebony, the brown earth with wavering shadows. Sadly we note the retreat of the sable cohorts whose desertion leaves our woods and fields to the desolation of on-rushing winter.</p>
+         
+         <p>Caw! caw! caw!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 13, 1902. [Crows Herald the Coming of Spring]. <title>Omaha Sunday World-Herald</title> 37(195): 18. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01002">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">This Woodpecker Laid Seventy-One Eggs, says Dr. Towne.</title><title level="j">Omaha Daily Bee</title><author>Bee writer.</author><date>1919-08-25</date><biblScope>49(58): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>This Woodpecker Laid Seventy-One Eggs, says Dr. Towne</head>
+         
+         <p>Dr. S.R. Towne, president of the Audubon society, has been a student of bird life in the native forests in and near Omaha for many years. he often visits Forest Lawn cemetery and states that he has found there all but the large variety of the woodpecker family. he tells this interesting story about this bird:</p>
+         
+         <p>"The flicker, drab head and bronze body, the latter splattered with black or white dots, a large white patch showing on the rump as he flies, is over a foot in length. The male has a patch of red on the crown, as most woodpeckers do. here the quills or shafts of the feathers are yellow, giving a flash of color as he may spread himself in coming to a sudden stop. West and north are habitats of the red-shafted flicker. He is all life, and his "toot-toot," rapidly given when announcing spring time can be heard a mile or more. Later his "Flicker!" "Fllicker!" "Flicker!" as he is paying attention to Mrs. Flllicker, is very polite and persuasive. He makes the chips fly as work on the nest is being done. And she may lay 10 eggs for her litter. An instance is reported of 71 being laid when an egg was removed each day. One of the larger woodpeckers Audubon saw was the pileated (17 in.) along the Missouri river in 1843. This and the ivory-billed red-head came west with civilization, and are interesting in work or play."</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 25, 1919. <title>Omaha Daily Bee</title> 49(58): 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

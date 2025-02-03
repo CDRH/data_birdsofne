@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00145">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Cathedral Bird.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-07-01</date><biblScope>58(40): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Cathedral Bird.</head>
+         
+         <p>One need not be mightily religious to appreciate this thought, although cathedrals are not ill places to be in - and the sounds therefrom are not ill sounds.</p>
+         
+         <p>The Wood Thrush has a cathedral of his own, and a bonnie one, likewise - vaulted with leaves that seem to serve him to his will: to spray him with sifted sunshine or to exalt him with the holy opalescent altar-gloom.</p>
+         
+         <p>Maybe there are louder and nobler songsters given us - truly sweeter for the nonce. The Cardinal may whistle while the whole world wonders; the Bluebird may murmur to bring tears to one's eyes and the Warbling Vireo or the Baltimore Oriole may give an Irish ditty or a bold American carol to drag us from dreamland in the morn - but the Wood Thrush brings us back to our conscience.</p>
+         
+         <p>The Wood Thrush is greatly like a conscience. He is mostly invisible and yet weird. Any conscience is weird until it is seen - thereafter it is beautiful because it is cleaned - and it becomes no longer a conscience but a song - as that of the Wood Thrush.</p>
+         
+         <p>Today you may prove that these wards are not wildly sentimental, for if you will seek the deepest parts of the woods - the Wood Thrush will take care of the disproving.</p>
+         
+         <p>You will hear that bell-like, deliberately measured tone come from somewhere-nowhere - and may pursue it for a while, as if it were foxfire leading you astray. Yet when you find its source, it will be the cleanest brown-baked little bird, with breast black-speckled, and he will be hiding from you in a very open place on some limb in his green-vaulted cathedral - asking you to realize him.</p>
+         
+         <p>So close, so mysterious - so terribly sweet and mysterious - just like your conscience.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. July 1, 1923. <title>Omaha Sunday World-Herald</title> 58(40): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

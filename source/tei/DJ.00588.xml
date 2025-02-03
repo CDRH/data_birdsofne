@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00588">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Game Interests.</title><title level="j">Forest and Stream</title><author>McCandless, A.D.</author><date>1897-10-23</date><biblScope>49(17): 324. Game Bag and Gun.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game Bag and Gun.</head>
+         
+         <head>Nebraska Game Interests.</head>
+         
+         <p>Wymore, Nebraska, October 12—<hi rend="italic">Editor <title>Forest and Stream</title>:</hi> I have made a casual examination of the Nebraska game law passed by our Legislature last winter, and am of the opinion that Senator Gondring, who introduced the bill, was imposed on my some one. The senator is a first-class lawyer and an honorable gentleman, but not a sportsman. The law has some of the ear marks of the market hunter. But if I am wrong in my first proposition I have no doubt that the law will be a dead letter, as all former laws on this subject have been, for the following reasons:</p>
+         
+         <p>Take the subject of geese and ducks. The killing of geese and ducks is prohibited between the 1st day of May and the 1st day of September in each year. But the geese and ducks are not here between those dates, they come North early in March and do not come back until the middle of October. They have all passed on to the North before the 1st of May, and do not return until after the 1st day of September; so that this law is no protection to the ducks and geese while they are in Nebraska. I would suggest that we want a law that will prohibit the shooting of ducks and geese between the 1st day of January and the 1st day of October in each year. This would protect them in the spring, when they ought to be protected, and allow them to be killed in the fall when they are good for food.</p>
+         
+         <p>There is another provision in regard to blinds, that provides, "And it shall also be unlawful for any person at any time of year to dig, build or construct any blind, hiding place or structure in the bed of any river, stream or lake with intent," etc. This is mere clap-trap. No person ever builds a blind in the bed of a river. They build them on sandbars and along the shore; and in a prosecution for a violation of this section the strict rules of the criminal procedure apply, and no person could be convicted under this section for digging a blind on a sandbar.</p>
+         
+         <p>The chicken and quail law amounts to nothing. It provides a fine of $5 for each bird killed, but provides no adequate or systematic way of enforcing it. It is true that it makes it the duty of county attorneys, sheriffs, deputies and constables to enforce the law, but these are all elective officers. Any of these officers will serve a warrant, but they will not file complaints.</p>
+         
+         <p>I would suggest that the only way that a game law can be enforced is to have a game warden for each county; and he must be appointed to the position.</p>
+         
+         <p>Suppose we had this officer in each county and the law authorized him to have cards printed, and to furnish them to all the farmers, to post up on their farms, showing when the law did not permit the killing of game, and forbidding the killing of game on that farm. You have accomplished something; you have put the farmer in possession of a knowledge of the law; you have made him your ally; he wants to keep hunters off his farm. The farmer as a class are law abiding and will help to enforce any good law. They would report any violation to the warden. The warden could then hunt up the evidence and prosecute the case, or the law might authorize the farmer to make arrests, and hunters could begin to have a little respect for him. He would not be "an old gray" in the eyes of the average pothunter, as he is now, but an officer of the law, and then the sportsman, when the season came, could go out to the farmer and get his permission to hunt on his farm, and thus got his share of the game. Now it is all killed before the sportsman can go out, <hi rend="italic">i.e.</hi>, before the open season.</p>
+         
+         <p>The killing of prairie chickens began here on Sunday, the 11th day of July, this year. One hunter on that day found six coveys, and out of the largest of them killed six half-grown chickens. An the result was, that when the season opened on Sept. 1 there were no chickens left for the law-abiding sportsman to shoot.</p>
+         
+         <p>The new law shortens the open season on quail to two months, viz., November and December; but no attention is paid to it, and it is in the months of January, February and March that the quail are killed. During the first half of the winter the cover is so high and dense that it protects the quail much better than the law. And the birds are generally found nearer the farmer's house, around the orchard and hedges, and he protects them. I believe we will never have adequate game protection in Nebraska until we post up the farmers and put them in position to enforce the law. And they, acting under the direction of an intelligent game warden, can do it.</p>
+         
+         <p>Another bad feature of the new law is that it provides that "the corporate authorities of any county, city or village, within whose territorial jurisdiction such fine was recovered, and (when) collected shall pay to the complaining witness in such prosecution, out of the general fund of such county receiving such fine, an amount equal to one-half of the fine actually collected," etc. Here we have that obnoxious feature of paid informers, which makes it almost impossible to convict for any violation of the law, and I believe that our courts would hold this section to be against public policy, unconstitutional and void. Besides, it gives city and village authorities the power to pay money out of the general fund of the county, which is certainly beyond the power of any Legislature.</p>
+         
+         <p>A.D. McCandless.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 23, 1897. <title>Forest and Stream</title> 49(17): 324.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

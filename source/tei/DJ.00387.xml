@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00387">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Habits of Shore Birds].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-08-20</date><biblScope>34(323): 23. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <p>In Nebraska, what is known as "shore birds" have no protection from the law. You can shoot yellowlegs, the lesser sandpipers, touchstones, phalaropes, avocets, willets and curlew whenever and wherever you find them, and really we have no real season closed against shooting like they have in many states. In this month we have the yellowleg and sandpipers, and soon the rail will be in season, and the sportsman will have abundant opportunity to use his gun and prepare himself for the later cold weather work on chicken, quail, snipe, geese and ducks. The shooting of these August migrants, however, is easy work compared with that of the late autumn. It really does not require any very great skill to drop the yellowlegs, as with long, dangling stilts, they bunch and hover over the reedy patches along the slough shore, nor to stop the rail up along Cut-off's muddy shallows, or over at Manawa, as it flaps up out of ripening rice or weeds as you wade along or push your boat through its seedy cover. Surely the awkward little rail makes an easy target.</p>
+         
+         <p>Years ago, so John Petly tells me, the swarming flocks of yellowlegs, both lesser and greater, of dowitchers, willets and grass plovers, of which a few stragglers got in here as early as the middle of July, mustered all their forces about this time in August and began their southward flight. Early in the month they came along in considerable numbers, but it was not until after the northeast storm, which is annually looked for during the first week in August, and which we enjoyed some dozen days ago, that the flight was fully on. Fortunate, the man who found himself up at Horseshoe, Willow, Florence of Cut-off lake during this storm. Little cared he for the rain or wind, for the birds were sure to be plenty and the shooting good. Then, sometimes, later in the month or early in September came another easterly storm, which was apt to bring to our plowed fields and reeking meadows immense flights of golden plovers of Esquimaux curlew, whose coming all our old day local gunners will vividly recall.</p>
+         
+         <figure entity="HabitsShoreBirdsSport">
+            
+            <figDesc>Habits of game birds - setter Sport.</figDesc>
+         
+         </figure>
+         
+         <p>This species of sport in the olden times, when birds were plenty, was a very pleasant, but a very indolent pastime. There was the wide, flat stretch of sand and marsh all up along the Missouri north of the city, and it fairly swarmed with these now precious and lamented birds. Often I have heard Petty, Collins, Kennedy, Hoagland and other of the old day curriculum tell of how they laughed at such game, and yet would occasionally put in a day at their expense, notwithstanding their insignificance. Just as the mallard and redhead does today, so did the golden plover and the curlew years ago. They furnished an accelerative impulse for the sportsman's blood.</p>
+         
+         <p>There were the distant birds, the eager excitement as they approached, the doubt as to whether they would hear the call, or if they heard, would heed it; the breathless waiting until they had whirled round within range, then the wild roar of black powder, with its accompanying clouds of smoke; and again the doubt as to whether the confused birds would come back or would go on up or down the sullen river. Of course it was not always so rosy. For there was the chicken hunt on the open prairie, when the sun would beat down as if intent on baking the hunter's brains; sometimes the mosquitoes and deer gnats would fairly drive one from out the country, but the birds, whirring this way and that at almost every step, in a measure, minimized these discomforts until the day was over.</p>
+         
+         <p>But those days are gone forever, and we know little of the wondrous plenitude of feathered game in those fabled times. We have the yellowlegs and the sandpipers left in fairly goodly numbers, at times, yet, but the curlew, the willet and the golden plover are myths and phantoms of auld lang syne. Rail are to be found in plentifulness even yet, and in another two weeks should be furnishing splendid shooting at both Manawa and Cut-off.</p>
+         
+         <p>To the sportsman who longs for the music of the redhead's song and the guttural cry of the wary sandhill, rail shooting is sneered at as a sport for invalids or small urchins. Still there are few more delightful things than to go up at Cut-off early in the morning and in the cool air row along its bordering meadows. The man at the oars keeps the boat's nose at the very verge of the reeds, cattails and grass, and, if it is anything like a good day, the man forward with the gun will be kept busy knocking down and retrieving these little marsh hens as they flip-flap up with clumsy wing-beat and vainly try to get away.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. August 20, 1899. [Habits of Shore Birds.] <title>Omaha Sunday World-Herald</title> 34(323): 23.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00728">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Restlessness in Birdland.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-09-11</date><biblScope>56(49=50): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Restlessness in Birdland.</head>
+         
+         <p>What is there in early September that causes the Robin to voice, very unexpectedly and softly, a portion of his springsong?</p>
+         
+         <p>Why do Bluebirds congregate in small colonies and mournfully whisper their "Purity-Purity-Purity?"</p>
+         
+         <p>How comes it that the Grackles fly distractedly back and forth above us, uttering their hoarse cries, as if they had lost their homes and all they had come to love during the summer?</p>
+         
+         <p>While there is silence in most of the woods and fields, why do we occasionally come upon a colony of some family of songsters - banded together as if on the eve of an errand?</p>
+         
+         <p>Of course that errand is very plain. It is the errand of migration that impends, and this, we think, is the most mystic period in all of our amateur ornithology. It is so subdued and quiet and awesome that the cleverest scientists are rather baffled by it.</p>
+         
+         <p>By this we mean that today there may be thousands of Kingbirds gathered in one small section along the river valley - their cries reaching for miles. Tomorrow there may not be a single Kingbird there, nor in that vicinity.</p>
+         
+         <p>Where Robins are falsifying their springtime lovesong for a bar or two - they are gathering, gathering for the big flight southward next month. The mournful Bluebird song warns us that he and his family are arranging matters for a similar exodus. In short, this restlessness is typical of the hour before departure.</p>
+         
+         <p>The young birds of the resident families are floundering about attempting to gather courage, perhaps, for their first southward drift, and in the very air of the bird sanctuaries one feels the change that is coming between summer and winter, with autumn as the restless interim.</p>
+         
+         <p>These are days of delight to the Sabbath hiker who likes the outdoors and particularly the birds. When your indoor worship is concluded, the outdoor services will prove tremendously valuable. Try them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 11, 1921. <title>Omaha Sunday World-Herald</title> 56(49=50): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

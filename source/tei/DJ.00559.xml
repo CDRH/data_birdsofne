@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00559">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mother Nature's Dressmaking.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-14</date><biblScope>56(7): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mother Nature's Dressmaking.</head>
+         
+         <p>Mother Nature's trees and "green things growing" are so much more fortunate than her human children. They do not have to labor long over their costumes and then wear them whether they please or not. They just take advantage of the sun to color and the air, rain and wind to soften and blend the colors and they have a well-fitting coat or dress for every season. Then when the season is past they just easily drop them off and the earth underneath takes them in hand along with the wind and air and rain and makes them over into something of even greater value than before. Something, perhaps, that will go into the making of an even more beautiful dress for the coming season. And all this comes from and to Mother nature's children without any haggling about prices, or the amount they shall pay each other.</p>
+         
+         <p>Just now the colors are changing slowly from the autumn list of reds and yellows and beautiful golden browns, into the less brilliant shades of tans, grays, and many more of the indescribable woodsy shades. But some of the trees that perhaps are more vain than the others still keep their beautiful reds and yellows and pose them before the plainer, darker trees that perhaps have shed all leaves and give only the graceful silhouette of the branches.</p>
+         
+         <p>A real lover of nature can get as much pleasure out of a grass-carpeted slope dotted over with many kinds of trees and shrubs and vines and ending in a low dark hollow with its shadowy background as a traveler in search of some new sensation would obtain in a journey of a thousand miles. It changes from the first tint of green in the spring down through all its varying dress until it circles the year and begins again in an ever charming array of pictures that no brush could put on canvas or words describe. And every bit of ground or tree or bush or vine is so serenely certain that their mother and brother and sister elements will give them all they need.</p>
+         
+         <p>So many lessons we learn from them. When shall we profit by and use them?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 14, 1920. <title>Omaha Sunday World-Herald</title> 56(7): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

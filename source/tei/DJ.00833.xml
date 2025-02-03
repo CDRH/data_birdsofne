@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00833">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Sportsmen and Affection for the Flicker].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-09-25</date><biblScope>33(360): 23. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <p>Show me the sportsman who hasn't some sort of an especial affection for the homely flicker, or yellowhammer, as he is more frequently called, and I'll show you a sportsman who lacks one of the component parts of the true article. It is the flicker and the robin that bring back visions of the dreamland of long ago. It was on these birds we (for most of us, any way) first tried our prowess with the old single barrel in the woods at the outskirts of the village in a barefoot days. And we still hold their memory in holy reverence.</p>
+         
+         <p>The flicker, whose cheery cackle assures us of the certainty of spring, I will mention first. He is our migrant woodpecker, and he is rich in moves that well befit him. If you desire to impress your listeners with the profundity of your bird knowledge you must speak of Colaptes auratus as he darts away from snag or fence post, borrowing more gold of the sunbeams that shine through his yellow pinions. As he flashes his wings in straightaway flight before you, or sounds his sharp single note of alarm, or peers down upon you from the door of his lofty tower, or clings to his wooden wall, or hanging to a fence stake, displays his mottled back, you recognize the fitness of each name the quiet country folk have given him—flicker, golden-winged woodpecker, yellowhammer and Highholder.</p>
+         
+         <p>It is a wonder that the joyous cackle wherewhith he announces his return from his winter sojourn in the south has not gained him another, and his lone note, a retired cluck, still another. You have all heard him when snipe shooting in the first mellow days of April. Perhaps it is because they are especially sounds of the vernal season, and are seldom, if ever, heard after that time of joyful return and love-making.</p>
+         
+         <p>After the brood is well grown and taken to the world in July, the flicker becomes a great enemy of the borer, that insidious enemy of our apple and other fruit trees. In sultry August, when the shrill drone  of the cicada trembles in the hot air, the yellowhammers with all their grown-up family fly up before you as you traverse meadow or pasture from their feast on the teeming insects, and go flashing and flickering away like rockets shot aslant into the green tent of elm, maple, plum or cotton wood. Early in the dreariness of November they have vanished with all the horde of summer residents who have made the season of leaf, flower and fruit the brighter by their presence. The desolate, leafless months go by, till at last comes the promise of spring and the sportsman become aware wherever he steps out of doors of a half conscious listening for the joyous cackle of the flicker, just as he bends hi ear in July to catch the liquid tinkle of the upland plover falling from the evening sky.</p>
+         
+         <p>Later, the loud, long, happy iteration breaks upon your hearing and you hail the fulfillment of the promise and the blithe newcomer, a golden link in the lengthening chain that is encircling the world.</p>
+         
+         <p>And then! Well, you whistle up the dog, shoulder the hammerless and go snipe shooting! Eh, Con, Stocky, Scrib, Charlie, Doctor, Tom and the rest of you, isn't that about the size of it?</p>
+         
+         <cit>
+            
+            <bibl default="NO">September 25, 1898. [Sportsmen and Affection for the Flicker.] <title>Omaha Sunday World-Herald</title>	33(360): 23.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

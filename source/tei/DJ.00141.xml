@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00141">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Capture and Captivity of the Great Horned Owls.</title><title level="j">Osprey</title><author>Carriker, M.A., Jr.</author><date>1899-01-01</date><biblScope>3(5): 67.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-16">2006-06-16</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Capture and Captivity of the Great Horned Owls.</head>
+         
+         <head>By M.A. Carriker, Jr.</head>
+         
+         <p>The banks of the Missouri, in the southeastern part of Nebraska, are broken up into bluffs and hills, which rise from 50 to 300 feet above the rapid flowing river. They were formerly and are in some parts still covered with heavy timber, which gave refuge and abundant food to many large Hawks and Owls, such as the Barred, Great Horned, and Long-eared Owls, and Red-tailed and Cooper's Hawks. These still remain, though they are becoming fewer every year.</p>
+         
+         <p>April 2, 1898, while hunting for nests of the Red-tailed Hawk in a sparsely settled district, I discovered a bulky nest about 40 feet from the ground in a large linden tree, growing in a deep ravine. It looked weather-beaten from beneath, but on climbing up the ravine I saw the head of an Owl resting on the edge of the nest. I climbed the tree, and when about 20 feet up, on the straight, branchless trunk, I was startled by the sound of swiftly flapping wings behind me. Before I could turn my head something struck me between the shoulders with a force that almost tumbled me to the ground. By a great effort I kept my hold, and then saw my assailant was a Great Horned Owl, sailing away to the nearest tree, snapping his beak and making such a noise as only an angry Great Horned Owl is capable of. In a moment the male darted at me from a different direction, and had just time to throw my gloved hand before my face, when a claw pierced my glove and skin, tearing away a piece of both. After that it did not take me long to scramble up among the branches, where I was comparatively safe from attack.</p>
+         
+         <p>On reaching the nest I found it contained three young, completely covered with gray down, the feathers showing through in some places. They were very pugnacious, and on my approach threw their heads and wings forward and snapped their beaks viciously. As I had no means of carrying them bundles of rage, I was compelled to leave them; but three days later I was there again provided with a stout sack to put them in. This time the Owls did not attack me so viciously as before. On reaching the nest I found but two young Owls, besides which there were two large rats and the hind-quarters of a rabbit in it, and from the odor I presumed the birds must have dined on skunk not long before. After some hard work I succeeded in getting Owls, rats and rabbits into the sack. The former arrived at my home in excellent spirits; however, they refused to eat for some days, until I feared they would starve. But having placed one of them on my arm and held a piece of meat before its mouth, to my surprise the food was bolted so quickly that my fingers almost followed. I had solved the problem of feeding Owls. I continued to feed them in this manner until they grew so vicious that I could not handle them with safety. When approached they would jump at the intruder claws foremost, like a game-cock, with every feather on end and the wings spread forward. I fed them on rats, rabbits and squirrels; when these were not obtainable, on beef, which they seemed to relish. When I skinned one of them it was extremely fat, although for the last three weeks of its life it ate very little. They can subsist for a considerable time without food, and they drink little or no water.</p>
+         
+         <cit>
+            
+            <bibl default="NO">January 1899. <title>Osprey</title> 3(5): 67.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

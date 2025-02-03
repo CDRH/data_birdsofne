@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00336">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game Birds on Wing. The Season for Quail Opens. Preparations for the Omaha Gun Club's Annual Shoot With Petty and Penrose Captains—Birds Will be Fairly Abundant.</title><title level="j">Omaha Daily World</title><author>Editor.</author><date>1887-10-01</date><biblScope>3(33): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-06-13"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game Birds on Wing.</head>
+         
+         <head>The Season for Quail Opens.</head>
+         
+         <head>Preparations for the Omaha Gun Club's Annual Shoot With Petty and Penrose Captains—Birds Will be Fairly Abundant.</head>
+         
+         <p>Teal and wood duck are beginning to afford sport for the hunters of Omaha and this part of the Missouri valley, and the expectation is that when a few cold nights have set the migratory birds flying southward, not only the small varieties of ducks named but also mallard, red head and canvas backs will be abundant. "There will not be so many shooting places this year as before," says a hunter to a World reporter, "because the season has been very dry and many lakes and sloughs have been drained off or disappeared in some way. But the birds will be thicker than ever when there is water. Most of those ducks that you can find near Omaha now were bred here or in Iowa and are getting ready to fly south. The geese will not be numerous to shoot for some weeks yet along the Platte.</p>
+         
+         <p>Quail are legitimate game from today on, as the open season for quail open October 1st. While last winter and the winter before were severe upon the birds, and froze out many, the indications are that they will be more plentiful than last season.</p>
+         
+         <p>Prairie chickens are plenty and great eating just now, but the coveys are gathering into flock of fifty to five hundred, and they have been shot at so much that they are pretty wild, and it is not much sport to hunt them.</p>
+         
+         <p>Members of the Omaha Gun club are discussing the great fall hunt which will be held at some time between the middle of this month and the first of November. Those redoubtable Nimrods, John Petty and George Penrose, have been chosen captains and are quietly sizing up the sportsmen before selecting sides.</p>
+         
+         <p>If the present expectations are realized the first annual tournament under Penrose &amp; Hardin's management at this city will be the greatest yet seen in the west. As many as 150 expert shots have promised to attend from different parts of this and other states, and among them are Pudd, Stice, Tucker, Muretry, Meeden and Miller. The dates are on the 25th, 26th, 27th and 28th of this month, but Mr. Penrose says the opening may possibly be changed to November 1st, at the urgent request of the Gun club, who want to participate in the tournament and in the fall hunt. However, it is probable that the October dates will stand and that the gun club will find the season long enough to have its hunt before or after. For the tournament many thousand live and clay pigeons are secured.</p>
+         
+         <p>The South Omaha Gun club holds its first shoot today and tomorrow. Live birds and blue rocks are provided.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 1, 1887. <title>Omaha Daily World</title> 3(33): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

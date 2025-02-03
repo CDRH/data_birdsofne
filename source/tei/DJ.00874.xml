@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00874">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Strutters [Bronzed Grackle].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-06-24</date><biblScope>58(39): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Strutters.</head>
+         
+         <p>These be picnic days when ardent inborn nature-lovers, wron with hot times in the old town, seek the wafty breezes of the parks outlying, there to spread themselves and their edibles to the glory of appetite, comfort and insects.</p>
+         
+         <p>it is to us remarkable indeed how much pleasure human beings may find in feeding themselves and their to vociferous and voracious bugs. But they do it all the time - and there you are!</p>
+         
+         <p>But human beings, with their great pertinacity for punishment and yearning to do something unusual at the expense of cozen or comfort, are by no means the greatest picnickers in this world!</p>
+         
+         <p>The Bronzed Grackle is THAT: is the usefulest and most harmonious discord that features a frolic in the forests, or that squawks and barks his way through places that we would have divine, but cannot, thanks to civilization.</p>
+         
+         <p>Sweet birds hark silently to silent places and there eke their own existences, to their melody, which is generally lovely. Sweet birds' songs are plural! - to name one separately, or describe it, would be lese majeste.</p>
+         
+         <p>But for vulgarians, like Humans and Bronzed Grackles - there can be no sedition, treason nor heathenism. There can be naught but modernity, not only in civilized modernity but in brass-bronze ornithology.</p>
+         
+         <p>To say merely that when the glutton or delicately-palated human goes to his picnic in the park these days, the not-so-delicate but nevertheless judicial Bronzed Grackle harks and parks betimes and beside! To see a Bronzed Grackle carry off half a loaf of bread is no strange sight - but picnic parties have seen grown men and youngsters carry likewise - so where's the evil?</p>
+         
+         <p>Strutting in the ravine-bed where there is mud and water, these coppery-colored birds do verily STRUT in their glory - these Bronzed Grackles - and where shall we find a more beautiful bird, if a more peculiar?</p>
+         
+         <p>Useful at all times, if only that they clean up our slovenly picnic parks when we ourselves should clean them - shall not these Grackles be part and parcel of our plea for bird protection?</p>
+         
+         <p>You know them, you Picnickers - very well! The Crow-Blackbird, truly the Bronzed Grackle.</p>
+         
+         <p>Treat him well, for he is a friend of mankind.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 24, 1923. The Strutters [Bronzed Grackle]. <title>Omaha Sunday World-Herald</title> 58(39): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

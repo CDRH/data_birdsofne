@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00281">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">'mid Falling Leaves.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-10-17</date><biblScope>51(3): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>'mid Falling Leaves.</head>
+         
+         <p>Stripped of their baffling splendor, the trees and bushes of the woodland now starkly display the secrets of the summer. Like perfect humans posing for the first time in the nude they seem to blush as their garments fall from trim or muscular figures. Occasionally an appealing branch holds a last cluster of auburn leaves before the rude eyes of the prying lover of the big outdoors. It is a pathetic but hopeless prayer thus offered by nature, for sheer nakedness is inevitable, and the inborn modesty of all loveliness is betrayed by a bleak and onrushing winter.</p>
+         
+         <p>Now the cozy and sacred homes of myriad birds, so cleverly hidden for the nonce, are destined to become known to those who roam the wildwood and who have vainly searched for the varied nests of Nebraska songsters.</p>
+         
+         <p>How many a secret is now disclosed! Secrets that would have been kept, too, by those who have learned to study the songbirds rather than to harm them. Poor things, these little fluffy fellows of green entanglements long ago learned that humans cannot be trusted, and they could scarcely be expected to distinguish between their olden foe and their modern friend.</p>
+         
+         <p>But here, now that they have taken their winter journey to the southward, there is found the deserted village of their homes.</p>
+         
+         <p>The dainty creation of moss and lichens that once cozened the family of the Wood Pewee is but a clot of faded junk on the top of a limb stretching across the ravine. On the tip of a drooping branch far above hangs the delicate basket in which was raised a brood of Baltimore Orioles, while a cluster of twigs, scarcely an entity in its deserted state, was once the home of the glorious Rose-breasted Grosbeak. Funny you didn't notice them before - but you didn't.</p>
+         
+         <p>And here, in the thistle-bush, is the dejected remnant of a Dickcissel's nest, with a deserted Cowbird egg still awaiting the mother-warmth that is never to come - for the Cowbird, laying her eggs in other nests, doesn't always pick a winner.</p>
+         
+         <p>A storm-swept and sad affair of twigs and grasses, with a long strip of white cloth flapping in the wind nearby, discloses to the autumn explorer where the Wood Thrush reared her young, relying upon the gay banner to frighten intruders away. Strange, is it not, that this same danger signal is now attracting investigation, rather than preventing it?</p>
+         
+         <p>The tiny cottage of the Chipping Sparrow, done largely in horse hair and as trim as Dresden china, is discovered in the clematis vine over your porch. Strange that you had not noticed it before! Even the Robin had his home in yon tree in the parking before your own house - and yet you have missed that item also!</p>
+         
+         <p>These - even as every other - are wondrous days with nature and the mysteries of bird-lore.</p>
+         
+         <p>Let not your native laziness keep you from the parks or woods while the air is nipping, the earth firm under foot and the very souls of the songsters' family life stripped bare for your examination.</p>
+         
+         <p>A wonderful book is opened for your reading 'mid the falling of the leaves.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 17, 1915. <title>Omaha Sunday World-Herald</title> 51(3): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00320">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Foreign Birds Are On Increase in Some Sections.</title><title level="j">Omaha Morning Bee</title><author>Staff Correspondent.</author><date>1913-09-19</date><biblScope>43(80): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Foreign Birds Are On Increase in Some Sections.</head>
+         
+         <head>(From a Staff Correspondent.)</head>
+         
+         <p>Lincoln, Sept. 18. - (Special.) - The $5,000 flock of foreign birds which were kept by the state for a couple of years for the purpose of increasing the game colonies of Nebraska and for which the last legislature refused to appropriate any money have had a varied experience since they were sent out in different parts of the state.</p>
+         
+         <p>Game Warden Gust Retenbeck says it has been discovered where the birds were put in natural groves or hills they have done pretty well, but in instances where the parties to whom they were sent kept them shut up so they could admire their beautiful plumage, the birds have died or have refused to increase.</p>
+         
+         <p>Senator Jack Grace of Harlan county received a few of the birds which he desired to turn loose on his farm, but the plumage of the birds was so beautiful, according to the game warden, that the senator shut them up in cages with his canary birds and tried to have the canaries teach them to sing.</p>
+         
+         <p>On the other hand a Chinese pheasant rooster and two hens were sent out to Staplehurst and turned loose in some timber and notwithstanding one of the hens is missing there have been two broods of chicks hatched and the birds are doing well. Another pair turned loose on an island in the Platte has done well and seem to be on the increase.</p>
+         
+         <cit>
+            
+            <bibl default="NO">September 19, 1913. <title>Omaha Morning Bee</title> 43(80): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

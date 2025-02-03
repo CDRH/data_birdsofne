@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00034">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Artificial Activity [Beautify Parks].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-01-14</date><biblScope>52(16): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Artificial Activity</head>
+         
+         <p>Spring is not so far away, and the time is rapidly approaching when gangs of men will be put at work in the public parks. In their labors they should be so directed that benefit may be derived therefrom, rather than destruction.</p>
+         
+         <p>During his years of service, Commissioner Hummel has done much to deserve commendation, which is freely accorded him. His establishment of baseball diamonds in the public parks and playgrounds has been useful in running rowdyism out of the national game in its amateur state. His skating rinks and football fields, both soccer and American, have been boons to advocates of these sports, while the accompanying equipment of dressing rooms and equipment are luxuries unknown until the Hummel regime.</p>
+         
+         <p>Nevertheless, Park Commissioner Hummel has his limitations and it is well that he acquaint himself with them. In his restless efforts to "beautify" Omaha's parks, Mr. Hummel has indulged in a campaign which will prove to have been destructive rather than constructive.</p>
+         
+         <p>The rustic features of our parks need not the hand of man to aid in their beauty. Already every mysterious ravine and draw in Turner park, for instance, has been cleaned of all shrubbery and underbrush, filled with dirt and neatly levelled to smooth and unsightly nicety.</p>
+         
+         <p>This is but one example. The same is true of Hanscom park. Even at Riverview, one of the noblest of Omaha's rustic playgrounds, the hand of the unskilled, political laborer has been felt. In Elmwood, the best of them all, it has required every effort to prevent the promiscuous levelling of trees, the dragging out of fallen and picturesque moss-covered logs and the actual raking of leaves from the violet and fern-grown slopes of nature's woodland!</p>
+         
+         <p>Fie on such artificial activity! San Francisco spent a million dollars to build up, on her sand dunes, the alluring entanglements of Golden Gate park, and in the east vast sums are being expended yearly toward the same end. yet here, where we have such priceless treasures left us by God Almighty, a Joe Hummel would tear down nature's halls and corridors and remodel them in his own crude fashion.</p>
+         
+         <p>We have an idea that the Chewinks, Thrashers, Vireos and Thrushes thus thrown from their homes are protesting in their honeysweet voices to some spirit above, while we mere humans, who would have them with us always, must stand by and watch their deportation by a day laborer with an ax and spade!S</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 14, 1917. <title>Omaha Sunday World-Herald</title> 52(16): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00126">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bridge Builder [Phoebe].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-03-21</date><biblScope>55(25): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bridge Builder.</head>
+         
+         <p>There have been warm days and cold days, high barometers and low barometers, frozen ground and eagerly sprouting grasses, during the past week - but a bird has come to us from the south, nevertheless and notwithstanding, to perch upon some bare limb near a bridge and remark, emphatically:</p>
+         
+         <p>"Fee-BEE!"</p>
+         
+         <p>To attempt to print a picture of a bird's song is generally impossible, with a few exceptions, such as the "What Cheer!" of the Cardinal and the "Whoopla! Potato-bug!" of the Meadowlark. But the call of the Phoebe is unusually interesting because it is often confounded with that of the Chickadee and the Wood Pewee.</p>
+         
+         <p>We have had letters and telephone calls during the winter, and every winter, too, about the presence of "Pewees" in the woods hereabouts. These birds, of course, are the Chickadees, which occasionally pronounce "Pewee!" very distinctly. The Chickadee is a resident, staying all the year around. But the true Pewee is a fly catcher that is here only in the summer, and his note is much milder and more mournful, something like "Pee-a-wee-ee" - with a rising inflection on the last syllable.</p>
+         
+         <p>But now we have the stalwart Phoebe, who builds his nest under some bridge, culvert or overhanging bank, and who bravely announces his presence, as we have described, with a sort of emphatic "Fee-BEE!"</p>
+         
+         <p>This Phoebe is a very useful critter, living almost entirely on insects that we do not love nor cherish. SInce he often builds underneath a railroad bridge over which trains clatter and rumble hour by hour, he certainly has plenty of stamina.</p>
+         
+         <p>Phoebe is here. See if you can put him on your list during today's hike.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 21, 1920. The Bridge Builder [Phoebe]. <title>Omaha Sunday World-Herald</title> 55(25): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

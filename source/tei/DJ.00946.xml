@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00946">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Warblers Going South.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-29</date><biblScope>55(48): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Warblers Going South.</head>
+         
+         <p>While it is rather difficult to realize, the summer is just about gone, and it will not be long before the antimoth bags will be lugged down from the attic and all the cute little moths released from their long confinement.</p>
+         
+         <p>With the advent of embryonic autumn or incipient fall or whatever you care to call it, comes the inevitable southward drift of the small migratory birds through these parts.</p>
+         
+         <p>Already, we are reliably informed, some of the Warblers have been seen here on their trip southward. Perchance they were afraid of the raise in passenger rates effective August 26, and so started early.</p>
+         
+         <p>At any rate, a Wilson Warbler was seen near Omaha a week ago, with his bright yellow body and black head-patch, and another warbler, seen at some distance but unofficially presumed to be a Pine Warbler, was noted near Carter Lake.</p>
+         
+         <p>Expert testimony on the movements of Warblers to the south shows that this is not too early for the appearance of some members of this rather eccentric tribe, and that makes a tramp through the woods just so much more interesting.</p>
+         
+         <p>In the woods and fields you will already notice that the Dickcissels and Indigo Buntings and Maryland Yellowthroats and Orioles are much more difficult to find than usual - which means that many of them have departed.</p>
+         
+         <p>This change has a tinge of sadness in it, but now will come the Warblers in full force; after them the great throng of Sparrows, and finally the cold weather birds, to stay with us all winter.</p>
+         
+         <p>Old Mrs. Nature keeps things interesting for us outdoors all the year around.</p>
+         
+         <p>Why not patronize her?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 29, 1920. <title>Omaha Sunday World-Herald</title> 55(48): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

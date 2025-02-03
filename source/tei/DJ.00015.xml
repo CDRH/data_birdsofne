@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00015">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Among the Missing [Spring Birds Yet to Arrive].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-05-06</date><biblScope>52(32): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Among the Missing.</head>
+         
+         <p>Those who have made a practice of keeping a record of the arrival of the spring birds may well be annoyed by Jack Frost's outrageous conduct during the past ten days.</p>
+         
+         <p>A year ago this very morning the trees were rich with their mid-spring foliage while the glades and fields glistened green beneath the warm sun. There were flowers - and there were the songs of many birds passing through to the north, and of others here to spend the summer.</p>
+         
+         <p>But it is different in this eventful year of 1917.</p>
+         
+         <p>Twelve months ago this gorgeous Baltimore Oriole was whistling his tender lay as he put the finishing touches upon his wonderful swinging nest, high in the tree top, at the end of some drooping bough. You will scarcely find him today, we think, when there isn't even enough foliage to hide his brilliant Princeton colors.</p>
+         
+         <p>Last year on this day the Rose Breasted Grosbeak, another wonder warbler of the woods, was flitting about against the rich, emerald background. This season he, too, has been delayed in transit.</p>
+         
+         <p>Where are the Yellow Warblers and the sombre Catbird with his vast repertoire of song, and the gentle Wood-thrush. Where are they all, these beauties we have learned to expect on this very morning? Why, yesterday was "Bird Day" all over the nation - but where are our birds?</p>
+         
+         <p>Well, no doubt you would find them on the lower edge of this belt of cold, disagreeable but nevertheless valuable weather we have been abusing of late. They are certainly as anxious to be here, preparing for their summer's domestic work, as you are to have them, but they are nevertheless very, very tardy.</p>
+         
+         <p>A few days of warm sun, a little foliage - and you will be surprised some morning by some entirely new songs.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 6, 1917. Among the Missing [Spring Birds Yet to Arrive]. <title>Omaha Sunday World-Herald</title> 52(32): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

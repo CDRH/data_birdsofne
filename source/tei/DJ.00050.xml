@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00050">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Beautiful Study of Ornithology and Color of Bird Plumage].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1900-09-16</date><biblScope>35(350): 23.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <p>As all those interested in the beautiful study of ornithology know, of course, that the plumage of most of the birds that visit this region is plain and tame compared with that of the birds further south. It is also the same with our insects and flowers. In the tropics they flourish in the vertical rays of the sun and are always clad in brilliant hues. The birds up here that display bright colors, it will be observed, do so only on parts of their structure, as the scarlet splotch on the wing of our swamp black bird, the red cap of the white and black woodpecker, the gold under the yellowhammer's sides and breast, the meadowlark's topaz vest and the iridescence of the mallard and the woodduck's back. There is hardly an exception to this rule, the only one I can think of being the little indigo bird, with his bluish-green garb, and which is to be encouraged quite plentifully along the vegetation-lined roads north of Florence. Brown, gray and black are the prevailing colors here, with dashes of yellow, blue and red, yellow being the most plentiful of all the bright hues. The universal color of our woods and fields through the sweet days of summer, green, is never found in the plumages of our birds, that is a true, leaf green. There is an olive, with green reflections, and the metallic lustre on the back of the crow blackbird, the mallard's head and the bars on the cinnamon teal's wing, is plentiful enough, but that is as far as this color goes. We have a number of blue birds, but not one wholly blue. Our common blue bird, the dearest of all our sweet harbingers of spring, and alackaday, so rapidly disappearing, is the brightest and purest blue of them all. "With sky on his back and the earth in his breast," as Burroughs has said, he is one of our most beloved birds. While yellow is the commonest of all the colors in the plumage of our birds, I know of none anywhere entirely of this color. The goldfinch, oftenest yelept salad or thistle bird, has a pure sulphur yellow for its prevailing color, while the top of the head, the wings and tail are jet black. The nearest approach of all yellow is the little yellow warbler frequently encountered in our thick hazel patches and the thickets of our creek beds, but he has some olive shadings and rufous markings. The meadow lark has a bright lemon breast, polka-dotted with black, and the chat, the maryland yellow-throat and Kentucky warbler, all have their splashes of gold. True redbirds are also a scarce quantity. The startling, woodpecker, redstart, chewink, greater nuthatch and many others have their share of red, but their prevailing colors are of the plainer order. The nearest approach to the whole thing is found in our common "redbird" - the scarlet grosbeak - one of the commonest of all Nebraska's bird life.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. September 16, 1900. [Beautiful Study of Ornithology and Color of Bird Plumage]. <title>Omaha Sunday World-Herald</title> 35(350): 23. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

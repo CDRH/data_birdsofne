@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00122">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bohemian Waxwings.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-11-20</date><biblScope>57(8): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bohemian Waxwings.</head>
+         
+         <p>In the opinion of amateur ornithologists' who spend a portion of the Sabbath in a healthy hike through the woods, there is something very distinctly doing in birdland.</p>
+         
+         <p>As has been chronicled from time to time during the past month or so there has arrived a considerable clan of winter feathered folk, many of them from the Arctic circle and all of them heavily armored against low temperatures. In fact is is somewhat significant that when these same birds arrive, there is generally a pronounced inclination toward frigidity in these parts. The meteorologists say that these creatures of the air come down from the north because of extreme conditions there, and have no particular bearing on what is to happen here. Perhaps the weather sharps are correct. We hope so.</p>
+         
+         <p>But just a week ago today there were seen in Elmwood park at least a dozen Bohemian Waxwings, and others of that family have been reported from other nearby wooded tracts.</p>
+         
+         <p>Until two years ago this winter, these birds had never been recorded here, and they are known to presage cold weather somewhere in their flight.</p>
+         
+         <p>The Bohemian Waxwings are worth hunting - with nature glasses - for they are among our most beautiful creatures. They are always dressed up, and they always have somewhere to go. They are very polite to each other, and may be identified chiefly by their topknot.</p>
+         
+         <p>Today you may find them among coniferous trees, or in heavy groves, in all their friendly beauty. Why not look for them?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 20, 1921. <title>Omaha Sunday World-Herald</title> 57(8): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

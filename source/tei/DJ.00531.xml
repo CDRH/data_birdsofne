@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00531">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Maytime Witchery [Common Yellowthroat].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-05-14</date><biblScope>57(30=33): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Maytime Witchery.</head>
+         
+         <p>Although we needed him not to tell us so, the Maryland Yellowthroat has arrived to sing to us that the [letters not legible]ing is full of "Witchery! Witchery! Witchery!"</p>
+         
+         <p>No less clear than the bell-like whistle of the Cardinal who pipes all day long "What Cheer! What Cheer! Whew!" is this tiny Yellowthroat's charming comment from the underbrush or the weeded roadside. His little, black-masked face peers at us from his hiding places, and his dark eyes snap with curiosity - for he is the very soul of curiosity - and will follow us a considerable way, if we walk slowly.</p>
+         
+         <p>While it is difficult to see this delightful little summer Warbler of ours, he has no difficulty in seeing those who search for him, for he takes advantage of protective coloration in the yellowish weed patches and early green leaves and gives everything and everybody a hearty inspection.</p>
+         
+         <p>Next to the pleasure of finding and becoming acquainted with the Yellowthroat himself is that of hunting for his nest, after he and his mate have completed it. This is a long and arduous job, and generally unsuccessful. They build close to the ground in grass or reed tangles, and hide their tiny home to perfection.</p>
+         
+         <p>Take a little Sabbath hike today, and listen for "Witchery! Witchery! Witchery!"</p>
+         
+         <p>In a couple of weeks see if you can find "Witchery Castle."</p>
+         
+         <p>The odds are against you.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 14, 1922. Maytime Witchery [Common Yellowthroat]. <title>Omaha Sunday World-Herald</title> 57(30=33): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

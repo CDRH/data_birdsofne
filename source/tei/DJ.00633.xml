@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00633">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Omaha and the Crow.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1892-01-31</date><biblScope>21(228): 16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Omaha and the Crow.</head>
+         
+         <p>There is probably no city in the United States where the common wild crow (Corvus Americanus) makes himself as much at home as in Omaha. Here they are as common almost as English sparrows or tame pigeons, and evince about as little fear of man. All through the winter months, especially when the ground is covered with snow, this beautiful and intelligent, but very mischievous bird, is a common sight on our by-streets and lanes, and often in the very door-yards in the center of the city. They seem absolutely without fear of man or boy, and when busily engaged in the enjoyment of a meal can be approached within a few yards before they will take wing. This is all very strange to people who have lived in the eastern states, where the crow is considered the shyest and most wary of all wild birds. The farmers' boy who succeeds in crawling within gunshot of a crow back in Ohio, Pennsylvania or New York, accomplishes a feat that he may well be proud of, but here any kid with a "nigger-killer" or Robert rifle can pop away at them as if they were so many barn yard fowls. This domesticity of the crow, as he is known in this particular region, is a nut for the ornithologist to crack. We do know, though, that they congregate here in the winter season in countless numbers, and frequent the streets of the city with the impunity of the buzzard in Charleston and Savannah, or the common tame pigeon in all northern cities. They are good scavengers and deserve rigid protection. In olden days the crow was supposed to be granivorous and was the least beloved of all our native birds, but in these days of modern research and scientific investigation, the crow, like the devil, is known not to be nearly so black as he is painted, and almost everywhere something like a just sentiment prevails. This has been brought about by a thorough study of the diet and habits of the bird, and instead of being wholly or largely granivorous, they are rather insectivorous, and the amount of insect-larvae they destroy counter balances more than a hundred-fold their destruction in the grain field. This fact alone is sufficient to warrant their protection instead of the old time persecution. Strictly speaking, while an extremely cleanly bird, the crow is omnivorous, and he will eat or attempt to eat a railroad spike or old door knob with the same avidity that would mark his attack on a marsh mallow or hard boiled egg. He is a splendid scavenger, as was remarked before, and picks up and does away with many a scrap of noxious offal, which otherwise might be left to taint the air and breed disease. But the crow is an interesting study at any and all times. A bird of wonderful intelligence, and barring his tendency to petit larceny, males a most entertaining pet. SOme authorities even assert that they may be taught, like the parrot, to talk. They are very tenacious to life, and there is an old male bird in the London zoo today said o be over 100 years old. Just now they are at their thickest in and about Omaha, and great flocks can be seen every morning and evening flying over the city. In the evening their line of flight is from the south and southwest - and they pass over by thousands - to the north and northeast; in the morning they traverse the same flight back again. For years and years the birds have roosted in the forest of low willows east and north of Cut-Off island, and when the sable hosts are congregating thither in the shades of evening, the spectacle is a wonderful one. Omaha's escutcheon would certainly be incomplete without the graven image of the cunning and industrious crow upon it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. January 31, 1892. Nebraska Sunday Bee 21(228): 16.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

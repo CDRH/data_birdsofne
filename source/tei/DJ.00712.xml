@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00712">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Rail Hunting at Lakes and Slough Grounds].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1900-09-16</date><biblScope>35(350): 23. Portion of Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-19">2006-06-19</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <p>Although the prairie chicken season is now at its height local gunners are having rare sport at all of our adjacent low-lying lakes and slough grounds, with the rail, both clapper and sora. The birds are unusually plentiful on all the reed and flag-covered marsh lands on both sides of the river and they are being bagged by the hundreds. As an instance of their plentifulness it might not be amiss to state that one afternoon last week the Barrister and I bagged fifty-seven on the oozy lowlands environing Blue lake. had it not been for the difficulty in working the dogs in the thick tules and mirey muck, we could have easily doubled the bag. I am unable to advance any theory for this wonderful influx of the little corncrake in the locality this fall, other than the fact that a lack of condition at their usual haunts further south has induced them to search for the exuberant pastures which abound so numerously in this vicinity. Certain it is, anyway, they have never been known to come in here in such vast numbers since the memorable autumn of 1894. It may be, and I hope it is the fact, that their visit has been brought about by a change in their line of migration, as it was in the year mentioned, and that they will find the conditions for thrift so favorable that they will return with each recurring season as plentiful as in the present. But they will soon be gone, and gunners on our nearby waters will soon have to content themselves with an occasional crack at mallard, teal, yellowleg or jacksnipe. They are an extremely delicate and sensitive bird, and as our nights and mornings are growing keener and keener, they will soon wing their way on to the sunnier climate to the south of us. The woods and grasses will soon begin to droop, and then, when a garb of brown is drawn over the landscape and the foliage in the river bottom flecks with scarlets and golds our marshes will know them no more until another season rolls around. In the eastern and middle states the arriving of no feathered game is looked forward to in the early autumn more eagerly than this self-same perplexing little marsh-hen, about which clusters many a story and many a myth. It was hard for our sportsmen forefathers to believe that the feeble flight of the comical little rail could carry him over long journeys, and it was easier to imagine that he changed his shape and was today a bird of the upper air and tomorrow a frog living in the oozy muck of the marsh's bed. Although the rail breeds in all our fresh water lowlands his range extends far to the north as well, and when the nights grow cooler and he moves southward, flying by night and dropping into the wild rice and tule fields that he knows so well at the break of day, and there rests and feeds until moonrise the next night, when again he sets off on his journey to winter quarters. He is a simply little bird of most deliberate flight and easily killed. Now and then if you are shooting on the edge of the marsh there is an opportunity for a quick shot as a bird shows himself above the slough grass for a couple of feet only, as it reaches the shelter of the cattails or rice, where your waders cannot penetrate, or if a gale is blowing the rising rail is swept away and a good allowance must be made for him. But ordinarily, in fair weather and on wide marshes, he is a miserable shot or woefully out of practice who fails to knock down 9 out of 10 of the birds he jumps. To knock down, however, is not always to bag, for the wounded sora or clapper, either, is skillful at hiding himself in the reedy slime or flag-embowered crypts. Of course misses are made by all of us, because we are human, but most of those made on rail, like young prairie chicken, are inexcusable. No sport is more pleasant or easier than rail shooting. In fact, it is luxurious, and I am disposed to think too much so for adult and skilled handlers of the hammerless. No bird serves better as a practice mark for beginners, and I am inclined to believe that some day when sportsmen are more advanced and more generous, this one will be reserved solely for those who are learning to shoot. There is something unsatisfactory in the destruction by a good shot of these slow, awkward little birds, and they should be reserved to be shot only by the novice. In fact, I am inclined to think that they should not be shot at all. Of course this would be a distinct hardship on such gastronomes and gourmets as the barrister and myself, who longingly anticipate the season when this most toothsome morceau shall appear on the table, along side of a cold bottle of Metz' delightful new beer. Yet, there are many who will hold that the man who can turn over the whizzing quail in the brush or stop the zigzagging jack as he darts over the lea, like I can, has no business to shoot rail.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. September 16, 1900. [Rail Hunting at Lakes and Slough Grounds]. <title>Omaha Sunday World-Herald</title> 35(350): 23. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00816">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Song of the Prairie [Meadow Lark].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-07-22</date><biblScope>58(43): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Song of the Prairie.</head>
+         
+         <p>The sun is low and a cool breath is waffled over the prairie hills. Forgotten is the heat of the July day, in the fresh, cooling air of evening. There is a quiet that enters the soul at peace, and nature comforts the rapidly growing things of earth with a soft rustling of corn and grasses, crooning her children to refreshing sleep. Then out of the pasture nearby, like a suddenly bursting fountain of music, comes the entrancing trill of a bird. Rising from a bush or fence post nearby, it swells in intensity and dies softly away with a sweetness not found in any other music within our ken. As if in response comes and answering song from the far-away hills, the clear true notes, just barely heard, echoing like a call from some distant country in the fairyland of sunset. Shortly from every quarter, one following or tumbling over the other, comes the aria of cheer, dying away into the peaceful silence as night comes on when the intermission of sleep is followed by the overture of the dawn.</p>
+         
+         <p>We wonder if people in the environs of Omaha and out over the state appreciate the meadow lark. its rarely sweet song is peculiarly of the prairie. It is no anthem of difficult cadences and harmonies. It is no imitation of song, but is song itself, nor is there anything like it in the realm of music. It is the natural expression of field and hill in the wide stretches of the middlewest. And its simple sweetness and inimitable trilling yield a delicious inspiration at the end of the July day.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 22, 1923. Song of the Prairie [Meadow Lark]. <title>Omaha Sunday World-Herald</title> 58(43): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00286">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Farms and Birds.</title><title level="j">Nebraska Farmer</title><author>W.</author><date>1879-03-01</date><biblScope>3(3): 59-60. March 1879.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-18"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Farms and Birds.</head>
+         
+         <p>Editor Farmer:—We all know that in Nebraska birds are not too numerous. Of their usefulness there is no question; nay, of their absolute necessity we need no more proof, and the protection of the different varieties is a matter of legislative concern. But once the Legislature having enacted a law, so apparently in accord with public sentiment, it becomes the duty, as well as the privilege, of the large class of our citizens who are engaged in agriculture to see that the law is not violated. We more particularly impress upon the farmers the necessity of a protective organization to be perfected against the raids of those, who, in violation of all civil rules, are determined to indulge their love of sport in spite of social and legal restraints.</p>
+         
+         <p>There are some men in every community against whose recklessness the restraining influences of law impose no barriers. Hence it is a more urgent duty for farmers to see to it that lawless men and boys do not make havoc on the farms where these birds are so much needed. Farmers and their sons should investigate the habits of birds, and especially the kinds of food of which they are most fond. The study of this branch of Natural history would prove both profitable and pleasant. For instance, we have read of the individual who, for the purpose of convincing himself in regard to the food eaten by the partridge, killed one of them and opened his "crop," which was found to contain one cut-worm, twenty-one striped bugs, and over one hundred chinch bugs. Now, this information ought to and will be sufficient to deter a well-disposed and intelligent man from destroying these useful and necessary friends of every farmer. Our birds must be protected, and, as we have just observed, that protection must be afforded by farmers adopting proper safe-guards to prevent their destruction. One farmer and his boys are so interested themselves in this matter that the birds became very numerous, and withal so tame that large numbers of them came to the barn-yard frequently, mingled with his domestic fowls, and so great a benefit did this prove to his farm that his wheat crops have since become unusually abundant, while the crops on adjacent farms had been will nigh destroyed.</p>
+         
+         <p>Our State needs more birds, and every well-informed agriculturalist is beginning to look at the matter in a more reasonable light. Our soil is rich and fertile, and our various crops are now greatly increased with the increase of the amount of rainfall during the year. Farming can be made more profitable in this State than in many places at the East, but it must be done through system. The old methods, used through sheer ignorance, must give place to thorough scientific culture. Farming, like every other business in every community, thrives only through proper attention and agricultural study. Farmers must attend strictly to their avocation if they would insure prosperity. The merchant, the artisan, the manufacturer, would not think of carrying on their affairs in a careless manner—well convinced that such shiftlessness would be their financial ruin. Does the intelligent farmer believe that it would be any less so with him?</p>
+         
+         <p>Too many of our young men—homesteaders—neglect their business of farming, which will not prosper without attention; and they know that a farm well tilled will pay for the extra labor; but even with this knowledge, quite often they take their gun, and, in a spirit of recklessness, drive off the friendly birds from their premises and those of their surrounding neighbors. We need not say the result is a frequent loss of crops, through want of the kindly aid of these useful friends of the farm. Attention, then, to all the interests of the agriculturalist will urge the farmer to be particular, not only in getting in his crops in a proper manner, but to cultivate every resource to make them yield abundantly. None will prove more valuable to him in the end than the efforts of himself and his boys to protect and save the birds from the wanton destruction of the ruthless destroyer of the innocent lives.</p>
+         
+         <p>W.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 1879. <title>Nebraska Farmer</title> 3(3): 59-60.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

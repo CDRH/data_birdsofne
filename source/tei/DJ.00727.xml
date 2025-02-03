@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00727">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Reports of Abundant Upland Game Birds in the West].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-08-07</date><biblScope>33(311): 24. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Reports of Abundant Upland Game Birds in the West </head>
+         
+         <p>Reports from all parts of the west indicate the prairie chicken, sharp-tailed grouse, quail and other game dear to the sportsman's heart, are in greater abundance this year than they have been for almost a decade, though, as a matter of course, owing to local advantages and disadvantages, some regions are more favored than others. In these reports the shooters as a natural result find much cause for rejoicing; in their alarmist, who, when his forebodings are excited in the seasons of dearth and who is then impelled to foretell the speedy extermination of all game, will find consideration in refutation of his predictions since there seem to be seasons of plenty and seasons of scarcity alternating at irregular periods, independently of the destruction caused by the gunners.</p>
+         
+         <p>The shooting in each year may be accepted as a constant factor in game destruction. Yet the quantity of birds killed by sportsmen in any year and the birds left to breed are very imperfect data from which to estimate the next season's game supply. Shooting, of course, lessens the birds' numbers, but the extent of the shooting does not explain the fluctuating abundance of one year and the dearth of another.</p>
+         
+         <p>"There are laws governing the propagation of animal life of which we know nothing," as General Crook observed to me one time, when we were shooting chickens up on the Niobrara. "We may explain that the season was a good breeding season for the birds, because it was day, and that the eggs or birds thereby escaped destruction from wet, but that does not explain the cause, for a dry season does not always produce a plenitude of birds. A coincidence is often mistaken for a cause. In some wet seasons both chicken and quail are abundant, though if it be excessively wet in the nesting season many eggs and young birds must necessarily be destroyed."</p>
+         
+         <p>In my humble opinion, above all conditions of weather, in the consideration of abundance and scarcity, is the astonishing fertility which a species may exhibit at the beginning of a season, regardless of meteorological conditions. In the whole length and breadth of the continent this fertility may be uniform, while the weather and climatic conditions are distinctly different and variable. Why there should be this natural impulse toward rapid multiplication of a species in one season, an extraordinary fertility and a loss or moderate gain in numbers in other seasons, is a matter of speculation.</p>
+         
+         <p>This intermittent manner of reproduction is not, however, confined to the animal world. No farmer counts on growing a good crop of wheat or corn each year; yet in certain years, in sections widely distinct in climate, soil and weather conditions, there will be general abundance of a certain crop and a flooded market. The agriculturist explains that the season was wet or dry, according to which is coincident, but that in no wise explains why there should be the universal natural impulse, at the outset of a species, though it may coincidently affect multiplication for better or worse.</p>
+         
+         <p>This of course is considering species in a general way. There may be local conditions in certain sections of Nebraska, which affects the local game supply as there may be too many persistent market hunters in the locality who exterminate its game; or the ground in a certain locality may have so little watershed that a heavy rain will drown or drive out all small animal life, as it may man and beast. If the overflow becomes too great, but special local conditions do not affect the great whole.</p>
+         
+         <p>Many alarmists, earnest in game protection and propagation, see but one course for the scarcity of the birds, and that is the hammerless and the dog. And certain it is, they do cut a tremendous figure, but that his a cause that should be governed by wise restrictions, as it legally is in many states, but they are but one cause in many, and of these there are some concerning which sportsmen can only speculate with such philosophy as they may be capable of.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. August 7, 1898. [Reports of Abundant Upland Game Birds in the West.] <title>Omaha Sunday World-Herald</title> 33(311): 24. Forest, Field and Stream.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

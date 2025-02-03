@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00334">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Our Game Birds. An Off-hand Address by the President of the State Sportsmen's Association.</title><title level="j">Omaha Weekly Herald</title><author>Morton, J. Sterling.</author><date>1879-05-23</date><biblScope>14(34): s2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+      <revisionDesc>
+      <change>
+        <date value="2005-08-88"/>
+          <respStmt>
+      	<name>Katharine Potter</name>
+          </respStmt>
+          <item>Proofread from Source</item>
+      </change>
+      </revisionDesc>
+            
+      
+           
+      
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Our Game Birds.</head>
+         
+         <head>An Off-hand Address by the President of the State Sportsmen's Association.</head>
+         
+         <p>At the banquet of the State Sportsmen's Association on Thursday evening, Hon. J. Sterling Morton, the newly elected President of the Association, was called upon and made a telling off-hand speech, of which the following is the principal portion.</p>
+         
+         <p>
+            
+            <hi rend="italic">Gentlemen</hi>: I am not much of a shot, and I hardly dare to speak of sporting matters in this presence. For a young lieutenant to speak of military matters in the presence of Gen. Sherman would be the height of effrontery. But this I can say: The State Sportsmen's Association was organized for the purpose of preserving the game and to secure and enforce just laws for its preservation. I do not know how it was in the early days but since the organization and increase of these societies the game has increased. I read and you read in the newspapers of the country many compliments to our State, to its wonderful fertility and superb climate and the beauty of its landscape; and there may be sinister motives in many of these compliments. But there is a compliment to its beauty in which there is nothing of guile. It is in the increasing number and variety of birds that come every year to take up their homes with us. I notice that the quail is never found in poorly tilled and neglected fields. It is only in those which have been beautified and embellished and made thrifty by the hand of man that they make their home. It is in the rich herbage of cultivated fields that we find them; it is only where civilization has touched the country that we find these birds, and find them increasing. And I regard this compliment of new game birds the best compliment to this State. Now it is your duty and your purpose, beyond question, to preserve there birds and to put down and punish their destroyers; and I want to impress it on every gentleman present as his solemn duty to report every infraction of the game laws in the State and to institute proceedings against all who violate these laws. This is a work not purely selfish for while it will keep it for us it will keep it for those who are to come after us. You know in the old States where there is no game it is because the game laws are not good or are not properly enforced. I regard the game laws most valuable to all classes and most useful, and the farmer who now raises his objections to your shooting on his grounds will come to recognize you as his most valuable friend. I was not in general favor of the Crawford law. It seems to me now the best labor a sportsman can do it to profit by it and see how well he can preserve the law and keep it, and see how many he can in an honorable way bring to justice of those who break it. The next meeting of the Association is in Nebraska City. When you come I can assure you will be received most hospitably and we will show you why we have there the best hunting grounds, as I believe, in the world, and I can assure you you will see the birds pay the same compliment I mentioned to the richly cultivated fields of that part of the state. (Prolonged cheers).</p>
+         
+         <p>On motion of Mr. Collins it was voted that the address be published in order to secure more general circulation throughout the state.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 23, 1879. <title>Omaha Weekly Herald</title> 14(34): s2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

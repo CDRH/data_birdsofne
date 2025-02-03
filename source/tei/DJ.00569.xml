@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00569">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mysterious Mister Owl [Screech Owl].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-03-09</date><biblScope>54(23): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mysterious Mister Owl.</head>
+         
+         <p>There are Owls and Owls, but one of the most mysterious is Mister Screech Owl, who may be either red or gray, according to some strange freak of nature yet unsolved.</p>
+         
+         <p>The Screech Owl is a very useful citizen, and subsists almost entirely on mice and insects and grub of that sort. Occasionally he goes on a spree and kills a small bird, but such instances are not frequent.</p>
+         
+         <p>He is prone to fall before temptation, however, as was once demonstrated to the complete satisfaction of the writer, who has been maintaining bird feeding stations in Elmwood park for several years. One day the feathers of a Brown Creeper were found beneath one of these stations, while above, in the crotch of a tall tree, sat the silent figure of the Screech Owl, gloatingly awaiting the reloading of the suet basket so that more birds would be attracted toward his maw. Needless to say, the suet basket was not refilled.</p>
+         
+         <p>But such instances are in the minority, and the Screech Owl should be protected and encouraged in every possible way - despite his uncanny yell that sets our teeth on edge in the middle o' the night.</p>
+         
+         <p>It is pretty safe to say that in every piece of timber of any size there is at least one family of Screech Owls, yet keen are the human eyes that can find the members thereof roosting in the daylight. Their protective coloration, red or gray, is practically perfect. They become a piece of bark is sleeping beside a tree-trunk, or a clump of russet leaves if dozing in a tangle of wild grape vines.</p>
+         
+         <p>to the nature-lover, however, one Screech Owl stunt stands out in prominence as inexplicable. Maybe not just that - for birds certainly think and have habits - but let us say extraordinary.</p>
+         
+         <p>The observer may locate a Screecher sleeping in the crotch of a tree. That owl will be there every day for a considerable period - and then will disappear. It may be gone for a day, a week, a month or several months - and suddenly there will be a Screech Owl in exactly that same spot, and in exactly the same position.</p>
+         
+         <p>Same Owl - probably.</p>
+         
+         <p>These Owls seem to have their own haunts, just like humans. To find them and check them up is an interesting study. Why not try it?</p>
+         
+         <p>The fresh March air will do you a lot of good, and bird investigation will broaden your vision more.</p>
+         
+         <p>We know, because we've been there.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 9, 1919. Mysterious Mister Owl [Screech Owl]. <title>Omaha Sunday World-Herald</title> 54(23): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

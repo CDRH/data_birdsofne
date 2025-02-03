@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00744">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Roller Coaster [Goldfinch].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-05-21</date><biblScope>51(34): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Roller Coaster.</head>
+         
+         <p>Nearly everybody knows the wild canary, whose real name is Goldfinch and whose bright yellow body and black wings complete such a gorgeous miniature picture as he darts through the shrubbery or across the fields. Yet there are few who realize that this same bird is with us all the year around, even in the bitterest of winter weather.</p>
+         
+         <p>You would not recognize him when the snow is flying, however, for then he has assumed his drab overcoat, and he is identified best by his jet wings, his sweet little twitter and the undulating course of his flight.</p>
+         
+         <p>In his dashes from tree to tree he describes a course which reminds one a great deal of the roller coaster so popular at amusement parks. At times he seems fairly to bound through the air, so enthusiastic are his jumpy little spurts.</p>
+         
+         <p>Nowadays, in all the splendor of his summer raiment, the Goldfinch is one of the prettiest birds of our parks and fields, and thankfully, one of the most common. More than occasionally he will be found in gardens far toward the heart of the city. Perhaps you will see him busily engaged in nibbling about your newly sprouted lettuce, and if so, let him alone, for he is cleaning the leaves of tiny insects which would do them a harm.</p>
+         
+         <p>The song of the Goldfinch is a great deal akin to that of the caged canary, and even more beautiful. In the winter, when big flocks of these cheery songsters are congregated at some weed path most prolific in food, their chipperings sound for all the world like the music of many hidden mandolins.</p>
+         
+         <p>It is a surprising fact that although this delightful creature stays in and about Omaha twelve months in the year, he is one of the very latest to nest, and young goldfinches have been found in their neat little home even in September.</p>
+         
+         <p>Make yourself known to Mr. and Mrs. Goldfinch today. You will find them most companionable.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 21, 1916. The Roller Coaster [Goldfinch]. <title>Omaha Sunday World-Herald</title> 51(34): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

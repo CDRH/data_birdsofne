@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00097">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds O' Night.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-08-15</date><biblScope>50(46): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds O' Night.</head>
+         
+         <p>An undigested dinner is a mighty poor bedfellow, as almost anyone will readily admit, yet it is occasionally of at least some slight benefit, as it gives one the opportunity of listening to the mysterious sound of the night.</p>
+         
+         <p>Perhaps the birds occasionally partake of something they shouldn't for it is apparent that these lovely creatures have sporadic attacks of insomnia. A tough worm, an exceedingly lively beetle or a slip of water from some contaminated stream - any of these might cause a disturbance in their department of the interior.</p>
+         
+         <p>At any rate, it is certain that some birds awake in the stilly hours after midnight to voice a faint call or warble a feeble song of protest. Some birds make a regular practice of night work.</p>
+         
+         <p>Haven't you ever been pacing hurriedly through some dark and wooded spot a bit later than usual, whistling to keep up your courage, only to be completely unnerved by the frightful and inhuman shriek of the Screech Owl? If not, you have an experience before you which will make Hamlet's celebrated interview with his deceased father retire into the background.</p>
+         
+         <p>That whimpering "scree-cree-cree-cree" on a descending scale is likely to ruffle up your hair so that the barber will think he is treating a porcupine the next morning.</p>
+         
+         <p>But some of the gentler birds likewise have their restless hours in the very stillest of the still night-time.</p>
+         
+         <p>While you are regretting that last clubhouse sandwich and are restlessly glaring at the unsympathetic stars, you may hear from the most silent of all silences that familiar midday call of the Dickcissel:</p>
+         
+         <p>"Chip! Chip! Chee-chee-chee!"</p>
+         
+         <p>And then, but very seldom, you are likely to become acquainted with the Yellow Billed Cuckoo - the Rain Crow - who will object to his "tummy" ache something in this fashion:</p>
+         
+         <p>"Cuk! Cuk! Touk! Touk! Touk!"</p>
+         
+         <p>In the season of migration it is not uncommon to hear the cry of wild game birds as they fly above the sleeping city in immense flocks, but the call of the songbird in the night-time is not only unusually strange, but gratifying to the sleepless and lonesome person tossing in his bed.</p>
+         
+         <p>So birds must be restless, just as are humans, and the closer the study of their traits and habits the more one is convinced that Dame Nature treats all the same in her work of wonders, at least to a large extent.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 15, 1915. <title>Omaha Sunday World-Herald</title> 50(46): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00139">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Camouflage in Birdland [Fox Sparrow Color Scheme].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-11-11</date><biblScope>53(6): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Camouflage in Birdland.</head>
+         
+         <p>Protective coloration is but another name for camouflage in birdland, and at no time in the year is this natural protection of the birds more interesting than at present.</p>
+         
+         <p>Many of the more lovable varieties of sparrows are in the underbrush today, pausing to enjoy the glorious Nebraska Indian Summer while migrating from their nesting grounds further north to the warmer climes below.</p>
+         
+         <p>One of these splendid creatures is particularly glorious in his particular style of camouflage; a style which has made him one of the most popular birds in his class.</p>
+         
+         <p>The Fox Sparrow, one of the largest of the family, has the breast of a Thrush and the tail of a Brown Thrasher - on a reduced scale - and gets his name from the bright, russet hue of the latter.</p>
+         
+         <p>You will first hear him, if you walk in the woods today, scratching about in the underbrush or beneath some heap of fall twigs or boughs. He searches for his food exactly like the farmyard hen, scratching energetically for a moment and then peering suddenly down to see what he has unearthed.</p>
+         
+         <p>Upon looking for him you will have a little more trouble - because of the camouflage referred to. His color scheme is perfect to protect him from peering eyes, especially at this time o' year. Our aviators in France have certainly learned something from the Fox Sparrow.</p>
+         
+         <p>This delightful bird is worth looking for, as he is without doubt the prettiest of all the sparrows in these parts. Also he is fairly common now, and if you have become interested in camouflage, you may note a practical demonstration of it by seeking this feathered beauty today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 11, 1917. Camouflage in Birdland [Fox Sparrow Color Scheme]. <title>Omaha Sunday World-Herald</title> 53(6): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

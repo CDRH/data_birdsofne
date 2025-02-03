@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00731">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Return of the Bluebirds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-08-25</date><biblScope>53(47): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Return of the Bluebirds.</head>
+         
+         <p>Early in the spring, at a time when the country should have been full of the murmuring love-song of the Bluebird, it was remarked in these columns that this favorite of all our feathered friends was evidently present in smaller numbers than usual.</p>
+         
+         <p>It was suggested that the extremely severe winter might have caught many of the early birds and caused untimely death by freezing, for it is well known among lovers of the Great Outdoors that the Bluebird longs for the north, leaving it reluctantly at the last moment in the fall and returning with the first warm sunshine, even despite the snow.</p>
+         
+         <p>The World-Herald received a number of letters to the effect that many Bluebirds were to be seen, but such letters were not numerous and were mailed generally from Minnesota and northern Nebraska. The consensus of opinion would still seem to be that Bluebirds were unusually rare this season.</p>
+         
+         <p>A member of this staff, while spending more than two weeks in central Minnesota late in July, in a country fairly alive with all the other usual species, failed to note a single Bluebird - and was looking for that very creature most sincerely, too!</p>
+         
+         <p>At any rate, the Bluebirds seem to have returned to Omaha, now. The reason is pretty clear, for the young broods are beginning to mature, and are flitting about in true family style. Some ornithologists say that more Bluebirds may be noted in the late summer than in the spring, for they are more clannish in the former case.</p>
+         
+         <p>The return of the Bluebirds in considerable numbers indicates that if there was really a considerable loss last winter, this valuable and beautiful species will be amply replaced for the next season.</p>
+         
+         <p>In the meantime, let us enjoy the splendid young creatures while they are with us. They will not leave until they have to - be sure of that!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 25, 1918. <title>Omaha Sunday World-Herald</title> 53(47): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

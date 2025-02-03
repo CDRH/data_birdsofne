@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00805">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[The Snowy Owl].</title><title level="j">Forest and Stream</title><author>Hubbard, C.P. and H.</author><date>1889-12-26</date><biblScope>33(23): 449.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Snowy Owl.</head>
+         
+         <list type="simple">
+            
+            <item>
+               
+               <hi rend="italic">Editor <title>Forest and Stream</title>
+               
+               </hi>:</item>
+         
+         </list>
+         
+         <p>About Dec. 1 a large snowy owl was killed eight miles east from this place, and since that time no less than ten have been reported to me. I have never seen or heard of one in this locality before, and old settlers say the same. We have had very mild weather all the fall; in fact, the ducks have not left us yet, and yesterday (Dec. 12) I killed three jack snipe, which would seem to indicate a continuance of pleasant days. Owls of all species are more abundant than I have ever before seen them, particularly the great horned owl.</p>
+         
+         <list type="simple">
+            
+            <item>C.P. Hubbard.</item>
+            
+            <item>Broken Bow, Nebraska.</item>
+         
+         </list>
+         
+         <list type="simple">
+            
+            <item>
+               
+               <hi rend="italic">Editor <title>Forest and Stream</title>
+               
+               </hi>:</item>
+         
+         </list>
+         
+         <p>Within the last month five snowy owls have been shot near here; and two have been captured alive and are apparently doing well in confinement. Some of those killed were very large, measuring nearly 6ft. from tip to tip. The contents of the stomachs of some of those killed show them to have been feeding on birds. This is their first appearance here for some seven or eight years.</p>
+         
+         <list type="simple">
+            
+            <item>H.</item>
+            
+            <item>Edgar, Nebraska.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">December 26, 1889. <title>Forest and Stream</title> 33(23): 449.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

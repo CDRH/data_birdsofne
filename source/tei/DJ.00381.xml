@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00381">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Gun Club Banquet. A Delightful Time at Their Dinner Last Night.</title><title level="j">Omaha Daily Herald</title><author>[Blood, Wm.].</author><date>1886-10-24</date><biblScope>22(24): 5.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Gun Club Banquet</head>
+         
+         <head>A Delightful Time at Their Dinner Last Night.</head>
+         
+         <p>The second annual banquet of the Omaha Gun club at the Millard last evening was a success in every particular, and great credit was reflected upon the committee of arrangements. The large dining room was decorated in a simple manner. The table was set in the form of a hollow square, with the winners of the shoot on the south side, the losers on the north, and the guests of the evening between. Jeff W. Bedford, president of club, occupied the centre seat on the west side while the vice president, Gen. George S. Smith, was on the east side. The hollow of the table was filled with hot-house plants, while a large crane, a trophy of the hunt, was suspended overhead. The menu was prepared in the usual good style of the house and was fully appreciated. John Keley was the chief, and O.N. Davenport steward. The committee on banquet, consisting of T.H. Cotter, George E. Kay and G.F. Brucker, were indefatigable in their efforts.</p>
+         
+         <p>Among the guests were about ten members of the old Omaha Sportsmans club, prominent among whom were B.B. Kennedy, the president, and S.F. Hathaway, one of the oldest members. Henry Greisedrieck, member of the Excelsior gun club of St. Louis, was also of the guests. Covers were laid for forty-eight, and every place was filled. After the last course had been served, Gen. Smith arose and called for an explanation of the president's part in the hunt and why he brought back no game.</p>
+         
+         <p>President Bedford responded in his most happy manner, and related how his misfortunes had resulted in his returning with as many shells as he took out. He ended by calling upon the guests of the evening to drink to "the best and most successful shot and the handsomest member of the club, Gen. George Smith."</p>
+         
+         <p>Mr. Smith expressed pleasure at the success of the banquet, and said it would certainly be a credit to larger organizations. He was proud of the good judgement of the captain in choosing him on the side that won. He would not discredit the gallant captain of the other side—but it was thirty-five short. He never saw a better bag of game than that brought in by the club, and he felt great exhilaration when he saw it. He was not ashamed of the part he did.</p>
+         
+         <p>B.B. Kennedy, president of the old Omaha Sportsmen's club, was then called upon by President Bedford. Mr. Kennedy said he was carried back twenty-four years, by the occasion, in the history of Nebraska sportsmanship, and especially that of Omaha. It was that long ago that the Sportsmen's club held its first meeting. There were only five members on a side, but one other of them was present now. The club afterward grew until it numbered forty members. The champion then only made a score of sixty-four and that was thought to be good. But the scores of today throw that in the shade. The speaker said he used to know everybody in Omaha in those days, while now he knew only a few. At this well-filled table tonight there were scarcely a dozen he knew. It made him feel that he was growing old. He was pleased at the opportunity to attend this supper, and hoped that his old club would revive enough to have a hunt and then they would give a banquet and invite the Omaha Gun club members.</p>
+         
+         <p>Dr. H.A. Worley, captain of the winning side in the hunt, and John J. Hardin, captain of the losers, made happy speeches. Dr. Hyde, whose score was next to the highest, responded to the toast, "The Elks." Mr. S.P. Hathaway, J.R. Clarkson, for the bar, and representatives of the press also spoke. The closing toast was to Mr. Peabody, one of the leading members and best shots of the old club.</p>
+         
+         <cit>
+            
+            <bibl default="NO">[Wm. Blood]. October 24, 1886. <title>Omaha Daily Herald</title> 22(24): 5.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

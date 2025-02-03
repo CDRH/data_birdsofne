@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00863">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Spring Sport. Changes of the Flight of Ducks This Season. The Fun of "Cornfield" Shooting Along the Platte - Decoys Much in Use to Draw the Innocent Birds Into Range - The Shooting at its Height.</title><title level="j">Omaha Weekly Herald</title><author>Sportsmen commentators.</author><date>1883-03-30</date><biblScope>18(26): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-18"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Spring Sport.</head>
+         
+         <head>Changes of the Flight of Ducks This Season.</head>
+         
+         <head>The Fun of "Cornfield" Shooting Along the Platte—Decoys Much in Use to Draw the Innocent Birds Into Range—The Shooting at its Height.</head>
+         
+         <p>Eighteen members of the Workingmen's Sportsmen's club, comprising two teams captained by Councilman Leeder and S.B. Hathaway, left last week for Horseshoe lake and the group of lakes north of this city, on their annual spring hunt. Judge Thurston and Mr. Homan are out also, and Messrs. Bruner and Parmalee have just returned from making a fine bag of ducks.</p>
+         
+         <p>"There has been a great change in the flight of ducks this year," said an old sportsman yesterday at Collins &amp; Petty's, "because the lakes froze nearly to the bottom and the river opened much earlier. Consequently the ducks in their northward flight settled on the sand bars, where they were difficult to bring down until two days ago. Then the lakes opened and the birds resorted to their old camping grounds, so that the season is now at its height and Nebraska more than holds its own as a splendid shooting ground for sportsmen from half a dozen states.</p>
+         
+         <p>"In the vicinity of the Platte there has been a great deal of cornfield shooting, for the reason that many of the farmers were caught by the early winter and did not finish husking. The mallard has found this out, and when the sportsmen strike them right it is grand shooting."</p>
+         
+         <p>Inquiries of a <hi rend="smallcaps">Herald</hi> man among the sportsmen elicited the fact that shooting over decoys has become quite the rage this year. Some men put out ten or a dozen, while one veteran fowler has six dozen and takes an hour to set them and an hour and a half to take them in, but he says it pays, for no flock of ducks ever flew within half a mile of such a lot of decoys without a "dip" toward them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 30, 1883. <title>Omaha Weekly Herald</title> 18(26): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

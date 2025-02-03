@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00586">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Game Fields.</title><title level="j">Forest and Stream</title><author>Hall, W.R.</author><date>1897-11-27</date><biblScope>49(22): 428.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Game Fields.</head>
+         
+         <p>Omaha, Nebraska, November 11.—I notice in the October 23rd number an article, written by Mr. McCandless, in regard to the Eskimo curlew, or dough bird, as it is commonly called. If he will go to the vicinity of Edgar or Sutton, Nebraska, about the last of April, he will find them in abundance, as they always stop in that neighborhood on their northward flight. Large numbers are killed there for market every year. Regular buyers, representing eastern cold-storage houses, come out every spring for this purpose. I have also seen the birds, but not so numerously, in the sandhills near Alliance, Nebraska.</p>
+         
+         <p>Dr. Carver may be correct in stating that the Bartramian sandpiper is called the prairie pigeon, but I think he is in error. I have hunted considerably in all the Western States, covering a good many years, and have never heard it so called. The common name always given to the Bartramian sandpiper is the upland plover. The golden plover I have often heard called the prairie pigeon. I shot some golden plover the other day and found them unusually fat; great layers of fat nearly half an inch thick covered the body, and it took lots of shot to bring them down.</p>
+         
+         <p>In regard to Mr. McCandless's criticism of the Nebraska laws on wildfowl, I have not a copy at hand, but have a brief synopsis that I made that expressly makes it illegal to shoot from sandbars or shores of islands, etc., of any river, stream, lake, or other body of water in the State; also illegal to shoot between sundown and sunrise, or from any form of boat or raft. I agree that it is a fool law, but just the same, his idea of building a blind upon a sandbar instead of in the bed of a river, etc., will not do if he is to observe the law.</p>
+         
+         <p>He is wrong in stating that ducks and geese do not nest in the State; the marshes and lakes in the sandhill country are nesting grounds for thousands of ducks, and not a few geese, to my certain knowledge, as are to a considerable extent, the lakes throughout the northern part of the State. Ducks and geese also nest and rear their young all along the Platte River, not many, of course, but still quite a few can be seen.</p>
+         
+         <p>Quail are all over Nebraska in unusual abundance this year, more plentiful than I have ever seen them before; and as far as I can learn, the law has been fairly well lived up to. Not so with the pinnated and sharp-tail grouse; both were slaughtered unmercifully before the season opened. I was hunting ducks recently in the eastern part of the State, and my companion and I flushed seven bevies of quail in cutting across an island covered with cottonwoods, that apparently held no food for them, with the exception of wild grapes.</p>
+         
+         <p>W.R. Hall.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 27, 1897. <title>Forest and Stream</title> 49(22): 428.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

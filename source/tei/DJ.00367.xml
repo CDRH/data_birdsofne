@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00367">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Goose Shooting on the Platte.</title><title level="j">Forest and Stream</title><author>Polk, Burr H.</author><date>1884-11-13</date><biblScope>23(16): 305.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-18"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Goose Shooting on the Platte.</head>
+         
+         <list type="simple">
+            
+            <item>
+               
+               <hi rend="italic">Editor <title>Forest and Stream</title>:</hi>
+            
+            </item>
+         
+         </list>
+         
+         <p>A party of us have just returned from a goose hunt on the River Platte, about 125 miles west of here. The result was very unsatisfactory, our score being only eighty geese in seven days' shooting. Two years ago, the same party in five days bagged 313 geese. The hunters have so increased in the last three years, that the weary goose coming down from the north or in from the fields to rest and slake its thirst, can hardly find a place out of range of some one's gun. Blinds line the bars in the stream for 100 miles so thickly as to preclude all chance of a fair bag. A flock of geese coming into the river can rarely strike it at any point without a volley being fired at it, and as the terror-stricken fowl move on up stream hunting a place of safety, their progress can be marked by the booming of the guns as they pass the gauntlet of blinds along their course. We first tried the river at Newark, but after slight scores and having our blinds robbed one night of nearly all our decoys and game, we pulled up and drove twenty miles down the river along the bank in quest of some unoccupied spot. But none were to be found. Hunters were quartered at farmhouses or camping in tents on both sides of the river at short intervals. And as we went down we met parties going up in the hope that had actuated us. The result of all this is to break up the habit of the geese in loitering on the Platte in their flight southward, and to hurry them on their journey where they can at least rest one day in peace. The chances are that if this wholesale hunting of them is continued for another year or two they will seek other lines in their migrations, and they will never again see geese on the Platte in great numbers. At the station where we took the train coming home, we met a couple of gentlemen who have been in the habit of going out on the Platte annually for geese. This year they had occupied blinds just above us. They told us that one day neither one of them got a shot. We owed even our poor score largely to the fact that we hired two young native hunters who are famous honkers, to honk for us, and call a fresh flock in for us now and then.</p>
+         
+         <p>Just across the river from Foote's, eight miles north of Kenesaw, a gentleman by the name of D.H. Talbot has a camp of five big tents, two or three teams, and nine men in his employ, four of them practical taxidermists. Just below where I located, one of his men occupied a blind surrounded by as fine a display of decoys as I ever saw, composed of geese, white brant, ducks, pelicans, plover, etc. One afternoon I went down to interview him. Mr. Talbot was himself out in the fields, and his employee did not seem to know much concerning the object of this outfit. The party had been there three weeks and expected to remain till Nov. 15. They were killing everything that came along, but seemed to desire especially white brant and cranes. There they were paying 25 cents for dead geese, 50 cents for white brant and $1 each for cranes. As the fowls and birds were killed or purchased, they were skinned and their carcasses thrown away. I have learned since coming home that Mr. Talbot has advertisements in all the papers up that way offering the prices I have named for all the game that may be taken to him. I was sorry that I did not meet Mr. Talbot. I should have been glad to have learned from himself what his object was in this attempt at wholesale slaughter and the wasting of the carcasses of the dead fowls. Some of us thought possibly that he was in the employ of the Smithsonian Institution, but could scarcely think that that institution would want the skins of so many ducks and geese.</p>
+         
+         <p>There was one feature of the outfit that made a strong impression upon us, and that was that, after such elaborate preparations and such magnificent display of decoys, a young man totally inexperienced as a hunter and such a poor shot, as claimed by himself and of which all of us had ocular demonstration, should have been left alone for days in the blind. We estimated the expense of the entire outfit to be near a thousand dollars per month, and I think the highest score made at his blind any day during the three days we were there was three geese and two ducks, though many flocks came in and were shot at, but went away intact as they came. Of course it is all the better for the poor birds that this is so, but it did seem strange, and still seems strange, that a good hunter and a good shot was not put in the blind, that the result might more nearly be commensurate with the outlay. Such hunters are numerous on the Platte and their services could be secured for a moderate consideration.</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="smallcaps">Burr H. Polk</hi>.</item>
+            
+            <item>Lincoln, Neb., Nov. 3.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">November 13, 1884. <title>Forest and Stream</title> 23(16): 305.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

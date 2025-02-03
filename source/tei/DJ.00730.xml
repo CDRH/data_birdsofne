@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00730">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Return of the Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Crane, Dr. Frank.</author><date>1913-03-16</date><biblScope>48(24): 2-E.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Return of the Birds</head>
+         
+         <head>By Dr. Frank Crane.</head>
+         
+         <p>Now before long the birds will be coming back. Every fall they flee the cold, they stream southward. Every spring they return. Soon the warming air will be vibrant with the pulse of innumberable little wings. New notes will be flung from the hedgerows. Not the least touch of nature's gentle cunning is the voice of these airy warblers, the sweetest and daintiest sound of the world's music.</p>
+         
+         <p>And all ready for them will crouch and wait that deadliest of all wild beasts, the "sportsman," He no more has the old muzzle-loading shotgun; he has perfected the art of slaughter and now sends spray after spray of murderous lead into the feathered colony.</p>
+         
+         <p>Under luxury's robe and under the cloak of idleness always lurks the imp of cruelty. The smart set of Europe, whom we ape when we get money enough to quit work, still recognize as "noble sport" the business of wearing out a fox's heart with horses and dogs, slaughtering half-tame pheasants, or killing a few hundred grouse with the aid of repeating guns and expert beaters. You are very gay, O armed troop, as you come from afield with your "Tantara ho." But the birds made answer,</p>
+         
+         <list type="simple">
+            
+            <item>"Your songs confound</item>
+            
+            <item>Our more harmonious notes; the thrush departs</item>
+            
+            <item>Scared, and the offended nightingale is mute,</item>
+            
+            <item>There is a public mischief in your mirth,</item>
+            
+            <item>It plagues your country."</item>
+         
+         </list>
+         
+         <p>Worst of all "sports" is the killing of the migratory birds. They are man's best friends. There should be stern penalties against their wanton taking off. They are our greatest protection against the increase of harmful insects. Their small throats not only minister to our souls, but their industrious hunger sweeps meadow, orchard and garden of crawling pests.</p>
+         
+         <p>Woodpeckers, orioles, kingbirds, blackbirds, chickadees, larks, quail and many another bird family are ruthlessly destroyed when they go south and when they come back to the north. Yet a robin, which is worth but a few cents for food, is estimated to be worth a hundred dollars as a protector of crops.</p>
+         
+         <p>The love of birds is not a sickly sentiment. it is intelligent. In the struggle for existence, wherein all life upon this planet must needs engage, they are our allies.</p>
+         
+         <p>The sin of Parsifal who shot the swan is a real sin. The theology of Coleridge in his Ancient Mariner is sound, when he declares that</p>
+         
+         <list type="simple">
+            
+            <item>"He prayeth best who loveth best</item>
+            
+            <item>Both man and bird and beast."</item>
+         
+         </list>
+         
+         <p>It is the duty of every parent and teacher to induct the child into the love and care of bird life.</p>
+         
+         <p>It is the duty not only of the state to prohibit the slaying of the migratory songsters, but also of the federal government to protect them. They are about the best sort of interstate commerce we have.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 16, 1913. <title>Omaha Sunday World-Herald</title> 48(24): 2-E.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

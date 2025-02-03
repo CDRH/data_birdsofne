@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00965">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Whispers in the Sky.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-02-11</date><biblScope>58(20): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Whispers in the Sky.</head>
+         
+         <p>About this time in every new year, humanfolk begin to yearn for spring, and to see or imagine they see signs of its approach in natural manifestations of the great outdoors.</p>
+         
+         <p>"First Robins" are the most popular of all harbingers, and the initial Redbreast, or several copies of him, has already been located in Omaha or vicinity. Of course, as a spring prophet, the Robin is a wicked fraud, for he stays with us all winter long, in protected spots along the river, where there is safety from storm and a great plenty to eat.</p>
+         
+         <p>But, we think, whisperings in the sky along at this season indicate that the small songsters are becoming restive, and that they, too, feel the spring yearnings, and move about eagerly twittering to each other about the adorable prospect.</p>
+         
+         <p>it is true that many of our winter birds, such as Goldfinches, Siskins and Crossbills, fly busily about in the toughest storms that winter may offer, singing bravely like so many stormy petrels, but it is also true that the imaginative amateur bird student can detect a difference in their tone when the sun is bright and April seems not so far away.</p>
+         
+         <p>Recently a large number of Prairie Horned Larks made their appearance in and over the brown pastures in Omaha's outskirts, and their whispered carols while in flight were distinctly suggestive of violets and the first pestilential dandelion.</p>
+         
+         <p>These Horned Larks are said to be the only American bird that emulates the English Skylark by hanging in air while singing. The Horned Lark's song is by no means beautiful, but is a wistful little twitter with a considerable squeak in it, and more interesting than lovely. The bird itself gets its name from two feathery horns that adorn his head.</p>
+         
+         <p>The arrival of large numbers of the Horned Larks doesn't mean that spring has come - not by a long shot - for these are also hardy winter birds. But since they are the first to nest, often building their cleverly hidden homes on the ground in the open fields early in March, before the snow has left the ground, the fact that they are singing their very loudest, and cutting their bravest capers indicates that they are already mating - and that surely must mean that the flowers and the spring-birds are not so far distant.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 11, 1923. <title>Omaha Sunday World-Herald</title> 58(20): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00124">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Breeding Places for Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-10-29</date><biblScope>52(5): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Breeding Places for Birds.</head>
+         
+         <p>Professor Robert Wolcott of the University of Nebraska, speaking before the Nebraska Audubon society in Omaha, advocated the setting aside in this state of breeding places for water and shore birds, preferably in the sandhill region to begin with. The idea is not a new one. Other states have done this, with the assistance of the federal game authorities.</p>
+         
+         <p>It would not be the idea to attempt to confiscate property, but to secure the assistance of the owners of such property and the real sportsmen of Nebraska to protect some sandhill lake, or lakes, with the adjacent marshes, so that wild birds might breed there without fear of molestation, and likewise find a haven of refuge there at any time in the year. The state and federal authorities, under such an agreement, would join hands in affording absolute protection within the confines of such preserve or preserves.</p>
+         
+         <p>Such a movement, it was agreed by Professor Wolcott and the Audubons, could never be successful except in case the sportsmen themselves put their shoulders to the wheel. These real hunters, backed by the press of Nebraska, could soon make this state famous not only as the greatest breeding ground for game birds of all kinds, but likewise the game-lovers' paradise.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor. October 29, 1916. <title>Omaha Sunday World-Herald</title> 52(5): 6-E. An editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

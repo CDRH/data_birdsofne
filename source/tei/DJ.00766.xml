@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00766">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Duck Season Nears an End. Time for Killing Ends in This State Next Saturday. Few Omaha Hunters are Out. Tornado Keeps Many at Home Who Otherwise Might Have Enjoyed Some Shooting on Nebraska Waters.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1913-03-30</date><biblScope>42(41): 1-S.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+
+      
+      <body>
+
+         
+         <head>Duck Season Nears an End</head>
+         
+         <head>Time for Killing Ends in This State Next Saturday.</head>
+         
+         <head>Few Omaha Hunters are Out</head>
+         
+         <head>Tornado Keeps Many at Home Who Otherwise Might Have Enjoyed Some Shooting on Nebraska Waters.</head>
+         
+         <p>While the spring wild fowl shooting in this part of the country was better, for a time, than it has been known for years, it is about over now, the open season coming to an end on next Saturday, April 8. It might be mentioned here, however, that the cream of the shooting was that which was available way back near the middle of February, when the birds first began to come north, which they did this week earlier than they were ever known to arrive before.</p>
+         
+         <p>The first flight from the balmy lands along the gulf was a tremendous one, and while largely pintails, was composed of a good representation of all the other kinds - canvasback, redhead, mallard and teal. The sportsmen able to get out in these early days had a wonderful experience, it being no trick at all to get the limit on almost any halfway favorable grounds in a few hours. But since what should be regarded as the proper and legitimate spring ducking season, March, has rolled round the birds have been scarce and the shooting far from the average, except for several days during the early part of the month.</p>
+         
+         <p>A few good bags have been made this month, but a majority of the hunters have been returning with much below the limit. For the last week the Platte and Loup rivers have been filled with exceedingly large cakes of floating ice, which has made it next to impossible to hunt with any success or comfort. As soon as the rivers clear, however, providing they do so within the next few days, the latter moments of the duck shooting period should be exceptionally good, as the lesser ducks have yet to make their appearance in any numbers.</p>
+         
+         <head>Jacksnipe Coming.</head>
+         
+         <p>The jacksnipe are just beginning to drop in and judging from the wide expanse of good feeding grounds made by the late rains and snows, the season should be exceptionally fine. The jacksnipe is recognized today as the rarest and most desirable of all our feathered game and consequently the gunners will be in clover. The open season on these little gallinagoes and their kindred, the yellowlegs, dowitchers, grass plovers and killdeers, continues on till May 1.</p>
+         
+         <p>The open season on bluewing teal, the last of the ducks to come north, closes April 5 along with that on other ducks. These will make their invasion with the first sultry days and will continue to linger here until May, when these which do not stay here to breed will hurry on up to the wild and marshy stretches about the Hudson and Baffins bay. This fact makes it unlikely that many bluewing will fall to the local sportsmen's guns.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 30, 1913. <title>Omaha Sunday Bee</title> 42(41): 1-S.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

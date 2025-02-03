@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00687">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Prairie Chicken and Grouse Market Hunters and Game Laws].</title><title level="j">Omaha Sunday World-Herald</title><author>Hardin, John J.</author><date>1898-12-18</date><biblScope>34(79): 23.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>[Prairie Chicken and Grouse Market Hunters and Game Laws]</head>
+         
+         <p>Apropos to the above is the following letter received yesterday from John J. Hardin, one of the best known sportsmen in the state.</p>
+         
+         <p>Lena, Neb., Dec. 13.—To the Sporting Editor of the World-Herald: Well, here I go again. As you know I have belonged to most every gun club in Omaha and know just how they do business. They have their big tournaments, annual sportsmen's association meetings, pass good resolutions and discover what they are going to [words missing] going to do it, and for the time being they actually think they mean it. Some of them are actually willing to stay up nights to catch violators of the game and fish laws. In my letter to you published October 2, I made a plain statement of the situation as it actually exists, and now I wish to mention a few names of parties who should be looked after. George Manning, who lives eighteen miles south of Whitman, and who does not have to hunt for a living, and Jim Brazanna, who resides at Whitman, were east of my place about twelve miles, three weeks ago, and killed about 200 chicken and grouse, and sold them at Whitman for 37½ cents a piece. This party left the same place a few days ago with another batch of 100 birds for the market. Parties in the eastern part of our country are shooting for the market; the Dolph brothers, one Neal and others. They market at Mullen. West of here some twenty miles, Andrew Tuxon marketed one-half wagon load of grouse at Hyannis about three weeks ago, and a party named Fisher, ten days ago, sold 110 grouse at the same place. The Union Pacific railroad is the only road that refuses to receive these unlawful shipments of game. A man at Hyannis named Lowe seems to be the principal buyer. Parties at the smaller stations ship to him. It would be an easy matter for the authorities to make an example of these men. I would suggest that you call a meeting of all the gun clubs in the state at once and see what they will do. One hundred dollars would defray expenses for the arrest and prosecution of at least twenty persons buying and selling game.</p>
+         
+         <p>There is more game in the hills now than there has been for four years, but if our sportsmen do not do something soon we will be absolutely without game in a very few years. For six miles around my place the market hogs do not come. They know why. In other places, however, they will shoot all winter if the birds hold out.</p>
+         
+         <p>Look back over the records and see what gun clubs have prosecuted violators of the game laws. I think you will find only two cases. In 1875 I was a member of the Field Gun club, and F.B. Lowe, the president and myself had two parties arrested for shooting game out of season. They were tried in the police court before Judge Anderson and were both sent up for three weeks. In 1889 Frank hathaway and myself, with the aid of the law, seized several barrels of chickens and quail from the Peycke brothers, 300 chickens and 500 quail, which were donated to the city's poor. The Field club was composed of young men, and our treasury was a slender one. We asked the Omaha Gun club, composed mostly of wealthy men, to join with us in this prosecution, and they said go ahead. But when the case was called against the Peyckes the Omaha Gun club men said as long as we had seized the game, the case had better be dropped. And it was.</p>
+         
+         <p>That is the extent of the good work done by the gun clubs. But they should now be up and doing in earnest, or chicken, grouse, quail, ducks, geese and all other game must go the way of the buffalo. I know I have killed as much game as anybody, and am still capable of holding my own. But I was never guilty of killing a bird out of season or selling one in my life. I do not kill fifty grouse a year, and I know if they are properly protected we will have plenty of birds for years to come. If this appears in the World-Herald send me ten or twelve copies, that I may mail them to the market shooters out in this country.—John J. Hardin.</p>
+         
+         <cit>
+            
+            <bibl default="NO">December 18, 1898. <title>Omaha Sunday World-Herald</title> 34(79): 23.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

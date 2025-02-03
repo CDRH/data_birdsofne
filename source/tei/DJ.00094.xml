@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00094">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Our Birds and the H.C.L. [Perilous Times and Birdlife Protection].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-01-28</date><biblScope>52(18): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Our Birds and the H.C.L.</head>
+         
+         <p>Albeit he is a much-abused old gentleman in some ways, your Uncle Samuel has lost none of his Yankee shrewdness and thrift during these pesky and perilous times. Upon the darkest of clouds he generally sees a silver lining and often makes hay when the sunshine is not.</p>
+         
+         <p>So now that the high cost of living is bothering us a good deal, he takes advantage of the situation to urge that we aid him in protecting the birdlife in this country. He points out, and rightly, that the food supply of the United States depends largely upon vegetation; that insects are the bitterest of all natural foes of vegetation, and that the birds are the sole natural check upon these insects.</p>
+         
+         <p>This is plain reasoning - the simplest of logic.</p>
+         
+         <p>So this department of agriculture has used the high cost of living as the basis of a bulletin in which it is urges that the people of this nation do all in their power to protect the birds, to feed them in the winter when starvation or death by freezing threatens, and to thus help insure unmolested growth for our crops of the year. If the birds are permitted to multiply and to thrive, a corresponding season of dire trouble for the crop-killing insects may be expected.</p>
+         
+         <p>Therefore - and you have Uncle Sam's word for it - every time you kill a bird or permit him to die of want or to be driven away by unsympathetic surroundings, you are deliberately making things soft for the vast myriads of insects which will be on hand within the next few months to imperil the products of your fields and orchards.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 28, 1917. Our Birds and the H.C.L. [Perilous Times and Bird Protection]. <title>Omaha Sunday World-Herald</title> 52(18): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

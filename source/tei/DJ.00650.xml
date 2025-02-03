@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00650">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Pair of Pet Quail.</title><title level="j">Forest and Stream</title><author>C. G. F.</author><date>1894-02-24</date><biblScope>42(8): 158.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-12"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Pair of Pet Quail.</head>
+         
+         <p>Lincoln, Neb., Jan. 23.-One day last November I went hunting in company with a friend named Cunningham. We drove twelve miles west of Lincoln to his farm near Malcolm. My friend asked one of the men how the pet quail were getting along. He had hardly asked the question, when one of the children said, "See, there they go now!" The birds were then running on the ground near the house and flew on a small outhouse, and one of the little girls went out and climbed upon a wagon standing near the house and tried to get them, but they were too high for her to reach. The birds (a cock and hen) sat perfectly still all the time and did not attempt to fly until quite a little while after she had climbed down. These birds were taken during haying last summer; the machine was run over the nest, killing the old birds; there were fifteen birds in the nest, just hatched. One of the men took them to the house and gave them to a hen, which had just hatched a setting of eggs, and they were kept in confinement for a few days, when they were liberated; thirteen of them left. The children have fondled and played with these two so much that they can pick them up most any time. They roost in the hen house with the chickens.</p>
+         
+         <p>We found one covey of birds about 5:30 P.M., and succeeded in killing six of them, but it was getting too late in the day to follow them up close. I had a young dog which had never been handled. What do you think of a young dog holding a point until three quail were shot at over him, two of them killed, the gun reloaded and the third one flushed and missed; and this after only having been hunted about four times, and nearly two years old and never yard broken?</p>
+         
+         <p>We had lots of birds (quail) here this season; we could hear and see them everywhere; and plenty of birds were left over.</p>
+         
+         <p>C. G. F.</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 24, 1894. <title>Forest and Stream</title> 42(8): 158.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

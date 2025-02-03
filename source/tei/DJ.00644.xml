@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00644">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Old Doc Owl - Conservationist.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-02-17</date><biblScope>53(20): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Old Doc Owl - Conservationist.</head>
+         
+         <p>There is a good deal of talk about food conservation these days - not only talk, but action, too.</p>
+         
+         <p>Uncle Sam wants us all to save food. He wants us to eat freely of certain things, but be sure and waste none. That is a good and righteous and patriotic idea. If all Americans were owls, Hoover would have no trouble - perhaps no job.</p>
+         
+         <p>For the Owls are the most saving; the most scrupulously saving citizens we have, and are entitled to credit as such.</p>
+         
+         <p>Most of you who take advantage of the glorious and healthful opportunity to hike in the woods on the Sabbath, and to there observe the feathered friends inevitably gathered in every season to greet you, readily recognize two or three Owl friends from time to time. The Screech Owl, the Long Eared Owl, the Short Eared Owl and maybe the Barn Owl are likely to be seen at any time. There are other brands of this interesting woods product, but only occasionally seen.</p>
+         
+         <p>Now as to the food-conservation process of the Owl - and this applied to all of them. When they eat anything they eat all of it - skin, bones, husk, sawdust and all. There is no chance for waste. The digestive doings inside of these birds takes all the nutrition out of all that is offered, and forms the rest into a ball of waste - a sort of clinker, as it were.</p>
+         
+         <p>This clinker is then expelled through the mouth of the OWl and lies on the ground below as a silent testimonial to his thrift. The pellet, when found, is as dry as tinder and as devoid of any form of sustenance as a golf ball. Thus it is fairly easy to find the roosting place of Owls by looking for these conservation pellets beneath.</p>
+         
+         <p>If humans were similarly equipped, how simple it would be! Just eat everything on the table - plates, napkins, silverware, grub and all - digest the same, and leave the rest lying neatly rolled up, somewhere near the scene of the gorge!</p>
+         
+         <p>The OWl is the original and complete conservationist, eh?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 17, 1918. <title>Omaha Sunday World-Herald</title> 53(20): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

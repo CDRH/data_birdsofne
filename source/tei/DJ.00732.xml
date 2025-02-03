@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00732">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Busy Pet Returns [House Wren].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-04-30</date><biblScope>57(28=31): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Busy Pet Returns.</head>
+         
+         <p>Can there be anything more utterly cheerful that the rippling, bubbling, effervescent song of the House Wren when Jenny returns to us after her long winter absence?</p>
+         
+         <p>To us, it brightens everything. There is no drizzling spring rain from sodden clouds that can in any way dampen her enthusiasm - or ours, for that matter.</p>
+         
+         <p>Tiny little thing - no bigger than your thumb - more music comes from her heart in a minute than from most other birds in an hour!</p>
+         
+         <p>She nearly shakes herself to pieces telling us how glad she is to be back, and if there chances to be some big yegg of an English Sparrow sitting in front of her yearly home, she flies into a passion that would be funny if it wasn't so serious, or serious if it wasn't so funny.</p>
+         
+         <p>On a clothesline or fence she twirls about like the button on a door yard, and her excited chatter should chill the heart of any bird creature - even a big, bull-dozing lubber such as this sparrow.</p>
+         
+         <p>Finally, when she has simply exhausted her patience, she darts for him like a tiny, brown, feathered bullet - and you may believe us - he departs.</p>
+         
+         <p>Taking charge of her old home - for the House Wrens seem to return to the same box each year, or else their immediate relatives do - Jenny makes a complete inspection.</p>
+         
+         <p>Then she and her mate proceed to build. They build in just about all the wren house handy, just to keep their hand in - or should we say their bill in - and finally rear their family in just one.</p>
+         
+         <p>Wonderful little birdlet! You may think you have three or four couples in your yard - but will find that you have but one!</p>
+         
+         <p>And that one, in itself, is blessing enough for any sinful human household.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 30, 1922. A Busy Pet Returns [House Wren]. <title>Omaha Sunday World-Herald</title> 57(28=31): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

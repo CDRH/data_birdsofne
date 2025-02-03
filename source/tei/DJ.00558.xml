@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00558">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mother Nature's Colors.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-09</date><biblScope>55(33): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mother Nature's Colors.</head>
+         
+         <p>Dear old Mother Nature does spread the colors that she culls from some secret place with such wonderful taste! In the very early spring she colors her flower babies with just the very palest tint of pink, or sometimes leaves them white and puts a touch of yellow in their hearts. Probably she gets her palette of colors mixed direct from the sun for as it grows warmer the pinks get a little deeper and slowly merge into reds. The blues come, too, as draping for their charming costumes, beginning with the violets, and not the phloxes are dotting the prairies and seeking the sunniest places. They are unlike the violet which hides a little at the roots of the trees or under the shrubs, or beside a bank where the shade brings the mosses. The phlox is sometimes tinted a bit with pink, too, and even almost red, but blue is her favorite color.</p>
+         
+         <p>The anemones are here now, also dotting the prairies with their beautiful white blossoms, the petals delicately veined with pink or purple. Wind flowers they are, taking the Greek name of the wind, anemo, and belonging to the Crowfoot family because of the resemblance of their involucre leaves to a crow's foot.</p>
+         
+         <p>These flowers one must travel a bit to find and know their haunts and habits, but the great commoner among flowers, the Dandelions, are everywhere adding the golden tint to the pinks and the blues. Dandelion is such a funny name for the symmetrical discs until we trace it to the Latin and French and find it is Dents de Lion, or teeth of lion, from its leaves' resemblance to that animal's tooth.</p>
+         
+         <p>Nuisances we call them until we learn to look at their symmetry and beautiful color alone as they deck the lawns and forget their propensity because of their intense love of life, to crowd out the grasses and the other plants around them. Like the common people whom Lincoln said the Lord must have loved best because he made so many of them, old Mother Nature must have realized that dandelions had some lesson for us and so sent them in myriads. IS that lesson smiling persistence and sunny cheerfulness overcoming every attempt to prevent their seeming over-abundance?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 9, 1920. <title>Omaha Sunday World-Herald</title> 55(33): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

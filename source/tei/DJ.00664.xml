@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00664">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Perpetual Motion for Uncle [Nuthatch, Creeper, Woodpeckers and Chickadee].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-12-02</date><biblScope>53(9): 6-N. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Perpetual Motion for Uncle.</head>
+         
+         <p>Taking it for granted that a majority of the readers have become sufficiently interested in their country's welfare to know these birds at least by reputation - did you ever see a Nuthatch, Creeper, Woodpecker or Chickadee who wasn't busy, especially in the winter?</p>
+         
+         <p>Go out into the woods today and watch the Nuthatch, for instance. Upside down most of the time, he starts at the top of some tree trunk and works down to the ground, carefully investigating every crevice and nook in the bark, in search of larvae and insect life that may be found. What he does not care to eat at that moment is promptly cached away in some winter icebox that he has selected in some other bark-larder.</p>
+         
+         <p>The Brown Creeper, reversing the tactics of the upside-down bird, starts from the bottom of a tree trunk and works his way to the top, cleaning up the destructive embryonic worms and caterpillars which might ravage the orchards the following season.</p>
+         
+         <p>The Downy and Hairy Woodpeckers, and the Chickadees, incessantly investigating these hiding places of parasites, apparently rest not one instant during the entire day.</p>
+         
+         <p>All this you can see for yourself by a brief jaunt through the nearest woods this morning.</p>
+         
+         <p>THe point of it is that these birds, who sometimes have to dodge the bullets of vandal hunters, or the cats that careless humans permit to stray at large, are practically perpetual motion in Uncle Sam's war machine.</p>
+         
+         <p>They are saving the fruit and nuts for next year, for without them it is probable that in a few years not a tree would be left standing in this naturally treeless state.</p>
+         
+         <p>As for the seed-eating winter birds, that is still another story. Just remember that any feathered fellow you see working on the tree trunks is doing his bit for this government. Help protect him.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 2, 1917. Perpetual Motion for Uncle [Nuthatch, Creeper, Woodpeckers and Chickadee]. <title>Omaha Sunday World-Herald</title> 53(9): 6-N. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00878">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Get the Suet Ready.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-11-18</date><biblScope>53(7): 8-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Get the Suet Ready.</head>
+         
+         <p>The nights are becoming chill and some of the days, too. There is a constant threat; a sort of menace, perhaps, that foretells the sleet-storm or blizzard sure to arrive in the very near future. The winter birds, already safely ensconced in the woods and weed patches along the ravines, are very busily engaged in laying away stores of food against the time when snow and ice shall cover up and seal nature's larder.</p>
+         
+         <p>In every crevice in the bark the Nuthatches, Creepers and Chickadees have hidden their precious bits of grub - or grubs - while the Goldfinches, Siskins, Tree Sparrows, Juncos and others of their ilk have possibly found some way to cache weed seeds against a snowy day.</p>
+         
+         <p>But when the storm finally falls, and the bark of the trees is covered with ice, and the weed stalks and grassy roadside patches are encrusted with an impenetrable armor, then these winter feathered folk, so necessary to the success of next year's crops, will have a hard time keeping their little bodies properly stoked with food.</p>
+         
+         <p>Against such an emergency the Audubons are already putting up their feeding stations; wire traps enclosing handfuls of beef suet.</p>
+         
+         <p>This suet, usually consisting of scraps secured from the butcher at a merely nominal cost, is the best and most appreciated food to place for the winter birds, and if you don't think they like it - just try the Audubon scheme!</p>
+         
+         <p>tack a chunk of suet to a tree in some wooded patch of the city, covering it with a piece of coarse wire netting. The latter protection prevents the voracious squirrels from making away with the entire supply at one sitting, and also makes it impossible for any one bird to "pig" the provender. He can only get a billful at a time - which is good for his digestion, as well as the suet.</p>
+         
+         <p>Place a suet station of your own today, and then look at it the next time you can get out into the open. You will find that you have made a lot of new and valuable friends, who will stay with you all winter - especially when the blizzards are raging.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 18, 1917. <title>Omaha Sunday World-Herald</title> 53(7): 8-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

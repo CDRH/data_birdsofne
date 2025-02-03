@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00741">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">When the Robins Nest.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-03-27</date><biblScope>56(26): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>When the Robins Nest.</head>
+         
+         <p>There is an adage to the effect that familiarity breeds contempt, but we are pretty sure that this does not apply to Robins.</p>
+         
+         <p>The more familiar Robins become, the less likely anyone to register contempt for 'em.</p>
+         
+         <p>In the nesting season, already started, the Robin is a most remarkable bird - since it adapts itself to conditions in a happy and resourceful way - builds its nest on scantlings when trees are not available - accepts porches made by humans instead of branches made by God.</p>
+         
+         <p>Other years, strangely like the present, found foliage killed by late freezes following warm winters and left the trees as bare in April as in January.</p>
+         
+         <p>Robin redbreast met this situation squarely, and built his home on window ledges, roofs, eaves, anywhere that proper protection could be afforded, and in some instances took chances with the elements, too.</p>
+         
+         <p>At this writing there have been no freezes to spoil the Robins' domestic plans and the leaves are already to be seen upon the trees and shrubbery.</p>
+         
+         <p>To help Mr. and Mrs. Robin in their industry, why not dangle a few handfuls of yarn or string, cut in lengths of not more than six inches, on the bushes or tree-boughs about your house. If you give Mister Robin more than that length he is likely to hang himself - and that is no editorial hyperbole, either!</p>
+         
+         <p>Hang out colored yarn, in the lengths mentioned. Thus, as the Robins build their nests, you can see the part you played in it by the color of the "stucco" therein.</p>
+         
+         <p>Helping the Robins should be a great American outdoor sport.</p>
+         
+         <p>For they deserve it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 27, 1921. <title>Omaha Sunday World-Herald</title> 56(26): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00273">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Exquisite Summer.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-07-20</date><biblScope>54(42): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Exquisite Summer.</head>
+         
+         <p>Heat is not such a terrible thing, for if it were, summer would be terrible, too, and no one who roams the woods, or even the shimmering meadows would give them that name these days.</p>
+         
+         <p>Summer, we think, is exquisite. It is a season of fruition of a year's work on the part of Mother Nature and her Hired Hands. Now they prepare for the harvest to come later, and that harvest is not only of grain and berries and other edible matters of a vegetable sort, but of graduating class of young songbirds destined to save other crops of those grains and berries, and to richly entertain us while so doing.</p>
+         
+         <p>To the bird student, who enjoys the pacific pastime of searching for feathered friends with a pair of glasses instead of with a gun, summer means that more effort will have to be put into the search. The foliage is so thick as to be almost impenetrable, and moreover, the birds are a good deal like humans in that they are very quiet during the heat.</p>
+         
+         <p>In the early hours of a hot summer's day, the songsters will be found apparently frantic in their search of food, for they know that later on will come the siesta. As the Bird-Governor of North Carolina said to the Bird-Governor of South Carolina, as they were sweating under an oak-leaf, "It's a long time between worms!"</p>
+         
+         <p>Groping slowly through the summer underbrush, the ornithologist will suddenly find himself fact to face with a Woodthrush, silently resting on a twig but a few feet away. Reluctantly she moves and then not far. A Towhee simply edges under the end of a log and continues to do nothing, while the House Wren raises the very old Nick over such unseasonable and unkind disturbance. Only the roadside birds, such as the Goldfinches and Yellow Warblers, Field Sparrows and Chipping Sparrows, Yellowthroats and Dickcissels keep busy when the sun is at its height.</p>
+         
+         <p>In the fields the Cowbirds seek the shade of some browsing bovine and continue business as usual, while above you may see the Swallows and Swifts making insectivorous hay while old Sol shines.</p>
+         
+         <p>No, there is nothing terrible about summer nor its heat. The birds await the patient hiker, and he should not disappoint them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 20, 1919. <title>Omaha Sunday World-Herald</title> 54(42): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

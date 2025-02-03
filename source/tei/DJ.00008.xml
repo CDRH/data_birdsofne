@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00008">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Case Against Long-Ear [Pellet Study].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-04-06</date><biblScope>54(26=27): 2-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Case Against Long-Ear.</head>
+         
+         <p>Owls have a very peculiar method of eating. Chances are that "Daddy" Flynn wouldn't approve of it at all. They simply eat everything they want, whenever they find it, and swallow the "whole works" - whole!</p>
+         
+         <p>The idea would be the same if you sat down to dinner and consumed the beefsteak, plates, napkins, tablecloth, knives, forks and spoons.</p>
+         
+         <p>After the Owl has had this conglomeration in his department of the interior for some time, and the same has been digested for all the nutrition there is in it, his organisms inside simply permit him to drop the refuse out through his mouth in the form of a hard, round pellet. So these pellets, lying beneath some fir or evergreen tree, are a sure sign that an Owl is sitting above, or has been sitting there very recently.</p>
+         
+         <p>Out in Elmwood park there is a sizable family of Long-Eared Owls. They are considerably larger than the Screech Owl and have a most ferocious cast of countenance. Like the Screecher, they dine mostly on rodents and beetles and small fry of the sort, but once in a while, they go on a debauch, it would seem.</p>
+         
+         <p>Scientists can determine just what the Owls eat by examining the pellets underneath the trees, and this was done in the Elmwood park case the other day.</p>
+         
+         <p>Lo and behold, the bright red bill of the Cardinal was found in one of these pellets!</p>
+         
+         <p>That over-hungry Long-Eared party had overstepped the bounds of decency and killed one of the prettiest birds that ever flew.</p>
+         
+         <p>This looks bad for Mister Long-Ear, but numerous other pellets examined showed nothing but the skulls of deceased mice and gophers, with the one exception of a sparrow's remains.</p>
+         
+         <p>It would be bad business to condemn the Long-Eared Owl for this one Cardinal sin, but we hope he does not repeat the offense. The good that he does will offset a lot of slips, but to kill a Redbird is a real crime.</p>
+         
+         <p>These little freaks of nature help make bird study the more attractive. You should try it yourself, starting today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 6, 1919. The Case Against Long-Ear [Pellet Study]. <title>Omaha Sunday World-Herald</title> 54(26=27): 2-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

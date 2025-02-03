@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00177">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Clean the Bird House.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-03-10</date><biblScope>53(23): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Clean the Bird House.</head>
+         
+         <p>There are increasing indications, aside from those to be found in the calendar, that spring is really close at hand. The arrival of some of the summer birds encourages us in the belief that Arctic weather is at an end, and that soon there will be embryonic foliage and a big campaign of nest building.</p>
+         
+         <p>The housewife is mapping out her spring house-cleaning drive, and without much enthusiasm, either. It is a tough job. She might prefer to move into a new house rather than renovate the old one.</p>
+         
+         <p>Anyway, the birds figure along such lines and that is why it is important that you should clean-up your bird-houses before very long if you wish to have the feathered families with you again this year.</p>
+         
+         <p>The Wrens and Bluebirds are rather particular in this respect. With plenty of new houses annually put up for their occupancy, they do not appear to have much time for spring house-cleaning.</p>
+         
+         <p>Experts say that it is best to take down the bird-house, remove the old nest and scald the interior with boiling water. This process will prove highly satisfactory to the songsters when they return to their former homes.</p>
+         
+         <p>The lazy man may figure that it is better to spend a four-bit piece for a new house, rather than go to all this trouble, but the ornithologist knows that the old house, with the smell of paint and artificiality removed, is much more popular with the birds.</p>
+         
+         <p>So it is best to do your spring bird-house cleaning now, and get ready for the rush.</p>
+         
+         <p>You will forget the work you spend on this job when the Jenny is singing its ceaseless song in the yard and the Bluebird is murmuring in its April ecstasy.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 10, 1918.  <title>Omaha Sunday World-Herald</title> 53(23): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

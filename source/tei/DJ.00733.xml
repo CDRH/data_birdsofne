@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00733">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Reward Worth While [Bird Baths and Goldfinch].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-06-03</date><biblScope>52(36): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Reward Worth While.</head>
+         
+         <p>Thoughtful and fortunate townspeople who have placed bird baths in their yards are now reaping their reward - and it is no mean reward, either.</p>
+         
+         <p>The Robins, who must certainly have a good deal of an English blood in their veins, are the most persistent bathers of all, and seem to enjoy the depths of the artificial tub during a rainstorm just as much as they do during a drouth. And when they are once immersed, how gratefully they spread out in the water and cluck their gratitude to their human friends!</p>
+         
+         <p>it is indeed a pretty spectacle to see a mother Robin introducing her clumsy, self-conscious and speckle-breasted hulk of a youngster to the joys of that bird bath. Very evidently kiddie Robins have the same aversion to periodical ablutions as do those of the genus homo - but when once accustomed to the novelty, they become chronic bathers, even as their parents.</p>
+         
+         <p>But it is the glorious little Goldfinch, beautiful midget of yellow and black, that gives you the prettiest acknowledgement of your gift.</p>
+         
+         <p>He comes bounding along through the air in ecstatic swoops, with a sprightly, canary-like warble with each upward dash, until finally he alights upon a fence or wire near the bath. Then, as if offering a grace for the anticipated pleasure of his dip, he sings a full song for you, sweetly and sincerely.</p>
+         
+         <p>Dropping like a tuft of feather to the lip of the bath he tastes the water daintily and then trips in as modestly and demurely as a maiden in the leaf-guarded privacy of a woodland pond. In a jiffy the brilliant little fellow is done and back upon his perch where he again thanks you with the finest, most entrancing of notes.</p>
+         
+         <p>"Swee-ee-eet! Swee-ee-eet! Swee-ee-et!" he assures you, and then he carols away to his bower, wherever it may be, and if that isn't enough reward for you and your altruistic attitude toward him and his feathered acquaintances - may your greedy soul shrivel like a dried apple, as it richly deserves!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 3, 1917. Reward Worth While [Bird Baths and Goldfinch]. <title>Omaha Sunday World-Herald</title> 52(36): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

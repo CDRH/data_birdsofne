@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00499">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Local Field of Sport. The Approaching Shooting Season and Its Prospects.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous [Sandy Griswold].</author><date>1889-09-15</date><biblScope>19(88): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-23"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Local Field of Sport.</head>
+         
+         <head>The Approaching Shooting Season and Its Prospects.</head>
+         
+         <head>Grand Prospects for Sportsmen.</head>
+         
+         <p>George Small and George Smith have just returned from a week's chicken shoot out in the vicinity of Lexington. They report plenty of birds, but say that they have been hunted and shot at so much by the pestiverous market hunter that they are wilder than deer and flush three or four hundred yards in front of the dogs even. Once on the wing and they continue until but a speck in the distance, or fly on until out of sight altogether. The birds are also fully three weeks or a month earlier than they have been known in this country for years, that is the birds are stronger, fuller grown and more matured. Mr. Small says that all the birds they saw, and they saw thousands of them, were full grown and in wonderful fine condition. The two guns, in five days shooting, bagged only about ninety birds, their best day being twenty-six, which was the last day they were out. They also killed twenty-seven blue wing teal on this day, and one mallard. They are of the opinion that the early duck shooting in this state promises to be more satisfactory than it has been for several seasons. There was but little spring shooting this year, and the unusual crop of birds left over have taken every advantage of an exceptional season for nidification and raised large and interesting families. The gunners are watching them as they come in every day, and in a few days more there will be shooters on every stream and marsh in the state. A little cool weather and a few pouring rains will increase the flight of teal a thousand-fold, and, in fact, it will bring in wild fowl of all kinds. Another reason that the sportsman may expect uncommon fine early shooting this fall is that throughout Dakota there is scarcely a drop of water. The lakes are very low, and many of the streams are perfectly dry. Consequently the feed is meagre and the birds will only stop there long enough to find this out, when they will wing their way on down to Nebraska, where there is yet plenty of water and an abundance of feed. This will give us a prolonged season of sport. The teal and Wilson snipe will furnish good shooting from now on until Jack Frost arrives to stay, then the widgeon, the mallard, the pintail, the redhead and the canvasback will make it interesting for the hunter. The latter, however, will not probably appear in very overwhelming numbers, as it is becoming scarcer and scarcer every year. The canvasback is unquestionably the premier morceau of all feathered game—the most sought after by epicures and gastronomic experts, and consequently they are scarcer and harder to get than any other species. And then no wild fowl is so difficult to bag as the canvasback. His eyes are telescopic, and his velocity of wing is something marvelous—the fastest flyer known. So shy have they become that it is a hard matter now for the hunter to fool them with decoys. They seek only deep water, and are off at the slightest indication of danger. There is not a lazy fibre in his anatomy, and the way he leaves an ambitious hunter is startling. It requires a Petty, a Parmalee, or a Knowles to down a canvasback these days, but the writer has seen them in years gone by, at Koshkonong and St. Clair, when it was no trick at all to make as good a bag as one can make these days of mallards on the finest grounds in the country.</p>
+         
+         <p>There are also several localities in this state, notably about Broken Bow, Lexington and Bancroft, where quail may be found this fall in exceeding plentitude. The season for this precious little game bird, like it has been for chickens, has been most auspicious, for they have multiplied largely. Then there is no finer sport than a day over a brace of good dogs among the stubble after quail, as all true sportsmen will corroborate.</p>
+         
+         <p>Antelope and deer hunters will be gratified to learn that, for Nebraska, these beautiful creatures are more plentiful than they have been known for years. Parties from out about Alliance, in Box Butte county, have seen unusual numbers of Antelope this summer, and further south, say fifty miles, both white and black tail deer are to be found in goodly numbers. Last winter was a favorable one for deer and many were left over. These have had a grand season for rearing their young and tolerable good hunting may be looked for when the season opens.</p>
+         
+         <cit>
+            
+            <bibl default="NO">[Sandy Griswold]. September 15, 1889. <title>Omaha Sunday Bee</title> 19(88): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

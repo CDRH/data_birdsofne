@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00810">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Some Lincoln Records.</title><title level="j">Proceedings of the Nebraska Ornithologists' Union</title><author>Wolcott, Robert H.</author><date>1901-10-01</date><biblScope>2: 99-100.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Some Lincoln Records</head>
+         
+         <p>A male Lazuli Bunting was shot, May 6, 1899, in the timber fringing Salt Creek at a point about two miles south of Lincoln, and the skin is in the collection of the Union.</p>
+         
+         <p>On April 28, 1900, a female Purple Finch was secured from the tips of the elsm in which it was feeding. The skin is also in the collection of the Union.</p>
+         
+         <p>A flock of American Crossbills was seen daily by Mr. August Eiche feeding in a patch of dead sunflowers near his home in East Lincoln "for several days" previous to September 26, 1898, and they remained in the vicinity all winter. On March 8, 1899, a small flock also made its appearance on the capitol grounds, feeding from the pine-cones of the trees there. Here the birds remained and were seen daily till May 25, when the writer left the city. They appeared to pair early in May and were usually seen thereafter, a male and a female together. Other flocks were reported during the winter and on April 6 the timber along Salt Creek south of the city was alive with the birds - during the whole day spent in exploring along the creek for a distance of two miles, they were rarely out of sight or hearing.</p>
+         
+         <p>The Turnstone was first seen and collected on the Salt Basin near Lincoln on May 16, 1895. Since then it has been noted on the following dates: May 25, 1895; May 23, 1896; April 30, 1898; May 22, 1899; May 10, 1900. It has not so far been seen in the Fall.</p>
+         
+         <p>On the 29th of June, 1900, Mr. J.S. Hunter and the writer visited Salt Lake and the "Sloughs" near it, west of Lincoln, and observed the following species: one Ruddy Duck on the lake, probably a crippled bird; a male Spoonbill, the mate of which was doubtless on her nest in the vicinity; a flock of six Hooded Mergansers, which arose from the lake and flew close over our heads; three Yellow-legs, on the shore of the lake; a Gull, without much doubt the Ring-billed, flying over the water; two Baird's Sandpipers, about a pond on the "Slough"; and a flock of Yellow-headed Blackbirds, at the same place. Of all these, only the Spoonbill and Blue-winged Teal have ever been known to breed here, though it is possible that the Yellow-headed Blackbird does so in the vicinity, and that the Mergansers raised their young here this season.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Robert H. Wolcott. 1901. <title>Proceedings of the Nebraska Ornithologists' Union</title> 2: 99-100.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00682">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Poor Robin.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-04-23</date><biblScope>51(30): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-26">2006-06-26</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Poor Robin.</head>
+         
+         <p>Attention has often been called by this newspaper to the tragedies of birdlife—the tremendous battle of the birds for their very existence and their never ending struggle against seeming conspiracies both of nature and of humankind.</p>
+         
+         <p>Getting right down to the subject and to use an everyday phrase, the Robins are up against it.</p>
+         
+         <p>To begin with, the Robin is becoming more and more delightful in the cities, for the reason that he is not only the most numerous feathered songster of the United States, and therefore well able to take care of himself, but that he is evidently aware of his welcome and cooly swells his proud, red bosom in the very heart of headlong business activity. Our downtown parks and occasional lawns have become his stamping ground, as well as the outlying stretches of boulevards and well-kept yards. The Robin is everywhere—a big, beautiful, cheerful sort of an optimist—and none the less glorious because he is common.</p>
+         
+         <p>But he is up against it—as has been said.</p>
+         
+         <p>This has been a very chilly and backward month of April, and the Robin family have found the lack of foliage most distressing. They cannot build nests in the bare trees with any promise of security, for there are yet, unfortunately, a few small boys who would wreck a bird's home out of childlike curiosity, while the cats and squirrels and English sparrows soon make such stark dwellings impossible.</p>
+         
+         <p>So Mr. and Mrs. Robin have been sorely pressed for a site for their first 1916 residence.</p>
+         
+         <p>The result has been most surprising, although interesting. There are Robins' nests on window sills, on ornamental brackets under the house eaves, where generally the English sparrow holds forth alone, and even on open trellis work along the porches, where the slight protection of the house itself has been sought.</p>
+         
+         <p>It is most sincerely to be hoped that everyone will join in the work of helping the distressed Robin family successfully to meet the extraordinary conditions imposed upon it by the tardiness of springtime. Protect these nests, placed by the force of circumstances in such unusual places, and see to it that the happy family of little Red-Breasts is given a fair chance to live and prosper.</p>
+         
+         <p>The wonderful resourcefulness of the Robin in this exigency is characteristic of all the birds in nesting time, and should be hint enough that you make yourself better acquainted with the songsters and their surprisingly human habits.</p>
+         
+         <p>Today marks the real beginning of the great arrival of the summer birds, at least in a good many cases, and your nearest wooded park or field will open up many feathered features of interest to you.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 23, 1916. <title>Omaha Sunday World-Herald</title> 51(30): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

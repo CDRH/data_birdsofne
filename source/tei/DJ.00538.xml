@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00538">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mid-winter Bird Notes.</title><title level="j">Forest and Stream</title><author>Wolfe, W. M. (Shoshone).</author><date>1889-03-07</date><biblScope>32(7): 131.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mid-winter Bird Notes.</head>
+         
+         <p>I DID think that the birds could be trusted. Farm lore teaches that the first northern flight of geese is proof positive that the severity of winter is past, and that genial spring is almost here. But for once the birds have been deceived.</p>
+         
+         <p>The late autumn and mild winter caused a gradual disappearance of songsters and game birds. There severe no vast migratory waves. Indeed,the southward flight was so gradual that it was impossible to say that on such a date a certain species had departed. Many birds remained through January. The first or northern channel of the Platte has not been entirely frozen over, and here mallards have disported themselves throughout the entire season. Both species of waxwings have been frequently seen, and so has the western meadowlark. The last southward flight of geese that I observed was at 10 o'clock on the night of Dec. 23. Both geese and ducks cross the Platte on their autumn flight far west of their spring crossing point. On this account fall shooting is not first rate about Kearney. Their annual circuit forms an immense triangle. Their autumnal flight is due south. In winter they drift easterly, down the rivers of Indian Territory and Texas, and in spring they take a northwesterly direction to their breeding ground. This is especially true of mallards, teal, redheads and of all the natatores that breed in northern Nebraska and about the lakes of Dakota. I am aware that this contradicts a most noted duck hunter, whose weekly letters entertain all readers of <title>Forest and Stream</title>, but if he will leave the lakes and marshes of Illinois and Indiana and spend a season in central Nebraska, he will find that <hi rend="italic">Anas</hi> and kindred genera have a certain western waywardness and refuse to conform to the migratory laws that hamper their more civilized eastern brethren.</p>
+         
+         <p>The first animals from the south were on the afternoon of Feb. 6—a large body of Hutchin's geese. Two day later these were joined by a few Canadian geese, but up to date no brant have put in an appearance. For three days the geese remained close to the river. On the 10th inst. they flew northward to their feeding grounds, and after satisfying their hunger returned to the Platte. From the 10th to the 15th, they made the morning and evening trip, as is their custom during the migratory season. During this time the temperature ranged from 20° at midnight to about 50° at noon. The 16th, 17th and 18th were cold, cloudy days and the birds stayed near the river all the time. They resumed their trips to the feeding grounds on the 19th. The morning of the 22d was warm and clear, but the geese did not fly. The appeared very restless and the ducks in the north channel were also worried about something. At noon the thermometer stood at 60°. Suddenly there came a blast from the north. At sundown the temperature was 5° above zero and the next morning it was 15° below. Not a goose or duck was to be found. Some time during the night they had left for warmer climes, and the poor farmers who were getting ready to do their plowing now say that a goose knows less about the weather than does the traditional ground hog, who this year saw his shadow on Candlemas day and knew enough to crawl back into his hole without trying to rush the season.</p>
+         
+         <list type="simple">
+            
+            <item>Shoshone</item>
+            
+            <item>Kearney, Neb., Feb. 25.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">W. M. Wolfe. March 7, 1889. <title>Forest and Stream</title> 32(7): 131.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

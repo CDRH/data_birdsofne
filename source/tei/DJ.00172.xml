@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00172">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Children the Flower Saviors.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-02-04</date><biblScope>58(19): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Children the Flower Saviors.</head>
+         
+         <p>A woman traveler recently visited Omaha who has climbed inaccessible heights in nearly every country of our globe apparently, and who treated her listeners to a graphic word picture, accompanying views on the screen of these marvelous journeys. But first, and said almost the most important portion of her message, was"don't destroy the wild flowers," while on the screen came forth the most charming reproductions of our wild roses, dog's tooth violet, the dainty blue violet, the beautiful phlox of many shades of pink, the graceful honeysuckle, the oxalis, smiling up at us everywhere, the asters, Jack-in-the-Pulpit, Wake Robin, Redbud, early harbinger of spring, primroses, Virginia creeper, and our own goldenrod. "They are being destroyed entirely, so many of them; tell everybody to pick carefully a few blossoms by the stem so as not to disturb the roots, and always leave enough to give us more another year." A message from one who has seen the flowers of every land.</p>
+         
+         <p>But a few short weeks and the blossoms will start forth; will not all parents tell their children how the dear flowers will start just as soon as the sun gets warm enough to bring such lovely things forth and how they must pick them carefully and love them so dearly that they will keep coming every year? Teachers, too, surely will add their share to the preservation of our flowers, and every organization of whatever kind lay plans and carry them out for flower lessons, which the children will take to heart quickly if they are only kept before them. Make the children the saviors of the flowers.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 4, 1923. <title>Omaha Sunday World-Herald</title> 58(19): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

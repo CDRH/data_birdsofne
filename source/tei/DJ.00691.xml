@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00691">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Prairie Chickens.</title><title level="j">Omaha Nebraskian</title><author>Anonymous.</author><date>1859-10-08</date><biblScope>5(38): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Prairie Chickens.</head>
+         
+         <p>This species of game is very plenty the present season, and great sport is doubtless obtained hunting them. Some of our sportsmen have been eminently successful.-Messrs. O.P. Ingalls and Edwin Hepburn succeeded in bagging thirty-four in a few hours, a short time since, and Mr. Geo. Crowell has in several instances, we believe, been still more lucky. By the way this reminds us that our thanks are due Mr. Ingalls, and Messrs. Wilson, Lake and Crowell, for sundry braces of chickens, to which we -- or at least our family -- did ample justice.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 8, 1859. <title>Omaha Nebraskian</title> 5(38): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

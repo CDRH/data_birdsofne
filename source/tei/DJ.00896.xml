@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00896">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Teaching Birds War Stuff.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-10-20</date><biblScope>54(3): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Teaching Birds War Stuff.</head>
+         
+         <p>Now that the first real freeze is not so far away but that the furnace maintains a hungry and savage cast o' countenance, the devoted rambler of the woodland begins to think of his suet-holders for the ravenous and indispensible winter birds.</p>
+         
+         <p>We have preached sufficiently, perhaps, of the usefulness of these feathered friends of ours, who devote their entire time to the reduction of the weed pests and the destruction of larvae that would ruin the priceless trees. Without their assistance orchards and farms would be certainly devastated, in evidence of which we could call Uncle Sam as witness.</p>
+         
+         <p>Anyway, the problem of helping preserve the Chickadees, Nuthatches, Creepers, Woodpeckers, Tree Sparrows and other winter birds during the long and icy tenure of Jack Frost now confronts the ardent amateur ornithologist.</p>
+         
+         <p>Beef suet is the very best feed for all except the Sparrows. But beef suet, we are confident, will cost a good deal more this year than ever before.</p>
+         
+         <p>So the birds must be educated in war stuff.</p>
+         
+         <p>We have to economize and use substitutes - and so must they.</p>
+         
+         <p>Therefore, during the winter, just trim your beefsteaks and chops and roasts a little closer - when you are fortunate enough to have such luxuries ar all - and save the scraps to fill the birds' suet holders.</p>
+         
+         <p>These frisky little feathered fellows are mighty intelligent - and they will understand, beyond peradventure.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 20, 1918. <title>Omaha Sunday World-Herald</title> 54(3): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

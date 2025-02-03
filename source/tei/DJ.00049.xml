@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00049">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Beautiful Scenery Near Omaha.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-21</date><biblScope>56(8): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Beautiful Scenery Near Omaha.</head>
+         
+         <p>Nebraska is noted for its splendid natural scenery, with which every section is bountifully supplied, not withstanding it is a prairie state, - winding rivers and placid lakes, and rushing torrents, too, between long stretches of upland and valley; sand dunes and plowland - growing crops in season, everywhere - and yet, it is for Omaha, perhaps, to present to the lover of nature the premier masterpiece of them all.</p>
+         
+         <p>Down the old Missouri, from a point starting at Riverview park, and on to Childs' point, lies, summer and winter, scenery that holds one as if in a spell, and pictures very similar are seen between Plattsmouth and Nebraska City along the west river bank, but so say those who should know, hardly equal to the Riverview and Childs' point views.</p>
+         
+         <p>The hills overlooking the river are high up and wooded. In their primitive forests wild things roam and birds flit and sing, season in and season out. Off to the east one sees the splendid hills, the color of a ripe grape in fall time, of western Iowa. Coming nearer is the Missouri, a sandbar here and a sandbar there. Pussy willows grow along the banks and gently wave in the autumn breeze, while out from their depths comes the soft yet penetrating call of the rail, the daintiest of all our waterfowl. Wild flowers in summertime grow profusely; in winter great drifts of snow pile up turret high, and out on the bosom of the river glistens in the sunlight, and under the rays of the moon, the scene is seldom surpassed in all the west, and rarely equalled.</p>
+         
+         <p>One standing on the highland above the river and looking off up stream, or down, as far as they eye can carry, in enraptured.</p>
+         
+         <p>And yet there are those living within a rifleshot of these beauties of nature who do not know they exist. But they are the losers - those who do know are the beneficiaries.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 21, 1920. <title>Omaha Sunday World-Herald</title> 56(8): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

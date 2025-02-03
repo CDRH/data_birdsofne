@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00397">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Help the Home Builders [Yarn and Twine for Nesting Birds].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-23</date><biblScope>55(35): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Help the Home Builders.</head>
+         
+         <p>Anyone who likes the birds and enjoys a little fun from time to time can enjoy some rare sport these days by helping the songsters build their summer homes. The method is simple. It requires no mortgages nor first payments - just a little twine and colored yarn, if procurable.</p>
+         
+         <p>Birds are nearly human in a good many respects, including, as a general thing, an apparent love for bright colors. Also they are extremely human in their desire to avoid unnecessary labor. We sometimes feel that some of our feathered friends are positively lazy - except when it comes to hustling provender for themselves and their offspring. One outfit, the Cowbirds, cut this program in two by letting some other bird rear and feed their young, spending their own time on themselves.</p>
+         
+         <p>Anyway, this being the nesting season, get some colored yarn and some twine, cut it into lengths of about a foot or so, and hang it around the bushes in your yard - or leave it on the ground, for that matter.</p>
+         
+         <p>You will be surprised how quickly the Robins and Catbirds and Baltimore Orioles will seize upon this building supply to aid in the creation of their respective bungalows.</p>
+         
+         <p>The colored yarn will enable you, later on, to identify in the neighborhood the bird homes which you helped build. Also you will have a lot of real fun watching the feathered critters "toting" away the material.</p>
+         
+         <p>It is good sport - and instructive. Try it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 23, 1920. Help the Home Builders [Yarn and Twine for Nesting Birds]. <title>Omaha Sunday World-Herald</title> 55(35): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

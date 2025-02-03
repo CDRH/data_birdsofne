@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00066">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">"Bird Day" for Nebraska.</title><title level="j">Omaha Sunday World-Herald</title><author>World-Herald Editor.</author><date>1899-01-15</date><biblScope>34(107): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-06-07"/>
+    <respStmt>
+	<name>Karin Dalziel</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>"Bird Day" for Nebraska.</head>
+         
+         <p>Senate file No. 19, a resolution introduced in the Nebraska state senate by Senator Noyes of Douglas county, proposes to create a "bird day" for the state of Nebraska. This resolution should receive the support of every lawmaker in the state, and certainly will receive the endorsement of every intelligent citizen who will give the subject a moment's thought.</p>
+         
+         <p>The ruthless and unwarranted destruction of the field and forest birds of the United States has grown to such an extent that an alarm is being sounded in all parts of the country. Legislatures of many states are being appealed to to protect the birds. Humane societies are directing their efforts in behalf of the feathered songsters. The ornithologists' union has recommended the passage of a bill in the various state legislatures imposing a fine upon any person guilty of destroying birds. Societies are being organized to discourage the use of feathers of wild birds for dress ornaments. It is a fact that notwithstanding the myriads of increasing insects that threaten the destruction of our agricultural, horticultural and floricultural industries, thoughtless women of America persist in demanding the wings, the heads and plumage of these little insect destroyers for headgear ornaments.</p>
+         
+         <p>Representatives of the ornithologists' union declare that more than 5,000,000 birds are required annually to supply the demand for ornaments for the hats of American women, and that the slaughter is not confined to the song birds alone, but everything that wears attractive plumage becomes a target for the bird slayer. It is estimated by authorities that the birds of the United States save to agricultural purposes alone annually more than $100,000,000. It is estimated that about $400,000,000 worth of property is destroyed by insects annually in America.</p>
+         
+         <p>Professor Bruner of the Nebraska University, who has a world-wide reputation as a naturalist, recently delivered a lecture in Omaha under the auspices of the Humane society. On that occasion, Professor Bruner said: "Out of the 788 kinds of birds in North America, 416 make their home in Nebraska or visit here. To this state they come from north, east, south and west, on their journeys to and fro across country."</p>
+         
+         <p>Concerning the injury done to crops by insects in Nebraska, Professor Bruner said:</p>
+         
+         <p>Probably $3,000,000 is done yearly by chinch bugs, Colorado potato beetles and others. The quail, which is killed off incessantly by man, is a deadly enemy to these nefarious insects and one quail can destroy several thousand of them in a day. The robin is killed because he eats cherries and yet the robin can save many dollars to the owner of an orchard by destroying the canker worms which work havoc among the trees. Even a university professor with a fat salary could not afford to have on his table a quail, which, if rightly valued, is worth from $3 to $6 a pound. In Nebraska there are about 75,000,000 birds, or one and a half to the acre. It requires 1,875,000,000 insects to furnish one feed for these birds, or approximately 12,000 bushels.</p>
+         
+         <p>Professor Bruner estimated that if destruction of birds' eggs could be stopped for one year throughout Nebraska the number of birds would double and insects be killed off in proportion; and that in time birds would so multiply that insects could be kept under, and if insects caused annoyance in any particular part of the state the birds would flock there and put them out of the way.</p>
+         
+         <p>No class of persons are warmer friends or more appreciative of the worth of birds than horticulturists and those directly associated with them in the work of clearing vegetation of insect pests which destroy foliage, fruit and even solid substance of plant life. Farmers and fruit growers are experiencing more difficulty each year in holding in check the insect enemies of the crop. New insects are constantly making their appearance and the state governments are put to great expense in employing scientific experimentors to devise means for the destruction of these enemies of mankind. All these artificial methods of preventing the destruction of trees, fruits and crops by insects and worms could, in a great measure, be supplanted by the insect-destroying birds and at practically little or no expense of crop if the vicious practice of the bird destroyer could be kept under control.</p>
+         
+         <p>It has been well said that as the birds decrease the insects increase. Laws for the protection of birds can be beneficial and an evidence of a healthy moral sentiment.</p>
+         
+         <p>The "Bird Day" for Nebraska will result in educational influences upon the children, influences which will be of inestimable worth. When the schools of the state observe the occasion by suitable exercises in the form of lectures, readings of bird literature, the writing of essays and singing of songs about birds, as well as the recounting of personal experiences with these innocent creatures of the forest and the field, then will the reform so much needed show evidence of educational influence.</p>
+         
+         <p>Save the birds! Their value is inestimable and the rising generation should be taught the importance of this sentiment by an observance of "Bird Day" in Nebraska.</p>
+         
+         <cit>
+            
+            <bibl default="NO">World-Herald Editor. January 15, 1899. <title>Omaha Sunday World-Herald</title> 34(107): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

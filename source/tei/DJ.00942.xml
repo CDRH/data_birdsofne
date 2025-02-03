@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00942">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Walking - and the Woods.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-05-16</date><biblScope>50(33): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Walking - and the Woods.</head>
+         
+         <p>It is gratifying indeed to note that the people of this city and state are taking a pronounced interest in birds, which means, of course, that they are responding to the call of the great big outdoors.</p>
+         
+         <p>There was a time when a person admittedly devoted to nature - to the birds and flowers and trees and - and things, was covertly considered a crank. In this commercial age there could be nothing really worth while in the spectacle of a cowbird perched on a bull's back, or of an edible mushroom as big as a dinner plate growing from the trunk of an elder tree thirty feet from the ground. Nor could a study of the roundelays of the Nebraska songsters be anything but a freakish and fleeting fad - like lads securing the numbers of railroad engines or collecting stamps.</p>
+         
+         <p>But the study of birds is becoming a real and cosmopolitan study. It is bringing a great new cheerfulness to hundreds, as may be proved by a jaunt through any of our wooded parks or outlying glades. There is an uplift, an inspiration, in the quest of bird identification that can be secured in no other field. And the fascination of it all is indisputable. Once a bird-hunter - always a bird-hunter.</p>
+         
+         <p>Ah - the clean, fragrant air of the emerald copse in the spring, or the crisp, health-giving atmosphere of the frosted woods in winter - these are indeed a treat for the cudgeled lungs of the city chap who breaths naught but sifted smoke and commercialism six days in the week! If once he comes to know them, or to wish to know them, the birds, like sirens, will draw him willy-nilly to their island, and, when captured, he is lost.</p>
+         
+         <p>This is the show-season for the feathered friends of the human race. The birds are coming in by the thousands, many to stay and many merely migrating. There are a couple of dozen different varieties of warblers likely to be identified in our parks now, and a dozen of more "brands" of interesting sparrows. For it must be understood that the English sparrow is the only undesirable citizen of his race, there being many sparrows most beautiful and most accomplished in song.</p>
+         
+         <p>So take a walk today! Take the wife along, and the kiddies, too, if they have reached the walking age. Get yourself a pair of opera glasses, a memorandum book and a bird guide and see how nature has populated the trees about your city. Go to the end of almost any car line and start out into the woods - no matter where. You will be entertained - O, you will be entertained as you never were before!</p>
+         
+         <p>Spend the whole day. Take a lunch along. Take a book along - if needs be - but stay outdoors, in the woods, among the birds and the rest of nature's wondrous works. Walk - and in walking you will add years to your life and moments of pleasure that you will never forget.</p>
+         
+         <p>There are many things to be seen in a day's troll - many things besides birds. Nature is clever in that respect, for her little tricks will bob up serenely when you least expect them. Just take a chance - and see for yourself.</p>
+         
+         <p>When you reach your home this evening you will be tired - very tired. And you should be dirty, too, for a man can't get too close to nature on one of these hikes and he won't have any fun if he is worrying about scuffing a new pair of shoes or tearing his pants. But after you have added up your birds, have transplanted your wildwood vines and have put your mushrooms in the refrigerator for breakfast - your bath and bed will bring you the most comfortable happiness in all the world.</p>
+         
+         <p>There is trouble enough on this sphere just now, but while woe and misery obtain in other lands, the Almighty God has preserved peace, sweetness and purity in his woods, where anyone can worship on this Sabbath day, and emerge therefrom far better and more holy for it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 16, 1915. <title>Omaha Sunday World-Herald</title> 50(33): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

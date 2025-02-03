@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00879">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Suet-Time Has Come.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-14</date><biblScope>56(7): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Suet-Time Has Come.</head>
+         
+         <p>With the advent of Nebraska's first official cold wave comes the necessity of taking care of the winter birds already arrived.</p>
+         
+         <p>It may be argued that nature takes care of the birds and that they needed no suet-holders placed upon the trees a century ago, nor for many centuries before that. But the farmer of a few years ago sneered at the seed corn colleges, and the fruit grower laughed at the college-bred tree surgeon.</p>
+         
+         <p>How different are things today, with our knowledge of soil and seed and propagation and conservation.</p>
+         
+         <p>Thanks to the United States government, aided by the National Association of Audubon Societies, we have been taught the usefulness of the birds, both winter and summer. In the frosty season, that is now upon us, we are shown that in encouraging the presence of the winter birds we are helping preserve the crops and orchards of the following season.</p>
+         
+         <p>So, by seeing to it that the winter birds are fed and protected, we are doing ourselves a great good.</p>
+         
+         <p>Suet, placed in properly arranged baskets, will save the lives of many Downy and Hairy Woodpeckers, Flickers, Nuthatches, Brown Creepers, Chickadees, Titmice and the like - and these, in turn, will spend their idle hours in saving the trees of the orchards by their never-ending search for larvae and other animal life in the bark crevices.</p>
+         
+         <p>Every winter bird earns his life a thousand times over, and science will prove the assertion.</p>
+         
+         <p>Beef Suet placed against the south side of some big tree in a spot protected from the northerly blasts of winter does a lot toward encouraging the feathered workers to stay with us.</p>
+         
+         <p>Try it!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 14, 1920. <title>Omaha Sunday World-Herald</title> 56(7): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

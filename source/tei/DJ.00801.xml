@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00801">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Snowflake [Snow Buntings Dead at Greeley].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-03-05</date><biblScope>57(20=23): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Snowflake.</head>
+         
+         <p>"In the storm last night the plaintive cries and call of these little things came from all directions, and this morning there are hundreds lying around, dead."</p>
+         
+         <p>Thus Mrs. J.R. Swain of Greeley, Neb., gives us one of the few records of the presence in this state of the Snowflake, or Snow Bunting, and her letter to the World-herald is dated March 1. On the night before, to which she refers, there was a heavy wind and snowstorm at Greeley, and this unfortunately flock of Snowflakes, mingled with other evidences of nature that bear the same name, was destroyed.</p>
+         
+         <p>The Snowflake is a bird that breeds in Arctic regions and seldom comes to Nebraska. It is a seed-eater, and very valuable therefore. Nebraska university professors have few records of it in this state.</p>
+         
+         <p>Yet, here came the song from above, in the storm at Greeley - and here are the ghostly visitors that whisper, as someone has said, "of God alone - the birds!"</p>
+         
+         <p>For years the World-Herald has advocated a husky hike on Sunday, with bird study as a side issue, because of its mysticism. This is an exhibit in the case.</p>
+         
+         <p>Did you ever see a Snowflake?</p>
+         
+         <p>You might - today!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 5, 1922. Snowflake [Snow Buntings Dead at Greeley]. <title>Omaha Sunday World-Herald</title>	57(20=23): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

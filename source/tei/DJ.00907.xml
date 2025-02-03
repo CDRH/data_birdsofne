@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00907">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Likelihood of a Final Total Annihilation of the Water Fowl Family].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy and Miscellaneous.</author><date>1901-04-07</date><biblScope>36(189): 20. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest Field and Stream</head>
+         
+         <p>While gathered around the stove in the office of the West hotel out at Clark's last Sunday night, a party of Omaha sportsmen were discussing the likelihood of a final total annihilation of the wild fowl family, and while a number took one side of the question and a number the other, of course, a unanimous verdict on the matter one way or the other was not to be expected.</p>
+         
+         <p>"I do not know for an absolute certainty, anyway," remarked that veteran sportsman, Henry Homan, "and that is that it was just as easy to make a bag of several dozen ducks in a given time a score of years ago as it is now to secure a single bird. Why, even fifteen years ago we used to go right out at the foot of Grace street to Cut-Off lake, say along about 4 o'clock any day in the season, and come back at dark with our twenty or thirty birds, and mallards and redheads and canvasback at that. it is a fortunate man, indeed, who now goes out hundreds of miles and spends days on the best marshes in the west, who can equal the bags that we use to make in a half day up at Horseshoe or Willow lake, or on the Sweetwater, or out at Rogers or Arlington, and there is another thing I do know, and that is that several game birds we use to know here numerously enough are now literally extinct, or the next thing to it, anyway. One of these, too, is the golden eye, or whistler duck, a black and white bird, almost as big as a mallard. I haven't seen one of these birds here for several years, but ten years ago they were to be met with quite plentifully anywhere along this famous old river. And, come to think ot it, I am told that Wilber Fawcett killed one this spring, while out ducking on the Billy Baird ranch up southwest of Wood lake, but this is the only instance of the bagging of a golden eye that has been brought to my attention for years."</p>
+         
+         <p>"Well, admitting that this golden eye has been exterminated," interrupted Judge Odgen, "what other birds do you know of that have entirely disappeared?"</p>
+         
+         <p>"Well, there is the wild pigeon. You will all admit that that bird exists now only in zoological gardens, when they use to make their spring and fall migrations over this country by the millions."</p>
+         
+         <p>"Yes, we will admit that," chimed in Frank Hamilton; "give us the others."</p>
+         
+         <p>"How about the woodcock, Frank? You use to do a good deal of rambling abut with an old muzzle-loader when you were a boy and right up around the ridge, that curves to the north along Sherman avenue, you have probably shot at many of these birds - shoat at - I said, mind you" -</p>
+         
+         <p>"Yes, and killed 'em, too!" interrupted the banker with some acerbity.</p>
+         
+         <p>"LIke you did that pintail this morning, eh? But let that go, we all know you are a regular Parmalee in the field, but have you shot or even seen any woodcock there, or anywhere else in this vicinity in the last dozen years?"</p>
+         
+         <p>"No."</p>
+         
+         <p>"Well, then we will add the woodcock to the list that has wholly disappeared. The next bird, I was going to say, would be the buffalo, but I meant the wild turkey. You will remember in old Yank Hathway and Judge Kennedy's shooting days they used to be plentiful down in the thick woods and tangled fields below bellevue, didn't they?"</p>
+         
+         <p>"Yes, Henry's right, boys," chimed in Hamilton.</p>
+         
+         <p>"Have you seen any wild turkey, or heard of any out this way for years and years?"</p>
+         
+         <p>"Nope."</p>
+         
+         <p>"Well, then there you are - there are four species of game birds we use to know, and don't now, nor never will again forever. But there is still another and a glorious fellow he was, too. I mean the ruffed grouse. You will remember they used to be quite numerous all along the labyrinthian shores of the Missouri, both above and below the city, and out along the Elkhorn, and over in the hardwood timber all over Iowa. Well, they have been almost totally extirpated, but I am told that an occasional one is still encountered down in the brushy islands near Parkins' sandpits, about twelve miles below the city, but I haven't seen one, not even in the market, for years. Now there are five birds that use to be common all about us, but they have all thoroughly disappeared, and I don't believe there is a man in this party, who could produce a single specimen of any one of them, killed in this part of the country, in a whole year's trial, but yet there are a lot of sportsmen who claim that the geese and ducks are not going. I tell you they are, not slowly and surely, but with speed enough to convince me that the present generation will be the last to enjoy any very great sport in their pursuit. When our boys grow up they will look back on the sandhills marshes as fables and myths, as we now look back on dear old Horseshoe, the Sweetwater, Cut-Off and the Platte."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold and Miscellaneous. April 7, 1901. [Likelihood of a Final Total Annihilation of the Water Fowl Family]. <title>Omaha Sunday World-Herald</title> 36(189): 20. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

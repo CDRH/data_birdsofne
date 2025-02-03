@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00868">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Squirrels [Audubon and Farmers Campaign].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-10-31</date><biblScope>51(5): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Squirrels.</head>
+         
+         <p>There is probably no prettier nor more attractive animal than the common fox squirrel which now appears in such large numbers throughout the residence districts of Greater Omaha. The swish of his tail and his petulant screech are heard in all the parks and boulevards of the city and everyone in the metropolis has come to love him.</p>
+         
+         <p>With proper encouragement, the squirrel can be trained to come to your window and to snatch nuts or other dainties from your fingers. Children are bound to love the furry little fellow, for he is indeed a crafty beggar and wears a false halo about his head.</p>
+         
+         <p>Since the Real Estate Exchange, the State Audubon society and the Nebraska farmers have engaged in a campaign against the squirrel it must be reasonable to suppose that they have some grounds for their contention that the red-tailed rodent is a pest and not a pet.</p>
+         
+         <p>His bitterest enemy cannot deny that the fox squirrel, which is the common variety in this part of Nebraska, is interesting, beautiful and in some ways lovable.</p>
+         
+         <p>But - he is a murderer and a thief!</p>
+         
+         <p>He is a despoiler of homes; a soulless burglar of the farmers' cornfields; a turncoat traitor likely at any moment to sink his sharp teeth into the hand that would feed him.</p> 
+         
+         <p>This is not idle gossip - it is the record of indisputable facts.</p>
+         
+         <p>During the nesting season of Nebraska's song birds the squirrel plies his nefarious trade in eggs and nestlings at a terrific rate, which is an item that his defenders must not overlook. The bluejay may rifle the nests of the small birds while father and mother are absent, but they are generally able to terrify the coward if they catch him in the act, and thereby run him away.</p>
+         
+         <p>But the squirrel is a powerful and vindictive cuss. He loots the nests of the songsters by brute force, for it is seldom that he can be driven off in time to save the brood, even by such husky specimens as the Robin or the Brown Thrasher.</p>
+         
+         <p>As for the economic danger of the squirrel, the farmers will tell you that he works havoc upon the cornfields and upon the nut groves in the fall, while protected by a state law which prevents any effort that might be made to halt him.</p>
+         
+         <p>The Real Estate exchange claims that the squirrel ruins the siding in many houses. This cannot be denied.</p>
+         
+         <p>Defenders of the squirrel say that nature would regulate his existence if it need regulating. That is very true. Out in the wildwood the songsters are not harmed, nor are the squirrels. They multiply on a fairly equal basis. But in a great city, where the song birds are driven away by millions of English sparrows and small boys, while the squirrels are protected by the iron hand of the law, the odds become overpoweringly on the side of the pretty red rodent.</p>
+         
+         <p>If Omaha is to cherish its songsters in the artificial parks built largely for their benefit, the squirrel evil will have to be dealt with and immediately.</p>
+         
+         <p>What is more, stray cats will have to be exterminated, even as the city protects itself against stray dogs. For cats area as damaging to wild bird life as are squirrels or the small boy with the slingshot.</p>
+         
+         <p>It will always be easy to get plenty of cats or squirrels, but it would be some job for the city to import grosbeaks, wood thrushes, chipping sparrows or thrashers.</p>
+         
+         <p>What's the answer?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 31, 1915. Squirrels [Audubon and Farmers Campaign]. <title>Omaha Sunday World-Herald</title> 51(5): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

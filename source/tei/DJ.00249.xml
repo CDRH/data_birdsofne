@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00249">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Early Wrens.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-03-20</date><biblScope>56(25): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Early Wrens.</head>
+         
+         <p>While repeated reports have reached us of the arrival of the House Wren from the south to bring delight to out garden and populate the various bird houses we have placed about the premises, we have been a bit skeptical.</p>
+         
+         <p>Jenny Wrens seldom reach these parts until the middle of April, but since the season has pushed along so much in advance of itself, it is possible that the Wrens forgot to look at the calendar, and are really on the job.</p>
+         
+         <p>One thing is certain - there are Winter Wrens that migrate through this territory and have their habitation in the far north, and amateur ornithologists may have been confused in the identification of the two species.</p>
+         
+         <p>This, however, doesn't alter the fact that Robins and Bluebirds are here in force, and that vast flights of Crows have been seen going over to the north, while Chewinks and the several migratory Sparrows, such as the Fox Sparrow, Harris Sparrow and Song Sparrow, are here in large numbers, whereas in other years they would not be seen for several weeks.</p>
+         
+         <p>It has been an early year, and the bird lover can appreciate it more than most.</p>
+         
+         <p>Truly it is time to clean your bird houses with scalding water and to prepare to entertain your Wren and Bluebird and Martin friends right suddenly.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 20, 1921. <title>Omaha Sunday World-Herald</title> 56(25): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

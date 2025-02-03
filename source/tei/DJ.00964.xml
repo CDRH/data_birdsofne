@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00964">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Whispers in the Night.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-09-15</date><biblScope>53(50): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Whispers in the Night.</head>
+         
+         <p>In the early hours of morning, when even the latest and earliest street cars are in their stalls and honest folk are presumed to be laying up a large supply of reserve energy in the arms of Morpheus, there are proceedings in the skies that would interest the bird student.</p>
+         
+         <p>Although chronic insomnia or a severe stomach ache is necessary to keep one's eyes open between 2 and 3 o'clock, this period in the new day is almost worth while, betimes.</p>
+         
+         <p>For the birds are migrating, and in this great, mysterious flight from the north to south they do most of their traveling after the sun has set.</p>
+         
+         <p>It is when the sounds of the city have been completely stilled and the black outdoors, with the exception of the stars, is without the slightest vestige of life or light, that the passage of these winged wonders comes to the human ear.</p>
+         
+         <p>far above, in the inky darkness, the insomniac may hear the weird twitterings, plaintive cries and raucous squawks of the things of the air, flying to their winter hunting grounds, maybe as far as the Straits of Magellan!</p>
+         
+         <p>What they are, one may guess, but cannot know!</p>
+         
+         <p>There is no ornithologist able to tell us much of the migration of small birds in the night, except that they are seen in one locality today, and in another tomorrow.</p>
+         
+         <p>But the warblers, and many other birds as well, are now passing over when most folks sleep, and those who are unfortunately awake on an open sleeping porch will surely hear them.</p>
+         
+         <p>Like ghosts in the night they are going over, but yet some of them may be seen in the daytime in the woods or fields, and on this chance you should take a little hike today. It is one of the most interesting periods of the year for the bird lover.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 15, 1918.  <title>Omaha Sunday World-Herald</title> 53(50): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

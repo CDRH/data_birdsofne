@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00884">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Summer is Waning [Dickcissel].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-15</date><biblScope>55(46): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Summer is Waning.</head>
+         
+         <p>It is different to appreciate that the summer is really on its last lap, and that very soon it will be Ak-Sar-Ben time - then Indian summer - then winter.</p>
+         
+         <p>Very true, it doesn't feel much like autumn just now, but those who love birds and study birds can see the symptoms.</p>
+         
+         <p>A week ago the incessant "Chip Chip! Chee-Chee-Chee!" of the Dickcissel was fairly deafening along the roadsides, and the birds themselves were on every wire and every fence. But now they are more scarce. Their peculiar song is fading, and soon will disappear entirely from the birdland repertoire.</p>
+         
+         <p>For the Dickcissel is one of the latest of our summer birds to arrive, and one of the earliest to depart. By the first of September, very likely, there will be very few specimens left in this vicinity.</p>
+         
+         <p>The Dickcissel takes care of its domestic duties in rapid fire order, and the nesting and breeding and educational season is finished, apparently, within a few weeks. Often it is the case that the young Dickcissels, or Black-throated Buntings, as they once were called, stay north longer than do their parents.</p>
+         
+         <p>At any rate, the silencing of the song of this hot weather bird indicates that very soon the autumn will be with us once again.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 15, 1920. The Summer is Waning [Dickcissel]. <title>Omaha Sunday World-Herald</title>	55(46): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

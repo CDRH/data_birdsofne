@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00392">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hens May Hatch Wild Duck Eggs but They Cannot Raise the Ducklings. John Raymond Gives Up Hope To Have a Chicken Coop of Wild Ducks, for Ducks are Ducks and Do Not Heed Clucking of Mother Hen Fearing For Young Ones.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous and John Raymond.</author><date>1919-07-06</date><biblScope>49(3): 12-B.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hens May Hatch Wild Duck Eggs but They Cannot Raise the Ducklings</head>
+         
+         <head>John Raymond Gives Up Hope To Have a Chicken Coop of Wild Ducks, for Ducks are Ducks and Do Not Heed Clucking of Mother Hen Fearing For Young Ones.</head>
+         
+         <p>Never again will John Raymond, Kountze place, attempt hatching wild duck eggs under a hen and afterward attempt to compel the domestic hen to mother the wild ducklings.</p>
+         
+         <p>John Raymond is something of a fisherman and a few weeks ago he made a trip to the lake region of Cherry county, Nebraska, to angle for bass. he was successful so far as fishing was concerned and brought home the limit of bass. During his trip, along the shores of the marshy lake, he found that there were many wild ducks nesting. The nesting process was in all of its various stages and picking a nest in which the eggs appeared to have been freshly laid, with him he brought home 11 of the aforesaid eggs.</p>
+         
+         <p>As a chicken farmer, Raymond stands well up toward the top. When he reached home one of his prize hens had completed the laying period and ready to do some setting. Slipping the duck eggs under the hen, he let her continue her setting and at the end of 21 days nine fine little mallard ducklings were brought off the 11 eggs. For a few days all went well and until the young ducklings commenced to harken to the call of the wild. Then there was trouble for they started off in as many directions as there were ducklings. The mother hen was unable to follow all of her adopted progeny. Running in nine directions at one time was impossible for even a hen. She tried it for half an hour or so and then gave up. Down she squatted in the back yard and clucking as only an alarmed hen can, sought to call her brood about her. Not a duckling would heed the call and scampering into the weeds, they were soon lost.</p>
+         
+         <p>Instead of mourning for her brood, the Raymond hen soon forgot her ducklings and is again laying eggs tat are worth around 60 cents a dozen and at the same time, John Raymond has given up the experiment of domesticating wild ducks.</p>
+         
+         <cit>
+            
+            <bibl default="NO">July 6, 1919. <title>Omaha Sunday Bee</title> 49(3): 12-B.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

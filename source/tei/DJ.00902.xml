@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00902">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">That Game Pocket.</title><title level="j">Forest and Stream</title><author>Hubbard, C.P.</author><date>1892-07-28</date><biblScope>39(4): 72.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-06-30"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>THAT GAME POCKET.</head>
+         
+         <p><hi rend="smallcaps">Kearney</hi>, Nebraska.—<hi rend="italic">Editor <title>Forest and Stream</title>:</hi> Your correspondent, "O.O.S." in your issue of June 30 is very enthusiastic for such a little thing as an offer to assist brother sportsmen in finding good locations for fall shooting. Indeed, I had no idea that my simple offer would be estimated "sublime" and was inclined to look on the letter from friend "O.O.S." as sarcasm. On second reading I believe that he means it, so "shake, old man."</p>
+         
+         <p>Now, my experience has been that none but the "whitest kind of men" take up with such invitations as I issued, and that the true lover of field sport, the dog and gun is invariably a "white man." Once in a while one runs across a grumbler or a chronic kicker, but when the circumstances arise to show him in his true color, he always pans out what "O.O.S." calls "the whitest kind of a man." I have no fears but that the gentlemen who work out my game pocket this fall will be courteous to the farmers who kindly give their consent to hunting on their farms, equally as courteous and polite to those who deny their consent. That they will carefully close gates, damage no fences or live stock, drive over no grain or hay fields, and in case of accidental damage that they will call upon owner and settle for it. Upon their good behavior depends the continuance of the friendly feeling at present existing between the farmers and myself, and furthermore, it remains for them whether the parting words shall be "Come again next year," or a simple, polite, "good-by."</p>
+         
+         <p>I have letters from the following gentlemen, some of whom have already signified their intention of coming here: Mr. A.C. Peterson, Homestead, Pa.; Mr. Wm. W. Tracy, Pittsfield, Mass.; Mr. R.C. Ferguson, Knoxville, Iowa; Mr. P. Moeller, Nyack, N.Y.; Mr. Wm. H. Wild, Jersey City, N.J.; Mr. D.R. Anthony, Leavenworth, Kan.; Mr. F.C. Hand, Atlanta, Ga. Most of those who come will bring friends with them.</p>
+         
+         <p>Last week I found nine coveys of chickens within a half mile of each other. On an eighteen-mile drive I scared up six coveys along the road. Quail are more plentiful than ever before, and November will be the grandest month for sport this section has ever seen.</p>
+         
+         <p><hi rend="smallcaps">C.P. Hubbard</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">July 28, 1892. <title>Forest and Stream</title> 39(4): 72.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

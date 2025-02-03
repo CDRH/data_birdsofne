@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00079">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Bird Lover's Problem [Identification of Vireos].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-05-26</date><biblScope>53(34): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Bird Lover's Problem</head>
+         
+         <p>Difficulty in identification of certain classes of birds makes the splendid outdoor game of ornithology supremely interesting to those who become inoculated with the study. And the bird-lover becomes thus inoculated a good deal in the same way as the skeptic who takes his first swing at a golf ball. Just one little contact and a new enthusiast has been born!</p>
+         
+         <p>There are many Sparrows, there are many Warblers - and all hard to identify, except after some years of experience and study. Many of these merely pass through during migration, so the period permitted for viewing them is limited.</p>
+         
+         <p>With the Vireos, however, it is different. There are at least five varieties of this family who spend the summer in the woods near Omaha, and who even come far into the residence district, especially in the parks.</p>
+         
+         <p>In Turner park, for instance, within a mile of the postoffice, there may today be seen at least two of the species, the Red Eyed Vireo and the Warbling Vireo.</p>
+         
+         <p>In Elmwood park may be seen, in addition, the Bell's Vireo and the White Eyed Vireo.</p>
+         
+         <p>In Fontenelle Reserve or in the woods north of Florence, may be added the Yellow Throated Vireo.</p>
+         
+         <p>While it is not impossible that all of the quintet might be found in any of the spots named, the denser and more protected the nook, the more specimens and varieties will be found.</p>
+         
+         <p>It is almost impossible, at the length of range necessary in studying birds with field glasses, to detect the difference between Vireos except by their songs. This is not true of the Red Eye, whose dark line through his eye is distinguishing.</p>
+         
+         <p>Get some bird student to teach you the difference in the Vireo's songs, and you will have made immense progress in a lovely art.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 26, 1918. Editor [possibly Miles Greenleaf]. <title>Omaha Sunday World-Herald</title> 53(34): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

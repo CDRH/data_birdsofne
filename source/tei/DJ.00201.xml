@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00201">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Crow Around Omaha.</title><title level="j">Oologist</title><author>Trostler, Isador A.</author><date>1892-03-01</date><biblScope>9(3): 73-74.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-06-30"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+
+
+         <head>The Crow Around Omaha.</head>
+
+         <head>
+            <hi rend="italic">Corvus americanus.</hi>
+         
+         </head>
+         
+         <p>There is probably no city in the United States where <hi rend="italic">corvus americanus</hi> is so plentiful and tame as they are in Omaha.</p>
+         
+         <p>Here they are almost as common as the English Sparrow or the tame Pigeon and show no more fear of man than the latter two birds.</p>
+         
+         <p>All through the winter months and especially when the ground is covered with snow this handsome and intelligent but very mischievous bird is a common sight on our side streets and alleys and very often they may be seen in our dooryards picking up the refuse from the table. They seem almost absolutely without fear of man, and when busily engaged in enjoyment of a meal they can be approached within a very few yards before they take wing.</p>
+         
+         <p>This will seem strange to people who live in eastern states; where the crow is considered the shyest of wild birds.</p>
+         
+         <p>The farmer's boy who succeeds in crawling within gunshot of a crow in some parts of Indiana, Ohio, and Pennsylvania accomplishs a feat, that he may well be proud of, but here any boy with a nigger-shooter or flobert rifle can pop away at them as if they were so many barn-yard fowls. This domesticity of the Crow in this particular region is a hard nut for Ornithologists to crack.</p>
+         
+         <p>We do know, however, that they congregate here in countless numbers and frequent the streets and byways of the city with the impunity of the Buzzard in Charleston or Savannah or the common tame Pigeon of any of the northern cities. They are good scavengers and deserve rigid protection. In olden days the Crow was supposed to be graniverous and was the least beloved of all our native birds, but in these days of scientific research and investigation the Crow like many others is known not to be nearly as black as he is painted, and almost everywhere something like a just sentiment prevails toward our Crows.</p>
+         
+         <p>This was brought about by a thorough study of the habits and diet of the bird and instead of being wholly or largely graniverous, they are almost insectiverous and the amount of insect larva they destroy more than counterbalances their destruction in the grain fields.</p>
+         
+         <p>This fact alone is sufficient to warrant their protection instead of the old time persecution. Strictly speaking, the Crow while being an extremely clean bird is omniverous; he will eat or attempt to eat a door knob or railroad spike with the same avidity that would mark his attack on a sponge cake or veal cutlet. He is a splendid scavenger as I said before and picks up and does away with many a scrap of noxious offal which otherwise would be left to taint the air and breed disease.</p>
+         
+         <p>The Crow is an interesting study at any or all times, and will repay anyone who takes the trouble to watch and study them. A bird of marvelous intelligence and barring his mania for petty larceny makes a most entertaining and interesting pet; some authorities even go so far as to any that he may be taught to talk, but my experience with them does not carry that idea out to any greater extent than to say <hi rend="italic">Ah! Ah!</hi>
+         
+         </p>
+         
+         <p>Crows are very tenacious of life and there is said to be an old male in the London Zoo now about 100 years old.</p>
+         
+         <p>Just now they are at their thickest around Omaha and every morning and evening great flocks can be seen flying over the city.</p>
+         
+         <p>In the evening their flight is from the south or southwest towards Cut-off Lake where they pass the night and scattering out again at day-break towards the south and southwest. For years and years the birds have roosted on the low willows east and north of Omaha and when the sable host have congregated in the evening, the uproar from the numerous tongues is so loud you can not hear yourself think and the spectacle is a sight of a lifetime.</p>
+         
+         <p>I could go on like this for a day but our Friend Lattin has not the room nor I the time for it.</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="smallcaps">Isador A. Trostler</hi>,</item>
+            
+            <item>Omaha, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">March 1892. <title>Oologist</title> 9(3): 73-74.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

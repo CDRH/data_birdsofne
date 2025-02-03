@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00199">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Red Crossbills [Seen at Rustic Parks].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-12-10</date><biblScope>52(11): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Red Crossbills.</head>
+         
+         <p>Although the Red Cross society has nothing to do with this editorial, the editorial has a great deal to do with Red Crossbills.</p>
+         
+         <p>In Omaha, at least, these Red Crossbills have been long overdue and have only been noted within the past few weeks. They are beautiful, peculiar and in every way interesting birds who visit us occasionally in the winter, but which have been seldom observed, for some reason or other.</p>
+         
+         <p>There is nothing cross about a Crossbill, except its bill. The bird hangs chiefly about coniferous trees, prying open seed pods or soft nuts to secure the meats within. This is done by means of the strange scissor effect of the bill which has to be seen to be understood.</p>
+         
+         <p>Scores the Red Crossbills have been seen in the Omaha rustic parks during the past few weeks, and they have stirred the bird-loving contingent to a point of great enthusiasm.</p>
+         
+         <p>The beauty of these birds lies in the dull red color scheme of the males and the bright yellow effect of the females, set off with blacks and browns.</p>
+         
+         <p>The strangeness of their method of securing food is best described by suggestion. Take a pair of scissors, closes, and insert the points of the same between the closed hemispheres of a nut. Then open the scissors. The nut will open also. That is the way the Red Crossbills do it, in theory.</p>
+         
+         <p>These gladsome visitors are helping to make the game of bird study interesting in Omaha and you should keep your eyes open for them upon your hike through the woodlands today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 10, 1916. The Red Crossbills [Seen at Rustic Parks]. <title>Omaha Sunday World-Herald</title> 52(11): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

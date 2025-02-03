@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00792">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Spizella Monticola [Delightful Singer the Tree Sparrow].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-01-16</date><biblScope>51(16): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Spizella Monticola.</head>
+         
+         <p>Thanks to a rapidly increasing interest in the arts and a corresponding discrimination in favor of the best, it is pretty nearly impossible these days for an artist—for instance a singer—to carry tremendous ability into the grave without at least some modicum of appreciation. Yet there are isolated cases of such lights hidden under the bushel and one of them—less credit to Omaha—exists right here.</p>
+         
+         <p>It is very probable that few of the musical critics have even heard the name of the delightful artist, yet he is spending the winter in our midst and is singing almost daily.</p>
+         
+         <p>Spizella Monticola—for that is his monicker—is peculiar in some ways, but most artists are peculiar; so that is not remarkable.</p>
+         
+         <p>In the first place he is rather brown in color, except the stomach, which is grey—and he has a black spot as big as the end of a led pencil squarely in the middle of his breast. Moreover, he is only six and one-half inches long, which would mark him as distinctly eccentric among most of our leading operatic warblers.</p>
+         
+         <p>For Signor Monticola's real United States name is Tree Sparrow and he is one of the hardiest and cleverest and most sociable of the winter birds in these parts. What is more, according to government estimates, he and his tribe eat about a thousand tons of weed seeds in Nebraska each winter, which ought to make him popular with the poor, downtrodden farmer.</p>
+         
+         <p>There is something mighty companionable about the musical chirp of the Tree Sparrow these frigid days, as he feeds in the weed patches along the road or frozen stream, and at times he appears to be very fond of human company. In this respect he is like the Chipping Sparrow of summertime, and their appearance is not a great deal different. Signor Monticola is often termed the Winter Chippy.</p>
+         
+         <p>Look him up the next time you take a much needed hike. You cannot mistake that low, sweet chirp which will teach you a lesson in cheerfulness if you chance to be caught in a snowstorm.</p>
+         
+         <p>Lest his fair name suffer in connection with that of the lowly English Sparrow of the streets and alleys, it had best be observed that the latter is the only scapegrace of a noble family of thirty-four different species, at least half of which are identified in this vicinity.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 16, 1916. Spizella Monticola [Delightful Singer the Tree Sparrow]. <title>Omaha Sunday World-Herald</title> 51(16): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

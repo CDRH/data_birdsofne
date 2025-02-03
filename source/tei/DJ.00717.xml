@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00717">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Rattler [Kingfisher Habits].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-04-09</date><biblScope>51(28): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-26">2006-06-26</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Rattler.</head>
+         
+         <p>This editorial has nothing to do with snakes or flivvers, nor yet with certain toys of childhood. It concerns a big, boisterous bird that is to be found about our wooded lakes and ponds during every season except winter—beautiful and interesting in himself, but a wretchedly sloven housekeeper.</p>
+         
+         <p>The Kingfisher is constantly seen in the summertime, on the alert for small fish—and some not so small. He drills a long tunnel into the side of some bank overlooking a stream or pool, and at the end of his hall is a larger nesting chamber, where the eggs of his mate are deposited almost upon the bare soil.</p>
+         
+         <p>When the eggs have hatched and the young Kingfishers are to be fed, the spectacle of an exposed nest of this brood is not a pleasing sight, for the Kingfisher's kiddies lie in a tangle of dried fish bones and food yet to be consumed.</p>
+         
+         <p>There is something strangely like certain human families in this part of the Kingfisher's career, for the birds are always beautiful and seemingly immaculate when they come from the nest hole. It reminds one of a woman who spends two hours in primping for a theater engagement and leaves the dinner dishes unwashed. Or of the man of clean hands and linen whose office desk is constantly cluttered and who expectorates in the waste-paper basket.</p>
+         
+         <p>There are plenty of Kingfishers to be seen in and about Omaha—always near some place of water, of course—and a pair has inhabited the same bank over Elmwood Park lake for at least three years and probably more.</p>
+         
+         <p>The same pair—it is said. Very naturally there is no way to prove it the same couple, but they arrived two weeks ago, just as in the same week in 1915 and 1914, perched on the same overhanging branch and uttered the same shrill rattle of glee as they flew thereto.</p>
+         
+         <p>A contributor to the Public Pulse last week suggested that the description of bird voices would be a mighty good topic of newspaper conversation, but the voice of this rattler is baffling.</p>
+         
+         <p>The Kingfisher is a diligent fisherman and likewise a wary bird. He is to be seen, but generally for but a moment before he flies away with his vibrating yell.</p>
+         
+         <p>Today's walk in the woods, be it near some lake or stream, should make you acquainted with the Kingfisher and his prominent black belt, done brightly against bluish-gray and white.</p>
+         
+         <p>The rattler is a great pal of all bird lovers.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 9, 1916. The Rattler [Kingfisher Habits]. <title>Omaha Sunday World-Herald</title> 51(28): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

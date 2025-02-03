@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00083">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Sanctuaries in Omaha's Cemeteries. Three Companies Promise State Audubons to Help Protect Songsters in Future. Bird Lovers Meet at Library and Lay Plans - Works of Audubon Discussed.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1916-01-23</date><biblScope>51(17): 3-N.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Sanctuaries in Omaha's Cemeteries</head>
+         
+         <head>Three Companies Promise State Audubons to Help Protect Songsters in Future.</head>
+         
+         <head>Bird Lovers Meet at Library and Lay Plans - Works of Audubon Discussed.</head>
+         
+         <p>Over fifty members of the Nebraska Audubon society met at the public library last evening, the program being a study of the life of J.J. Audubon, the great naturalist, after whom the society is named. Dr. Solon R. Towne, president of the Nebraska body, conducted the program, reading from some of Audubon's stories and discussing his life. Dr. Gertrude Cuscaden exhibited an old engraving from one of Audubon's original drawings, and Mrs. K.R.J. Edholm, who once lived near the big estate of the naturalist in New York, gave several recollections of the Audubon park.</p>
+         
+         <p>At a business meeting preceding the program, a constitution and bylaws were adopted, which provide that the regular meetings be the third Saturday evening of each month except, June, July and August, and that the election of officers be the third Saturday in January hereafter. An annual field-day will be held the first Saturday in May.</p>
+         
+         <p>H.S. Mann, secretary of the Forest Lawn Cemetery association, reported that the directors of that company are delighted with the idea of making the cemetery a bird sanctuary. The board of education has been asked by them to permit the boys in the manual training department to make bird houses, bird baths and bird feeding stations, to be placed in the cemetery, the association to furnish the material and the Audubon society to offer prizes for the best workmanship. The board of education at its last meeting preferred this to the teacher committee. It was also reported last night that the Prospect Hill and West Lawn cemeteries are also ready to help make things agreeable for the songsters.</p>
+         
+         <p>President Towne announced that great interest has been aroused by the recent campaign of the Audubon society, and that school teachers from several towns out in the state have written him for literature. Attractive lapel buttons are provided for the boys and girls who engage in this junior work of protecting the wild birds. These buttons and leaflets are being sent, upon request, all over the state.</p>
+         
+         <p>Ernest Harold Haynes, a great ornithologist of New Hampshire, will pass through Omaha in March, and last night a committee was appointed to make arrangements to provide for two lectures here by him. One will be for school children, in the afternoon, and the other for adults, in the evening, probably at the Municipal Auditorium. Mrs. F.W. Baxter, Miss Joy Higgins and Miles Greenleaf were named on this committee.</p>
+         
+         <p>The membership of the society, in Omaha and in the state has more than doubled in the past two months. Field days for school children will be one of the features of a big spring campaign by the Audubons.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Anonymous. January 23, 1916. <title>Omaha Sunday World-Herald</title> 51(17): 3-N.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

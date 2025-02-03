@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00619">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Note of the Snowy Owl.</title><title level="j">Forest and Stream</title><author>H.</author><date>1890-05-15</date><biblScope>34(17): 328.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-02"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>
+            
+            <hi rend="bold">Note of the Snowy Owl</hi>.—Edgar, Neb., May 9.-Some time ago a correspondent asked about the call made by the snowy owl. There are a couple in captivity here, and they seem to be doing well, eat heartily and are apparently healthy. The only noise they have been heard to make is a kind of whistle.—H.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 15, 1890. <title>Forest and Stream</title> 34(17): 328.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

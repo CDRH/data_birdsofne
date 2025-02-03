@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00991">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Winter Mandolins [Goldfinches].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-01-14</date><biblScope>58(16): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Winter Mandolins.</head>
+         
+         <p>There is a slaty winter sky, with just the frozen snow spotting the drab fields and dirty streaks on the ice showing where the creek stream is rotting through to the fresh air above. It is uncomfortably warmish-cold, the unseasonable balm we often have, just insufficient to seem like spring or like winter. Unhealthful, the learned ones say - but winter, and in January.</p>
+         
+         <p>We who plod the woods and fields on such a day would dislike the job, were it a job. And it would be a task indeed but for the birds and other natural evidences that creation is yet working out its cast plot, whatever God may have set for it.</p>
+         
+         <p>Russet weeds form jungles along the edges of plowed fields and of pastures, and along the stream edges. Wherever the hand of man has not set itself in the lowlands, there are those tremendous winter larders for the winter birds - and these natural preserves the amateur ornithologist swiftly seeks.</p>
+         
+         <p>And mayhap, as we approach such a wonderful seed-mine, there comes to our ears the music as of many mandolins, tinkling in the air, all about us.</p>
+         
+         <p>A mystic melody - a delightfully reminiscent twitter that calls us backward, or urges us forward to Springtime, when there is the light, fresh green in the treetops and the pussywillows are gray and trudging feet sink comfortably into earth between violet plants, upstarting.</p>
+         
+         <p>Suddenly, from far toward heaven, there drops a fluttering group of small birds - into this weed patch. With them they bring their invisible mandolins, that tinkle and tinkle, and as they alight and proceed to the business of feeding, we note that in their brown-gray coats, and about their black wing-bands, there is a suggestion of yellow.</p>
+         
+         <p>Old friends - these! Old and faithful ones, these Goldfinches. Through all the winter months, blow hard and bitter, blow warm and melting - they still remain to cheer us and to promise us that soon they will change their dusky habiliments for that royal canary-gold that marks them so strongly in the spring and summer.</p>
+         
+         <p>In days of summer or in the gloom of winter, while nature is busily preparing for its glories of coming months, the spectacle and the tinkle of these Goldfinch pioneers is wonderfully invigorating.</p>
+         
+         <p>Bounding about over their feeding ground, the dainty creatures sing to us of good will and good health and their bright eyes are sparkling with cheer.</p>
+         
+         <p>Too bad, sir and madam, if you have not yet learned the true joy of a Sabbath hike in birdland!</p>
+         
+         <p>Your body and your soul need it, both!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 14, 1923. Winter Mandolins [Goldfinches]. <title>Omaha Sunday World-Herald</title> 58(16): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

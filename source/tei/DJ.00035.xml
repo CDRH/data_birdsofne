@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00035">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Audubon's Birthday Will be Observed in Schools.</title><title level="j">Omaha Morning Bee</title><author>Anonymous.</author><date>1918-04-25</date><biblScope>47(267): 24.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Audubon's Birthday Will be Observed in Schools</head>
+         
+         <p>Friday will be observed in the public schools as the anniversary of the birth of John James Audubon, famous naturalist, who was born at Aux Cayes, Island of Haiti, April 27, 1785.</p>
+         
+         <p>Audubon accomplished his greatest work as a naturalist in America. In 1843 he directed a party up the Missouri river, the journey lasting five months and yielding much valuable information in the study of quadrupeds and birds. Records recently discovered at Naples, France, show that he reached Bellevue, neb., on May 8, 1843, and on the following day was at Fort Croughan, now Council Bluffs. At the latter place he observed for the first time yellow-headed blackbirds, Harris' sparrows, western meadow larks and Bell's vireo.</p>
+         
+         <p>Dr. S.R. Towne of the Omaha Audubon society has requested the school officials to impress the children with the value of bird life. The lessons on Friday will have studies of Nebraska birds, with pictures for the kindergarten tots.</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 25, 1918. <title>Omaha Morning Bee</title> 47(267): 24.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

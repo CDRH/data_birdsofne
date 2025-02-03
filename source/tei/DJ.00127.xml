@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00127">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">It Is Brighter Outdoors!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-11-17</date><biblScope>54(7): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>It Is Brighter Outdoors!</head>
+         
+         <p>Anybody who cannot see that the winged creatures of nature, as well as Nature herself, feel the world-pulse as keenly as do the humans, is certainly short on sensibility - or maybe imagination.</p>
+         
+         <p>The woods are joyous now, even in the crisp chill of coming winter, and those ever peaceful, russet glades seem to have lost something of the grim strain that tensed the whole world for the past four years and more.</p>
+         
+         <p>Perhaps that is imagination, too - but the Cardinals are redder and the Chickadees livelier and the Nuthatches more unctious than we have seen them in our time - and they MUST know that the war is over and that the beef suet for their feed-traps will be easier for us to get.</p>
+         
+         <p>Strange birds have been coming into our bare forests during the past week, and this, to the imaginative mind, might indicate that the feathered roisters, like humans, are putting on a sort of joy-parade. Red-Breasted Nuthatches, Redpolls and Tufted Titmice have been seen, and the "Te-to! Te-to!" of the latter stranger is filling Harry Hayward with rapture.</p>
+         
+         <p>The war is over, we are assured, and that makes our Nature still the more enjoyable. Why, in the name of this beautiful country, do you not hike through her galleries this morning and help her celebrate even as she helped you on that bright and smiling Peace Monday?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 17, 1918. <title>Omaha Sunday World-Herald</title> 54(7): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

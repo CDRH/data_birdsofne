@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00374">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">From Gray to Gold [Goldfinch].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-03-06</date><biblScope>56(23): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>From Gray to Gold.</head>
+         
+         <p>Under the heaven-sent rays of a misplaced summer sun that has put Nebraska in the banana belt so far this winter, the Goldfinch is trading his dusky December garb for the rich yellow of July.</p>
+         
+         <p>As is well known to all birdlovers, the Goldfinch is a resident, and secures his winter fodder in the weed patches along the road or in the dense thickets and underbrush beside the river. But while in the summer he is very rightly called a Wild Canary because of his color, in the winter he assumes a dark and heavy plumage akin to that of any of the Sparrows.</p>
+         
+         <p>Generally the Goldfinch begins to shed his winter overcoat and don his "palm beachers" along in April - but this year, because of the rush of the season, he is already showing signs of summertime, as described.</p>
+         
+         <p>The yellow breast is beginning to become noticeable, and his very song indicates that he has concluded that spring is really on the job.</p>
+         
+         <p>For that matter, the Cardinals and Tree Sparrows and Juncos and Horned Larks are singing away with their springtime ditties, and the latter are already preparing to nest.</p>
+         
+         <p>If the Weather Man is playing a joke on us, and has some real winter in store, he will have to hurry with the bad news - for the sun is getting pretty well to the north, and the gray Goldfinches are turning to true gold a month ahead of their time-table.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 6, 1921. From Gray to Gold [Goldfinch]. <title>Omaha Sunday World-Herald</title> 56(23): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

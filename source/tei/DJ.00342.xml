@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00342">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game in Nebraska.</title><title level="j">Forest and Stream</title><author>Polk, Burr H.</author><date>1883-11-08</date><biblScope>21(15): 288.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-01"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game in Nebraska.</head>
+         
+         <p>The geese and ducks are acting funny this year. It looks as though they intended giving this region "the go by." Very few of either have made their appearance. Some flock of geese have been seen and heard in their flight southward, and they are reported as fairly numerous at a few points on the Platte. None have been seen in this vicinity for over a week. The party that killed so many last year about a hundred miles west of this city have been ready to go for several days, but they get no call from the farmer with whom they quartered before. Indeed, they hear from other sources that the geese have not come in there. It is feared the great amount of shooting at that point last year has had the effect to turn the geese to other lines.</p>
+         
+         <p>Twice this fall the ducks have appeared here in goodly numbers, but in both cases they were off and gone almost as quick as you could say "Jack Robinson." Let me illustrate: On Thursday afternoon Mr. Webster and I visited quite a number of the best ponds, and saw only five ducks. The next morning they loomed up everywhere. Mr. W. drove out in the afternoon with a wild horse, taking his wife with him, and bagged twenty-four. One day later the birds had taken their departure, and in a long drive in quest of them I got "skunked" for the first time in Nebraska. Three of us were out yesterday and picked up only two, one a mallard, the other a bluewing. Where are they anyhow? Prairie chickens have "flocked," and chicken shooting has practically been over for twenty days or more. Quail are unusually abundant, but for the present the cover is too dense to allow satisfactory results in that direction.</p>
+         
+         <p>Burr H.	Polk.<lb/>Lincoln, Nebraska, Oct. 27.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 08, 1883. <title>Forest and Stream</title> 21(15): 288.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

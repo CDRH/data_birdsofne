@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00032">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">From the Arctic Circle [Winter Birds].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-10-16</date><biblScope>57(3): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>From the Arctic Circle.</head>
+         
+         <p>As the trees lose their remaining leaf-clusters of brown and there is an occasional touch of white in the shade in the morning, one realizes that winter is approaching and that in the zones further north it is very, very much colder.</p>
+         
+         <p>Those who are interested in birdlore and birds will realize that it is much colder further north, because the birds have arrived from that front to tell them so.</p>
+         
+         <p>And they are such interesting birds that it is not poor advice to suggest that you take a hike this morning in some wildwood or meadow fringed with timber. There you may study them - in the timber or the brush and weeds fringing it.</p>
+         
+         <p>The Slate Colored Junco is down from the Arctic circle, with his blue-gray back and white bars on the outside of his tail. He nests up there where the explorers have such a rough time ot it, and comes down here in the winter to keep warm. While in our midst until next spring he will oblige us by eating several tons of noxious weed seeds and thus helping our farmers to raise better crops.</p>
+         
+         <p>Also the Brown Creeper has sailed in from the north, to frisk and prowl up each tree trunk, staring at the bottom and working to the top, only to fly to the bottom of the next tree - and so forth - ad lib. He eats the bad bugs and buglets, the larvae and other harmful insect growth in the bark crevices, just as the Red Breasted Nuthatch, which arrived earlier.</p>
+         
+         <p>Then there is the Tree Sparrow, noted weed seed eater, who makes his living in the weed patches along roadsides and fringes of underbrush. A valuable and pretty bird.</p>
+         
+         <p>Take that hike today. The winter crew is on deck and is worth watching.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 16, 1921. From the Arctic Circle [Winter Birds]. <title>Omaha Sunday World-Herald</title> 57(3): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

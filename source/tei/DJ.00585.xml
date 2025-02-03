@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00585">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Game.</title><title level="j">Forest and Stream</title><author>Griswold, Sandy.</author><date>1895-03-23</date><biblScope>44(12): 228.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-02"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Game.</head>
+         
+         <p>Omaha, Neb., March 10.—The intense cold spell was extremely destructive to the quail, especially in the extreme northern portion of the State. Sanford K. Brown, a well-known sportsman from Jackson, says that in his neighborhood whole covies were found frozen, and he is apprehensive that there will not be sufficient seed left to insure anything like an average crop next season. It was such reports as these that evidently induced the Senate to amend the new game bill in regard to Bob White, absolutely prohibiting the killing of quail for a period of three years. The Senate also changed the clause protecting the fish, making spearing permissible. It seems that spearing fish is a favorite mode of "angling" among the ruralists of the western part of the State, but as long as they seldom catch anything but buffalo, the change will be little commented on.</p>
+         
+         <p>Geese and ducks continue to come in, but straggingly, and as yet but indifferent bags have been made by any of the shooters. The main issue of the wild fowl seldom reach this territory before the middle of March.</p>
+         
+         <p>Colonel Sheppard and a party of four have been camped on the Platte for a week. They have bagged some few speckled fronts and pintails. Frank Parmalee and party are comped on the Platte near Silver City, and yesterday evening nearly a barrel of bluebills reached this city, all killed in a snow flurry in the morning. John J. Hardin, A. Hospe and Jack Knowles are in the sand hills near Paxton—a famous ducking grounds. They will have ample sport with the canvasbacks and red heads.</p>
+         
+         <p><hi rend="smallcaps">Sandy Griswold</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 23, 1895. <title>Forest and Stream</title> 44(12): 228.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

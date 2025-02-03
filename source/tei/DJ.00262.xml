@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00262">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">"The English Sparrow Must Go."</title><title level="j">Oologist</title><author>Wells, Guy M.</author><date>1891-03-01</date><biblScope>8(3): 59.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-06-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>"The English Sparrow Must Go."</head>
+         
+         <p>In the last number of The <title><hi rend="smallcaps">Oologist</hi></title>, Mr. B. S. Bowdish, of Phelps, N. Y. very ably expressed himself in an article headed, "Now,—the time to wage war on the English Sparrow." Mr. Bowdish strikes the nail squarely on the head when he says "now," is the time. "Behold now is the accepted day," might be the motto of every ornithologist and collector in our country would they but arouse themselves to action. "Now" is the time, not only because each and every spring brings decided increase in the myriad hosts of these, the destroyers of "avine happiness," but this season of the year is peculiarly suitable for a war upon this troublesome pest. As Mr. B. says during the winter season this one species is left almost entirely alone, and presents itself an isolated object to our raids—for <hi rend="italic">raids</hi> they should be.</p>
+         
+         <p>Now any sort of weapon that will kill at short range can be used in this extermination, but about the handiest and cheapest we know of is a 22 calibre rifle using B B caps. This is not only effective but almost noiseless, scarcely any sound being made in the discharge, consequently there can be no objection from any one in regard to the noise, and the sparrows can be reached in their haunts even in the midst of the city. In a certain city in Indiana where these birds were very numerous I have used these caps with telling effect right around the business part of town and no objections to my shooting were raised.</p>
+         
+         <p>Only two years ago, on coming into this town for the first time, I remarked about the small number of English sparrows there were here. Today their number has increased 150 per cent from what it was at that time. This is only one of many instances of their rapid growth, and this growth, if not soon checked, will end disastrously to the songsters in our locality.</p>
+         
+         <p>Let us one and all prepare for action and at once exert all our forces to rid our communities of these intruders and thus befriend the bird creation by destroying their chief enemy.</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="smallcaps">Guy M. Wells</hi>.</item>
+            
+            <item>Gibbson, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">March 1891. <title>Oologist</title> 8(3): 59.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

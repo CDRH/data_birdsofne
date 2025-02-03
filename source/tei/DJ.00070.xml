@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00070">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Hunting by Ear.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-08-08</date><biblScope>50(45): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Hunting by Ear.</head>
+         
+         <p>Very fortunately there are many people in this high-speed age who have somewhat impaired normal the normal keenness of their eyes by honest labor under artificial light, or who for some other reason cannot spot the minute details of a songbird's person while attempting to study him in the woods.</p>
+         
+         <p>Bird study would be but an unsatisfactory sport for these except for the fact that nearly every bird can be readily identified by its song or call. This, by the way, is one of the most charming and interesting features of recreation in the woods, and is worth more than passing comment.</p>
+         
+         <p>The spring, of course, is the best time to hear the woodland orchestra in all its glory, but even in the hot and sultry days now obtaining each and every songster readily proclaims himself from time to time, the calls passing back and forth much like conversation among humans.</p>
+         
+         <p>There will be a deathly stillness when the sun is in its zenith, and pretty soon Mr. Field Sparrow, salamander of birdland, will remark, on a rapidly ascending scale:</p>
+         
+         <p>"See-see-see-ee-ee-ee?"</p>
+         
+         <p>Then there will be a sort of gossip among the other birds - or one could readily imagine as much. One who loves and studies these calls will recognize them immediately, and there is no amusement more engrossing than the attempt.</p>
+         
+         <p>"Chip! Chip! Chip-chip-chip-chip-chip!"</p>
+         
+         <p>"Peenk! Peenk! Rat-at-tat-tat!"</p>
+         
+         <p>"Pewe-e-e-! Chickadee-dee-dee!"</p>
+         
+         <p>"Cuk, cuk, touk, touk, touk, touk, touk!"</p>
+         
+         <p>"Cherink!"</p>
+         
+         <p>"Cheer! Cheer! What cheer! What cheer! What cheer!"</p>
+         
+         <p>"Witchery! Witchery! Witchery!"</p>
+         
+         <p>Any adept listener will soon learn to recognize these remarks and to know that the first conversationalist is the little Chipping Sparrow, the second the Downy Woodpecker and the others, in order, the Chickadee, Yellow Billed Cuckoo, better known as Rain Crow; the Towhee, the Cardinal and the Maryland Yellowthroat.</p>
+         
+         <p>Of course there are two score more birds in the outlying Omaha parks which can be readily identified by their cong and call, but these are some of the more common.</p>
+         
+         <p>Now that American people seem to have come to the conclusion that birds have more value alive than dead and are now making a business and pleasure of learning more about these feathered pals, it is happily the case that there is as much interest in learning the lore by the ear as by the eye.</p>
+         
+         <p>Get into the jungles today and hear the songsters discuss the latest scandal in their community. You will have little difficulty in making their acquaintance, even if you fail to see them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 8, 1915. <title>Omaha Sunday World-Herald</title> 50(45): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

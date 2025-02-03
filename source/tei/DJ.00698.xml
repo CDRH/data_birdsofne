@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00698">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Protected Winter Birds [Fontenelle Forest Reserve].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-12-31</date><biblScope>58(14): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Protected Winter Birds.</head>
+         
+         <p>In the Fontenelle Forest Reserve and in the vat Camp Gifford tract lying between it and the Missouri river, is truly to be found a heaven as well as haven for winter birds and the amateur students thereof.</p>
+         
+         <p>Those of us who take every advantage of an opportunity to get into the great outdoors, where the sorrows and trials and foolishness of mankind are not exemplified, have by this time realized, perhaps, that the Fontenelle Forest and Camp Gifford offer more along that line than would ordinarily be asked even of Santa Claus by an ardent believer.</p>
+         
+         <p>Bird students, particularly, will be quick to note the difference between a wild reserve such as this, and the ordinary so-called rustic city park, such as Elmwood, where the diligent city fathers lose no opportunity to wield the ax or to substitute some of their own ideas for such humble efforts as the Almighty God may have sen fit, in his ignorance, to waste upon it.</p>
+         
+         <p>Wild birds, especially the small birds that stay with us, when permitted, during the winter, lose most of their untamed peculiarities in such a haven-Heaven as Fontenelle Forest. They come out of the underbrush or the occasional weed patches to peer at us with an open friendliness that is delightful. They do not skitter into seclusion with the abruptness that marks their movements in Elmwood, where every municipal employee seems to be armed either with an ax or a rake or a shovel. They stalk frankly and openly over the leaf-strewn paths, which do not hurt their "tootsies," perhaps, as do the perfect concrete auto roadways that now make our park rusticism more or less of a jest.</p>
+         
+         <p>Protected winter birds have a character of their own, as the boy scouts will tell you.</p>
+         
+         <p>Down at Camp Gifford, where the scouts hold winter sessions even the same as in the summer, the Juncos and the Tree Sparrows and the Song Sparrows are about the yard between the mess hall and the assembly hall, almost all day long. And there are Robins and Bob Whites and ever so many Cardinals and other beautiful and friendly birds "pesticating around" without as much as a look askance at small swarms of humanity nearby.</p>
+         
+         <p>Wild life made tame by human kindness and sympathy is the sweetest thing of all in the outdoors.</p>
+         
+         <p>If you have had nothing like that in your own experience, you are missing something. Start hiking today - and make friends with the birds.</p>
+         
+         <p>They will meet you more than halfway.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 31, 1922. Protected Winter Birds [Fontenelle Forest Reserve]. <title>Omaha Sunday World-Herald</title> 58(14): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

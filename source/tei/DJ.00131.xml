@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00131">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bronzed Grackle Mob.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-10-02</date><biblScope>57(1): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bronzed Grackle Mob.</head>
+         
+         <p>Raucously squawking and squeaking, feverishly beating their wings while on the ground and demonstrating a state of mind bordering on nervous collapse while in flight or in what should be repose, a vast mob of huge blackbirds has been entertaining Omaha for the past week or so.</p>
+         
+         <p>In the morning and evening these tremendous flocks hurry back and forth over the city, seemingly aimlessly, but always together. Suddenly they may all attempt to light in one big tree, but generally the tree isn't large enough, and the overflow has to content itself with the earth. Strutting and bleating, these Bronzed Grackles - for that is their right name - furnish plenty of amusement, to say nothing of amazement.</p>
+         
+         <p>The Grackles "bunch up" at this season, and prepare themselves for their long migration to the south. For weeks they may ride the heavens and amuse the earth in such crowds as to nearly hide the rising or setting sun - and then, on one particular morning - they will have completely disappeared.</p>
+         
+         <p>It is entirely possible that by the time these remarks appear in print, every last grackle in or about Omaha may have gone.</p>
+         
+         <p>Useful birds in every sense of the word, the Bronzed Grackles are highly entertaining to the amateur ornithologist, not only because of their "bunched migration," but also for their general conduct. They are supremely vain, and strut like peacocks, while their copper-jet plumage is positively gorgeous in the sunlight.</p>
+         
+         <p>Mr. and Mrs. Grackle - we hope to see you again next spring, with your grown-up youngsters.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 2, 1921. <title>Omaha Sunday World-Herald</title> 57(1): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

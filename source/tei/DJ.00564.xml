@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00564">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mushrooms.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-23</date><biblScope>55(35): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mushrooms.</head>
+         
+         <p>"I do not know the difference between a mushroom and a toadstool, and so I do not dare to hunt for them," is the frequent remark of the lover of mushrooms who deplores the high price of those offered for sale.</p>
+         
+         <p>The dictionaries say a "mushroom is a rapidly growing fungus, an edible cap-fungus, and as such distinguished from a poisonous one that is sometimes distinctively called a toadstool, but the distinction is not scientific."</p>
+         
+         <p>A fungus is a plant destitute of chlorophyl - green coloring - and deriving nourishment almost wholly from organic, decaying vegetable composition.</p>
+         
+         <p>This is mushroom time, the beginning of it, and soon all through the woods or in any pasture where there is any decaying matter, either visible or so well incorporated with the soil it is only discovered by the seeking fungus, will be found the mushroomer. The most persistent and best informed of those are the older of our foreign population, and if the sun beats down warm and the moisture rises from the soil the sturdy Bohemian or Danish or Polish woman and children may be seen coming out from the trees with a basket full of the little yellowish umbrellas or the bunches of inky caps or the mound shaped and sponge marked Morels, or sponge mushrooms, with occasionally a puff ball, round and white. They run no danger of picking a poisonous Amanita, Death cup, or a Stinkhorn or a Jack-o-Lantern, for they have gathered and eaten mushrooms, dried them for the winter and fried and deviled and baked and stuffed peppers with them for generations.</p>
+         
+         <p>Follow one of these quiet home cooks if you can and you will be sure to find the place of the mushroom. When you find it, scatter well all the over-ripe ones, so that every year will see more. Seek the Morels, the sponge, first, then the little caps or further opened umbrellas of the commoner meadow mushroom, or the groups of little brown ones growing thickly about the stumps of dying trees, and while collecting a feast for your dinner, enjoy also the dainty things that grow along side of them under each bush and tree, look up through the leafy branches at the patches of sky changing shape every moment, and listen to the birds talking to each other and telling just how their nests are coming one, how many eggs there are in them, and what they find in their larders that are everywhere out doors. Enjoy twenty things at once, with the prospect of more enjoyment later on.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 23, 1920. <title>Omaha Sunday World-Herald</title> 55(35): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

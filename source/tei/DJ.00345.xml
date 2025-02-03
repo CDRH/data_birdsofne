@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00345">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">This Is the Big Day [Bird Arrival].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-03-14</date><biblScope>55(24): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>This Is the Big Day.</head>
+         
+         <p>According to reliable records kept for several years by enthusiastic "bird nuts," as Commissioner Falconer once called them - this is the big day in the gathering of the springtime bird clans.</p>
+         
+         <p>Briefly, it is shown by these records that on this particular Sabbath a large number of the migratory or resident spring and summer songsters begin to make their appearance. Stray specimens may have been seen before - but everything being equal, this is about the time to sit up and take notice, if you love the birds.</p>
+         
+         <p>Last March, for instance, on this very day, the first Phoebe on record for the year was noted in Elmwood park. Also the first Chewink. There were Meadowlarks discovered in many localities and in considerably large numbers. Bluebirds, of course, were fairly common, and there was a liberal sprinkling of Sparrow Hawks and Harris Sparrows. A few observers noted the Ruby Crowned and Golden Crowned Kinglets, while Goldfinches began to appear in larger flocks than is customary during the colder months, and began to wear a bit lighter plumage.</p>
+         
+         <p>This Sunday, and the next, unless the Weather Man does something really nasty, which we cannot foresee at this writing, should bring the bird lovers into the woods in full force.</p>
+         
+         <p>Don't forget it - if you like to hike and be healthy!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 14, 1920. This Is the Big Day [Bird Arrival]. <title>Omaha Sunday World-Herald</title> 55(24): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00648">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Packing Up Their Duds [Junco Departure].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-04-01</date><biblScope>52(27): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Packing Up Their Duds.</head>
+         
+         <p>Those who have been taking advantage of opportunities to watch the transformation of winter into spring, and who have been fortunate enough to heed the similar changes in birdlife, must certainly have noticed the immense flocks of gray little songsters darting in and out among the undergrowth along the paths or even in the heart of woodland.</p>
+         
+         <p>There is nothing particularly startling about these busy little chaps just now, except their numbers. In the dead o' winter, when other feathered friends are scarce, the Slate COlored Junco is a mighty welcome friend to a disciple of Old Jack Audubon, and he is likely to be greeted with heartfelt, if unuttered cheers.</p>
+         
+         <p>But now that these strange gray mites of the thickets and weed patches are mobilizing for their annual tour to some summer resort in the Arctic circle, they lose the charm of individuality.</p>
+         
+         <p>You doubtless have seen this youngster many times, and should easily recognize him by his slaty back and breast, light lower body beneath and two white feathers in his tail, which flash plainly as he scoots about before and around you.</p>
+         
+         <p>The Slate Colored Junco is full of "pep" now, for he is selecting a mate and preparing for his jaunt northward. In the winter he comes down here from the Arctic regions to keep warm, but goes back again in the summer to keep house.</p>
+         
+         <p>These birds are seen today in parks and wooded spots in the very heart of cities, as they are bold, although very circumspect in their acquaintanceship.</p>
+         
+         <p>One day, very soon, you will awake to find that every last Slate COlored Junco has departed, and you will see them no more until next October.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 1, 1917. Packing Up Their Duds [Junco Departure]. <title>Omaha Sunday World-Herald</title> 52(27): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

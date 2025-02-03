@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00362">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Goldenrod and Sunflower.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-29</date><biblScope>55(48): 12-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Goldenrod and Sunflower.</head>
+         
+         <p>Kansas chose the Sunflower, golden-rayed, for her flower emblem, but it had already begun its march westward, traveling swiftly along the path that the emigrant to the land of gold was making. All along Nebraska's prairies, wherever the great emigrant trains traveled, the sunflower appeared feeding with its oily seed heads many a fire of the hungry. Kansas had enough and to spare and like the westerner gladly shared with her sister state. Then when Nebraska, a very little later, joined the sisterhood of states another golden blossom became her emblem, the Golden Rod, and now some thirty of the sixty varieties of Helianthus, of the Compositae family, commonly known as Sunflower, and about fifty species of Solidago, Golden Rod, of the 100 to be found in North American, are quoted in our botanies. The Sunflower has widened its path and thousands of acres of it now brighten every roadside and vacant spot of ground. The Golden Rod, not so large and sturdy, but quite as much the pioneer that pushes its way, its varieties of bloom greater and more varied, will make the gorgeous green of its Nebraska prairies more intense by contrast with its vivid golden until the frosts finally put both to sleep.</p>
+         
+         <p>And both are typical of the spirit of the middle west, shedding the sunshine of optimistic farseeing purpose to bring out of their fertile prairies the golden grains that feed man and beast.</p>
+         
+         <p>Long live the Golden Rod and the Sunflower!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 29, 1920. <title>Omaha Sunday World-Herald</title> 55(48): 12-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

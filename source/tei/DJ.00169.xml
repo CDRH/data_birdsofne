@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00169">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Chicken Covies. Which Omaha Hunters Will Score Up To-day in Nebraska. Where Different Parties Went - The Big Crowd From Plattsmouth - Dogs in the Baggage Cars - A Day Which Farmers Better Spend Indoors.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1882-08-15</date><biblScope>17(245): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Chicken Covies</head>
+         
+         <head>Which Omaha Hunters Will Score Up To-day in Nebraska.</head>
+         
+         <head>Where Different Parties Went - The Big Crowd From Plattsmouth - Dogs in the Baggage Cars - A Day Which Farmers Better Spend Indoors.</head>
+         
+         <p>The game law expires to-day and the fields of Nebraska have been echoing to the guns of our chicken hunters since early sunrise. They went out in large parties yesterday. The U.P. baggage car on the noon train contained twenty-one dogs all told, and, as some one remarked, the baggageman would get money enough to buy him a new uniform. That train took out a pleasant party from Plattsmouth, including Gen. B.B. Livingstone, Sam Chapman, F.E. White, A.W. White, Wm. Neville, L.D. Bennett and U.V. Matthews. They had six splendid dogs, and go to Norfolk for a week's sport.</p>
+         
+         <p>From Collins and Petty we learn of other hunting parties. Harry Vinton, Guy Barton, Will Doane went to Grand Island; Geo. Hoagland and Clark Woodman went to hunt with Chauncey Wiltse at Grand Island; H.F., E.S. and J.S. Clark went to Platte Center, sixteen miles north of Columbus; Geo. Mills, Frank Parmalee and Harry McCormick have gone up to Creighton, Knox county; J.E. Markel, P.J. Nichols, John Chandle and P.L. Markel have gone to Albion, P.S. Eustis and party are at Red Cloud; Dick and John Withnell and T.C. Bruner, John Parks and Jack Hoye went up to Norfolk. The best hunting places this year are reported to be around Albion, in the vicinity of the Blackbird reservation and along the St. Paul branch of the Union Pacific railroad.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 15, 1882. <title>Omaha Daily Herald</title> 17(245): 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00338">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game and Fish. Important Sections of the Nebraska Law - Provisions Which are Neglected or Little Understood. A Valuable Communication from the Board of Managers of the Omaha Sportsmen's Club.</title><title level="j">Omaha Daily Herald</title><author>Omaha Sportsmen's Club.</author><date>1879-07-23</date><biblScope>9(239): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game and Fish.</head>
+         
+         <head>Important Sections of the Nebraska Law - Provisions Which are Neglected or Little Understood.</head>
+         
+         <head>A Valuable Communication from the Board of Managers of the Omaha Sportsmen's Club.</head>
+         
+         <p>Game and Fish Law of Nebraska passed Feb. 27th, 1879:</p>
+         
+         <p>Sec. 1. It shall be unlawful for any person to kill, ensnare or trap any wild Buffalo, Elk, Mountain Sheep, Deer or Antelope (except for purposes of domestication) between the first day of January and the first day of October in each year; or to kill, ensnare of trap any wild grouse (prairie chickens) between the first day of Feb. and the 15th day of August in each year; or to kill, ensnare, trap or net Quail or wild Turkey between the first day of December in each year and the first day of October in the following year, or to ensnare, trap or net the same at any time of the year, or to buy, sell, ship, transport or carry, or have in possession any such animal or bird between that dates within which the killing, ensnaring, trapping or netting of such animals or birds is prohibited by law. It shall also be unlawful for any person, agent or employe of any association, corporation, railroad company, or express company to receive, carry, transport or ship any such animal or herd at any time of the year.</p>
+         
+         <p>It shall be unlawful for any person to go upon the premises of another person, or corporation, for the purpose of hunting, trapping, netting, ensnaring, or killing any animal or bird at any season of the year, unless by consent of the owner or owners of said premises.</p>
+         
+         <p>It is further enacted that any person, agent, or employe, who shall violate any provision of this section shall be deemed guilty of a misdemeanor, and upon conviction thereof shall pay a fine of fifteen dollars for each buffalo, elk, mountain sheep, deep, antelope or wild turkey, so as aforesaid killed, ensnared, trapped, netted, bought or sold, shipped, transported or held in possession in violation of this section, and the sum of five dollars for each grouse or quail so as aforesaid killed, trapped, ensnared, netted, bought, sold, shipped, transported or held in possession in violation of the provisions of this section. Having in possession any of the above-named animals or birds between said dates shall be deemed and taken as presumptive evidence that the same were killed, ensnared, netted, or trapped in violation of this section; and the civil authorities of any city, town, or precinct where any animal or bird killed or held in possession in violation of law shall be found, are hereby authorized to cause the same to be seized with or without warrant, and to be distributed among the poor persons of such city, town or precinct; and any person who shall go upon the land of another in violation of this section shall upon conviction thereof pay for such offence any sum not less than five dollars, nor more than fifty dollars, and shall be liable to the owner of the premises in an action for trespass."</p>
+         
+         <p>Attention is also called to section one, of "an act to amend sections one, two and three, of an act entitled an act to prohibit the catching of game fish in certain cases," approved Feb. 29, 1879. This act prohibits the catching or destroying of any fish in any river, creek, brook, stream, lake, pond, bayou, or other body of water in this State, (except private or artificial ponds or streams), in any way or manner whatever, except with a hook and line, or spear; and subjects the offender to a fine and imprisonment, not less than $5.00, and imprisonment not less than ten days. Any person has lawful authority to take up any seine, net, basket or wire found in any water of this state.</p>
+         
+         <p>Section 241 of the criminal code, page 780, imposes a fine and imprisonment for hunting, fishing or shooting on the first day of the week, commonly called Sunday.</p>
+         
+         <p>A reward of ten dollars will be paid by the Omaha Sportsmen's Club for information and evidence that shall convict any person of the violation of the game and fish laws of Nebraska.</p>
+         
+         <list type="simple">
+            
+            <item>B.E.B. Kennedy</item>
+            
+            <item>S.B. Hathaway.</item>
+            
+            <item>John Withnell.</item>
+            
+            <item>Board of Managers of the Omaha Sportsmen's Club.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">July 23, 1879. <title>Omaha Daily Herald</title> 9(239): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

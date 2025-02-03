@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00944">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Warblers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-05-07</date><biblScope>51(32): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Warblers.</head>
+         
+         <p>When it comes to real, exasperating and almost baffling sport, the hunting of the American warblers during their migration is the best in the world.</p>
+         
+         <p>In the first place there are more of them, and they are least known of any class of birds on this continent, and the very fact that they are with us today makes it even the more annoying to be unable to identify them and to place them triumphantly upon the bird list.</p>
+         
+         <p>The warblers are a class of small, brightly colored songsters with straight, slender bills, and there are perhaps fifty different families of them in the United States, with many precincts still to be heard from. As a matter of fact, there is always a chance for some professional ornithologist to discover a new warbler, but that could only be done by taking a specimen, and killing remains only for the scientists.</p>
+         
+         <p>Here in Omaha, or in parts of Nebraska, during this very period, there are passing through great flocks of the different warblers on their way north for the nesting season. They have wintered along the Gulf, or more generally in Mexico, or South or Central America.</p>
+         
+         <p>This migration, as far as Omaha is concerned, will endure for two or three weeks, and this is the very time to make your observations. The bird student who can safely identify half a dozen different warblers in a day is indeed fortunate, although the trained ornithologists, of course, would do much better.</p>
+         
+         <p>But it is a game worth trying, for the very reason that it is a difficult one. Today you should find in the parks or woods near the city at least thirty-five different kinds of birds, and as many warblers as you can conscientiously add to this list.</p>
+         
+         <p>You all know the Yellow Warbler, the most common of his kind here-abouts, and often, with the Goldfinch, called the Wild Canary. The Yellow Warbler nests here and raises its young, so it isn't much of a trick to get him upon your books.</p>
+         
+         <p>The Myrtle Warbler, already with us for a week or more, is present in large numbers and can be seen almost anywhere for the next week or two.</p>
+         
+         <p>But there are also the Chestnut Sided Warbler, the Black Throated Blue Warbler, the Pine Warbler, the Magnolia Warbler and dozens of others to baffle you—twittering in the tree tops and inviting your eager gaze.</p>
+         
+         <p>A bird guidebook will give you the names, description and pictures of these tiny and delightful migratory birds, and today's hike should certainly teach you what a wide field of discovery lies before you in following the feathered friends of Nebraska.</p>
+         
+         <p>Try your luck with the warblers. They are the bugaboo of the amateur bird student.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. May 7, 1916. <title>Omaha Sunday World-Herald</title> 51(32): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

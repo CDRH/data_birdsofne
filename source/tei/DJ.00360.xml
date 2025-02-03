@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00360">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Going South [Crows].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-11-03</date><biblScope>54(5): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Going South.</head>
+         
+         <p>Black specks, far above, are floating along like atoms of soot blown by the crisp breeze from the north. Without apparent effort they drift over, one by one, and are gone.</p>
+         
+         <p>It would take the best of eyes to detect the slightest wing motion in these faraway ebon spots, but they are the Crows, going a bit further south for the winter.</p>
+         
+         <p>This presages winter as surely as a flight of ducks or geese, and the skies over Omaha have been full of the cawing comedians for the past week.</p>
+         
+         <p>It is peculiar that the Crows, although very shy, are yet tremendously sociable among themselves, and still more peculiar that in their migration they forget this sociability and fly far apart, at widely variant elevations, so that the whole sky is covered with floating spots of black.</p>
+         
+         <p>The Crow stays with us all winter in small numbers, the majority of the jet population hitting it toward Texas. The cornfields will ever be adorned with their mammoth and somewhat comical figures, but to us there is nothing funnier than the departure of the gigantic family to the popular winter resorts down south.</p>
+         
+         <p>Some states protect Crows while others offer bounties for their heads. There is still a considerable argument as to whether Brer Crow should or should not be admitted to our best society.</p>
+         
+         <p>Anyhow, as he floats along up there in his freakish migration, he is up to his standard of comedy, and we enjoy watching him.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 3, 1918. Going South [Crows]. <title>Omaha Sunday World-Herald</title> 54(5): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

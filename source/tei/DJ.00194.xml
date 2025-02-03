@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00194">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Counting the Game. The Worley Team of the Gun Club Won by a Close Score.</title><title level="j">Omaha Daily World</title><author>Editor.</author><date>1886-10-23</date><biblScope>2(53): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-01"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Counting the Game.</head>
+         
+         <head>The Worley Team of the Gun Club Won by a Close Score.</head>
+         
+         <p>All members of the gun club were given until 3 o'clock p.m. yesterday to report the result of their fall hunt. Such was the quantity of the game that over two hours were consumed in the count. The rear room at Collin's Gordon &amp; Kay's resembled a well-stocked game depot and was a sight to make the heart of the hunter swell with pride. As was indicated in yesterday's <hi rend="smallcaps">World</hi> the count was very close. The hunters had gone out single, in pairs, trios and quartettes.</p>
+         
+         <p>Of Dr. Worley's side, Gen. George S. Smith made 322 points, the largest individual score. He hunted at Barlett, Ia. F.S. Parmalee, T.H. Cotter and G.E. Kay covered a sandbar in the Missouri, between Honey Creek and Noble's lake and succeeded in bagging sufficient game to count 640. H.A. Worley and A.S. Patrick went to Mendota, Ia., with a result of 343 points. Stillwater was knocked out by H.B. Kennedy to the tune of 117, and J.K. Stout at the same place made a score of 81. The grand total made by Captain Worley's side amounted to 1,503 points.</p>
+         
+         <p>Of their opponents, John Hardin and C.A. Penrose scored 562 at Missouri Valley. C.B. Lane, G.F. Brucker and John Fields made 600 at Gothenburg. Eugene Finger scooped all there was left at Florence lake, making 37 points, while Ed Leeder and Gustave Ichen returned from Stillwater with a score of 267. The grand total of Hardin's side was 1,468.</p>
+         
+         <p>It will be seen from the totals that Worley's side defeated Hardin's by the very small number of 35 points. To-night Captain Hardin's side will entertain the victors at the annual banquet to be given at the Millard.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 23, 1886. <title>Omaha Daily World</title> 2(53): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

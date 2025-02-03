@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00065">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bird Census.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-02-21</date><biblScope>50(21): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bird Census.</head>
+         
+         <p>It will not imply disrespect to the department of Agriculture to express doubt about the accuracy of the bird census of the country, a summary of which was announced a few days ago. No doubt the department did the best it could for the first attempt. But the difficulties of the undertaking were obviously great. The result is the work of 10,000 guessers of varying degrees of skill.</p>
+         
+         <p>One cannot be sure that there is not some blunder in the short press account of the census. It is often said that the English sparrow is running the native birds out and usurping the country, and this tallies pretty well with common observation, but we are informed that there are only seven English sparrows to every one hundred native birds. This statement is nothing less than astonishing to one who has the ordinary notion that the sparrow predominates in the bird population. It should be remembered, however, that the sparrow is a chap that likes to be around where there are human beings, showing himself most in city or town. Here he is most talked about and most despised, and it may easily be that the popular impression of the multitude of his race is erroneous. Certainly this impression diminishes the farther one gets from streets and sidewalks, and when away out in the dirt road by the barbed wire fence, near the country grove or the willow row or the reedy marsh.</p>
+         
+         <p>But the census report reminds us that we were mistaken even in supposing that there were more sparrows than birds of any other one kind, and assures us that our dear old friends, the robins, are the most numerous species. This is a welcome statement. The sparrow presses the robin close, but the robin is ahead, there being six of him to five of the sparrow. But our satisfaction is marred by the suspicion that the estimates of the census takers were faulty.</p>
+         
+         <p>The report seems to say that there are on an average 120 sparrows and 1,700 birds of all other kinds to the square mile. Doesn't this make too many birds? Yet the department experts are quoted as saying that the bird population is much less than it ought to be.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 21, 1915. <title>Omaha Sunday World-Herald</title> 50(21): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

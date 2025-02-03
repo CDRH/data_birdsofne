@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00223">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Disconsolate Visitors [Robins at Elmwood and Bluebirds].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-02-11</date><biblScope>52(20): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Disconsolate Visitors.</head>
+         
+         <p>Just a few days before the recent spell of bitterly cold weather threw the shivers into Omaha, a pair of unhappy robins sat in the top of a tall tree in Elmwood park and nervously twitched their tails.</p>
+         
+         <p>It was a warm day, unseasonably but pleasantly so - and these two birds, male and female, had been brought to this scene of their coming spring activities by the brightness of the sun and the comfort and encouragement to be found while basking in its rays.</p>
+         
+         <p>This, at least, is the supposition. It is not to be presumed that birds do not know when spring has really arrived, for there is plenty of evidence that they are fully advised by their unerring instinct as to the seasons.</p>
+         
+         <p>The two robins were merely visiting, that is all. They were dreaming perhaps as a prospective bride and her prospective groom dream as they stand in the bare skeleton of the home that is to be ready for them in the spring and after their wedding. They were thinking, no doubt, of the cozy nest that is to be built somewhere among those bare treetops or in that tangled underbrush beneath, and of the nestlings they are to raise into blooming robinhood before summertime.</p>
+         
+         <p>They are gone now - these disconsolate visitors. No doubt they have again found the thickets along the river more to their liking in the frigid days that have followed their first appearance uptown, but they are very close at hand, and will return immediately that gentle spring really arrives.</p>
+         
+         <p>Bluebirds have also been seen, on many occasions, thus early in the new year. A pretty story is told of the yearning of these summer birds for the country in which they woo and nest. Ornithologists say that the gentle bluebird's heart is broken when forced to move southward in the fall, and that he stays here as long as possible, which you know is true, if you have observed. And this yearning so possesses the dear creature's spirit that more than occasionally he comes up north far ahead of time, and often perishes of the cold because of his devotion to his own country, so full of sweet memories to him.</p>
+         
+         <p>So, knowing that these disconsolate visitors are on our very threshold, it is cheering to realize that spring is not far away and that this delightful season will be properly ushered in by the songsters dearest to the heart since the days of childhood - the robin and bluebird.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 11, 1917. Disconsolate Visitors [Robins at Elmwood and Bluebirds]. <title>Omaha Sunday World-Herald</title> 52(20): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

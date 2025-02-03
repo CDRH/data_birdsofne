@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00775">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Several Days Duck Hunting on the Widely Famed Ranch of Charlie Metz].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1917-12-02</date><biblScope>53(9): 4-S. Forest Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest Field and Stream</head>
+         
+         <p>It was my especial and much appreciated privilege to spend several days last week up in Cherry county on the widely famed ranch of Charlie Metz, and days of rest and peace and enjoyment they were. Arthur Metz and myself were the favored guests of the High Boss himself, and that we were well cared for is evidenced by the fact that he took Jim, the chef, along with him, and enough choice commissary to have regaled a duck hunting party many fold larger than was ours. However, rest assured that we three did ample justice to the almost countless good things Jim served with us.</p>
+         
+         <p>However, notwithstanding the unprecedentedly beautiful and favorable weather, we found the shooting disappointing. There were a great many mallards on the lake, and a few green-wing teal, but they were decidedly perverse and had evidently made up their minds to follow their own sweet wills for the remainder of the season up there. Get them to move at all, they had to be rowed upon in a boat, and then when routed, instead of circling around and over the lake a few times, as they usually do before settling again, they would make a bee line for some other remote and isolated hole in the wild rice fields, plump down and stick there until rudely jumped by the boatman again. If they didn't do this, they would rise high in the ambient and beat it off to the north, over old Dunderberg's frowning brow, to Raccoon or some other distant lake or marsh. There was neither morning ot evening flight, nor any aerial voyages for recreation or exercise, at any hour during daylight, they just simply stuck to one spot, or left the lake absolutely, and that was all there was to it. And yet, at that, we got a few, as well as a goodly number of grouse, and had about as great time as we would have had had the birds been plentiful and easy of attainment, like they always are, in the full season, at these glorious old grounds.</p>
+         
+         <p>But, if denied the delight of recounting the customary shooting episodes, we can, at least, tell you of the grand and wonderful improvements that have taken place at the Metz ranch within the pst couple of years. The fact that Mr. Metz has now invested more than $100,000 in this ranch, game preserve and game sanctuary, should be sufficient alone in conveying some idea of the rare attractiveness and perfection of the place, which is not surpassed, even if it has an equal, from the regal shooting boxes along the old Chesapeake to the palatial Teal club on the Sui-Sun marshes, between Sacramento and San Francisco, at both of which places I have been an honored guest many times.</p>
+         
+         <p>No more beautiful or attractive spot is to be found in the whole sandhills region, travel as hard and far as you may. It is ideal in the lay of the land and configuration with its charming lake and cold, running streams, its broad hay, grazing land and cornfields, its abundance of both fish and game, wild fowl, plover and grouse in season. And the buildings Mr. Metz has erected there, from one of the most modern and perfectly appointed ranch residences, with every modern accessory for comfort and convenience, to the model hunting lodge, boat house, storage and machine house, game shed, corrals, cattle guards, and out-structures, to the biggest and grandest barn in all Cherry county, would command attention in the oldest settled region of any of the oldest states in the union. And with a genial, whole-souled and thoroughly competent man in charge as Alec Alexander, with his family, it is kept right up to the notch, in cleanliness, attractiveness and beauty.</p>
+         
+         <p>The ranch is now Mr. Metz's summer home, and it is there he entertains his most esteemed personal family friends, ladies, gentlemen and children-all through the glorious season from May till September, when the hunting epoch arrives, and it is then the old comrades of the woods and waters have their innings with this generous host. It is this life-prolonging recreation Charlie is most obsesses with in these latter years, and he has made up his mind to enjoy it to the limit, which he does mauger time or expense, and he intends to maintain the same regime until the end of his days, which, I pray, may be long deferred, for men like Charlie Metz are few and rare, indeed.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. December 2, 1917. [Several days duck hunting on the widely famed ranch of Charlie Metz.] <title>Omaha Sunday World-Herald</title> 53(9): 4-S.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

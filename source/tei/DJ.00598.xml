@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00598">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska's Thistle.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-08-27</date><biblScope>57(45=48): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska's Thistle.</head>
+         
+         <p>This is the year for our poets of the middle west to immortalize in song our beautiful Thistles, for never before have they been so tall and abundant, and so well set off by the wealth of foliage that the timely rains have brought. The Scotch Thistle has been made famous in song and story by the poets of that rugged land but even the ardent Scotch lover of this, his country's flower emblem, cannot dispute America's claim to one of equal beauty.</p>
+         
+         <p>Few know that we have a Nebraska Thistle, Carduus Nebraskensis, and fewer still that this flower stands at the top in the process of flower evolution, hence the name Carduus altissimus, the latter referring to its height and its topmost rank among flowers that grow in beauty and excellence.</p>
+         
+         <p>Of the 250 species to be found in the northern hemisphere about twenty are to be found in Nebraska, and of these eight are purple in color and three yellow, one of which is so near white that it is called white thistle. The Canada thistle is a black sheep of the family and it is gratifying that it has been introduced from other lands across the sea, and the fragrant thistle, the curled, the wavy-leafed, the musk, the milk and the cotton, or real Canada thistle, wear a different dress and otherwise refuse to admit it to the family.</p>
+         
+         <p>If anyone would see a gorgeous field of the altissimus, the tall one, take a ride to the end of the Albright carline very soon. To tell the habitat of this flower is not dangerously likely to result in the extinction of it, as it has a thorny side that it does not hesitate to present to the would-be despoiler of its blossoms.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 27, 1922. <title>Omaha Sunday World-Herald</title> 57(45=48): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

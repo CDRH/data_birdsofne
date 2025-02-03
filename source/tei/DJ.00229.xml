@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00229">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Dough Birds and Pot-Pie.</title><title level="j">Forest and Stream</title><author>McCandless, A.D.</author><date>1897-10-23</date><biblScope>49(17): 328.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-21"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Dough Birds and Pot-Pie.</head>
+         
+         <p><hi rend="smallcaps">Wymore</hi>, Neb., Oct. 2—<hi rend="italic">Editor <title>Forest and Stream</title>:</hi> No doubt you discovered from my letter in regard to grouse that I possess no scientific or natural history knowledge of game birds, except what little I have picked up in the field. I, therefore, make bold to ask you to tell me just what the birds described below are. And perhaps some of the readers of <hi rend="smallcaps"><title>Forest and Stream</title></hi> can tell us what has become of them.</p>
+         
+         <p>When I came to Nebraska, many years ago, I found, each spring and fall, great flocks of migratory game called, by the natives, dough birds; they were also called prairie pigeons, and by some they were called jack curlew and gray curlew. I do not think they were an aquatic, or wading, bird; they were considerably larger than a jacksnipe or a plover, and larger and plumper than any curlew that I ever saw.</p>
+         
+         <p>Their meat was light in color, and when skinned (the common way of dressing them) the meat was covered with a roll of fat that looked like dough, but in color resembled clean, fresh lard.</p>
+         
+         <p>They were always in large flocks and frequented the high lands, and especially the newly-sown fields of grain, and they made the finest pot-pie in the world.</p>
+         
+         <p>Speaking of pot-pie, I remember one day in the spring of 1882, when in company with my old friend and life-long companion in the field, Dr. H.A. Given, I had been out after dough birds, and we brought in thirty-two nice fat ones. We debated the question of whose wife could make the best pot-pie, and finally decided by drawing straws that the doctor's wife should make that particular pot-pie.</p>
+         
+         <p>The next day at noon the pie was ready, and my wife and I repaired to the doctor's house to help eat it. The doctor's children have always called my wife Aunty Mac, and on that particular day Aunty Mac was complaining of not feeling very well, but the pot-pie was very tempting, and as she progressed with her dinner she felt much better, and the doctor's children have never ceased to wonder how much pot-pie Aunty Mac could eat when in good health.</p>
+         
+         <p>The dough birds are all gone. I have not seen one in ten years. Aunty Mac still retains her appetite intact. Fred and Pearl, the doctor's children, are young folks now. The doctor's wife is the same good cook she always was. The doctor is old and fat. He still hunts some, and he told me confidentially just the other day that he could shoot just as well as he could twenty years ago. I had to turn my face away so he would not see me smile. It is wonderful how conceited a man gets when he gets old. Now, I am not a bit that way, and yet I can shoot just as good as I ever could, and only yesterday I knocked a squirrel out of a high tree with a .22cal. target rifle, and if there had been a half dozen of them I could have knocked them all out the same way.</p>
+         
+         <p><hi rend="smallcaps">A.D. McCandless</hi>.</p>
+         
+         <p>[The dough-bird, or doe-bird, is the Eskimo curlew (<hi rend="italic">Numenius borealis</hi>), an upland species very fond of berries and grasshoppers, and frequently is found in the company of golden plover, migrating from the north at about the same time (see Trumbull's "Names and Portraits of Birds"). It is also called little curlew, and fute, names given by Mr. Hapgood in "Shore Birds." Dr. Carver records that the Bartram's sandpiper is commonly called prairie pigeon. We presume that the shooters of Nebraska were and are like those elsewhere in that they apply names loosely.]</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 23, 1897. <title>Forest and Stream</title> 49(17): 328.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

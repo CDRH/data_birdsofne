@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00059">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Betwixt and Between [Bird Movements].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-09-12</date><biblScope>55(50): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Betwixt and Between.</head>
+         
+         <p>These days, for the eager amateur ornithologist, offer a sort of paradox, in that they are interesting and uninteresting at the same time.</p>
+         
+         <p>Most of the midsummer songsters have departed, and yet a stray representative of those noble families occasionally is seen. The nesting season is over - and yet it isn't. The fall arrivals haven't yet arrived - and yet some of 'em have. Everything is topsy turvy in birddom - which is characteristic of the middle of September.</p>
+         
+         <p>The Dickcissel is one of the latest of the hot weather fellows to arrive in the spring, and one of the earliest to depart in the fall, and yet there are young members of that family still to be located along the roadsides.</p>
+         
+         <p>One would think that nesting is done with, and yet Mr. and Mrs. Goldfinch, in some instances, are still busy with their brood. Even the MOurning Doves are occasionally seen on their nests this late, which was one of the reasons for the law preventing the shooting of these tender morsels.</p>
+         
+         <p>It is far too early for the winter birds, such as the Brown Creeper, Slate Colored Junco and Red Breasted Nuthatch - but a considerable number of Song Sparrows have come down from Minnesota, and shore birds and waders are to be seen constantly along the lakes, rivers and swamps.</p>
+         
+         <p>Warblers are going through, and pausing anon for a brief visit. It is strange that they are not seen in as large numbers as during their northward journey in the spring - but they are not. Black and White Creepers and Redstarts are fairly common, and soon will come the Myrtle Warbler, to stay with us until the snow flies - occasionally. But the woods, for the present are silent, as the Robins "bunch up" and the Bluebirds resume their mournful murmur, looking with evident displeasure to the day when they must leave us.</p>
+         
+         <p>Sumac and woodbine and ivy are reddening at the prospect, too, and this season, betwixt and between, is a sort of glorious melancholy to those who love to frequent the wild places and the glowing fields.</p>
+         
+         <p>Deserted nests, queer twitterings and squeaks in the dead o' night as flocks pass over to the south, and the very stillness itself say that fall is upon us.</p>
+         
+         <p>But every season has its glories, and no Nebraskan can regret the approach of Indian Summer, and the interesting birds that it brings.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 12, 1920. Betwixt and Between [Bird Movements]. <title>Omaha Sunday World-Herald</title> 55(50): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

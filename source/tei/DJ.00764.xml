@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00764">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Screech Owl Scandal [Elmwood Park].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-02-20</date><biblScope>51(21): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Screech Owl Scandal.</head>
+         
+         <p>There are lots of things about screech owls that are uncanny, and among them that eery, hair-raising warwhoop with which they are likely to paralyze one while walking through a lonesome wooded spot at night. Coming out of a somber silence this moaning whimper is calculated to accelerate the homeward motion of any human who isn't stone deaf and to create a wholesome respect for the bird who is capable of such an outrageous racket.</p>
+         
+         <p>The screech owl, upon investigation the following morning, is pretty hard to find. He seems to have the chameleon's facility in changing color to suit his surroundings, although this, of course, is really not the case. He simply picks out a hole in the bark or a tangle of dead vines in which to take his midday slumber, and sees to it that the color scheme of the same is suited to his own coat.</p>
+         
+         <p>But all screech owls will not fit into the same scenic investiture for some are grey and some are red.</p>
+         
+         <p>This scandal in owldom is illy deserved, for there is no bar sinister in the screech owl scrutcheon.</p>
+         
+         <p>Although it is true that Papa and Mamma Screech Owl often have a bunch of red screechlets as their offspring, while they are themselves as grey as the winter bark, this is merely one of the breaks of bird nature and doesn't reflect in the slightest upon the irreproachable character of the parents. By the same token a pair of red screech owls may have grey sons and daughters or the broods may be mixed. It's a gay gamble with the mated owls of this breed as to just what color their kids may turn out to be.</p>
+         
+         <p>These owls are very common in the parks and woods about Omaha, and even in portions of the residence district apart from either. It would pay you to investigate the situation, for there is as much fun in trying to see a screech owl after you know where he is as there is in trying to locate his hiding place. After you have sighted him, and turn your eyes away, you will find it difficult to spy him again without moving a foot, so completely does he fade himself into his surroundings.</p>
+         
+         <p>The grey owl will be in grey pastures, and the red owl will be in something warmer in color.</p>
+         
+         <p>Both were seen a week ago today in Elmwood Park, within half a block of each other, and the chances are they are still on the job. The red fellow was in a tangle of grapevine and auburn leaves, where the sun shone on him in all its brilliancy. Yet he could scarcely be detected and he must have been sure of his safety, for he was fast asleep. His grey brother was in another tangle of the same sort of vines, but in the shadow, so that the gloomy color likewise made him almost invisible.</p>
+         
+         <p>Try your luck today at finding screech owls. It has the jig-saw puzzles and hidden pictures beaten a thousand miles!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 20, 1916. Screech Owl Scandal [Elmwood Park]. <title>Omaha Sunday World-Herald</title> 51(21): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

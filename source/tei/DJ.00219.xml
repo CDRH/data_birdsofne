@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00219">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Destructive Club Hunt.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1892-07-24</date><biblScope>22(36): 16. Portion of column. Points given in The Bee 28 August 1892.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-06-30"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sports in Hot Weather</head>
+         
+         <head>The Destructive Club Hunt.</head>
+         
+         <p>The Omaha Gun Club will revert to the pernicious custom of a general club hunt this fall. Captains will be appointed and the two teams selected at the club's September meeting, and the date of the hunt fixed for some time in October. While these competitions engender a great deal of rivalry, and are conductive of much sport, they are to be deprecated by all sportsmen having the preservation of our game birds at heart. Feathered game of all kinds, even including the prolific wild fowl, is being diminished at a rapid rate, and ere long game preserves will be the legitimate gunner's only hope of a little sport afield. Pot-hunters and club hunts are instruments of destruction only, and should both be discountenanced by the loyal members of the craft. The incentive to go forth in quest of a bag of game, whose only merit is its magnitude, is one that should be studiously frowned down, and that is the only inducement for a club hunt. Each member of the team strives to outstrip all competitors, and in his work of devastation he overlooks nothing that wears feathers or hair that can be insinuated into the game catalogue. The meadow lark, robin, snowbird, flicker and dove are popped over with as much zeal as the chicken, quail, goose or duck. Each bird is graduated, that is, counts so many points according to its merit as game, and the insatiate hunter improves every shot offered. When the hunt is over the bags are turned in at headquarters, the score counted and recorded and the game given or thrown away—that is the bulk of it. Every conscientious sportsman will eschew the club hunt.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sporting Editor [Sandy Griswold]. July 24, 1892. <title>Omaha Sunday Bee</title> 22(36): 16. Portion of column. Points for game given in The Bee 28 August 1892.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

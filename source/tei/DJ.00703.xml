@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00703">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Purity [First Bluebird at Elmwood].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-03-04</date><biblScope>58(23): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Purity.</head>
+         
+         <p>Where there is a human heart and soul that finds something in the sky besides clouds and something on the earth except weeds, the song of the Bluebird seems to be recognized as a whisper from Heaven.</p>
+         
+         <p>This is no theatric attempt at religious sentimentality, but merely, when you pause to consider everything, a respect and obeisance to the facts.</p>
+         
+         <p>The "First Robin" is largely hocus-pocus, because Red-Breast might be seen almost any sunny noonday in your yard during the winter, if the meteorological bureau were anything close o as lenient as it has been the past and present season.</p>
+         
+         <p>More than that, the first, second or millionth Robin announces himself in about the same brave fashion. He simply alights somewhere, sticks out his chest, and condemns the whole world as</p>
+         
+         <p>"Cheap! Cheap! Cheap!"</p>
+         
+         <p>But the first Bluebird - we would say God bless it, only that that part of the contract has been so obviously filled - really seems to come from heaven, for the first manifestation of its presence is invariably in the sky- away up among the haze and clouds - whispering</p>
+         
+         <p>"Purity - purity - purity."</p>
+         
+         <p>A murmur, a psalm, a hymn - surely not a song - the lovely warble of this lovelier bird is something to bring genuine cheer to the winter-chilled heart of the most blase.</p>
+         
+         <p>Last Sunday morning, when it was rather gray, if you recall, from heavenward over Elmwood park came that marvelously sweet and wistful murmur, and brought a glow to the hearts of the few fortunates who were there to hear. Those with better eyes saw these glorious feathered creatures, but bird lovers could not fail to hear them.</p>
+         
+         <p>Go out today and watch for the Bluebirds. The hike will be of benefit, and their murmur should be an inspiration.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 4, 1923. Purity [First Bluebird at Elmwood]. <title>Omaha Sunday World-Herald</title> 58(23): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

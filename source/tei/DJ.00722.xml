@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00722">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Redpoll.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-10-26</date><biblScope>55(5=4): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Redpoll.</head>
+         
+         <p>Rosy-breasted little finch, elusive as the fox-fire, we welcome you again to our weed-seed larder.</p>
+         
+         <p>It was three years ago this winter that the Redpoll was noted in such large numbers that Omaha ornithologists often reported it more common than the Goldfinch. Accompanied by its cousin, the Pine Finch, or Siskin, and by its best friend, the Red Crossbill - this Redpoll in the winter of 1916-17 was one of the beauty-features of the roadside and the uncultivated field.</p>
+         
+         <p>Now, we are informed by reliable authorities, the Redpoll is back again. Several male birds, the milky carmine of their breasts identifying them immediately, have been seen near Camp Gifford and near Elmwood Park. Since one Redpoll generally means many, we can perhaps safely count on another "big winter" of these dainty and mysterious songsters.</p>
+         
+         <p>The Redpoll is peculiar in that there is no set territory for its wanderings. There is no place known to bird-lovers where one may truly say "here will be Redpolls."</p>
+         
+         <p>These birds come and go in their own sweet way, and it is remarkable that after the great colony noted here three years ago, during the past two winters not a single specimen has been reported to Audubon headquarters.</p>
+         
+         <p>Two years ago one pair of Crossbills were seen - but that was all!</p>
+         
+         <p>For some strange reason, where there are Redpolls there are likewise the Crossbills, and vice versa. So, maybe,the Crossbills will be with us, too, this year.</p>
+         
+         <p>The Redpoll has a melodious little song, and a delightful twitter when in flight - something like that of the Goldfinch. Both male and female have a ruby crown to further their identification, while the adult male, as previously described, has a breast as rosy as the freshest American Beauty that ever blossomed in the morn.</p>
+         
+         <p>These little strangers that come to us from nowhere tend to make a rigorous winter the more endurable - and we welcome them, indeed!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 26, 1919. Redpoll. <title>Omaha Sunday World-Herald</title> 55(5=4): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

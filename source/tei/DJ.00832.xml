@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00832">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Sportsmanship. The Grand Spring Attack Upon the Feathered Game. Counting the Game Yesterday - Major Thornburgh's Side the Victors.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1878-04-20</date><biblScope>13(155): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sportsmanship.</head>
+         
+         <head>The Grand Spring Attack Upon the Feathered Game.</head>
+         
+         <head>Counting the Game Yesterday - Major Thornburgh's Side the Victors.</head>
+         
+         <p>the spring hunt of the Omaha Sportsmen's Club came off on Thursday, and the game was counted yesterday at Collins &amp; Petty's sportsmen's depot, corner of Douglas and Fourteenth streets. A crowd of the sportsmen and their friends were present to witness the counting and examine the game. The latter was on the whole in fine condition, and made a grand display when laid out for examination. The ground hunted over was about the same as last fall, nearly all the members of the club having their favorite hunting grounds, which they visit at each hunt. The scores of each contestant were as follows.</p>
+         
+         <head>Thornburg's Side.</head>
+         
+         <p>J.W. Petty-19 Hutchins geese, 152; 1 Canada goose, 12; 1 crane, 15; 1 scaup duck, 1; 1 K.D. plover, 1-181.</p>
+         
+         <p>S.B. Hathway-2 wood duck, 6; 5 shoveller duck, 5; 2 gadwall, 6; 1 bald pate, 2; 7 teal, 7; 26 curlew, 26; 13 sandpipers, 13; 5 yellow shank, 5; 5 Wilson snipe, 10-80.</p>
+         
+         <p>A.S. Patrick-1 white front goose, 8; 4 Hutchins' geese, 32; 1 mallard duck, 3; 1 wood duck, 2; 1 marble todwit, 2; 1 rabbit, 1-48.</p>
+         
+         <p>W.H.S. Hughes-1 white front goose; 8; 1 Hutchins' goose, 8-16.</p>
+         
+         <p>Z. Taylor-3 Widgeon, 6; 3 B.W. teal, 3; 7 Wilson snipe, 14; 1 yellow shank, 1-24.</p>
+         
+         <p>J.M. Thurston-11 Wilson snipe, 22; 1 yellow shank snipe, 1; 1 teal; 1 marble todwit, 2-26.</p>
+         
+         <p>Maj. Thornburg-13 Hutchins' geese, 104; 3 teal ducks, 3; 1 shoveller duck, 1-108.</p>
+         
+         <head>Capt. R.N. Withnell's Side.</head>
+         
+         <p>R.N. Withnell-6 Hutchins' geese-48.</p>
+         
+         <p>Wm. Preston-1 sand hill carne, 15; 1 B.W. teal ducks, 14; 6 shoveller ducks, 6; 4 widgeon ducks, 8; 2 gadwell ducks, 4; 3 H. Godwit, 6; 17 Wilson snipe, 34; 4 sand pipers, 4; 1 K.D. plover, 1-92.</p>
+         
+         <p>J. Budd-22 esquimaux curlew, 29; 1 Wilson snipe, 2; 4 yellow leg snipe, 4; 1 shoveller duck, 1-36.</p>
+         
+         <p>John Withnell-7 Hutchins' geese-56.</p>
+         
+         <p>D.C. Sutphen-1 widgeon duck, 2; 2 wilson snipe, 4; 4 yellow leg snipe 4-10.</p>
+         
+         <p>M.W. Kennedy-3 Hutchins geese, 24; 5 sand pipers, 5; 3 yellow leg snipe, 3; 6 esquimaux curlew, 6; 3 K.D. plover, 3; 3 Wilson snipe, 6; 5 B.W. teal, 5; 1 shoveller duck, 1; 2 rabbits, 2-55.</p>
+         
+         <p>P. Windheim-20 esquimaux curlew, 20; 1 shoveller, 1-21.</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Recapitulation.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Thornburg</item>
+                     
+                     <item>Petty</item>
+                     
+                     <item>Hathway</item>
+                     
+                     <item>Patrick</item>
+                     
+                     <item>Hughes</item>
+                     
+                     <item>Taylor</item>
+                     
+                     <item>Thurston</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>108</item>
+                     
+                     <item>181</item>
+                     
+                     <item>80</item>
+                     
+                     <item>48</item>
+                     
+                     <item>16</item>
+                     
+                     <item>24</item>
+                     
+                     <item>26</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Withnell, R.N.</item>
+                     
+                     <item>Preston</item>
+                     
+                     <item>Budd, J.</item>
+                     
+                     <item>Withnell, J.</item>
+                     
+                     <item>Sutphen</item>
+                     
+                     <item>Kennedy, M.W.</item>
+                     
+                     <item>Windheim</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item/>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">483.</cell>
+               
+               <cell role="data" cols="1" rows="1">318.</cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>As the hunt was "man against man," it will be seen by the above score that Thornburgh's side were the victors, both in total score, and by the 6 to 3 on individual record. Petty, whose count was the best, more than doubled his score of last fall, and Sutphen, whose score was the lowest, was also at the foot of the record last year, when he had 0.</p>
+         
+         <p>The total score of last fall's hunt was 581, just 220 below that of this hunt, while the number participating this spring was but 14, against 16 last fall. The average score last fall was 36 5-16; this spring it is 57 3-14. Ten of the sportsmen taking part in Wednesday's hunt participated also in that of last fall.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Herald writer. April 20, 1878. <title>Omaha Daily Herald</title> 13(155): 8. Article repeated April 21, 1878.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

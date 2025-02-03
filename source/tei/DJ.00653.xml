@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00653">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Passenger Pigeon (Ectopistes migratorius) in Wisconsin and Nebraska.</title><title level="j">Auk</title><author>Deane, Ruthven.</author><date>1898-04-01</date><biblScope>15(2): 184-185.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>
+            
+            <hi rend="bold">The Passenger Pigeon (Ectopistes migratorius) in Wisconsin and Nebraska.</hi> Our records of this species during the past few years have referred, in most instances, to very small flocks and generally to pairs or individuals. In 'The Auk' for July, 1897, I recorded a flock of some fifty Pigeons from southern Missouri, but such a number has been very unusual. It is now very gratifying to be able to record still larger numbers and I am indebted to Mr. A. Fugleberg of Oshkosh, Wis., for the following letter of information, under date of Sept. 1, 1897; "I live on the west shore of Lake Winnebago, Wis. About six o'clock on the morning of August 10, 1897, I saw a flock of Wild Pigeons flying over the bay from Fisherman's Point to Stony Beach, and I assure you it reminded me of old times, from 1855 to 1880, when Pigeons were plentiful every day. So I dropped my work and stood watching them. This flock was followed by six more flocks, each containing about thirty-five to eighty Pigeons, except the last which only contained seven. All these flocks passed over within half an hour. One flock of some fifty birds flew within gun shot of me, the others all the way from one hundred to three hundred yards from where I stood." Mr. Fugleberg is an old hunter and has had much experience with the Wild Pigeon. In a later letter dated Sept. 4, 1897, he writes: " On Sept. 2, 1897, I was hunting Prairie Chickens near Lake Butte des Morts, Wis., where I met a friend who told me that a few days previous he had seen a flock of some twenty-five Wild Pigeons and that they were the first he had seen for years." This would appear as though these birds were instinctively working back to their old haunts, as the Winnebago region was once a favorite locality. We hope that Wisconsin will follow Michigan in making a close season on Wild Pigeons for ten years, and thus give them a chance to multiply and perhaps regain, in a measure, their former abundance.</p>
+         
+         <p>In '<title>Forest and Stream</title>,' of Sept. 25, 1897, is a short notice of 'Wild Pigeons in Nebraska,' by W. F. Rightmore. Through the kindness of the editor he placed me in correspondence with the observer, W. F. Rightmore, to whom I am indebted for the following details given in his letter of Nov. 5, 1897: " I was driving along the highway north of Cook, Johnson County, Nebraska, on August 17, 1897. I came to the timber skirting the head stream of the Nemaha River, a tract of some forty acres of woodland lying along the course of the stream, upon both banks of the same, and there feeding on the ground or perched upon the trees were the Passenger Pigeons I wrote the note about. The flock contained seventy-five to one hundred birds. I did not frighten them, but as I drove along the road the feeding birds flew up and joined the others, and as soon as I had passed by they returned to the ground and continued feeding. While I revisited the same locality, I failed to find the Pigeons. I am a native of Tompkins County, N. Y., and have often killed Wild Pigeons in their flights while a boy on the farm, helped to net them, and have hunted them in Pennsylvania, so that I readily knew the birds in question the moment I saw them." I will here take occasion to state that in my record of the Missouri flock (Auk, July, 1897, p. 316) the date on which they were seen (December 17, 1896) was, through error, omitted.-Ruthven Deane, Chicago, I11.</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 1898. Auk 15(2): 184-185.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

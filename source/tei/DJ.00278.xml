@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00278">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Fall Hunt. The Sportsmen's Club Return With Their Game. Annual Supper at the Withnell House To-night.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1878-10-24</date><biblScope>14(12): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Fall Hunt.</head>
+         
+         <head>The Sportsmen's Club Return With Their Game.</head>
+         
+         <head>Annual Supper at the Withnell House To-night.</head>
+         
+         <p>The sportsmen who participated in the annual fall hunt of the Omaha Sportsmen's Club, reported at Collins &amp; Petty's gun store with their game yesterday. From the fact that a large number failed to go out, the results in game are smaller than usual. The hunt, according to the custom of the Club, was "man against man," where a man failed to participate in the hunt his opponent's game counting nothing. The annual supper will be given this evening at the Withnell House by the defeated side.</p>
+         
+         <p>The game killed, as appearing in the appended record of the hunt, scores as follows: Hawks, 5; owls, 5; mallard ducks, 2; gadwall, ruddy, widgeon, red head, pin tail and wood duck and Wilson snipe and Virginia rail, 2; spoon bill, scaup, shoveller, teal, bald pate, and merganser, ducks, and quail, yellowshank and red-breast snipe, and sora rail, 1.</p>
+         
+         <p>J.W. Petty-eleven mallard ducks, eight gadwall ducks, seventeen widgeon ducks, five red head ducks, two spoon-bill ducks, twenty-one teal ducks, and one hawk-121.</p>
+         
+         <p>S.B. Hathaway-one mallard duck, four red-head ducks, five widgeon ducks, one ruddy duck, one scaup duck, one shoveller duck, two merganser ducks, five Wilson snipe-37.</p>
+         
+         <p>B.E.B. Kennedy-three mallard ducks, one gadwall duck, one shoveller duck, one teal duck, foud hooded merganser ducks, two hawks, seven Wilson snipe-41.</p>
+         
+         <p>J. Budd-three mallard ducks, one bald pate duck, two scaup ducks, one merganser duck, one teal duck, one owl-20.</p>
+         
+         <p>Z. Taylor-six mallard ducks, three shoveller ducks, eleven teal ducks, four bald pate ducks, six Wilson snipe, two hawks-62.</p>
+         
+         <p>M.W. Kennedy-eight mallard ducks, five gadwell ducks, four widgeon ducks, two hooded merganser ducks, two teal ducks, one Wilson snipe-48.</p>
+         
+         <p>Dr. J.W. Peabody-sixteen mallard ducks, three wood ducks, one gadwell duck, six Wilson snipe, one hawk-73.</p>
+         
+         <p>Peter Windheim-one mallard duck, two bald-pate ducks, nine teal ducks, two Wilson snipe, one yellow-shank-21.</p>
+         
+         <p>D.C. Sutphen-one shoveller duck, one Wilson snipe-2.</p>
+         
+         <p>H.W. Yates-three hawks-15.</p>
+         
+         <p>Byron Reed, Ben Smith and Judge Lake did not go out.</p>
+         
+         <head>Patrick's Side.</head>
+         
+         <p>Wm. Preston-21 mallard ducks, 17 gadwell, 6 widgeon, 1 pin-tail, 3 wood duck, 2 shovelers, 5 teal, 8 red breast snipe, 10 yellow shanks, 1 hawk-147.</p>
+         
+         <p>R.N. Withnell-8 mallard ducks, 5 gadwell, 1 wood, 1 red-head, 1 scaup, 1 teal, 1 Wilson snipe, 1 Virginia rail, 8 sora, 2 hawks-49.</p>
+         
+         <p>John Withnell-four mallard ducks, one wood duck, one scaup duck, two bald pate ducks, two shoveller ducks, two teal, one merganser-24.</p>
+         
+         <p>George Milles, S.B. Sacket, Wm. Hughes, J. Thurston, B. Furay, George Turall, T.L. Kimball, E.C. Oneghame, V.H. Coffman, did not go out.</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Summary</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Patrick</item>
+                     
+                     <item>Preston</item>
+                     
+                     <item>Mills</item>
+                     
+                     <item>Sackett</item>
+                     
+                     <item>R.N. Withnell</item>
+                     
+                     <item>Hughes</item>
+                     
+                     <item>John Withnell</item>
+                     
+                     <item>Thurston</item>
+                     
+                     <item>Furay</item>
+                     
+                     <item>Thrall</item>
+                     
+                     <item>McShane</item>
+                     
+                     <item>Kimball</item>
+                     
+                     <item>Coffman</item>
+                     
+                     <item>Total</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>-</item>
+                     
+                     <item>147</item>
+                     
+                     <item>-</item>
+                     
+                     <item>-</item>
+                     
+                     <item>49</item>
+                     
+                     <item>-</item>
+                     
+                     <item>24</item>
+                     
+                     <item>-</item>
+                     
+                     <item>-</item>
+                     
+                     <item>-</item>
+                     
+                     <item>-</item>
+                     
+                     <item>-</item>
+                     
+                     <item>-</item>
+                     
+                     <item>220</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Petty</item>
+                     
+                     <item>Hathaway</item>
+                     
+                     <item>Kennedy, B.E.B.</item>
+                     
+                     <item>Budd</item>
+                     
+                     <item>Taylor</item>
+                     
+                     <item>Smith</item>
+                     
+                     <item>M.W. Kennedy</item>
+                     
+                     <item>Peabody</item>
+                     
+                     <item>Windheim</item>
+                     
+                     <item>Sutphen</item>
+                     
+                     <item>Yates</item>
+                     
+                     <item>Reed</item>
+                     
+                     <item>Lake</item>
+                     
+                     <item>Total</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>121</item>
+                     
+                     <item>37</item>
+                     
+                     <item>41</item>
+                     
+                     <item>20</item>
+                     
+                     <item>62</item>
+                     
+                     <item>-</item>
+                     
+                     <item>48</item>
+                     
+                     <item>73</item>
+                     
+                     <item>21</item>
+                     
+                     <item>2</item>
+                     
+                     <item>15</item>
+                     
+                     <item>-</item>
+                     
+                     <item>-</item>
+                     
+                     <item>441</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <cit>
+            
+            <bibl default="NO">October 24, 1878. <title>Omaha Daily Herald</title> 14(12): 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

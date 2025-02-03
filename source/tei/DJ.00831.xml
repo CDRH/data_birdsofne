@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00831">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Sportsmanship. City Clerk Taylor's Opinion, Founded on a Recent Days Experience in Snipe Shooting.</title><title level="j">Omaha Daily Herald</title><author>Zach.</author><date>1877-11-20</date><biblScope>13(32): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sportsmanship.</head>
+         
+         <head>City Clerk Taylor's Opinion, Founded on a Recent Days Experience in Snipe Shooting.</head>
+         
+         <list type="simple">
+            
+            <item>Omaha, Nebraska, Nov. 14.</item>
+            
+            <item>To the Editor of the Herald.</item>
+         
+         </list>
+         
+         <p>In your paper of this date there appears a letter written by "Robert White," and copied from the Chicago Field, giving an account of a "Scollopax Wilsonii," (otherwise, jack snipe) hunt indulged in recently by "Robert White," John and the undersigned. The letter is an amusing one and well worthy the pen of my friend "Rob White," yet it is not exactly correct in its details, and there are only one or two points in it which bear a little hard on me, and which I must "kick" at.</p>
+         
+         <p>He says that I "need tempering with a little seasoning (your type-sticker has it reasoning) of field etiquette, etc." This, I am well aware, was written in all kindness, and doubtless intended to do me good. But he and I have different ideas regarding hunting.</p>
+         
+         <p>I do not prefer to be an expert at snipe shooting-never having hunted them to any extent until last spring, whilst "Robert White," is one of the early pioneers of Nebraska, and has probably killed many a fine bag of snipe on the same ground over which we hunted, as mentioned in his letter, years before I ever saw one, and consequently ought to be able to "hold his own" with one not entirely familiar with the sport. yet the sequel will show that he "got left" this time.</p>
+         
+         <p>My friend "Bob" is a thorough sportsman-one of the old time hunters, and a good one, but I am afraid that he and I will never agree as to the style of hunting.</p>
+         
+         <p>He would probably have us walk with a soldierly bearing, keeping just so far apart, never getting out of step, counting so many after the rise of the bird before shooting, and possibly "mark time," whilst changing shells. This is not my way of hunting. It is as he says. I mean "business;" kill all I can and allow others to do the same. This is not the proper way to hunt, when in company with others. I admit, and I am aware that I should give them a show, my my early training was neglected in this respect, and as no "spiked collar" was ever used on me I got in the habit of "going it alone," which often results in my getting a "full hand" of game, whilst others of more sedate temperament get "left."</p>
+         
+         <p>As to my losing the tails of my shooting coat, I will explain by saying that it was never anything but a little short jacket, so short in fact and the pockets so high that it requires a step-ladder to get at my cartridges. Yet I get them and to advantage.</p>
+         
+         <p>The only remaining part of his letter which needs comment is the final "wind-up," wherein he gives the <hi rend="italic">total</hi> number of snipes killed, but fails to <hi rend="italic">divide</hi> them unless he intends that your readers shall divide them by <hi rend="italic">three</hi>, which would not be fair, as the count stood thus: "John," 48, Zack, 47, and Robert White, 38.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Zach. November 20, 1877. <title>Omaha Daily Herald</title> 13(32): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

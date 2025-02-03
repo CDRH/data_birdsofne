@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00370">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Governor Hunts Ducks at Shelton. Trainmaster Anderson of Grand Island Accompanies Executive to Platte Grounds. Orchestra in Early Hours.</title><title level="j">Omaha Morning Bee</title><author>Bee Reporter.</author><date>1915-10-21</date><biblScope>45(107): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Governor Hunts Ducks at Shelton</head>
+         
+         <head>Trainmaster Anderson of Grand Island Accompanies Executive to Platte Grounds.</head>
+         
+         <head>Orchestra in Early Hours</head>
+         
+         <p>Shelton, neb., Oct. 20. - (Special Telegram.) - Governor John Morehead was awakened from his peaceful slumbers at 4 o'clock this morning at the "shack" on the Platte river about three miles south of here, when an orchestra from Greeley, composed of R.M. Smith, F.L. Slobdony and George Bowen, quietly slipped into the building and started to playing ragtime on the piano, violin and trap drums.</p>
+         
+         <p>The governor, in company with J.V. Anderson, trainmaster for the Union Pacific at Grand Island, came to Shelton last night to go duck hunting on the Platte river with S.E. Smith of this place, who has one of the best hunting shacks in the state. They arrived at the shack about 10 p.m. and retired shortly afterward. Mr. Smith promises to have them up to take a shot at the first flight of the feathery tribe that put in an appearance.</p>
+         
+         <p>The orchestra had been laying for a dance at Shelton and they were induced to take the early morning ride to the Platte river and serenade the governor. The orchestra furnished music while the governor was making a breakfast of pancakes, which he declared were delicious.</p>
+         
+         <p>Shortly before daybreak the party went out to the blind and succeeded in shooting seventeen ducks, sixteen of which the governor was given credit for bringing down by his superior marksmanship. The governor was well pleased with the hunt, although the ducks were not flying as thickly as they have been other mornings this fall.</p>
+         
+         <p>Governor Morehead and Mr. Anderson, left here this morning for Grand Island by automobile, where the former caught an early train for Lincoln.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 21, 1915. <title>Omaha Morning Bee</title> 45(107): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

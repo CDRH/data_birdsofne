@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00410">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">House Urged to Pass Bill to Protect Birds.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1913-01-26</date><biblScope>42(32): 2-A.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>House Urged to Pass Bill to Protect Birds</head>
+         
+         <p>Washington, January 26. - The McLean bill, extending federal protection to all American migratory birds, has passed the senate with a dissenting vote and undoubtedly will be favorably acted upon by the House at this session. There seems to be absolutely no opposition to this measure, for which John Burroughs, Ernest Thompson Seton, Gifford Pinchot, Dr. W.T. Hornaday, the Audubon societies and practically all of the country's most prominent lovers of wild life, have united in a persistent endeavor for immediate action. In spite of the rush in the House to complete the work of this session it is now generally conceded that this bill will not be overlooked. The public sentiment for it is strong and the need for it is great.</p>
+         
+         <p>"No question as to the constitutionality of a law extending federal protection to migratory birds can be successfully raised in the opinion of far better lawyers than I am," said Gifford Pinchot today. "the provisions of the constitution under which congress controls interstate commerce and regulates the nation's rivers and harbors are ample to cover the protection of our migratory birds.</p>
+         
+         <p>"We must get immediate action in this matter," continued Mr. Pinchot, who is deeply interested. "The state laws afford no real protection and never can, for the birds move from state to state, and their protection in one state often encourages their slaughter in another. Already some of our most valuable birds have entirely disappeared. Forests and crops suffer heavily because of the marked decrease of insect-eating birds. The loss to the country at large from the devastations of harmful insects can hardly be estimated. It probably runs into the billions annually. Against it the birds are our only effective defense. Our forests and farms need their protection badly. A young robin eats more than its own weight in insects every day. That gives some idea of what the countless thousands of our birds accomplish for us."</p>
+         
+         <cit>
+            
+            <bibl default="NO">January 26, 1913. <title>Omaha Sunday Bee</title> 42(32): 2-A.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

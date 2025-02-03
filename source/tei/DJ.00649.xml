@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00649">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Pageant of the Forest.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-10-07</date><biblScope>59(1): 14-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Pageant of the Forest.</head>
+         
+         <p>Fontenelle Reserve stages a pageant every fall and provides, with the help of the city of Omaha and Douglas and Sarpy counties a movie panorama, reversed, that changes scenes every day for varying period, sometimes as long as several weeks. Instead of the scenes moving, the audience pile into comfortable seats in autos or limousines or taxis, and move along down a road south from about Thirteenth and Mason streets to Bellevue. At times the movie takes in a deep cut with all sorts of vines and shrubs clambering down its banks; then all of a sudden the high banks fade away and the most delightful view of the old Missouri river takes the place of the banks. The audience look over miles to the eastward upon a row of bluffs that in the east would be mountains, with a plain below and a silvery line of water one can hardly believe is the mud-colored stream looked upon with disgust as one rides over it into the flats on the eastern side, that begin as Council Bluffs.</p>
+         
+         <p>And as one continues to go south the real Fontenelle Reserve, that some great enterprising citizens have planned to make into a great park for all time, gives a series of ravishing views of forest and river and line of bluffs in the distance, over which the passing clouds above throw changing shadows and dazzling sunshine glories never twice alike. Sometimes, to be sure, the rain comes down and the mists hide the view, but even the mist has its beauties and the endless movie audience, if they have eyes to see, never tire of the pageant. At present Fontenelle Reserve is staging an entirely new scene; slowly, but surely, red and gold are added to the green and in great masses are painting pictures against a background of distant hills and flowing water that artists cannot equal. Every day it becomes more perfect until the Frost King sets the stage for another.</p>
+         
+         <p>Be one of the movie audience and behold it when the scene is at its best, which must be soon.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 7, 1923. <title>Omaha Sunday World-Herald</title> 59(1): 14-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

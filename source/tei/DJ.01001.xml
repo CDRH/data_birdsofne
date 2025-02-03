@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01001">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Woodland Building Show [Bird Breeding Activity].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-02-25</date><biblScope>57(22): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Woodland Building Show.</head>
+         
+         <p>Albeit a trifle early in the season for such doings, certain of our more foresighted wildlings are already looking over the building situation with a view to selecting a proper homesite.</p>
+         
+         <p>Akin perhaps in general plan to the Building and Better Homes show soon to be held at the municipal auditorium, the vast wooded stretches of our rustic parks furnish plentiful ideas to the feathered families contemplating "settling down."</p>
+         
+         <p>There the birds find all necessary raw material, or will find a complete stock of it as soon as the verdure and foliage arrives. In the interim they may look over the sites and plan the general idea of their houses.</p>
+         
+         <p>A pair of Flickers swooped contentedly into Elmwood park last Sunday, and proceeded to give that glorious reserve a comprehensive "once over." They peered into many holes in dead stumps, apparently looking about as to the advantages of the view, protection from storms, drainage, light, neighborhood and just about everything that a human would take into consideration under such circumstances.</p>
+         
+         <p>Occasionally one of the Flickers would pick up a piece of dead grass or a tuft of dried moss or something of the sort from the ground, and consult with his prospective male as to its availability for furnishing the home, when once built.</p>
+         
+         <p>Out in the fields the Horned Larks were doing like wise, for that is where they will build - in the open - in some slightly protected little gully eroded in the ground. They will nest early next month, and are attending the outdoor building show in preparation therefor.</p>
+         
+         <p>High in air, a pair of gigantic Crows flew slowly along, side by side - they too, attending the building show and commencing their domestic plans by peering over the various attractive spots from which they will soon select a certain tree in which to erect their rustic mansion.</p>
+         
+         <p>All in all, a stroll through the woods and fields today will prove mightily interesting, and will do you plenty of good physically, as well. The birds will welcome you to their own building show. Why not attend!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 25, 1923. A Woodland Building Show [Bird Breeding Activity].	<title>Omaha Sunday World-Herald</title> 57(22): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

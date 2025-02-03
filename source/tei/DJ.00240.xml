@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00240">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Dundee Mocking Bird.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1911-05-07</date><biblScope>46(32): 4-S.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Dundee Mocking Bird</head>
+         
+         <p>The residents of Dundee, or that portion of it lying between Dodge and Davenport, and Forty-ninth and Fiftieth streets, are being treated regularly these spring mornings and evenings to serenades by a wild mockingbird. The bird has been in the neighborhood for nearly two weeks now, and while it alone has been seen, it is evidently accompanied by its mate, who is probably nesting in the vicinity. While the presence of a genuine wild mocking bird in this latitude, may be doubted by many, it is nevertheless true in this instance, and is not so extremely uncommon after all. Mockingbirds are very plentiful down about Atchison, Kas., and are frequently encountered in the southern tier of counties of this state, and have occasionally been known to visit this section and nest here. If the bird had not been seen often lately and thoroughly identified, it might be thought that a mistake had been made, and that the gay little Dundee troubadour was a thrush or catbird, both of which species are beautiful songsters and imitate all of their congeneres with the same fluency of the mockingbird.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 7, 1911. <title>Omaha Sunday World-Herald</title> 46(32): 4-S.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

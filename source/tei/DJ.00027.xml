@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00027">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Another Welcome Arrival [Tree Sparrow].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-10-21</date><biblScope>53(3): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Another Welcome Arrival.</head>
+         
+         <p>As the last of the resident summer birds, and those which pass through from the north on their way to warmer climes are leaving us on their long migration, there has arrived still another winter resident, indeed welcome because of his seed-eating propensities, through which agency Dame Nature contrives to help keep down the weed pest.</p>
+         
+         <p>The Tree Sparrow has been called the Winter Chippy, and is well named. He has, when in full plumage, a brick-red cap atop his pretty head and chips and darts about a good deal like the Chipping Sparrow of the summer months. But he is a hardier chap, and will be found in the underbrush and weed patches along the roadside in the bitterest days of the coming half year.</p>
+         
+         <p>There is a certain identification of this bird - a dark spot in the very middle of his grey breast - a spot about as big around as the end of a lead pencil and very distinct. He will be found associating, very often, with the Goldfinches, in their dusky winter garb, and the Redpolls when they arrive.</p>
+         
+         <p>E.H. Forbush, the veteran and reliable expert on matters ornithological, says in one of his works that it has been estimated, through the most diligent and careful research and examination of specimens taken, that the Tree Sparrow yearly consumes 4,000,000,000 weed seeds in the state of Iowa alone.</p>
+         
+         <p>Iowa is not different from Nebraska, except in its sentiments on prohibition, perhaps - and if the Tree Sparrow is getting away with that number of noxious seeds during the comparatively brief winter season, think what he is doing in Nebraska!</p>
+         
+         <p>You, Mister Farmer, are anxious to have thoroughly successful crops to help Uncle Sam win this war. The birds in the summertime are killing the insects for you, but do not forget the Tree Sparrow and his pals, who are attending to the weed pest in the winter!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 21, 1917. Another Welcome Arrival [Tree Sparrow]. <title>Omaha Sunday World-Herald</title> 53(3): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

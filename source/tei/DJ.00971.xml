@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00971">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Whooping Crane.</title><title level="j">Omaha Sunday World-Herald</title><author>O'Sullivan, John Bernard = Tom Moore.</author><date>1916-03-19</date><biblScope>51(25): 12-W.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Whooping Crane.</head>
+         
+         <list type="simple">
+            
+            <item>Hark! to the sweet toned trumpet call from the blue dome of the sky,</item>
+            
+            <item>There's a message for all sportsmen in that far off plaintive cry,</item>
+            
+            <item>From a remnant of a species that is calling for a mate,</item>
+            
+            <item>But its answer is an echo, and it seems to say, "too-o-o-late."</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>Look! away up there, 'tis circling in and out among the clouds,</item>
+            
+            <item>That were once alive with whoopers, but are nothing now but shrouds,</item>
+            
+            <item>That enveloped its ancestors when they used to congregate,</item>
+            
+            <item>And bugle notes to lady cranes, that were nothing like, "too-o-o-late."</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>Think! of the skies of the future-will we have silence or song?</item>
+            
+            <item>What do you think of the whoopers-was killing them right or wrong?</item>
+            
+            <item>There's no use dodging the question, in each of us lies their fate-</item>
+            
+            <item>Will we sing a song of plenty, or forever wail "too-o-o-late?"</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">John Bernard O'Sullivan = Tom Moore. March 19, 1916. <title>Omaha Sunday World-Herald</title> 51(25): 12-W.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

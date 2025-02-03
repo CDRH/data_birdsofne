@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00911">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Tragedy of the Albino [Robin].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-07-04</date><biblScope>55(40): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Tragedy of the Albino.</head>
+         
+         <p>Without attempting to delve into the scientific, which might put us beyond our depth, we would simply say that we are glad that the Albino Robin is now a part of the ornithological collection of the University of Nebraska.</p>
+         
+         <p>As a curiosity it will draw the attention of the scientific world to Omaha, and the marvelous amount of publicity given it through the grief of those who had fostered it in Hanscom Park district will help to make it still more famous.</p>
+         
+         <p>A very estimable and valuable bird student, strongly identified with the Nebraska Audubon society, the Boy Scout Council of Omaha and the Biological Survey of the United States Government chanced to stroll homeward one day - and saw an Albino Robin in a tree in his yard. Recognizing this as a chance in a lifetime - he shot it. He previously had applied for a permit to take specimens, but had not, at the time, received his permit.</p>
+         
+         <p>Well, by the time all this is in print, the man who killed the bird will have been legally punished; the specimen will have taken its place forever in the Cornhusker museum; the birds will continue to sing, breed and cavort around - and there you are!</p>
+         
+         <p>We have seen Albino Flickers, with nothing but a bright red spot on their crowns to identify them. We have seen white Blackbirds and Crows and English Sparrows to boost the "freak stuff" - but this Albino Robin was absolutely new - and that was what put his slayer "in bad."</p>
+         
+         <p>The man who killed the Albino Robin is a white man - as white as the specimen he took for science - and as clean. Let's let him alone.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 4, 1920.  [Robin]. <title>Omaha Sunday World-Herald</title> 55(40): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

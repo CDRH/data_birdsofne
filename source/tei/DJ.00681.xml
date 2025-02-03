@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00681">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Politics.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-10-15</date><biblScope>58(3): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Politics.</head>
+         
+         <p>In these more or less lurid times, when the vapors from the political kettle often tend to mess up the atmosphere so that the downtown districts are scarcely habitable, it is a pleasure to seek the open-work grandeur of a Nebraska fall upon the restful Sabbath day.</p>
+         
+         <p>Here, in the woods or on the rill-side path, mayhap touched with white frost in the shaded places, is to be found plenty of quietude and natural loveliness and peace. Here we would be assured to find the sweetest of all God's creatures - the birds - arranging their affairs for a trip to the south, or preparing for a long and pleasant winter in our neighborhood.</p>
+         
+         <p>But to the politically-soaked citizen who flies thither for such rest and peace and quiet, there may seem to be a very human turmoil among the feathered clans. He finds them congregated in vast clubs of their own, yelling or chattering or chipping or singing, according to their lights.</p>
+         
+         <p>Can it be that these songsters actually have a fall campaign of their own? Certainly they act like it. Certainly they make enough noise and fill the sweet all with sufficient harsh arraignments and tender coaxings to liken them to the campaigners who now present themselves in other places.</p>
+         
+         <p>Still the Bronzed Grackles surge wildly back and forth from one precinct to another, rattling and racketing their arguments along some mysterious line unknown to us. The Blackbirds, too hold their sessions, while the Finches, singing their mandolin-twitter in weed patches or in flight, might well represent some uniform element objecting to the ruffianly tactics of their brawny and dusky-fellow citizens.</p>
+         
+         <p>The English Sparrow riffraff, like street-corner bullies attempt to break up the meetings of their more respectable fellows, and often in the woods you will find an owl, sitting thoughtfully on a limb, full of wisdom, but heckled by all the birds on the premises. He is a prophet, and without honor in his own ward. He can scarcely hope for election to any woodland honor, but appears to have no friends in either party.</p>
+         
+         <p>Do not let politics bother you enough to try to [word not legible] those things among all the beauties that await you out there today - but when you take your brisk Sunday hike we venture to remark that you will find yourself in the midst of a lot of redhot campaigning.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 15, 1922. <title>Omaha Sunday World-Herald</title> 58(3): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

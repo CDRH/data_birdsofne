@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00142">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Carolina Parakeet near Brownville on a Missouri River Island</title><title level="j">Proceedings of the Nebraska Ornithologists' Union</title><author>Furnas, Robert W.</author><date>1902-12-01</date><biblScope>3: 107.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Carolina Paroquet</head>
+         
+         <p>When I came to Brownville, in the spring of 1856, and for eight or ten years thereafter, there was an abundance of green parrots, or paroquets, in this vicinity. Their home and breeding place was on an island of the Missouri River, ten miles north of this place. They often came into the trees in and about the town, and were very noisy and quite tame. Many of the young ones were taken from their nests by the boys and raised by hand for pets. They could not be taught to talk. I remember that one season some young men raised a hundred or more of them for sale, sending them to other states. During the year 1866, or thereabout, they all suddenly disappeared, and never since to my knowledge have been seen or known about here. Their nesting places were in the hollows of old trees on the island referred to.</p>
+         
+         <list type="simple">
+            
+            <item>Robt. W. Furnas, Brownville.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">December 1902. <title>Proceedings of the Nebraska Ornithologists' Union</title> 3: 107. Proceedings of the third annual meeting.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

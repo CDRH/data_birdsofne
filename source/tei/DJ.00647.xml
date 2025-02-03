@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00647">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Packing Up to Go [Bronzed Grackle].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-09-19</date><biblScope>55(51): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Packing Up to Go.</head>
+         
+         <p>There is scarcely a more peculiar nor a more interesting bird than the Bronzed Grackle, and since he is getting ready to leave us for the winter, it might be well to comment upon him a bit.</p>
+         
+         <p>In the first place, there are a lot of him. E.H. Forbush, boss ornithologist for Massachusetts, chronicles a migratory parade of these birds that lasted all day and darkened the rays of the sun. Possibly millions of these birds passed over that state on that day. While we don't know much about Brother Forbush, we claim to have seen some Grackles.</p>
+         
+         <p>These grackles are sometimes known as Crow-Blackbirds, and as indicated by that monicker, are a sort of cross between the two. They carry a long fuselage, and in-flight are a pretty good imitation of a miniature monoplane.</p>
+         
+         <p>As to habits while in our midst, they are very handy in cleaning up picnic grounds and public parks, where they will cart off great cargoes of bread crusts, scraps of meat and the like. As far as we know they do not pollute themselves with carrion, and are not harmful to the fields of grain. Their song is a squeaky affair, that suggests a poorly oiled wagon wheel, and their note of alarm or protest is a raucous squawk that has no imitation.</p>
+         
+         <p>But these Grackles certainly make a fine pageant when they start south, as they are now preparing to do. They get into a bunch and stay that way - flying from one feeding ground to another in immense numbers. Their cries will awaken you in the morning, providing you are on your sleeping porch, and their queer manner of handling the all-important tail will identify them as Grackles, no matter how high in the air.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 19,1920. Packing Up to Go [Bronzed Grackle]. <title>Omaha Sunday World-Herald</title> 55(51): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

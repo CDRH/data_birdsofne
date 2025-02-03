@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00414">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hummingbirds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-06-12</date><biblScope>56(42=37): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hummingbirds.</head>
+         
+         <p>There is no prettier or sweeter or more strangely interesting bird among all the feathered throng that visits us in the summertime than the Ruby Throated Hummingbird. Sweet we may certainly say he is, for he exists chiefly upon the honey of our wild and cultivated flowers.</p>
+         
+         <p>As to his beauty, it is paramount in birddom, although he is such a tiny affair, and so swift in his movements, that one scarcely ever gets the opportunity to feast one's eyes to complete satisfaction in the glory he possesses. As for his mate, the little lady of the greenish, copperish hue - she is equally glorious, in a more modest and retiring sort of way.</p>
+         
+         <p>Strangely interesting the Ruby Throated Hummingbird certainly is - so interesting, indeed, that scientists and naturalists have still a great deal to learn about him and his habits. it is said by some, for instance, that he is the fastest bird that flies, and one would think so from the manner in which he can hang for an instant before one's eyes and then disappear into thin air as if by magic. During his migration he must develop tremendous velocity; a tiny bullet of feathers speeding through the night, perhaps toward Mexico and Central America in the late summer, and back to us in the late spring.</p>
+         
+         <p>To find a Hummer's nest is a privilege not accorded many. The home of this wondrous little creature is scarcely as large as a napkin ring, and generally very carefully hidden. One was found a few years ago in the Forest Lawn greenhouse, into which birds had flown through on open skylight ventilator. The nest was built on a great leaf of a century plant and was not discovered until the youngsters were about ready to leave. This is one of the few such finds on record in Omaha.</p>
+         
+         <p>A study of the Ruby Throated Hummingbird will interest you - especially if you have a pair of them patronizing your flower garden.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 12, 1921. <title>Omaha Sunday World-Herald</title> 56(42=37): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

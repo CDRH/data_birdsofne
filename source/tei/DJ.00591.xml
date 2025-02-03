@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00591">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Notes.</title><title level="j">Forest and Stream</title><author>Grinnell, George B. [Yo, pseud.].</author><date>1877-09-27</date><biblScope>9(8): 152.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Notes.</head>
+         
+         <list type="simple">
+            
+            <item>
+               
+               <hi rend="bold">Swamp on the Dismal River.</hi>
+            
+            </item>
+            
+            <item>Sept. 6, 1877.</item>
+         
+         </list>
+         
+         <p>Editor <title>Forest and Stream</title>: </p>
+         
+         <p>Those writers who sagely affirm, that the "Great American Desert" has no existence should come to Nebraska and explore its sandhills. A few day's travel through this region would, I am sure, cause an entire change in their opinions. Imagine, if you can, a strip of territory one hundred miles wide and four hundred in length covered by a mass of sand so soft and yielding that a horse's hoofs at each step sinks two or three inches into the ground, and so fine and light that it is carried hither and thither in clouds by the winds that blow almost without ceasing. A little vegetation clothes the hillsides, but it is very sparse and there are wide spaces of bare sand between each tuft of grass or weeds. A few streams are scattered at wide intervals through the region and flow into the North Platte River, or the Loup Fork; and it is only along these streams that the rich dark green of living grass and shrubs appear to relieve the everlasting monotony of the gray sandhills with their scanty covering of subdued brown. </p>
+         
+         <p>Although the buffalos in this region have suffered the absolute extermination which awaits all our larger game, the antelope still exist in the sandhills in considerable numbers. Elk, too, are not infrequently met with, and the mule-deer and Virginia deer are somewhat abundant. But here, as everywhere else, the dimunition of game within the past few years is something terrible and cannot but grieve and shock the sportsman. Some years ago when I first passed through these Nebraska sandhills at no time during the day were we out of sight of antelope, both species of deer were continually jumped from the ravines and creeks, and bands of elk of from fifty to two-hundred and fifty individuals were met with almost daily. This country, although almost with large game at present, still abounds in wild fowl.</p>
+         
+         <p>Less than one-hundred yards from our camp is a beautiful little lake overhung by lofty bluffs and fringed with dark green rushes. On its surface can be seen at any hour of the day thousands of ducks and geese, and tens of thousands of waders. The most abundant ducks which we see are the smaller broadbills (<hi rend="italic">Fuligula affinus</hi>) and the blue-winged teal (<hi rend="italic">Q. discors</hi>), though mallards, black ducks and gadwalls are numerous. Flocks of geese alight on the lake every day, and to my surprise I learned that two pairs of swans (<hi rend="italic">Cygnus Americanus</hi>) bred on its shores during the past summer. Of this fact there can be no doubt, as both the old and young were seen daily for more than a month.</p>
+         
+         <p>The waders comprise most of the more common varieties of snipe and bay birds, but there are also some of the rarer species, which we, of the East, seldom see alive. A large flock of beautiful avocets glean a fat subsistence from the shallower waters, and when approached, make the air vocal with their shrill cries. Killdeer plover, Baird's sandpipers, and the little oxeyes hurry along the shores in search of food, and every now and then, in riding by, we start from the damp spots near its margin, that prince of birds, the Wilson Snipe. I must not forget to mention the hundreds of graceful little Northern Phalaropes (<hi rend="italic">Lobipes hyperboreus</hi>) which, floating lightly on the mirror-like surface of the lake, form one of the most pleasing features of the scene.</p>
+         
+         <p>My host is one of the cattle kings of this Western country, and his herds range about our camp for miles in all directions. It is a grand sight to watch the bands of cattle pour down from the hills on all sides, slowly and in single file, and move toward the water's edge to drink. So, in former times, did the buffalo, whose bones are still thickly strewn along the margin of the lake, file down and pour their dark columns into this peaceful valley.</p>
+         
+         <p>Our hunting has, up to this time, been limited to antelope, at present the most abundant game in this vicinity, although even antelopes are scarce. We were fortunate enough, a few days since, to kill "the biggest buck antelope in the range," a splendid animal with a fine pair of horns, and so large that it taxed severely the strength of two men to lift him onto a horse's back. He was a wary old fellow, too, and it afforded us no little satisfaction to have succeeded in circumventing him. When first seen, the buck appeared on a crest of a hill half a mile or more from where we were seated, engaged in watching the movements of a small band of antelope, which were feeding toward us. As soon as we saw the buck, we decided that he was the antelope for us, and more than an hour we sat and watched him. He promenaded up and down that ridge and debated with himself as to whether those dark objects in the valley were, or were not, enemies. Sometimes he would disappear behind the hill for a short time, but after a little we would see the tops of his horns appear again and he would take another peep. At last he disappeared and it was thought time to approach him. Cautious and deliberate stalking soon brought me within view of the game at a distance of one hundred and fifty yards. There the buck stood, placidly chewing his cud, and looking, to my eager vision, about as large as a cow. A carefully aimed shot pierced his heart, and he fell dead after running a hundred yards. We have seen a few deer, white tails all, but have not yet hunted them. Before long, however, we hope to have some sport with them, and perhaps, to get into a band of elk that is believed
+to be feeding on a creek about thirty miles from here.</p>
+         
+         <p>
+            
+            <hi rend="italic">Hasta Luego.</hi>
+            
+            <lb/>Yo.</p>
+         
+         <cit>
+            
+            <bibl default="NO">George Bird Grinell. September 27, 1877. <title>Forest and Stream</title> 9(8): 152.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

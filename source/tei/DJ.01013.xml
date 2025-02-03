@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01013">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Beautiful Birds.</title><title level="j">Omaha Daily Herald</title><author>J.C. Crawford</author><date>1877-11-24</date><biblScope>13(36): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-25"/>
+    <respStmt>
+	<name>Anastasia Smallcomb</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Beautiful Birds</head>.
+
+         <head>Hon. J.C. Crawford on Bird-Killing at State Fairs.</head>
+
+<p>Hon. J.C. Crawford is the author of the new law for the protection of birds in this State, and also its ablest champion in and out of the Legislature.  We have resurrected the following letter which he wrote to Secretary Wheeler which will explain itself:</p>
+
+<dateline>West Point, September 27, 1877.<lb/>
+Hon. D.H. Wheeler, Secretary State Board of Agriculture.</dateline>
+
+<p>Dear Sir: - Yours enclosing compliments of the society was received in due time, for which please accept my thanks.</p>
+
+<p>In reply to your post-script, "come and see our fair birds," I have to say that I regret very much that professional engagements will prevent my being present at your 11th annual exhibition to rejoice with you all over the results of the first year's protection of birds. The farmers and merchants of Nebraska are rejoicing over a crop that has never been excelled in any State, and the result is, your exhibition is a decided success.</p>
+
+<p>"It is always darkest just before daylight," and the farmers have the best crop when they expected the worse - so dark, indeed, did the prospect seem last spring, that many farmers considered it folly to plant while the ground was literally crammed with hopper eggs, and everybody knew that unless they or the young hoppers were destroyed by some means, the latter would certainly destroy the crops, yet those who did plant harvested a better crop than ever before.</p>
+
+<p>I am very sorry that your board, and the people you have called together to exhibit to the world the wonderful resources of our State, and to rejoice together over the bright prospect of peace and plenty, should forget that all this was made possible by industrious little "birds." I regret that they could not find better means of showing their gratitude to the Great Giver of all the good things displayed at your fair than murdering their beautiful benefactors - "birds."</p>
+
+<p>Do you think it any wonder that the Creator of these little birds permits the insects to destroy our crops when the people so wantonly destroy the birds whose office is to keep down the insect life. I am astonished that the Board should permit such a cruel and disgraceful exhibition on their grounds, especially when I remember that they favored a law making the killing of "birds" a crime punishable by fine and imprisonment, and I only regret now that the law does not provide for imprisonment in the penitentiary of those who are guilty of such wanton cruelty to "birds." Present this letter to the Board with compliments of a friend of the "birds" and yours truly</p>
+
+
+<p>J.C. Crawford.</p>
+
+<cit>
+<bibl default="NO">November 24, 1877. <title>Omaha Daily Herald</title> 13(36): 2.</bibl>
+</cit>
+
+</body>
+</text>
+</TEI.2>

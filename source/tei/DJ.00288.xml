@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00288">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Fawn Lily and Lilac.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-16</date><biblScope>55(34): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Fawn Lily and Lilac.</head>
+         
+         <p>The Adder's Tongue blossoms have gone but the spotted leaves that gave them the name are still very thick among the shrubs and leaf mould. It is said that it takes the root seven years to mature sufficiently to produce one blossom, and only one' but it continues to creep and form other roots and bulbs which after their seven years' growth produce their flower in turn. John Burroughs, who stands at the head of American naturalists, desires that the name of this flower should be changed to Fawn Lily, as it really belongs to the lily family and its leaves are like the fawn's skin. Henceforth, therefore, it must be Fawn Lily.</p>
+         
+         <p>And now the lilacs are here, and the white lilac! That brings to mind a tiny cottage in Wisconsin where a great white lilac bush, almost a tree, grew so tall that it reached up to the little window in the small garret, and a girl used to climb the garret stairs, stand beside the window and pick the flowers and bring them down to Grandma. Ever since the white lilac has been her favorite flower. A trail of bushes marks her course as she traveled from town to town in Nebraska, seldom staying long enough to be cheered by the blossoms, but hoping that some soul who loves them as she does will enjoy them in the game of give and take that has showered her with what others have sown.</p>
+         
+         <p>The lilac is such a homelike shrub. It grows everywhere all over the country, in the rich man's yard as well as in the poor man's, and is one of the first shrubs to put on its leaf dress and bravely greet the winds and the driving rains and even the sleet and snow with a happy smiles and an assurance that spring and the flowers and the birds are coming very soon.</p>
+         
+         <p>Long life, then, to the lilac, both in its colored dress and in its white one; the former for daintiness and the latter for purity.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 16, 1920. <title>Omaha Sunday World-Herald</title> 55(34): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

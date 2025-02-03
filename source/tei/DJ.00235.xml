@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00235">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Ducking at Waubonsie Lake.</title><title level="j">Forest and Stream</title><author>W. H. R.</author><date>1882-08-10</date><biblScope>19(2): 27.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-08-08"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Ducking at Waubonsie Lake.</head>
+         
+         <p>Last October a party of four, including the writer, rigged up a wagon with a cover, and putting in bedding, boat and camp utensils, started for this lake, distant twelve miles south of this city. We went for duck shooting and spearing fish for which this lake is noted. This lake, or more properly a bayou of the Missouri River, is in fact a relic of the old bed of the river. It is two miles long and one wide, and has a dense growth of flags and marsh grass. But there are many open spaces of water. The flags completely conceal the boat and the shooter, thus affording the best of shooting morning and evening. Bass, pickerel, pike and catfish are abundant, and hundreds are caught by the trawl net. A party of three shipped six hundred pounds the morning we arrived. Thousands of ducks in spring and fall find excellent feeding ground here, and good shooting is found after the sloughs and small streams are frozen over. The birds will not be driven away.</p>
+         
+         <p>We killed as many as we and our friends could use for many days; more than this we did not care for. We spent two days and nights on this lake, days and nights we will remember for years. We secured eight varieties of birds, viz., mallard, gray duck, blue and greenwing teal, broadbill, woodduck; bluebill and redhead. We saw but few geese here; but they are found in large numbers along the river bars, and this kind of shooting was better this year than usual.</p>
+         
+         <p>In my twenty years' shooting I never saw so many coots (<hi rend="italic">Fulica americana</hi>) as here. The water was black in places with them; and when they took to wing it was not unlike a wind storm. They are not used for food here, although I have been told that some of the natives eat them. We always found ducks feeding with them, either broadbills or redheads. Owing to previous hard rains that discolored the water our spearing was a failure, although we procured enough fish for our own needs in camp. One of the party killed a solitary jack snipe, the only one we saw during our stay.</p>
+         
+         <p>Excellent camping places are found anywhere around the lake, as high bluffs 100 feet high skirt the north and east, broken by ravines, which afford plenty of good spring water and a abundance of wood for camp fires. Corn can be bought near for teams. No hotels nearer than twelve miles. A few wild turkeys are found in the timber back of the lake; but it is the roughest country in the State to travel over, so he who hunts them will have all the exercise he wants. Plenty of quail and squirrels are found, but no ruffed grouse. Andy Moore, of our party, secured a bald eagle (<hi rend="italic">H. lucocephalus</hi>), and has it mounted. Measured six feet from tip to tip, and was a male in full plumage. It now adorns a leading hardware store in town. We intend to visit this place again this fall, and anticipate a glorious time.</p>
+         
+         <p>W. H. R.    <lb/>Glenwood, Iowa.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 10, 1882. <title>Forest and Stream</title> 19(2): 27.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

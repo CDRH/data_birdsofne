@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00408">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">House Hunting.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-04-22</date><biblScope>52(30): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>House Hunting.</head>
+         
+         <p>Out in Elmwood park there is an old and abandoned Robin nest amid the thick branches of an evergreen. The songsters' former abode is weatherbeaten and run down at the heel, just like human habitations thus forsaken. Woven into the shell of mud and grasses, however, there still remains a scrap of newspaper, yellow with age but still showing enough print to disclose the fact that it once was part of a "For Rent" column of advertising.</p>
+         
+         <p>Truth in Birdland is much stranger than fiction, which is a fact recognized by every birdlover, so there is no need to stamp this premise as a nature fake.</p>
+         
+         <p>This is house hunting time for most of the birds, and it is not surprising that old Bob Robin should consult the want ads, just as do his larger but no wiser friends - the humans.</p>
+         
+         <p>It is interesting to see a happily married couple rubbering around apartment houses, inspecting residences for rent or sale, or directing the construction of a new dwelling in some barren spot on the real estate frontier - while all about them the songbirds are doing the very same thing, in their own way.</p>
+         
+         <p>The Chipping Sparrows, dainty little folks with a song so delicate that it can scarcely be distinguished from that of an insect, are looking over the vines and bushes and small trees to pick out a proper site, while the burly Robins study with expert gaze the different branches or shelvings upon which they may erect a palatial residence. Presently the House Wrens will be here, expecting, of course, to rent a neat home you should erect for them, making daily payments of the richest and most incessant carolling of all.</p>
+         
+         <p>Be ready for the feathered house hunters - and watch them in their hunting. It is worth while.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 22, 1917. House Hunting. <title>Omaha Sunday World-Herald</title> 52(30): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

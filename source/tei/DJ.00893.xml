@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00893">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Tardy Nesters [Goldfinch and Mourning Dove].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-09-07</date><biblScope>54(49): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Tardy Nesters.</head>
+         
+         <p>Few of you folk who may possibly indulge in the laudable and healthful pastime of Sabbath hiking realize that this is still the nesting season for songbirds.</p>
+         
+         <p>Nesting in September! Ridiculous!</p>
+         
+         <p>Ridiculous on paper - but true in fact.</p>
+         
+         <p>There are at least two birds that nest this late in the season in this territory, they being the Goldfinch and the Mourning Dove. Three years ago a Field Sparrow's nest was found to contain young birds as late as this, but none has been reported in 1919.</p>
+         
+         <p>It is very peculiar that the Goldfinch, a bird that stays with us all the year around, changing its color like the chameleon to agree with the season, should be one of the very last to nest and raise its young. Yet this is true, and even now it will be possible to find young "wild canaries" in their thistle-down cubby-holes along the roadside.</p>
+         
+         <p>The Mourning Doves are notorious for their late nesting, which accounts for the law prohibiting the shooting of these birds. For many years the open season on doves was in the very middle of the nesting period, which threatened to exterminate the species before long. A Mourning Dove will remain on its sparse nest until practically pushed from it, and is easy prey for hunters.</p>
+         
+         <p>The foliage is beginning to whither and dry up sufficiently to permit the easier locating of songbirds' nests, and the study of the habits of these late nesters will be worth while when you take your weekly hike today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 7, 1919. The Tardy Nesters [Goldfinch and Mourning Dove]. <title>Omaha Sunday World-Herald</title> 54(49): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

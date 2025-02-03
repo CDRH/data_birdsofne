@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00916">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Trickery in Birdland.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-08-01</date><biblScope>50(44): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Trickery in Birdland.</head>
+         
+         <p>One of the most delightful features of the charming pastime of bird study is the seemingly inexhaustible number of strange whimsies and freak "stunts" that nature springs on the bewildered but willing huntsman.</p>
+         
+         <p>There are few boys and girls in Omaha or vicinity who are unacquainted with the Orchard Oriole, for instance - at least if these boys and girls take advantage of the grandest days of their lifetime to prowl the woods and parks.</p>
+         
+         <p>This delightful fellow is arrayed in a coat of brick red and black, or that is at least the common supposition - while his wife wears a dullish yellow garment.</p>
+         
+         <p>But if you boys and girls - and grownups, too for that matter - will take a little saunter in the fields and ravines today, you will likely run across Mrs. Orchard Oriole in company with a husky looking bird of brighter yellow with a jet black chest-protector under his chin!</p>
+         
+         <p>A scandal in Birdland aristocracy perhaps! It certainly would seem that this faithless female has forsaken her gaudier husband and has eloped with some wrecker of homes - this fellow in the disguise.</p>
+         
+         <p>But in thinking this, an injustice is done the pretty little Oriole, who is as honest and honorable as could possibly be.</p>
+         
+         <p>By a trickery of Dame nature the male Orchard Oriole in his first year of wedded bliss is in yellow plumage, with the aforesaid black patch upon his throat. And when he has lived another year, has migrated to the southward and returned, he appears to your surprise in the conventional brick-red and black to clear his wife's name.</p>
+         
+         <p>Little things such as this make the game of birding the sport of all harmless and instructive sports, and it is safe to say that may an astute naturalist or ornithologist has been baffled sometime in his career by the male Orchard Oriole.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 1, 1915. <title>Omaha Sunday World-Herald</title> 50(44): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

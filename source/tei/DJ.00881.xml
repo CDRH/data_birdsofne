@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00881">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Summer Birds Here Searching for Homes. Spring's Morning Orchestra Now Greets Ear of the Early Riser. Picking Their Mates.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1921-03-20</date><biblScope>56(25): 3-W.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Summer Birds Here Searching for Homes</head>
+         
+         <head>Spring's Morning Orchestra Now Greets Ear of the Early Riser.</head>
+         
+         <head>Picking Their Mates</head>
+         
+         <head>By Sandy Griswold.</head>
+         
+         <p>Many of our summer birds are now here and within a comparatively short time all of them will be on hand. All that are with us today are mating and many of them already engaged in their search for summer homes, and as is inevitable, all surrendering to the musical impulse - our infallible vernal orchestra.</p>
+         
+         <p>All animals are prone to this springtime rehearsal and the efforts of all, but none more particularly combined, it is the melody of all melodies, wondrously sweet to the nature lovers, from the robin's daybreak greeting, the chickadees incomparable little roulade, the too-loo-loo-loo of the blue jay, the piping of the frogs in the wet meadows, to the general low diaphason of all feathered and insect throats that make the caressing spring all resonant with music.</p>
+         
+         <p>All these delightful notes are in a sense instrumental, while the entertainment by the first woodpeckers little downy and his larger cousin, the hairy, is no less musical than that of the sweetest singers. As they hammer away with their sharp and strong beaks, on naked branch, top of fence or telephone pole, as a greeting to the rising or adios to the sinking sun, they do not neglect the busy carpentry of their daily life. Like the busy bee - so with these lovely little woodpeckers. While the bursting spring is their elysian period, they also delight our ears during even the winter's dreariest days, as they remain with us always. Shortly, too, the redheads and the goldenwings, will add their more pronounced cadenzas to the merry din.</p>
+         
+         <p>They are all delvers and diggers. They get their food from out the rotten woods and from the crevices and from under the bark of all our trees, and better than all, frequent our parks and yards as much as they do the silent wildernesses - spending the chill night hours in holes in the branches, which they rechisel for nesting in the summer.</p>
+         
+         <p>All are skilled carpenters, and yet, the yellowhammer, is not so adept in the art as those in close propinquity. he loves the ground, and ants are his favorite morceau. Already his eeko! eeko! eeko! eeko! is sounding in our parks, and soon, too, will be the creer creer-err! of the redhead, a note most difficult to imitate, in fact it cannot be done, but it, too, has its charm. But the overture of the grandest of all nature's orchestra, is now reverberating throughout all the land, and he that hears, must be happy.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 20, 1921. <title>Omaha Sunday World-Herald</title>	56(25): 3-W.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00011">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Almighty's Outdoors.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-02-06</date><biblScope>56(19): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Almighty's Outdoors.</head>
+         
+         <p>Be the woods shrieking with the chill-blistering attack of a blinding blizzard, weltering in the steamy heat that follows a summer storm, immersed in the opal of fog with which we have become so well acquainted of late, or gleaming green or gleaming white in the brilliance of the sun or of the moon; even in the complete mystery of the blackest of all black nights, the Almighty and his handmaiden, Nature, hold outdoor church services seven times each week, twenty-four hours to each day.</p>
+         
+         <p>The sermons are something Quakerish in plan, being delivered as the spirit moves - the sigh of the south wind through the birches, the crackle of the ice in the frozen pond, the soft prayer of the brook through the rushes in the starlight or the fierce denunciation of the roaring skies, with billows of thunder punctuated with pointed fingers of lightning.</p>
+         
+         <p>There is a noble choir in this vast cathedral, too, with never ending variety of moods, to meet the exaltation or depression of the immortal human soul so privileged to hear it.</p>
+         
+         <p>There is the lovely Bluebird to soothe; the Cardinal to cheer; the Chickadee to encourage thrift and vivacity; the Turtledove to mourn; the Robin to enliven the congregation with the proper spirit of good fellowship; the Screech Owl to shudder the agony of a soul lost in a midnight of sin, perhaps - and the clown-like Red-headed Woodpecker to furnish the laughter for any social outdoor church event.</p>
+         
+         <p>Wonderful religion, this - and a wonderful church! But it is yet more significant that he who truly worships at the shrine feels a secret longing for another.</p>
+         
+         <p>This, perchance, is but a Christian appreciation of the wonders God gave in his first church, with its walls of creviced bark, its roof of shimmering green, its altar of flowers and its hymn from the golden throats of birds.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 6, 1921. <title>Omaha Sunday World-Herald</title> 56(19): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

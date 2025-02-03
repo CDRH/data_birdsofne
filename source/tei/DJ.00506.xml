@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00506">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Lost Gun. A Prairie Chicken Hunting Story.</title><title level="j">Omaha Daily Bee</title><author>Anonymous.</author><date>1873-08-04</date><biblScope>3(39): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Lost Gun.</head>
+         
+         <head>A Prairie Chicken Hunting Story.</head>
+         
+         <p>A good story is told us of a couple of Omaha gentlemen - a banker and a man who has the handle of "Dr." to his name - who went out prairie chicken hunting last Friday. Upon arriving at the hunting grounds, they alighted from their buggy and began an onslaught on the birds. After hunting some time the banker brought down a chicken, and after carrying it a few moments, he shot another, which dropped some distance from him with considerable fluttering. Anxious to secure the bird, he laid his dead bird and his gun in the grass, and gave the wounded chicken chase. After catching it, he returned to find his gun; but alas! the "dr." had got into the buggy and driven it to another spot, thus changing the landmark upon which the banked had depended to track his way back to his gun. The banker couldn't find his gun anywhere, and with the "Dr." he continued the search for half an hour. They then procured a scythe from a neighboring farm-house, and mowed till they were tired out. They next hired a man to mow, and he worked for an hour without success. Finally, the two men who were watching the fellow mowing for the lost gun, saw their dog at some distance "pointing" at a chicken, of course. The "Dr." being the only one who now had a gun, said he would go and shoot it. He proceeded slowly to the spot, expecting every moment to see a bird rise. But no chicken flew up. The "Dr." at last got so near, that he became reckless, and walked clear up to the dog, and there sure enough he found the faithful hunter pointing on a chicken. But it was a dead one! It was lying beside a gun. It was the dead chicken that the banker had dropped, when he ran after the wounded one, and the gun was no other than the lost one. "Faithful dog," said the Doctor, "you've pointed out just seventy-five dollars."</p>
+         
+         <p>The two gentlemen were highly gratified at finding the gun and having spent most of their time in hunting for it, they returned home satisfied, having had glory enough for one day.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 4, 1873. <title>Omaha Morning Bee</title> 3(39): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

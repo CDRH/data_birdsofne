@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00529">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Ed Maurer is Taken by Game Wardens. Manager Clark of the Milliard Pays a Fine of Two Hundred Dollars for Keeping Game.</title><title level="j">Omaha Morning Bee</title><author>Anonymous.</author><date>1911-05-10</date><biblScope>40(279): 11.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Ed Maurer is Taken by Game Wardens</head>
+         
+         <head>Manager Clark of the Milliard Pays a Fine of Two Hundred Dollars for Keeping Game.</head>
+         
+         <p>Mine host, Ed Maurer, who is conscientious to a painful degree in serving with culinary satisfactions his friends and customers, has sworn off on one kind of generosity. The next man who comes into his restaurant and asks for wild duck will get a refrigerating stare. No more wild ducks are to be bought in that shop.</p>
+         
+         <p>Several days ago two innocent and mild-mannered men ambled into the Maurer cafe and looked with open scorn upon the dainties listed on the bill of fare. They called the head waiter.</p>
+         
+         <p>"We want something wild, something that has a smack of the fresh water or the woods. We pine for savage food."</p>
+         
+         <p>The head waiter opined that a brace of ducks might be the proper thing, and the two men looked first at each other with a knowing expression and then called for the brace of ducks. When they had finished the ducks, cleaning up the plate to the last tender bit, and acting as if they enjoyed it they called over mine host Ed Maurer and had him pinched.</p>
+         
+         <p>Ingratitude is only one of the words which mine host used, but since the men were Henry Miller, state game warden, and one of his deputies, and since selling or serving wild ducks is a violation of the state game laws, nothing could be done. Mr. Maurer protested innocence, however, and will be given a trial before Justice of the Peace Cockrell within a few days.</p>
+         
+         <p>On the same day the wardens went prying around the larders of the Millard hotel and found there 133 birds of various sorts and degrees of succulence and confiscated the whole flock. W.B. Clark, manager of the Millard, came into Justice Cockrell's court Monday afternoon and paid a fine of $200. The legal rate is $5 per bird, but rebates are allowed and he paid for only forty of his ice box brood.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 10, 1911. <title>Omaha Morning Bee</title> 40(279): 11.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

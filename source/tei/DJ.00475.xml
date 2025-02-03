@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00475">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The King of the Forest. Cherries and Wild Plums.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-09-17</date><biblScope>57(48=51): 14-E. Two nature editorials.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The King of the Forest.</head>
+         
+         <p>Whosoever is fortunate enough to inhabit a dwelling sheltered by one or more oak trees has been greeted for the past month by the sharp tap,tap of the acorns falling on the roof, or driven by the wind sometimes against the window pane or side of the house. And should the house tree be one of a group that beautify a lawn, showers of the fringed cups and saucers in ones, twos and threes rattle to the ground. There perhaps one in many thousand fulfills its destiny and becomes, under the covering of earth that the rain or the aid of man may heap upon it, when the right season comes, a tiny treelet that after many years may repeat upon some other roof and to another people the tap, tap that it gave when it left the mother tree to journey alone.</p>
+         
+         <p>King of the forest is this product of the acorn. Some are known to be more than a thousand years old. Since the very earliest times it has been worshiped, the Greeks believing it to be the first tree that grew upon the earth. The Romans crowned their heroes with a chaplet of oak leaves, the Druids offered sacrifices under its shade. Worshipers of Thor allowed no oak tree to be cut down lest the god of thunder would let his hammer descend upon them.</p>
+         
+         <p>Quercus (beautiful tree), with its qualifying adjectives yellow, white, bur, red, scarlet, black is found in thirty or more varieties along our streams of the middle west, but we have few worshipers of Thor to prevent the ruthless worshipers of gold from destroying the oldest and largest ones of the stateliest trees in our forests; hence but few can be said to have come to the limit of their life. And as we whirl by the forests, we humans of the present day, we do not stop to worship, or even to admire.</p>
+         
+         <p>And we leave it to the squirrels to live in and love them.</p>
+         
+         <head>Cherries and Wild Plums.</head>
+         
+         <p>When Nebraska was young every stream was lined with wild plum bushes and the yield was larger than at any time since, say those who lived here in pioneer days. Equally were the valleys and hillsides covered with thick growths of wild cherries. The pioneers and the redmen gathered and prepared these two wild fruits in quantities for winter use. Then came civilization on a larger scale and both cherries and plums became scarcer as time passed, until today large plum patches and wild orchards of cherries are gone from the eastern and middle sections of Nebraska. Small plum patches and a few wild cherry bushes still remain. In the western part of the state plums and cherries, and grapes as well, are yet to be found in quantities.</p>
+         
+         <p>This has been one of the most prolific seasons for wild plums and cherries all over the state in many years, and plums are yet to be obtained on the market at low price. With them came an unusual supply of wild grapes, the vines everywhere being loaded to the ground. Wild plum trees and wild cherry trees are like some wild tribes of plainsmen, they thrive best without the aid of civilization. With grapes it is different. So hardy are they that they can hardly be killed off, and always bear except during unusually dry seasons.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 17, 1922. <title>Omaha Sunday World-Herald</title> 57(48=51): 14-E. Two nature editorials.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

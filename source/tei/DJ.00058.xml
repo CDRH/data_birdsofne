@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00058">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Besotted Robin.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-07-11</date><biblScope>55(41): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Besotted Robin.</head>
+         
+         <p>In these joyous days of Volsteadism, when light wines are classified as "booze" and the user thereof entitled to free board and room in the handiest city, state or federal jail, it is rather interesting to note the activities of the Robins.</p>
+         
+         <p>It is inconsiderate, however, to pick on the Robin particularly, for the Catbirds are in the same depraved class, and, in fact, scores of other birds occasionally forget their manners and the teachings of the Anti-Saloon league.</p>
+         
+         <p>To get down to the facts in this sad case, it appears that the Robin Redbreast is a gay boulevardier and likes his wine! He likes it so much and so consistently that very occasionally he goes off on a bender and just raises the devil, as it were!</p>
+         
+         <p>Now we admire Brother Robin. We love him because he seems to like us and everybody else. He busts around the garden, digging out worms and things, and takes a bath in the bird tub about every five minutes. If cleanliness is next to godliness, the Robin is a saint.</p>
+         
+         <p>But, darn it all, this Robin fellow likes his wine - and sometimes (hush) gets ossified!</p>
+         
+         <p>The gigantic machinery of the federal prohibition bureau, with its formidable Volstead weapon, should arrange for the immediate execution of every Robin in the country! If not execution - certainly incarceration.</p>
+         
+         <p>Cherries in particular, and all sorts of wild berries, with few exceptions, are especially yearned for by Robins. They eat 'em in the spring, and as long as one can be found dangling on a tree, bush or vine. That is just how the Redbreast manages to get all steamed up every once ina while. We have no evidence as to whether or not he goes home and pecks his wife's eyes out, or throws his kiddies out of the nest - but he certainly is a rare old bird when it comes to worshiping at the shrine of Bacchus and pouring libations thereto.</p>
+         
+         <p>We have no less authority than Ernest Narold Baynes of Meriden, N.H., the very home of bird conservation, and Forbush, the Massachusetts state ornithologist, for the statement that when food is scarce, in the winter months, the resident Robins eat the dried and fermented cherries and berries still clinging to their stems, and thus get all jazzed up and stagger home chirping "The Jones boys built an old saw mill!"</p>
+         
+         <p>More than that, the Robins and Catbirds seem to delight in lugging all possible cherries and currants into the nearest bird bath, with the evident intention of making a batch of wine out of 'em.</p>
+         
+         <p>Isn't Nature wonderful? Almost as wonderful as the Volstead act, which thoughtlessly fails to include any reference to pickled Robins, who reel through the air way after supper time, with their tail feathers all mussed up, and their weeping wives and children watching and waiting without a single worm in the nest!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 11, 1920. <title>Omaha Sunday World-Herald</title> 55(41): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

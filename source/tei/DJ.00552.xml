@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00552">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Mocking Bird.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-04-27</date><biblScope>54(29=30): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Mocking Bird.</head>
+         
+         <p>Reports from enthusiastic nature-lovers to the effect that they have just heard a Mocking Bird" are coming in, as is usual at this time o' year. In a way, these folks aren't wrong at all - for a bird that mocks is a mocking bird, surely.</p>
+         
+         <p>But ornithologically speaking, it is seldom indeed that a real, live Mocking Bird is seen in the vicinity of Omaha, unless in captivity. There are exceptions, of course. Two or three southern Mocking Birds have been positively identified in the southeastern part of Nebraska, and one in the Missouri river bottoms near Carter lake. Western Mocking Birds, of the same family but with different markings, are more common in these parts - but are themselves rare.</p>
+         
+         <p>Most people who enthusiastically announce the presence of a Mocking Bird in their neighborhood at this time of year refer to the Brown Thrasher - also a member of the family. Later comes the Catbird, and he also mocks most successfully.</p>
+         
+         <p>Mr. Brown Thrasher, however, has little to learn from the genuine Southern Mocking bird, except that he doesn't sing as much.</p>
+         
+         <p>The Thrasher, commonly known as a Brown Thrush, is back from the southern country to spend the summer, and what he doesn't know about singing and mocking isn't a great deal! He is of the Mocking Bird family - but is NOT a Mocking Bird in the strictest sense.</p>
+         
+         <p>The Southern Mocker looks a great deal like a Catbird, but is a trifle lighter in color and has white feathers in the end of his tail. The Western Mocker is about the same, with white wing-bars.</p>
+         
+         <p>So there you are!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 27, 1919. <title>Omaha Sunday World-Herald</title> 54(29=30): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

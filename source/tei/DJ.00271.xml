@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00271">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Exhibit of Wild Animals in Columbus].</title><title level="j">Columbus Journal</title><author>Editor.</author><date>1877-05-09</date><biblScope>8(1): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Journal</head>
+         
+         <head>Wednesday, may 9, 1877.</head>
+         
+         <p>- Messrs. Saxon &amp; Blood exhibited in this city last Friday and Saturday, a pair of elk, a buffalo, a deer, a beaver, prairie dogs, prairie chickens, wild geese, and a swift. They captured these animals while they resided in Greeley county, Nebraska, and are just starting out on a long journey with them, intending to pass through Iowa, Illinois, Indiana, Ohio, Pennsylvania, and thence to Warren county, New York, the former home of Mr. Saxon.</p>
+         
+         <cit>
+            
+            <bibl default="NO">
+               
+               <title>Columbus Journal</title> 8(1): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

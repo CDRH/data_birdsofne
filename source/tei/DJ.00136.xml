@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00136">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Burrowing Owl.</title><title level="j">Oologist</title><author>S. &amp; G.</author><date>1890-09-01</date><biblScope>7(9): 205-206.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-10"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Burrowing Owl.</head>
+         
+         <p>One mile and one-half north of here is what is known as a dog town. This is a section of virgin prairie where prairie dogs, rattle snakes, Burrowing Owls and numerous ground birds live. The Burrowing Owl will be our subject. On the fifth of May we went out collecting. We were well supplied with tools for we thought we would have to dig deep after birds. It is said by many frontiersmen that the snake, owl and dog inhabit the same hole; but of all the owl holes we have explored we have found none.</p>
+         
+         <p>On arrival at the dog town we were greeted with barks and amused at the frantic efforts of the little dogs to reach their holes. We went some way further in the town when we saw an owl fly out of a hole. On reaching the hole we found it to be a deserted dog hole (a new one having fresh dirt around the mouth of it, which is kept fresh by them scratching in it.) There was dry horse manure and feathers around the hole. We commenced digging and had not gone far before we found some dead mice and moles strewn all along the bottom of the passage. Finally we saw the female sitting in the passage which we thought was the nest. We were both afraid to reach in and get her, so we drew cuts to see which one should. It fell to me and I pulled her out. We could see one egg lying in the passage. Whether she does this to fool collectors we cannot say, possibly not, but think she does. Further in the hole was the nest about two feet in diameter and two or three inches deep, filled with dry horse manure, with ten pure white eggs in it. The passage never runs straight, but angles into the nest. Some may think it quite rare to get a set of these eggs, but we do not. In the pastures out here where you can find a deserted badger or some other burrowing animal's hole you will find a burrowing owl's nest.</p>
+         
+         <p>The cry of this bird is at night, and is sort of a mournful noise and not unlike the second decadence of coyote howl.</p>
+         
+         <p>S. &amp; G.,<lb/>Gibson, Neb.</p>
+         
+         <cit>
+            
+            <bibl default="NO">1890. <title>Oologist</title> 7: 205-206.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

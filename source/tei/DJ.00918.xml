@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00918">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Trip to Sandhills of Loup River].</title><title level="j">Forest and Stream</title><author>Wolfe, W.M.—Shoshone.</author><date>1889-01-10</date><biblScope>31(26): 515.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+  
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Trip to Sandhills of Loup River.</head>
+         
+         <p>Kearney, Nebraska, January.—Having occasion last month to take a trip among the sandhills of the Loup River, I found pinnated grouse in small bunches, and large coveys of quail. The chickens frequent the draws that open upon the the river, while quail are to be found in the thickets or upon upland timber claims. Back from the railroads the quail have not been hunted to any extent with dogs, and they run at a lively rate at sight of a pointer. Geese have almost entirely disappeared; but on the evening of December 13, a large flock of snow geese (brant) and a few Canada geese passed over town. In the Wood River Valley quail shooting is better this season than for several years past. In the vicinity of Kearney, jack rabbit hunting is becoming a favorite pastime with young ladies and gentlemen who enjoy a cross country chase. If the fad continues the "Wild West" will soon produce riders who will rival those of the Long Island and Essex county hunts.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Shoshone [W.M. Wolfe]. January 10, 1889. <title>Forest and Stream</title> 31(26): 515.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00022">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Annual October Hunt of Omaha Gun Club. Count for Game and Birds of Prey].</title><title level="j">Omaha Sunday Bee</title><author>Editor.</author><date>1893-10-29</date><biblScope>p. 10.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Annual October Hunt of Omaha Gun Club—Count for Game and Birds of Prey (1893) </head>
+         
+         <p>The annual October hunt of the Omaha Gun Club comes off today, and Parmalee's gun store, where the count will be made, is quite apt to present an interesting spectacle tomorrow night. The sides are as follows: Captain W.W. Hoagland, J.J. Read, W.H.S. Hughes, Frank Carmichael, Billy Townsend, B.E.B. Kennedy, Sandy Griswold, Will Krug and C.F. Reed; Captain Frank Fogg, Frank S. Parmalee, W.H. Given, Billy Brewer, F. Gray, Fred Fuller, H.B. Kennedy, Goodley Brucker, Jeff Bedford and George Ketchum. The losing side will defray the expenses of a game banquet to be given next Friday evening at one of the leading hotels yet to be agreed upon. The different species of game and birds of prey will be counted as follows:</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Least sand piper</item>
+                     
+                     <item>Tiltup sand piper</item>
+                     
+                     <item>Pectoral piper</item>
+                     
+                     <item>Kildeer</item>
+                     
+                     <item>Least yellow leg</item>
+                     
+                     <item>Phalrope</item>
+                     
+                     <item>Red breast</item>
+                     
+                     <item>Soera rail</item>
+                     
+                     <item>Large yellow leg</item>
+                     
+                     <item>Golden plover</item>
+                     
+                     <item>Esquimeaux curlew</item>
+                     
+                     <item>Bartrainian sand piper</item>
+                     
+                     <item>Jack Snipe</item>
+                     
+                     <item>Virginia rail</item>
+                     
+                     <item>Hudsonian godwit</item>
+                     
+                     <item>Marble godwit</item>
+                     
+                     <item>Avoset</item>
+                     
+                     <item>Cycle bill curlew</item>
+                     
+                     <item>Clapper rail</item>
+                     
+                     <item>Woodcock</item>
+                     
+                     <item>Glossy ibis</item>
+                     
+                     <item>Blue heron</item>
+                     
+                     <item>Night heron</item>
+                     
+                     <item>White heron</item>
+                     
+                     <item>Pelican</item>
+                     
+                     <item>Sand hill crane</item>
+                     
+                     <item>Whooping crane</item>
+                     
+                     <item>Green-wing teal</item>
+                     
+                     <item>Blue-wing teal</item>
+                     
+                     <item>Shoveler</item>
+                     
+                     <item>Buffalo head</item>
+                     
+                     <item>Common merganzer</item>
+                     
+                     <item>Hooded merganzer</item>
+                     
+                     <item>Widgeon</item>
+                     
+                     <item>Wood</item>
+                     
+                     <item>Gadwall</item>
+                     
+                     <item>Pin tail</item>
+                     
+                     <item>Scaup</item>
+                     
+                     <item>Ring neck</item>
+                     
+                     <item>Ruddy</item>
+                     
+                     <item>Red head</item>
+                     
+                     <item>Goldeneye</item>
+                     
+                     <item>Buff-breasted merganzer</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>4</item>
+                     
+                     <item>4</item>
+                     
+                     <item>6</item>
+                     
+                     <item>6</item>
+                     
+                     <item>6</item>
+                     
+                     <item>6</item>
+                     
+                     <item>6</item>
+                     
+                     <item>8</item>
+                     
+                     <item>8</item>
+                     
+                     <item>8</item>
+                     
+                     <item>8</item>
+                     
+                     <item>10</item>
+                     
+                     <item>12</item>
+                     
+                     <item>14</item>
+                     
+                     <item>16</item>
+                     
+                     <item>20</item>
+                     
+                     <item>24</item>
+                     
+                     <item>24</item>
+                     
+                     <item>30</item>
+                     
+                     <item>30</item>
+                     
+                     <item>40</item>
+                     
+                     <item>8</item>
+                     
+                     <item>8</item>
+                     
+                     <item>8</item>
+                     
+                     <item>10</item>
+                     
+                     <item>8</item>
+                     
+                     <item>10</item>
+                     
+                     <item>10</item>
+                     
+                     <item>10</item>
+                     
+                     <item>10</item>
+                     
+                     <item>10</item>
+                     
+                     <item>10</item>
+                     
+                     <item>10</item>
+                     
+                     <item>10</item>
+                     
+                     <item>12</item>
+                     
+                     <item>12</item>
+                     
+                     <item>14</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Mallard</item>
+                     
+                     <item>Dusky</item>
+                     
+                     <item>Canvas back</item>
+                     
+                     <item>Rocky mountain garret</item>
+                     
+                     <item>Goose of any kind</item>
+                     
+                     <item>Wild pigeon</item>
+                     
+                     <item>Quail</item>
+                     
+                     <item>Sharp-tail grouse</item>
+                     
+                     <item>Ruffled grouse</item>
+                     
+                     <item>Prairie chicken</item>
+                     
+                     <item>Sage hen</item>
+                     
+                     <item>Wild turkey</item>
+                     
+                     <item>Hawks</item>
+                     
+                     <item>Owls</item>
+                     
+                     <item>Cormorant</item>
+                     
+                     <item>Black loon</item>
+                     
+                     <item>Northern diver</item>
+                     
+                     <item>Golden eagle</item>
+                     
+                     <item>Bald Eagle</item>
+                     
+                     <item>Trumpeter swan</item>
+                     
+                     <item>American swan</item>
+                     
+                     <item>Gray squirrel</item>
+                     
+                     <item>Fox squirrel</item>
+                     
+                     <item>Rabbit</item>
+                     
+                     <item>Jack rabbit</item>
+                     
+                     <item>Badger</item>
+                     
+                     <item>Coon</item>
+                     
+                     <item>Weasel</item>
+                     
+                     <item>Fox</item>
+                     
+                     <item>Mink</item>
+                     
+                     <item>Wolf</item>
+                     
+                     <item>Otter</item>
+                     
+                     <item>Beaver</item>
+                     
+                     <item>Wildcat</item>
+                     
+                     <item>Antelope</item>
+                     
+                     <item>Deer</item>
+                     
+                     <item>Black-tail deer</item>
+                     
+                     <item>Elk</item>
+                     
+                     <item>Buffalo</item>
+                     
+                     <item>Rocky mountain sheep</item>
+                     
+                     <item>Mountain lion</item>
+                     
+                     <item>Moose</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>14</item>
+                     
+                     <item>16</item>
+                     
+                     <item>16</item>
+                     
+                     <item>16</item>
+                     
+                     <item>20</item>
+                     
+                     <item>4</item>
+                     
+                     <item>6</item>
+                     
+                     <item>8</item>
+                     
+                     <item>8</item>
+                     
+                     <item>8</item>
+                     
+                     <item>12</item>
+                     
+                     <item>50</item>
+                     
+                     <item>20</item>
+                     
+                     <item>20</item>
+                     
+                     <item>20</item>
+                     
+                     <item>20</item>
+                     
+                     <item>20</item>
+                     
+                     <item>50</item>
+                     
+                     <item>50</item>
+                     
+                     <item>60</item>
+                     
+                     <item>60</item>
+                     
+                     <item>4</item>
+                     
+                     <item>6</item>
+                     
+                     <item>6</item>
+                     
+                     <item>12</item>
+                     
+                     <item>30</item>
+                     
+                     <item>30</item>
+                     
+                     <item>30</item>
+                     
+                     <item>40</item>
+                     
+                     <item>40</item>
+                     
+                     <item>50</item>
+                     
+                     <item>50</item>
+                     
+                     <item>50</item>
+                     
+                     <item>50</item>
+                     
+                     <item>150</item>
+                     
+                     <item>200</item>
+                     
+                     <item>250</item>
+                     
+                     <item>300</item>
+                     
+                     <item>400</item>
+                     
+                     <item>500</item>
+                     
+                     <item>1,000</item>
+                     
+                     <item>2,000</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <cit>
+            
+            <bibl default="NO">Editor. October 29, 1893. [Annual October Hunt of Omaha Gun Club. Count for Game and Birds of Prey.] <title>Omaha Sunday Bee</title>	p. 10.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

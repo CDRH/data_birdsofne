@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00451">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Indigo Indeed [Indigo Bunting].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-06-11</date><biblScope>57(34=37): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Indigo Indeed.</head>
+         
+         <p>There was a time when one expressed mental and physical depression in the word "blues," the super-essence of which was "indigo" - to be which was to be well nigh despairing.</p>
+         
+         <p>Strange it is that such a sweet and cheerful a bird as the Indigo, or Indigo Bunting, should be required to bear a reputation of this sort, for its good cheer would knock the blues completely out of any human who takes the trouble to become acquainted.</p>
+         
+         <p>This tiny blue body flashes across the road as you motor along between rows of trees, and its song is of sufficient beauty that you marvel that so much melody could come from such a tiny specimen of God's handiwork.</p>
+         
+         <p>But the Indigo Bunting - bluest of our blue birds - rapturously tells us of the joy of the growing summer, and of the hidden nest he and his mate have built in the underbrush, where you would have a hard time finding it.</p>
+         
+         <p>Joyful Indigo - who can interpret your song as a dirge of our hope?</p>
+         
+         <p>Useful in more ways than one, the Indigo is the complete opposite of its name, and one of the loveliest feathered fellows you may meet if you take a health-giving Sunday hike this morning.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 11, 1922. Indigo Indeed [Indigo Bunting]. <title>Omaha Sunday World-Herald</title> 57(34=37): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00406">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Horned Larks.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-01-25</date><biblScope>55(17): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Horned Larks.</head>
+         
+         <p>By a very peculiar coincidence, every time we inscribe a brief comment upon a winter bird in these columns, that bird appears on that very Sunday, in larger numbers than ever. We need no ouija board nor Douglas Fairbanks to "pull mystery stuff" for us, but in the hope that this series of coincidences may continue, we would speak of the Horned Lark.</p>
+         
+         <p>In our knowledge none of these birds has shown a feather thus far this winter, in the immediate vicinity of Omaha. It may be that other amateur or professional ornithologists have located the critter, but such hasn't been our good fortune.</p>
+         
+         <p>The Horned Lark is a winter bird, too, and is generally seen in large numbers, even in the coldest weather, feeding on the insect life to be found in the open spaces of plowed ground. Even in zero weather, the southern exposure of furrows melt a bit each day when the sun shines, and these are veritable cafeterias for the Larks.</p>
+         
+         <p>As we have remarked in other issues, the Horned Lark is the only American Skylark - the only bird of the lark family in the United States that hangs nearly motionless in the air while rendering its wild ditty. The song is not beautiful, but very interesting.</p>
+         
+         <p>Earliest of our birds to breed, the Horned Lark must arrive pretty soon, for they have been known to nest in the middle of March, while snow still remained on the ground.</p>
+         
+         <p>They are worth looking for. Try it today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 25, 1920. <title>Omaha Sunday World-Herald</title> 55(17): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

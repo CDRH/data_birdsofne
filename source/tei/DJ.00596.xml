@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00596">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska's Game Fields.</title><title level="j">Forest and Stream</title><author>Griswold, Sandy.</author><date>1895-01-26</date><biblScope>44(4): 67.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-02"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska's Game Fields.</head>
+         
+         <p>Omaha, Neb., Jan. 19.—The committee consisting of J.B. Mickle, Frank Parmalee and Fred Montmorency appointed at the general sportsmen's meeting some three weeks ago to go to Lincoln and see about getting the new game and fish laws in the hands of interested members, report that they were cordially received, and even have reason to hope for a favorable consideration of the matter in hand. The bill providing for the protection of game and fish was entrusted to Representative W.H. Harrison of Grand Island, one of the most prominent and enthusiastic sportsmen in Nebraska; the bill providing for a State game warden to Representative Hargrave of Sutton, another old sportsman, and the bill providing for a license for non-resident sportsmen to Representative Crow of this city, which is guarantee enough that it will not be neglected.</p>
+         
+         <p>The wild fowl shooters are becoming apprehensive that the coming spring will afford but meager sport in this line. Most all of the most famous feeding grounds last fall were baked as hard as cement, and the shooting was the poorest known for years on this account, and as up to date we have had absolutely no rain or snow here this winter the shooters are making up their minds for another disappointment. The flight of the wild fowl last fall was all down the Mississippi Valley, hundreds of miles east of here, and if the same conditions prevail this spring they will assuredly return north by the same route. Last March I spent two weeks at Goose Lake, four hundred miles west of here. The water averaged ten feet all over the lake and our bag reached over a half hundred canvasbacks and redheads. I put in another two weeks at the same place last October. The water was not a foot deep in the deepest place, and our bag summed up 26 canvasback and probably 150 mixed. The Sandhills people, however, claim that their lakes are not dependent upon rain and snow for their supply of water, but upon the countless springs with which the hills in a lake country are filled. They claim that after a long summer, and with no extra rain or snow falls during the following winter, the lakes will be recharged through February and March from this source to their normal depth. I take little stock in this, however, and still it may be true. I heard just this week from both of my favorite haunts, and in neither was there any more water than there was in October.</p>
+         
+         <p>If the ducks and geese were scarce in the sandhills this fall there was one beautiful game bird that wasn't, and that was the avocet. One afternoon in the upper shallows of Blue Lake, which is one of a chain on which I do a great deal of shooting fall and spring, I saw them by the thousands and tens of thousands. They were feeding upon the tiny mollusks with which these waters teem; and the whole upper end of the lake, possible two or three hundred acres, was dotted with them as thickly as you ever saw sea gulls. I got a good position in the reeds, and in one hour's shoot killed something like seventy birds.</p>
+         
+         <p>The first shot put them in noisy flight, but they decoyed well to the dead and wounded, kept circling, and for the period mentioned furnished unexampled sport. The avocet, as is generally known, belongs to the grallatorial family. It has a long bill turned up at the end like a sickle bill curlew. It also has very long wings and exhibits a general white color, but the back and wings of the male are a very deep velvety black, while those of the female are a brownish-black.</p>
+         
+         <p>They are extremely plentiful in the Sandhill lake country, and are a capital table bird, especially if skinned before baking or broiling. Unless this precaution is taken or unless the bird has been killed and neatly dressed for many days it is quite apt to be a trifle strong for epicurean taste.</p>
+         
+         <p>George Strong, while rabbit hunting west of Bellevue Friday killed a handsome specimen of the Arctic owl, also a garter snake, and with the thermometer at the freezing point at that.</p>
+         
+         <p><hi rend="smallcaps">Sandy Griswold</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">January 26, 1895. <title>Forest and Stream</title> 44(4): 67.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

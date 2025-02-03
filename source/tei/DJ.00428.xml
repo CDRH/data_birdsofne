@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00428">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hunting Ducks. Three Days of Sport and the Grand Results.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1878-03-14</date><biblScope>13(123): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hunting Ducks.</head>
+         
+         <head>Three Days of Sport and the Grand Results.</head>
+         
+         <p>The success which has attended several of the recent hunting parties out of Omaha has had the effect of stirring the blood and rousing the ardor of some who can hardly be considered adepts in the art of sportsmanship. Last Thursday morning four well known citizens of Omaha, a law student, a reformed passenger conductor, a railway employee, and a man whom we can best describe by saying that he is a better inspector of wood than ducks, left for a three days hunt in the neighborhood of Herman, some 40 miles north of Omaha. A "slue" extending from Tekamah some fifteen miles south and covered with from six inches to two feet of water, was the hunting ground, the members of the party being equipped with "waders." They arrived at the hunting ground in safety and began operations by concealing one of their number (a man weighing 225 lbs.) in a "goose blind"-a bundle of tall rushes set up in the grass to serve as concealment for the sportsmen. This man's attention was suddenly drawn to a flock of ducks coming from the rear. he whirled about with celerity, and as the flock came up gave them the contents of his gun, which in this case were of less harm to those in front of the muzzle, than to the warrior at the breech, for it was too heavily loaded, and sent him flying out of the blind, and upon his back in the water, his feet in a due line with the birds. The other members of the party were so disconcerted with the commotion that they fired recklessly, not harming the ducks, but putting their own lives in jeopardy. One discharged his gun within six inches from another's head, and the latter has dreamed of earthquakes ever since, and feared for a while that he had permanently lost his hearing. While he of the gun dropped his piece on the ground in alarm, the fourth member of the party started on a run for the duck. Another interesting incident of the trip was as follows: One of the parties saw a flock of ducks coming in and in order to get a good shot into the air at them, involuntarily squatted, forgetting the nature of the country but straightened up very suddenly and forgot to shoot when he found himself in the water up to his armpits. The heavy weight above alluded to at last became disgusted at the sport and started for home. While wading through the mud and water his feet became stuck in the mire and lunging forward to extricate himself he fell headlong into the muddy water, shouting to the rest of the party to "go and procure a stretcher."</p>
+         
+         <p>At the end of the three days hunt the party took an invoice of stock finding as a result of their three days labors that they had killed <hi rend="italic">one</hi> duck. The most successful hunt would not have enabled them to furnish the game which they has promised to friends, and the question arose, "What shall be done?" Suffice it to say the party had thirteen ducks when they arrived at home, and have since purchased several more to silence the complaints of their inconsiderate friends. You can't get one of them to look at a duck now, and when he hears men talk of "hunting" ducks, he smiles madly and reflects upon the vast meaning of that word "hunt."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Herald writer. March 14, 1878. <title>Omaha Daily Herald</title> 13(123): 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

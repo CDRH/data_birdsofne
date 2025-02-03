@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00876">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Studying October Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-10-24</date><biblScope>56(4): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Studying October Birds.</head>
+         
+         <p>Taken at its best, the study of birds is difficult. One may learn a great deal from books, and should endeavor to do so even while enjoying the hikes in the fields, but the fleeting glimpses of the feathered gentry that are secured through the glasses are often insufficient to provide a positive identification.</p>
+         
+         <p>In the spring and summer, when the birds are in full plumage, the task is not so difficult, but in the fall and early winter, while the Sparrows and Warblers and other creatures of the air are passing on their migration to the south, the young birds and the birds wearing their winter plumage are vastly different from anything seen in other seasons. The amateur ornithologist, therefore, is up against a stiff proposition.</p>
+         
+         <p>The many different varieties of Sparrows, for instance, would bother any professor of the art under ordinary circumstances, but when at this time of year one falls in with swarms of young birds mingled with their parents, the task is almost impossible. Careful study of the songs and calls of the birds is about the only answer, without the taking of specimens per shotgun, which is unthinkable to the amateur.</p>
+         
+         <p>Heavy underbrush and falling leaves makes the Indian summer bird study still more difficult.</p>
+         
+         <p>In payment for this, nevertheless, Nature gives the bird-hiker the most wonderful of scenic art in the russet and multi-colored vistas that are unrolled in the big outdoors.</p>
+         
+         <p>Study Nature and her mouthpiece, the Birds - while both are deep in their mysteries.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 24, 1920.  <title>Omaha Sunday World-Herald</title> 56(4): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

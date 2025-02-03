@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00304">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Feeding the Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-09-26</date><biblScope>50(52): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Feeding the Birds.</head>
+         
+         <p>Another winter is coming, and it is not very far away, either. While Whittier's "Snowbound" is a mighty charming piece of literature, it is best appreciated when consumed in a warm house after a hearty meal, and so the joys of January and other frigid months can scarcely be measured by the depth of the snow. It is to be hoped that there will be at least a few weeks during the period now approaching in which the grocery boy doesn't have to wear skies to get anywhere near the house. For if it is difficult for a civilized human being to secure provisions in such times, what of the birds in the parks and fields?</p>
+         
+         <p>They are to be considered. They must be and are being considered. Like any other creature of nature they are forced to meet conditions as they are - not as they would have them. The birds have no means of securing artificial clothing or warmth or comfort of any kind. Their welfare in the wintertime is strictly up to them. They must strive or starve.</p>
+         
+         <p>True, very few birds perish from hunger, for their means of transportation to a more hospitable clime is for too simple and expedient, but no thinking person wishes to have the birds leave this community, and that is why the local Audubon society is commencing a modest but appealing campaign for the installation of bird feeding stations and bird baths in the Omaha public parks.</p>
+         
+         <p>Birdlore is being taught in certain grades in the Omaha public schools this season - a step in the right direction, and one which is bound to bring results. As has been often remarked, Young America is fast growing away from the idea of studying birdlife by killing it and by robbing nests. The time has arrived when even the most calloused youngster can be very easily interested in the career of the songsters and in their multiplicity of feathered affairs.</p>
+         
+         <p>So now the Audubon society proposes to ask Park Commissioner Hummel to open up his warbags and place bird feeding stations in the Omaha parks, that the songsters may be kept here, both summer and winter, according to their habits.</p>
+         
+         <p>And how easily and cheaply and quickly Mr. Hummel could do this thing!</p>
+         
+         <p>The society will furnish plans - exquisite simple plans, for these little covered stations, which any skilled carpenter could build for a song.</p>
+         
+         <p>And when they are built, and set in their places in the wooded nooks of the city parks, the Audubon people will engage to see that they are stocked with wood and properly cared for, at little or no expense to the metropolis of the state which has more registered song birds than any in the union!</p>
+         
+         <p>In other cities this has been done, and the Boy Scouts have made it part of their training to see that the feeding stations and bird baths are kept in trim. The Omaha Boy Scouts have indicated that they would be willing to assist in this most laudable campaign.</p>
+         
+         <p>Feeding stations and bird baths in the Omaha parks would mean that there would always be birds thereabout - winter and summer, to assist the grade school teachers in showing their pupils in actual life what is set down in the books. For birds appreciate such kindnesses - never fear - and a piece of suet nailed daily to a tree will bring a flock of woodpeckers, perhaps, and the woodpeckers will eat the worms that kill the trees that furnish shade for your little kiddie that helped nail the piece of suet on the tree! Did you ever think of that?</p>
+         
+         <p>If Commissioned Hummel will install the feeding stations, and the Audubon society will attend to the mobilization of the Boy Scouts for the upkeep of the said stations, Omaha will have taken a step forward that will help make her parks and boulevards the wonder of the central west.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 26, 1915. <title>Omaha Sunday World-Herald</title> 50(52): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00014">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Among the Gunners.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1893-04-16</date><biblScope>22(201): 18. Portion of sports page.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Among the Gunners.</head>
+         
+         <p>Will Price of Armour, Ia., a crackerjack field shot and a hale fellow every way, is the guest of J.J. Hardin this week.</p>
+         
+         <p>Frank Carmichael and S.B. Reed put in a day below Manawa recently, grassing twenty-two jacks, twelve yellow legs and one sickle-billed curlew.</p>
+         
+         <p>General Passenger Agent Dickens of the Sante Fe put in a day during the past week at Bigelow. He brought in forty-two scolopax, two clapper rail and a big bunch of teal.</p>
+         
+         <p>Lawyer Will Simeral, Sandy Griswold and Dr. Caples put in Wednesday afternoon on Waubuncey's famous marsh. They made a bag of thirty-three jacks, nine yellow legs and seventeen teal.</p>
+         
+         <p>The Omaha gun club will hold its annual meeting Monday evening at Parmalee's gun store. Besides the election of officers a good deal of important business will come up and all the members who possibly can should be on hand.</p>
+         
+         <p>John J. Hardin and J.E. Knowles were down at Waubuncey last Sunday the guests of Dr. H.G. Caples, a gentleman sportsman and one of the very best field shots in the west. The days shooting netted ninety-two Wilson snipe, twenty-three greater and thirteen lesser yellowlegs, forty-eight ducks, primarily teal, and two clapper rail. And they claim that the shooting wasn't extra good either.</p>
+         
+         <p>Fred Montmorency, John Patrick and Lieutenant Orney were down on the Nisnabotna one day last week, and report capital sport. They only took 250 shells each, but by 11 o'clock they were out of ammunition. They had in the meantime accumulated twenty-four jacks, eighteen yellow legs, thirteen tilt-ups and a solitary goose. By the way, there is a story connected with the goose. They say it has been hanging around there for a month, having been crippled by a farmer when the birds first came in, and their driver "put them on" where the goose generally camped. So they surrounded him and commenced shooting, which accounts for their running out of shells. After firing away about thirty rounds apiece, they ran the old invalid down and actually caught him alive. They intend to go down again soon, and say they will take a barrel of shells.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. April 16, 1893. Nebraska Sunday Bee 22(201): 18. Portion of sports page.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

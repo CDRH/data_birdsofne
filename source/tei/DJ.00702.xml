@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00702">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Provident Winter Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-02-18</date><biblScope>52(21): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Provident Winter Birds.</head>
+         
+         <p>This has been an unusual winter in a great many respects, one of which has been the repeated assaults of Jack Frost, in his zero garb, after short spells of comparative warmth and quietude.</p>
+         
+         <p>For those who enjoy the observation and study of bird life and bird lore, the situation has offered possibilities equally unusual. That the winter songsters should be able to cope with these sudden and, to us, unwelcome changes, is remarkable to the uninitiated.</p>
+         
+         <p>For instance, you enjoy a little hike through the wooded parks one day, when the sun is shining and the wind is resting, and you will be astonished at the wealth of bird activity to be found there. Everywhere the regular midwinter feathered tribes will be seen hustling grub against the next storm, and generally careful secreting it beneath the bark of trees or stumps.</p>
+         
+         <p>Besides these so-called regulars may be found a number of other birds not quite as usual at this time of year, including perhaps a robin or two, and even a bluebird, as was the case in riverview park two weeks ago.</p>
+
+         
+         <p>But if you go out the next day, when the zero stuff has arrived again, for the umptieth time, these birds will have disappeared, to a large extent.</p>
+         
+         <p>Somewhere, under cover, these merry and hardy chaps are hiding away, just as we generally stay indoors in such weather. Even the brilliant cardinal, so easily seen on most occasions, cannot be found. have they all gone a bit to the south - or are they merely "planted" in deep shrubbery or underbrush? It is hard to say.</p>
+         
+         <p>But when the sun once more comes out and the mercury begins to climb - here are the cheerful fellows once more, on the job and full of vigor.</p>
+         
+         <p>It is an interesting branch of the delightful study of what is what in bird-dom.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 18, 1917. <title>Omaha Sunday World-Herald</title> 52(21): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

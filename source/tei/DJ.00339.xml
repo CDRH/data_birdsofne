@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00339">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game Laws of Nebraska.</title><title level="j">Omaha World-Herald</title><author>Nebraska State Legislature.</author><date>1891-08-17</date><biblScope>26(232): 7.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game Laws of Nebraska.</head>
+         
+         <p>In order to satisfy the many inquiries that we are receiving on the expiration of the time for the enforcement of this law, we give herewith a synopsis of the game law as it applies usually to the ordinary hunter in Nebraska.</p>
+         
+         <p>It is unlawful to kill, ensnare or trap any wild grouse between the 1st day of January and the 1st day of September in each year; or any quail or wild turkey between the 1st day of January and the 1st day of October in each year, or ensnare, trap or net the same at any time of the year; or to buy, sell, ship, transport, carry or have in possession any such animal or bird between the dates within which the killing, ensnaring, trapping or netting of such animals or birds is prohibited by law. It is unlawful to go upon the premises of any person or corporation for the purpose of hunting, trapping, netting, ensnaring or killing any animal or bird at any season of the year, unless by consent of the owner or owners of such premises.</p>
+         
+         <p>Any person who shall go upon the land of another in violation of this section shall, upon conviction thereof, be fined for such offense any sum not less than $5 nor more than $50, and shall be liable to the owner or owners of the premises for an action for trespass.</p>
+         
+         <p>A bounty of $1 is paid for every wolf, wild cat or coyote killed within the boundaries of the state of Nebraska. The scalps of said animals, with the two ears down to the nose, must be presented to the county clerk of any county wherein said animals were killed, with satisfactory proof on oath that the same were killed within the boundaries of the state of Nebraska.</p>
+         
+         <p>Any person driving, enticing, bringing or taking any of said animals from outside the boundaries of the state for the purpose of procuring bounties thereon, shall be fined not less than $25, nor more than $100 for each offense.</p>
+         
+         <p>A bounty of $3 for every wolf or mountain lion and a bounty of $1 for every wild cat of coyote is paid by such counties as may, at any election, so determine by a majority of voters voting.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Nebraska State Legislature. August 17, 1891. <title>Omaha Morning World-Herald</title> 26(232): 7.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

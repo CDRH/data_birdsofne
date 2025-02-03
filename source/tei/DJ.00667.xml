@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00667">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Phalarope Notes.</title><title level="j">Osprey</title><author>Cary, Merritt.</author><date>1898-06-01</date><biblScope>2(10): 133.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Phalarope Notes.</head>
+         
+         <p>Wilson's Phalaropes arrived in large numbers from April 27 to May 1. They are very active when feeding, more so than the various Sandpipers with which they so frequently mingle. Their food consists chiefly of acquatic larvae and small crustacea, although I have often seen them catch insects that were flying past. Grassy ponds in low meadows appear to be favorite resorts with these Phalaropes. They have a peculiar habit of wading into the water up to their breasts and then revolving themselves quite rapidly. I have counted as many as thirty revolutions a minute, and as many as six individuals at once. They appear to enjoy it immensely. I would like to be enlightened as to the cause. As far as my observation goes they do not feed while revolving. It appears to be a kind of frolic.—Merritt Cary, <hi rend="italic">Neligh, Nebraska</hi>
+         
+         </p>
+         
+         <cit>
+            
+            <bibl default="NO">June 1898. <title>Osprey</title> 2(10): 133.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

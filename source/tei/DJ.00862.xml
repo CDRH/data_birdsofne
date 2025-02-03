@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00862">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Spring Sparrows.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-03-18</date><biblScope>52(25): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Spring Sparrows.</head>
+         
+         <p>March is ever a disappointing month, for the reason that it is so temperamental and so easily misunderstood. There comes a balmy zephyr from the sunny southland, and with it all the indications and manifestations of spring, only to be followed by the howling gale from the mountains and the accompanying remembrances of winter.</p>
+         
+         <p>There are many summer songsters of the migratory clans which avail themselves of the first opportunity to renew acquaintances in this part of the country. These feathered comrades come up with the south wind and often retire when lionlike March turns upon them with its vicious bellowing and turmoil. That is the reason that you may see Robins, Bluebirds and Meadowlarks one day, and none the next.</p>
+         
+         <p>The migratory Sparrows, however, are more firm in their campaign, for once they have started north they generally continue in that direction. As we have often remarked, there is only one disagreeable Sparrow out of more than a score of different varieties - and that one is the Englisher.</p>
+         
+         <p>Last week the harris Sparrow arrived - one of the biggest of all the tribes. he has a black mask and throat, and makes himself heard in the queerest, most pitiful sighing whine imaginable. His mate has a ruddy brown head, which distinguishes her from father.</p>
+         
+         <p>And there is also the Song Sparrow - tiny little chap with the side-burns and well marked bosom - who lurks among the underbrush in search of seeds on his way northward to nest. he is here now, also, and while his big cousin, the Harris Sparrow, braves the gales in the bushes above, he finds comfort along ravines and in wooded draws, chipping away in spite of the snow.</p>
+         
+         <p>There is a great deal of pleasure to be found in the outdoors in the late part of March, because the migratory birds are northward bound, no matter what the weather, and you may find them in the most surprising places.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 18, 1917. The Spring Sparrows. <title>Omaha Sunday World-Herald</title> 52(25): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

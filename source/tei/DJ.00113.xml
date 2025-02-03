@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00113">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">What is the Bird-Truth [Bluebirds and Purple Martins]?</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-06-17</date><biblScope>58(38): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>What is the Bird-Truth.</head>
+         
+         <p>There seems to be a general feeling among amateur ornithologists, in other words the bird-loving laity, that the number of Bluebirds in this territory grows smaller year by year. These observant hikers also opine that Purple Martins are steadily increasing in these parts - reason unknown.</p>
+         
+         <p>As far as our observations are concerned, the ayes seem to have it in each instance.</p>
+         
+         <p>The surprising and perhaps alarming scarcity of Bluebirds in and about Omaha this year is seemingly without precedent, and we deem it true that not 10 per cent of the usual number of these splendid feathered creatures, beloved of our childhood, are now to be found in these parts as compared with previous years.</p>
+         
+         <p>Explanation for this fact - if it is really a fact - is difficult.</p>
+         
+         <p>It is known that the Bluebird is extremely reluctant to leave this territory in the fall, and very eager to return early in the spring, and that this delay has sometimes resulted in the poor thing being caught in early or late storms, meeting his doom in this manner. But there was no severe early storm last fall to do such damage, and the blizzard of last March could have done little mischief, for Elmwood park was blessed with more Bluebirds immediately after that storm than it since has been.</p>
+         
+         <p>Naturalist may look upon this situation from their lofty station and ponder on what happened. All we are sure of is that the murmur of the Bluebird is seldom heard in this territory nowadays, and there is a feeling of deprivation.</p>
+         
+         <p>As for the Purple Martins, we would fain belief that education has had something to do with their increasing numbers in and about Omaha. Up until a few years ago, Martin houses were very rare in Omaha, but now there are many of them, reared on their tall poles in folks' backyards. The martins apparently appreciate this service, and there are now hundreds of families resident here, where there used to be but three or four.</p>
+         
+         <p>Such strange visitations and deprivations make the study of our birds tremendously interesting - to you!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 17, 1923. What is the Bird-Truth [Bluebirds and Purple Martins]? <title>Omaha Sunday World-Herald</title> 58(38): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

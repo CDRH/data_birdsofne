@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00078">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Birdlore Comedy.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-07-11</date><biblScope>50(41): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Birdlore Comedy.</head>
+         
+         <p>Hunting birds with binoculars isn't work. One must understand that before he or she can possibly be converted and brought into the fold. If you start out this morning with your oldest and raggedest dudes on your back, a jimmy pipe in your face and a pair of glasses in your pocket you aren't supposed to be laboring, although you may look like it. Longfellow identified sweat as an honest product and nothing to be ashamed of. Birdlore will make you forget heat or cold, rain or sun, wind or snow.</p>
+         
+         <p>That's because of the immense variety the sport offers. You mustn't think that a modern birdhunter marches soberly along, merely checking what specimens he sees and gravely noting the markings. Nothing like it!</p>
+         
+         <p>Birds have lots of fun, just like human beings, and they create fun for those who have sense enough to watch them.</p>
+         
+         <p>There's lots of comedy in the woodland - plenty of it. To enumerate a list of incidents in proof of this assertion would be to invite the immediate expansion of this newspaper - but the fact, nevertheless, remains a fact.</p>
+         
+         <p>Did you ever see two or three immense crows, each with a wing reach rivalling that of a Curtiss biplane, flopping frantically in retreat before a tiny speck in the air which you may identify as a kingbird? Did you know that one of these kingbirds, little better than a mouthful for the victims of his torment, can put to rout any given number of voracious crows? Did you ever hear the basso profundo bellowing of the aforesaid crows as they yell for help, as compared with the triumphant little nasal shriek of the midget pursuer?</p>
+         
+         <p>Have you watched that beautiful but lowly robber, the bluejay, scout about the nests of other birds, only to be attacked and driven away by robins, grosbeaks, red-eyed vireos and still smaller feathered families? Have you seen bronzed grackles, twenty in a row, perched on a telegraph wire in the hot sun, panting, with opened mouths, just like so many humans, and occasionally ejaculating a sort of exasperated "gosh!"?</p>
+         
+         <p>There are a thousand other features to be described, but the entrancing part of it all lies in the fact that the birds and the rest of the wild things will show you something absolutely new each time you go out.</p>
+         
+         <p>The red headed woodpecker hooks himself alongside a fencepost, gets behind the same, and peers around the corner at you with his bright scarlet dome. He has a most comically inquisitive expression. He readjusts himself and takes another good look. Then, with a satisfied squawk, he cuts loose and flops violently away, apparently to tell the woodland cabaret to prepare themselves.</p>
+         
+         <p>And they do so.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 11, 1915.  <title>Omaha Sunday World-Herald</title> 50(41): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

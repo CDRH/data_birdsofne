@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00729">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Restoration of the Quail.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1891-09-13</date><biblScope>21(80): 13. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-06"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Restoration of the Quail.</head>
+         
+         <p>This has been one of the most favorable seasons for quail known in this section of the state for a good many years, and the prospects for great sport a month hence are excellent. This is undoubtedly joyous news to the sportsman, for the restoration of this incomparable little game bird in sufficient numbers to once more insure a profitable tramp afield has been a thing undreamed of. For a half dozen years in this particular region this precious feathered beauty has been considered all but extinct, not on account of any ruthless or wanton slaughter on the part of gunners, but owing to the killing weather of the winters of '86 and '87. Once Bob White throve here as prolifically as anywhere in the world, but he has been on the decline for even as great a period as ten years until he reached a degree of attenuation that actually threatened his total disappearance. Up to within two years, since when the birds have been perceptibly recuperating, there was a general complaint among the bon vivants of the city that there were dead loads of toast lying round loose without the suggestion of a feather upon it. But the gourmet will have no cause to grumble this fall, for, from the indications, as early as this, it will be no trick for the skillful shot to go almost anywhere without the city limits and knock over his dozen or so birds in an afternoon's shooting. I will not undertake to explain what has brought about this gratifying condition of things, suffice it to say, that the past two or three seasons have been almost perfect for nidification and hatching purposes. One continuous spell of exquisitely lovely weather, neither too hot nor too cold, and with no long drouths or excessive wet periods, but a uniform temperature and general meteorological condition especially calculated for fecundity in the birds. That they did not allow the golden opportunity to pass unimproved is attested to in an emphatic way by the frequency of the covies to be met with in the stubble and along the roadside this fall. Any one who has made long drives in any direction through the summer will recall with a sensation of delight how frequently they espied an old hen rolling in the dust in the road, or the old cock, with his white striped head and graceful curves of seal perched upon the top of this old rail or that, serenading his mate, nestled on her dozen or so of eggs off there in wheat field or meadow, with his sweet but plaintive, "Bob—Bob White."</p>
+         
+         <list type="simple">
+            
+            <item>On the breath of early morn</item>
+            
+            <item>From lush meadows upward borne</item>
+            
+            <item>Where thro' dewy teas the crocus coyly smiles in</item>
+            
+            <item>Chaste delight</item>
+            
+            <item>And the jewelled daisies glisten.</item>
+            
+            <item>As they bend their heads to listen—</item>
+            
+            <item>Comes the clear and plaintive music of thy matin:</item>
+            
+            <item>"Bob—Bob White."</item>
+            
+            <item> </item>
+            
+            <item>But all too soon the summer fades</item>
+            
+            <item>And thro' all the leaf-strewn glades</item>
+            
+            <item>Harass'd shalt thou seek in vain for a moment</item>
+            
+            <item>Of respite.</item>
+            
+            <item>Naught before the leaden hail</item>
+            
+            <item>Shall thy hurting flight avail—</item>
+            
+            <item>Stilled beneath the murd'rous thunders is thy piteous wail</item>
+            
+            <item>"Bob White."</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">Sporting Editor [Sandy Griswold]. September 13, 1891. <title>Omaha Sunday Bee</title> 21(80): 13. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

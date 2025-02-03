@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00748">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Blue Sailor From Eastern Lands.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-08-21</date><biblScope>56(47): 6-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Blue Sailor From Eastern Lands.</head>
+         
+         <p>A beautiful sky blue blossomed plant has been making the roadside beautiful down in one spot on Fort Crook boulevard. Investigation shows it to be a somewhat rare variety of the chicory family. Cichorium Intybus, which has several popular names, among them Blue Sailors and Wild Succory. The statement is that this is the only place in which it has been found in this part of the state. But it must be enjoyed springing from the wayside, for if it is picked the blossoms wither at once, and the buds do not develop. It is a relative of the Blowballs, of the oyster plant of salsify, and also of the dandelion. Its Latin name is of Arabic origin, which means that it has been traveling eastward for generations, perhaps, for Horace had it frequently on his menu, Virgil apostrophizes it, in Egypt it is used as an article of food, and from the leaves of it, the French make a delicious salad, it is said. Its deep dandelion like roots are used to adulterate coffee, so if your cup of coffee has a bitter taste, it may contain some of this food of many nations and great men. Blue does not always seem its color, according to the botanies, pink and white also sharing with the blue.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 21, 1921. <title>Omaha Sunday World-Herald</title> 56(47): 6-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

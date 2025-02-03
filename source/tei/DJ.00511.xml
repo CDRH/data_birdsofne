@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00511">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Lure of Nature.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-10-27</date><biblScope>54(4): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Lure of Nature.</head>
+         
+         <p>In the winter we long for spring. In the summer we long for those precious russet weeks of autumn. In the fall we peer with pleasure into the future that will bring us the first velvet carpet of snow.</p>
+         
+         <p>How completely Doctor Nature satisfies our various cravings; how successful he prescribes.</p>
+         
+         <p>The bird lover is perhaps the most susceptible of all to the treatment accorded by the afore-mentioned physician.</p>
+         
+         <p>It is difficult for the amateur ornithologist to conceive of a happier moment than that in the first week in May when he sees the vast migration of Warblers and other summer birds on their way to the north.</p>
+         
+         <p>Yet now, in the fall, he watches with equal exuberance the flight to the south, and cherishes among his brightest memories the hour on which he first notes the Tree Sparrow and the Junco and the Brown Creeper who have come to spend the winter with him.</p>
+         
+         <p>He finds, or anticipates finding, as much fun in hunting a dozen winter birds through the frosted fields and wintry woods as he did in pursuing ten times than many through the heavily foliaged glades of spring and midsummer.</p>
+         
+         <p>For the lover of nature, every season has its charm - and, by the way, there is little chance for the influenza Bacillus out yonder!</p>
+         
+         <p>Better let Doctor Nature prescribe today!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 27, 1918. <title>Omaha Sunday World-Herald</title> 54(4): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

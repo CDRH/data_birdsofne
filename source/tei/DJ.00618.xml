@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00618">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Notes From Nebraska.</title><title level="j">Osprey</title><author>Bonwell, J.R.</author><date>1896-10-01</date><biblScope>1(2): 27.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-21"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Notes From Nebraska.</head>
+         
+         <head>From J.R. Bonwell, Nebraska City, Neb.</head>
+         
+         <p>Large flocks of Robins and Meadow larks are in this vicinity, now probably on their way south.</p>
+         
+         <p>No doubt a great many species have already gone, as one misses a great many once familiar voices now in the wood.</p>
+         
+         <p>A number of observers have mentioned that they have noticed a greater number of Baltimore and Orchard Orioles in this locality this year than ever before. Speaking of the Orchard Oriole brings to mind that I noticed a, to me, very original nesting site for this species. While in a thicket on the Missouri collecting last summer, I found several nests of this Oriole in the willows, sometimes right amongst a colony of Red-winged Blackbirds. This place was at least a mile from any habitation, which impressed me as I had always thought that this species was fond of civilization.</p>
+         
+         <p>The local Naturalists' Association will open their fall course of lectures in October with a lecture by Prof. Barbour of the Nebraska State University.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 1896. <title>Osprey</title> 1(2): 27.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

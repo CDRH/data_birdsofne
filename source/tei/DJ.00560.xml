@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00560">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mother Nature's Patchwork.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-07</date><biblScope>56(6): 12-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mother Nature's Patchwork.</head>
+         
+         <p>We mortals think we are doing great things with our embroideries, our tapestries, our draperies and our color combinations but the good earth, mother of us all, sets the patterns and provides the colors for us and on such a scale that our little efforts seem as nothing.</p>
+         
+         <p>Just now she has a great counterpane covering the prairies, in blocks of green and pale corn color, the tint of the once green stalks of Nebraska's chief product, corn, and the green of her new product, alfalfa, that has not yet succumbed to the frost. But while man has attempted to put these colors in squares and rectangles Mother Nature does not permit such a deviation from her curves, the lines of beauty, but calls on her other children of earth, the grasses, the trees, the earth itself to embroider on the squares beautiful designs in many shades of brown and grays and reds and yellows, and even enlists the clouds, aided by the sun to cast moving shadows over the whole that will reduce almost to despair the artist who would transfer their fleeting beauty with needle or brush to a less perishable form.</p>
+         
+         <p>The children of the schools are following Mother Nature's art without knowing. And, also without knowing it, every child seeks the outdoors with all the beauty of form there displayed and absorbed in varying degree its variety of form and color. Some of them become real artists and some only imitators.</p>
+         
+         <p>Soon this coverlet of green and corn color will be succeeded by another of white, which also will be embroidered with varying tracery of branch and vine and fleeing cloud, while underneath will be hid the tiny seed and root that later will come forth with still another coverlet of entirely differing shapes and forms and hues.</p>
+         
+         <p>Mother Nature teaches us infinite variety, greater the more we study her.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 7, 1920. <title>Omaha Sunday World-Herald</title> 56(6): 12-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00880">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Summer Birds - Farewell.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-09-05</date><biblScope>50(49): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Summer Birds - Farewell.</head>
+         
+         <p>Two weeks ago there was observed a vast flock of robins in Elmwood park, a chirping, agitated aggregation that could not have been less than 300 birds. Now that flock has disappeared.</p>
+         
+         <p>Day by day some lively warble is missed by the lover of birds - some peculiar ornithological warwhoop is not heard - some feathered rascal has left for the balmy south.</p>
+         
+         <p>It is thus that the bird-lover learns of the approach of autumn, for there are many of the feathered folks who depart mighty early in the season. The Maryland Yellowthroat, who has sung of "witchery, witchery, witchery!" in the woodlands since early June, is silent now. The fervent Dickcissel, marathon songster of them all in the hot summer months, is mighty hard to find these days, for he, too, has taken wing for Dixie. The Indigo Buntings are likewise among the missing, it would seem, and the rapidly diminishing list of birds to be found in these parks and near-by wooded spots indicates that the summer is nearly done.</p>
+         
+         <p>But the bird crank has plenty of consolation in the knowledge that all the robins do not leave - that many of them remain during the entire winter in sequestered spots in deep woods or tangled underbrush. And when the summer birds leave, the winter birds come in - and they are just as interesting, perhaps because they exhibit such splendid stamina in the face of the worst sort of Arctic weather.</p>
+         
+         <p>Pretty soon the little Brown Creeper will appear on the scene, with his ever upturned face, and the White-breasted Nuthatches will be in larger numbers as they prowl down the bark of the big park trees. The Slate-colored Junco - who is the Commodore Peary of birddom - nesting in the Arctic circle - will be the finishing touch to winter life in these parts.</p>
+         
+         <p>Where forty birds were identified in Omaha parks a week ago, but thirty would be possible now, and by the first of next month the list will be cut to less than twenty. By Christmas the man who can see and name ten birds in Omaha parks will be able to congratulate himself.</p>
+         
+         <p>Farewell - you fluffy little warblers and songful treasures of the copse! Farewell for a season - but let it be au revoir rather than good-bye, for your return from the southland will be one of the most welcome features of springtime in the coming year.</p>
+         
+         <p>You are ever welcome. Don't forget the number!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 5, 1915. <title>Omaha Sunday World-Herald</title> 50(49): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

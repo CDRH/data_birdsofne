@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00521">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Marsh Hawk.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-01-01</date><biblScope>57(14): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Marsh Hawk.</head>
+         
+         <p>Ellis Parker Butler claims that "Pigs is Pigs" and the average farmer, with the same and very understandable stubbornness, claims that "hawks is hawks."</p>
+         
+         <p>As a matter of fact - "hawks is not hawks."</p>
+         
+         <p>There are three or four varieties of this bird that are avowed and pernicious outlaws, but the rest of the classifications of that tribe are more than ordinarily useful.</p>
+         
+         <p>The hawk-devils which the government admits may be slain on sight without hurting anybody's feelings, are the Sharp-shinned, Coopers and Goshawk. They prey on poultry, other birds and destroy much usefulness of nature, while their usefulness, if any, is unknown. They are swift, berserk and unrelenting and certainly subject to capital punishment for millions of bird-murders.</p>
+         
+         <p>But the other hawks are passive and valuable. Not only passive, but in many cases really gentle. The Pigeon Hawk, for instance - probably named because it looks a good deal like a tame pigeon in size and build - is entirely acceptable as a guest in any neighborhood. Every hawk that dares fly over a poultry yard is called a "Chicken Hawk" and damned therefore - whereas none but the three mentioned first bother chickens.</p>
+         
+         <p>As for the Marsh Hawk - this big, slow, soaring creature with the bold spot of white on his rump - he merely sails around over the sloughs and nearby fields looking for mice and gophers and moles and snakes - and also wounded birds brought down by hunters in season.</p>
+         
+         <p>You may see Marsh Hawks around Omaha's lowlands almost any day and identify them by that white spot on their rump, but they will be looking for mice and moles and snakes.</p>
+         
+         <p>Indeed, is it not peculiar that one of the gravest charges against the Marsh Hawk coming to the department of agriculture is that it kills young bullsnakes - so valuable to all farmers?</p>
+         
+         <p>Who of us do not instinctively kill snakes - right or wrong?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 1, 1922. <title>Omaha Sunday World-Herald</title> 57(14): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

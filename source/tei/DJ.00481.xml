@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00481">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Land Gulls.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-05-06</date><biblScope>58(32): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Land Gulls.</head>
+         
+         <p>Swooping and swirling low across the freshly plowed ground, following the plow itself to dive for worms and insects thus uncovered, great flocks of land gulls have made their springtime appearance in the vicinity of Omaha. They have caused some confusion and argument among the ornithological laity - very commendable interest, and worthy of note.</p>
+         
+         <p>These are Franklin Gulls, made famous in Utah more than half a century ago when they saved the settlers of that then isolated province from death by starvation following a prolonged pest of beetles and crickets.</p>
+         
+         <p>At that time these insects ruined one crop and were in a fair way to wreck another when the gulls came in - the Franklin Gulls - and what these diligent and persevering birds did to those crickets and things was a caution! It was in a figurative jiffy that the Franklins had measured most of the invading foe, and had left the Utah explorers to settle down and make a great state.</p>
+         
+         <p>The Utah folks were not niggardly in their appreciation of this service, either, and there is a monument to these Franklin Gulls in a public square at Salt Lake City.</p>
+         
+         <p>Franklin Gulls may be seen more than occasionally at this time of year about Omaha, and generally above plowed ground, as we have indicated. Their food consists almost entirely of noxious bugs, worms and insects and they should be protected to the last degree.</p>
+         
+         <p>In you hike today over the fields, watch for these feathered creatures whom God sent to Utah to save the starving. It will be a fitting study for Sunday.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 6, 1923. <title>Omaha Sunday World-Herald</title> 58(32): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

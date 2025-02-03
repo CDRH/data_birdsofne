@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00468">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Judge Lake's Hunting. A Wounded Buck Turned on Him. The Judicial Nimrod Relates a Thrilling Adventure at Florence Lake in Which His Dog Saved Him.</title><title level="j">Omaha Daily Herald</title><author>Lake, Judge.</author><date>1889-03-09</date><biblScope>p. 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Judge Lake's Hunting.</head>
+         
+         <head>A Wounded Buck Turned on Him.</head>
+         
+         <head>The Judicial Nimrod Relates a Thrilling Adventure at Florence Lake in Which His Dog Saved Him.</head>
+         
+         <p>"I guess I have killed my share of game in these parts," said Judge Lake to several young lawyers, fond of hunting, who were seated in the private chamber of the county court discussing the present flight northward of mallards, red heads and pin tails. "Away back about twenty-five years it was capital sport and game could always be found. Long in the sixties a hunter was in hard luck that couldn't find a deer browsing close around Florence. I have killed many a one about there, and I ran across an old buck once that came near ending my days.</p>
+         
+         <p>"I had been up north of Florence hunting in the winter of '65 and '66 and had killed two deer. That was doing well enough for one day, but I ran across a fresh track and determined to follow it. I had not gone very far before my game was in sight. He was a monster old buck and I drew a bead on him. The instant my gun was discharged he fell, apparently dead.</p>
+         
+         <p>"I rushed upon him with my hunting knife intending to cut his throat. I had only got the blade through the tough skin of his neck, when all at once he doubled up like a jack knife. A moment later I lay sprawling on the ground a couple of rods distant and the buck was on all fours. He was a ferocious looking brute at that moment, I tell you. He was just like all other deer when enraged. He turned every hair on his dark body forward, lowered his head and came at me. At that time I tell you I would have much preferred to have been seated about my supper table at home, venison or no venison. But I couldn't escape the terrible situation then before me. The old buck came bounding forward on all fours, stiff legged like a ram.</p>
+         
+         <p>"My dog realized my peril at once. It was no time for foolishness and he began to worry the old buck. This gave me time to make a shield out of a clump of bushes. My enraged enemy then saw he could do me no harm and sneaked down through the valley. I followed him by the trail of blood until darkness had set in but returned home without him. A couple of days afterward a neighbor to whom I had told the story came to me with the information that my old buck was over at Sheeley's butcher shop. I went down to the market, turned over the carcass, and there, sure enough, was my knife wound in the neck and the bite of my dog in one of his hind legs. I could not find my bullet wound, however. The buck's head was a rare specimen, and was sent to A. Donahoe, the florist, then a taxidermist. He mounted the horns, and while preparing the head found my bullet imbedded in the skull beneath the horns. The wound I had given only stunned him, and I have always considered my escape from his antlers very fortunate."</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 9, 1889. <title>Omaha Daily Herald</title>, p. 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

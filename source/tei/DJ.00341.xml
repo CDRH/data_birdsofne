@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00341">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Game Law Tested.</title><title level="j">Nebraska Farmer</title><author>Editor, Nebraska Farmer.</author><date>1877-08-01</date><biblScope>1(8): 4. August 1877.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Game Law Tested.</head>
+         
+         <p>The act passed by the last legislature, known as the "Game Law," has been passed upon by Judge Pound, of the Second Judicial District, and held to be constitutional. That it will be carried t the Supreme Court at the October term we are assured.</p>
+         
+         <p>While the act has many good features, it also has a few poor ones-features that are liable to make it a dead letter upon our statute books. Not content with protecting insectivorous birds, the wise member who drafted it, and the wise ones who assisted in putting it through, embraced within the list of birds to be protected by it the bird-destroying hawk and owl. Never was anything more sublimely ridiculous. The sportsmen of Nebraska cannot-or do not-in any single year destroy half as many birds as these two classes of birds alone. The prairies are alive with hawks and owls that prey upon the little birds from daylight until dark, and annually kill thousands of them, yet the broad provisions of the bill make it a penal offence to kill either. The case was recently tested-as referred to above-by the arrest of a young man in Lancaster county, who had violated its provisions and outraged the good name of the State, by shooting a hawk that was in the every act of carrying off a chicken from the door-yard of the offender. He was first taken before a justice, who fined him $5 and costs; appeal was taken to the District Court, where all the mitigating circumstances were urged, and the defence made as strong as possible, but to no purpose-the action of the lower court was sustained. Henceforth, if a hawk attacks your poultry, you are not restrained from throwing your hat at him, but let us caution you against <hi rend="italic">hitting</hi> him, lest you might "wound" him, and thus be liable to the full penalty of the law, for it says in good English, "That from and after the first day of June, A.D. 1877, it shall be unlawful for any person to take, <hi rend="italic">wound</hi>, or kill any wild bird * * * * or to take or destroy any wild bird's eggs or nest at any time," etc. No hawk's or owl's nests are to be destroyed either; and you must not take (capture) any hawk or owl, as the law specifically prohibits you from making any "pets" of them. This Nebraska is a great State.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 1877. <title>Nebraska Farmer</title> 1(8): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

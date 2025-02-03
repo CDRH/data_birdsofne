@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00576">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nature's Spring Song.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-04-28</date><biblScope>53(30): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nature's Spring Song.</head>
+         
+         <p>In the spring, like young men, the birds' fancy lightly turns to thoughts of love - but the amorous feathered tribes have a better means of expression for this emotion, as you will learn if you take a tramp through the woods today.</p>
+         
+         <p>To the casual student of the songsters one of the most remarkable of their many changeable qualities is the exquisite tenderness of their spring melody as contrasted with that of the rest of the year. This is true of nearly every winged warbler, including the despised English Sparrow. Even this aerial rat make strenuous attempt to say something worth while as he woos his mate.</p>
+         
+         <p>But in the fields and woodland you will today hear more love-making than ever in your life before - and of the outspoken variety, too!</p>
+         
+         <p>Not only do the incoming summer songsters give voice to their very best selections, but the transients, migrating to their northern nesting places, trill their loveliest melodies before departure.</p>
+         
+         <p>You may never know how sweetly the Junco and the Tree Sparrow can sing if you do not take immediate advantage of this springtime opportunity.</p>
+         
+         <p>The White Throated Sparrow is here for awhile, and instead of his week autumn "si-i-i-ip!" he is singing that wondrous song sometimes described as "Old Sam Peabody-y-y-y!"</p>
+         
+         <p>The Song Sparrows, which probably nest near here in small numbers, most of them going further north, are owing up to their name and are filling the woods and the roadside underbrush with their carolings.</p>
+         
+         <p>To continue with a list of the principals in nature's woodland cast would necessitate a booklet program.</p>
+         
+         <p>Do not cheat yourself out of this glory given to use by the Almighty! It comes but once a year, and for the next two weeks you have the privilege.</p>
+         
+         <p>Let's go!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 28, 1918. <title>Omaha Sunday World-Herald</title> 53(30): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

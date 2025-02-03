@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01004">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Wood Thrush.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-07-02</date><biblScope>57(37=40): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Wood Thrush.</head>
+         
+         <p>There is scarcely such a deep and whole-souled carol in all the forest as that of the Wood Thrush, and its most surprising element is that of surprise - as it seems eerie that so much volume can come from such a small body.</p>
+         
+         <p>Such a silent bird, such an unobtrusive one, too - with nary a chirp or cheep as if runs before you in the glade-paths - how can it sing to the heavens as it does, with their wild yet melancholy clang as of a mystic bell hidden in some leaf-walled cloister?</p>
+         
+         <p>One scarcely reads the nature pages of eastern newspapers that some writer isn't in ecstasies over the appearance of a couple of Wood Thrush in his or her locality. It would be thought that these birds are very rare back yonder - yet 'way out in what was the "Great American Desert" much less than a century ago, we have these wondrous birds in myriad - in our public parks.</p>
+         
+         <p>Any boy - or at least any Boy Scout - can show you nests of these Thrushes in any heavy woods. The tell-tale strip of paper hanging from such nest marks it surely, even as the snake-skin marks the protected hole-nest of the Crested Flycatcher and the horse-hair lining stamp that of the Chipping Sparrow.</p>
+         
+         <p>Wood Thrush, most soothing of our singers, with your rich rufous back, and white, spotted breast - sing always to us out here in the one desolate west!</p>
+         
+         <p>We imagine that Audubon, who first heard the Western Meadowlark merely across the Missouri in those Council Bluffs years ago, found but few Wood Thrush to cheer him on his lonely tramp in the interests of ornithological science.</p>
+         
+         <p>Could Audubon come back to us now, here on the same river, we believe we could surprise him - if only in Elmwood park, despite axes and paving machines and artificialities constantly, steadily encroaching.</p>
+         
+         <p>For there the Wood Thrush sings, and sings constantly - and may the gods give him joy!</p>
+         
+         <cit>
+            
+            <bibl default="NO">World-Herald Editor. July 2, 1922. <title>Omaha Sunday World-Herald</title>	57(31): 6-E. An editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

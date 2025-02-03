@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00602">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">In the Dead O' Night [Bird Calls].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-07-08</date><biblScope>58(41): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>In the Dead O' Night.</head>
+         
+         <p>Since restless human beings talk in their sleep, there isn't any particular reason why restless birds shouldn't exercise the same privilege - which they do.</p>
+         
+         <p>One of the weirdest, most mysterious of sounds is the murmured slumber-talk of some half-awake songster in the dead o' night. Out on the dark summer roadside park your car - or your feet - and listen.</p>
+         
+         <p>If you are fortunate, and you probably will be, you will presently hear the sleepy drone of the Dickcissel - "chip, chip, chee-chee-chee!" - just the same measure as his incessant hot-day chirp, but much subdued now, while he half-sleeps in some unknown bower.</p>
+         
+         <p>Or else the Yellow-billed Cuckoo, sometimes called the Rain Crow, will roll over in bed, figuratively speaking, and observe "touk, touk, touk" a couple of times.</p>
+         
+         <p>The Chipping Sparrow and the Robin often have bad dreams, or goodness - it's pretty hard to tell which - and the insect-like hum of the former mingles with the sharp "cheep" of the latter.</p>
+         
+         <p>It's always interesting to study bird-life - even in the dead o' night.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 8, 1923. In the Dead O' Night [Bird Calls]. <title>Omaha Sunday World-Herald</title> 58(41): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

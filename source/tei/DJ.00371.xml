@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00371">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Grackle the Comical.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-06-05</date><biblScope>56(41=36): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Grackle the Comical.</head>
+         
+         <p>Birdland has its little tragedies, its domestic scandals, its humdrum of eventless life - but it also has its comedy and its comedians, among the most prominent of the latter to strut the grassy stage, being the glittering Bronzed Grackle.</p>
+         
+         <p>The Grackle is essentially an actor, and he knows it. He struts the leafy boards with all the ludicrous pompousness of the rantingest hamfatter that ever made a clown out of Hamlet in the "Town Hall Tonight." You can almost see that bird's wing thrust into the bosom of his long, shiny frock coat, as he stands before the entrance to permit the mere audience to admire him in awe as they pass outside.</p>
+         
+         <p>Under these circumstances he is a heavy tragedian, or thinks he is, and now and then gives voice to a deep, bass squawk - registering horror or something. As a heavy tragedian, however, we fear he is a great comedian, and would prefer to love him as much.</p>
+         
+         <p>Mr. Grackle, who is also known as a Crow-Blackbird, is strong for picnics. There is nothing he enjoys more than a nice picnic party out in the wildwood, with plenty of lunch. Don't forget to bring your lunch - and lots of it. Don't worry about cleaning up after you, except the tin cans and paper plates - he'll take care of the rest.</p>
+         
+         <p>As soon as the last reveller has left - or even sooner, maybe, for Mr. Grackle isn't easily alarmed - he and his brethren are on the job. It is no strange sight to see one of them flying away with a slab of bread or discarded cake almost as big as his own body. In a jiffy that picnic spot is as clean as a whistle.</p>
+         
+         <p>Another bit of farce comedy Mr. Grackle delights in "pulling" is to strut alongside some shallow stream and look for animal life in the bottom thereof. Sometimes he will plunge his head down and come up with a dainty morsel of sorts - even a live crawdad becoming his meat on occasion. Very often, too, he will apparently become fascinated with his reflection in the watery mirror, and will cock his head from side to side admiringly. And he primps, too, the vain old devil!</p>
+         
+         <p>This Bronzed Grackle in the sunlight is a glorious creature, and fairly glistens with purple and bronze and metallic hues. More than that he is a very useful bird, for reasons indicated above.</p>
+         
+         <p>He is the original housecleaner, does lots of good in that respect, and as far as is known, does absolutely no harm.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 5, 1921. <title>Omaha Sunday World-Herald</title> 56(41=36): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

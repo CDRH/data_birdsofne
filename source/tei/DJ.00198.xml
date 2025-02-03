@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00198">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Crippled Robin [at Little Papio Creek].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-12-23</date><biblScope>53(12): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Crippled Robin.</head>
+         
+         <p>Audubon once wrote a story about a rattlesnake that climbed a tree in search of its prey. He was assailed during the rest of his career by contemporary naturalists who damned him as a fakir, and it was not until his life had been made supremely miserable that his contention was proven to be true - for the rattler occasionally performs just as Audubon described.</p>
+         
+         <p>If the word of America's greatest naturalist and ornithologist could not be taken for an incident seen and faithfully chronicled by himself, we fancy that our story of a crippled robin still ekeing out a scanty existence along the Little Pappio creek southwest of Elmwood park is doomed to a harsh reception.</p>
+         
+         <p>Nevertheless this Robin with the broken wing is there, a mute testimonial to the thoughtless cruelty of a man with a gun.</p>
+         
+         <p>Apparently in the best of health, with the exception of his one drooping wing, which prevented flight further than a few rods, this brave, ruddy-breasted summertime favorite was seen feverishly engaged in hustling food a week before the bitter spell of zero weather only recently ended.</p>
+         
+         <p>The frigid chapter in our present December history was certainly calculated to destroy any wild life not born with the hardihood for expressly such weather. When the ground is covered with snow and the freezing blasts from the north drive humans indoors, it is a poor time for a summer bird to be left in the open and to his own resources. While healthy Robins have been known to stay in this vicinity every winter, they do so only by taking shelter in thick underbrush, generally along the river bottoms. This poor, crippled fellow could not reach such shelter - he battened on the frozen moor of the Pappio valley.</p>
+         
+         <p>So, with everything against him, this feathered hero went into nine days of zero - but emerged safely!</p>
+         
+         <p>He is still along the Little Pappio - or was but a few days ago, but his weak and scrawny body evidences the struggle through which he passed.</p>
+         
+         <p>it is probable that this broken-winged Robin will be dead very shortly. It is asking too much of his weakened frame, even though inclosing such undying spirit, that he should be required to endure three more months of winter.</p>
+         
+         <p>There is a moral in this disclosure - a moral not hard to find. Somewhere there is a man who owns a gun and who for that reason feels himself licensed to shoot anything that moves - law or no law. The Robin's broken wing is probably his handiwork. Would that his aim had been better, for the sake of this splendid but unfortunate bird!</p>
+         
+         <p>The cruelty of mankind sometimes passeth all understanding in reference to our birds. It is to be hoped that this editorial falls beneath the eyes of the sportsman - if he be entitled to that honorable name - who shot this happy summer companion!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 23, 1917. The Crippled Robin [at Little Papio Creek]. <title>Omaha Sunday World-Herald</title> 53(12): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

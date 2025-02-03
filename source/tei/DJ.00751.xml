@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00751">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Sandhill Crane on Valentine Streets].</title><title level="j">Valentine Reporter</title><author>Santee &amp; Hill, Eds. and Props.</author><date>1883-09-06</date><biblScope>1(19): 1. Town and County news.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+
+<revisionDesc>
+<change>
+  <date value="2005-08-01"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sandhill Crane on Valentine Streets </head>
+         
+         <p>A sand-hill crane was seen preambulating our streets Tuesday, and the strangers who were in town at the time immediately came to the conclusion that this was the place they long had sought, and mourned because they found it not. No one considered it adequate to the occasion to inform them that the bird had been tamed by the hand of man-or woman, as the case may be-and they went away impressed with the belief that beasts of the forest and birds of the air prowl around Valentine at all hours of the day and night, inviting the disciples of Nimrod to waste a few grains of powder in their direction.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Santee &amp; Hill, Eds. and Props. September 6, 1883. [Sandhill Crane on Valentine Streets.] <title>Valentine Reporter</title> 1(19): 1. Town and County news.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00536">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">On to Mexico!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-10-01</date><biblScope>52(1): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>On to Mexico!</head>
+         
+         <p>If an invasion of Mexico is what the fireaters of this country desire, they are now realizing that wish - for such an invasion is on!</p>
+         
+         <p>When one reads in the daily press of the constant turmoil in that unfortunate country, of the murders and raidings and battles staged there in such countless succession, it seems almost incredible that the dainty and peace-loving birds of equally peace-loving American should fly there for refuge during the winter months.</p>
+         
+         <p>Yet the birds of this part of the United States have gone, for the most part, and many of them will not hesitate in their migration until they have reached the certain warmth of Old Mexico.</p>
+         
+         <p>There, in the zone that suits them best, they can find any temperature or altitude they desire by the judicious adaptation of the lofty mountains in that troubled country.</p>
+         
+         <p>Millions of warblers and other birds very common in northern United States are advancing to the conquest of Mexico. They will be found there, just as much at home as they have been in these regions, during the next six months.</p>
+         
+         <p>If travel were as free and untrammelled in Mexico today as it is in our own peace-blessed country, it would be interesting for the naturalist to follow these brightly colored songsters from their northern summer resort to their winter quarters in the land of revolution and strife.</p>
+         
+         <p>On the mountain sides of Mexico will soon be found the same Grosbeaks and Redstarts and Warblers that have delighted us so long during the past summer - each in his chosen altitude and temperature. In the spring, no matter what national events may startle either nation, this great army of songbirds will bravely start northward upon another invasion.</p>
+         
+         <p>The recent heavy frosts have hurried the flight of these delightful visitors to the south, yet we would wish them well upon their journey and perfect peace and health in Mexico, where such conditions are sadly lacking.</p>
+         
+         <p>And when they return may they find the United States just as peaceful and prosperous and progressive as when they left.</p>
+         
+         <p>For March the Fourth will have passed when they come again!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 1, 1916. <title>Omaha Sunday World-Herald</title> 52(1): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

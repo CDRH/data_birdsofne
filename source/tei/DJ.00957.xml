@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00957">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Wet Weather Birds.</title><title level="j">Forest and Stream</title><author>Carter, R.G.</author><date>1877-06-21</date><biblScope>8 (20): 320.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Wet Weather Birds</head>
+         
+         <list type="simple">
+            
+            <item>Cherry Hill, Neb., May 15, 1877.</item>
+            
+            <item>Editor <title>Forest and Stream</title>:</item>
+         
+         </list>
+         
+         <p>Game is plenty at present. Many varieties of plover, snipe, ducks, geese and cranes; and I believe more plenty around Cherry Hill than anywhere else I have been. I shot, a few days since, a bird of a variety I never killed before. I think it is what your Texas correspondent calls "wet weather birds." I can give but a meager description, as I took no measurements, but sent it away to be set up. It was apparently about as large as a common tame pigeon, but wings, tip to tip, measured full thirty-six inches, and probably fifteen inches tip of bill to end of tail. Its bill was about 1¾ to 2 inches long, dark red to brown in color, shaped like a pigeon's; head black, with full, dark eye, surrounded by a white ring about a quarter inch in width; back and top of wings a fawn color; breast and under portions a very delicate pink; legs small, slender and medium length, dark red color, three front toes web-footed, one back toe, or a ghost of one. Some of the long feathers in the wing were considerably spotted with black. Can you name it?</p>
+         
+         <p>A German told me they called them in his country, <hi rend="italic">Moeve</hi>, which meant sea dove.</p>
+         
+         <p>There are numbers of birds of various varieties never seen here before, brought hither by our "full protective" law I suppose. Prairie chickens are nesting, and prospects are now fair for a greater number of them this fall than was ever known. Yours.</p>
+         
+         <list type="simple">
+            
+            <item>R.G. Carter.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">June 21, 1877. <title>Forest and Stream</title> 8 (20): 320.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

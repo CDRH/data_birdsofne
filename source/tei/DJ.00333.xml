@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00333">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game Birds Mighty Scarce. Wild Fowl Deserting the Favorite Haunts in This Section. Poor Prospect for Spring Sport. Winter Conditions Unfavorable for a Good Season.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy, Sporting Editor.</author><date>1896-03-15</date><biblScope>p. 16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game Birds Mighty Scarce.</head>
+         
+         <head>Wild Fowl Deserting the Favorite Haunts in This Section.</head>
+         
+         <head>Poor Prospect for Spring Sport.</head>
+         
+         <head>Winter Conditions Unfavorable for a Good Season.</head>
+         
+         <p>The observant sportsman and he who believes in signs, is pretty well satisfied now that the spring wild fowl shooting is going to prove both meager and unsatisfactory. As I have asserted many times before in these columns, it requires plenty of water to make good duck shooting, and plenty of water is something we are decidedly shy on in this state. While this is one good reason for the prevailing opinion that the sport will be limited, there are others equally as convincing. Thus far, notwithstanding the many days and weeks of pleasant weather we have had, there have been but few birds killed, and those that have been brought to bag have been sprigtails, but with few exceptions. A few mallards have come into the market from the southern part of Iowa, but so few as to indicate that this royal bird intends to give this particular region a wide berth this spring. At the best ducking grounds in this vicinity, along the upper Missouri and the Platte, there have been but precious few birds of any kind killed, and up to date there is nothing to indicate that the order of things will undergo much change for the better. Of course, within the next fifteen days the main issue of birds from the south, or that portion of them that intends to wing north by this route will be here, and for a brief period some considerable sport may be had, but as I said before, it will be limited in comparison with that which accompanies favorable conditions. Not only are the ducks so far exceedingly scarce, but the flight of geese, both Canadas and speckle-fronts, have been exceedingly attenuated. White geese are unprecedentedly scarce, and even along the Platte in many of their former most favored haunts, they have not as yet appeared at all. Another thing that makes it evident that the sportsman's fears are well grounded, is the fact that we have had an unusually open winter, and spring is advancing after such uncertain fashion. In seasons of this description wild fowl are never known to be overly plentiful in this latitude. They come straggling in, from early February until the middle of April, in small flocks and bunches and a general migration is out of the question. The birds come north with no settled destination in mind and drop down in the streams and lakes and sloughs from Indian territory to North Dakota, some here, some there, but at no place in such swarms as marks Nebraska waters in the sudden dawn of a spring after a rigorous winter. So, taking all these contingencies into question, the lack of water, the mixed and drawn out condition of the weather, and the fact that reports from the Mississippi valley state the birds are passing up that way in myriads, it will be easily understood why our spring shooting should prove slender and unsatisfactory. Still there are times when all signs fail, and I earnestly hope this is one of them, and that when Gentle Annie once does make up her mind to assert herself in earnest, that the ducks will pour in upon us in a way that will recall the golden days of the past—the days when John Petty, General Crook, John Collins, Judge Kennedy and the old school shooters used to saunter out and knock the birds down until they were black in the face.</p>
+         
+         <p>They say that there will be good shooting among the lakes and sloughs south of Valentine and north of Irwin and Paxton, but I doubt it, and Ed Hamilton writes me from his place in Deuel county that he is expecting great sport. The canvasback have already begun to arrive and will be in in force before the month expires. Sam Richmond has his model camps pitched on the fretful Platte this side of Clarks, and has been knocking the pintails right and left during the past week, and he too swears by the bone of the Canada's wing that the birds are going to be thicker'n ever. His camps are cosily situated among sheltering willows at a point unsurpassed on the river, and if the quackers do come in he and his guests are bound to get their share of them. Uncle George West is also making extensive preparations at his matchless hostelry in Clarks to take care of as many ambitious sportsmen as may stray his way. His table is better than ever, and he has hunting rigs galore, with all appurtenances necessary to a trip up or down the river.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold, Sporting Editor. March 15, 1896. <title>Omaha Sunday Bee</title> p. 16.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

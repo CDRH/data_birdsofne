@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00524">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Maryott Teal Painting at Townsend's Gun Store in Omaha].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-07-02</date><biblScope>34(275): 7. Portion of Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <p>There is a large oil painting on exhibition at Townsend's gun store that is attracting much attention among our local sportsmen. It is entitled "The Teal Coming In," and represents a stretch of Nebraska marshland, with its sprawling waters, and fading clusters of rice and reeds, in the twilight of an October evening. A bunch of four green wing teal, like aerial sprites, have swooped down out of space, and on swift wing, with outstretched neck, are peering down into the network of rice, reed and water, for a quiet cove in which to pass the night, safe from the approach of a man with the hammerless or the ever hungry coyote. The birds are perfect, the intensity of the sunset sky a bit extravagant, but the whole, picturesque and beautiful, and the artist, Frank Maryott of Cozad, is to be congratulated upon the effect, originality and finish of his study. By the way Maryott is an all-round sportsman and well known to Nebraska shooters.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. July 2, 1899. [Maryott teal painting at Townsend's gun store in Omaha.] <title>Omaha Sunday World-Herald</title> 34(275): 7. Forest, Field and Stream column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

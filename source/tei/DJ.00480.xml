@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00480">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">On the Lake and in the Field. Weekly Ramble with the Followers of Rod and Gun.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy, Sporting Editor.</author><date>1896-09-20</date><biblScope>p. 18.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>On the Lake and in the Field.</head>
+         
+         <head>Weekly Ramble with the Followers of Rod and Gun.</head>
+         
+         <p>Cutoff lake, it seems, is destined to always retain its charm for local hunters and fishermen. All through these delicious September days its shores are lined with industrious anglers, and while the finny luxuries that are lured from its translucent depths have dwindled in importance from the noble black bass to almost infinitesimal croppie and sunfish, the sport is prosecuted with as much vigor as of old, and the ardent fisherman is just as proud of his catch as if it was up to the standard of a day's work in the past.</p>
+         
+         <p>But there is no denying it—the conscienceless netter and seiner has all but destroyed these waters as an attraction of real anglers and fishermen, men who know something of the ethics of the sport, who would disdain to carry off infant crappie and sunfish hardly large enough to be distinguished from tadpoles, and men who in no way would be induced to participate in an illegal sport.</p>
+         
+         <p>One would think that there was a limit to all things, but this is a mistake. There is no limit to the gall and greed of the Cutoff lake market fisherman. Notwithstanding these waters have long since been entirely depleted of their marketable fish, such as black bass, pickerel and croppie, of a size to justify their capture, he still continues his nefarious practice and will only cease when interested parties are sufficiently aroused to hunt him down and exterminate him.</p>
+         
+         <p>Just now the shooter is enjoying his halcyon time at the lake, as in no season during the whole twelvemonth, is this little patch of water, slough, reeds and mud so attractive to this class of sportsmen, at no season is there a better opportunity to make a creditable bag. It is in September that the teal shooting is at its best, and there is no other duck that visits these waters as numerously as the teal. The increased settlement about the lake, and the grand multiplication of shooters, seemed to have no terrors for him. Let the haze of autumn once begin to draw its diaphanous veil over the distant hills, and down comes this little mottled beauty, with a blue or a green splotch on either wing, from his summer abiding places in the north, down he comes to Cutoff's reedy shallows, to wallow in the sunshine and grow fat on the dainties which everywhere abound. The other ducks, canvasback, red-head, mallard, widgeon, baldpate and bluebill, are more wary than they formerly were. The numerous buildings which have been constructed about the lake, and the general metamorphose of the surroundings, together with the ubiquitous gunner and his dog, has warned them to seek more secluded and safer localities for their fall festival and sojournment. Of course these birds still drop in here, but in nothing like the myriads which used to mark regularly their spring and autumn migrations.</p>
+         
+         <p>Years ago these waters bore a different name from what they do now. Fifteen or twenty years back they were known exclusively as Willow lake, and the new and uneuphonious appellation was not applied until after the erratic Missouri gave provocation by its famous "cutoff." Those days, too, were days made memorable by such old school sportsmen as General Crook, John Collins, John Petty, Judge Kennedy, Yank Hathaway, Jack Knowles, Al Patrick, Henry Homan and others. It was nothing unusual for a couple of these illustrious shots to jump in a buckboard at 4 o'clock in the afternoon, drive to Wilson's lake by the old road and knock from fifty to seventy-five birds before night drew her curtain and shut off the sport. While Willow lake in the old lang syne was one of the greatest teal grounds to be found in the whole country; teal in those days were too small game for the men I have mentioned. They were very "choicy," and teal, widgeon, bluebill, baldpate could skim over decoys with impunity; when their old hammer-guns belched forth their storm of fire and smoke, it was the downfall of canvasback, redhead or mallard. In those times duck hunting trips to the distant sandhills country were unheard of, and journeys of any considerable consequence were only undertaken for buffalo, elk, deer and antelope; the nearby Elkhorn and Platte furnished wild fowl in abundance, to say nothing of geese and swan, sandhill crane, jacksnipe and chicken.</p>
+         
+         <p>But, as I said before, Cutoff lake seems destined to withhold her magnetism for all time to come. Despite improvements that have encroached upon the feeding and play grounds of the larger body of visiting wild fowl, there seems to be plenty of attractions here still for Anas Discors, the delicate teal, good feed for the muddy, reedy shallows, delightful cover and open water of sufficient expanse              to fulfill all requirements. And again, September is the favored month here for yellowlegs, rail and jacksnipe, and while they are seldom to be met with in any unusual numbers, they stop off here in these fine fall days with sufficient frequency to render tolerable sport.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy	Griswold, Sporting Editor. September 20, 1896. <title>Omaha Sunday Bee</title>	p. 18.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

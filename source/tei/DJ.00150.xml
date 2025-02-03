@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00150">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Challenging Dan Beard [Long-eared Owl].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-12-01</date><biblScope>54(9): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Challenging Dan Beard.</head>
+         
+         <p>There is one man in American who stands out pretty strongly as a leader of the Boy Scouts - and the Boy Scouts, in the opinion of this newspaper, are almost as important as any branch of service in the government, for they represent the wise, brawny and resourceful men of tomorrow.</p>
+         
+         <p>This man is Dan Beard. He is a most engaging writer and illustrator of subjects dearest to the heart of Young America, and his works are handbooks for the kids.</p>
+         
+         <p>But in a late issue of Scout Life, the official organ of the Boy Scouts of America, Dan has either pulled a boner or has got his notes mixed.</p>
+         
+         <p>He says that the Long Eared Owl is a devastator of the woods and farms, and deserves nothing better than a charge of BB shot!</p>
+         
+         <p>When Dan Beard advises boys to shoot Long Eared Owls he is baffling the United States department of agriculture, which advises that this bird be protected.</p>
+         
+         <p>There are lots of Long Eared Owls in this part of the country - funny-looking critters but little larger than the Screech Owl, but long in body. When perched in a pine tree they look like a feathered fish, upside down, their long ear-tufts being the tail.</p>
+         
+         <p>Statistics show that they eat field mice and beetles and insectivorous pests that are the bane of the farmer's existence, and when Dan Beard says that they carry off rabbits he is certainly mistaken - for the rabbit would be more likely to carry off the Owl!</p>
+         
+         <p>Few owls and few hawks are really harmful, as Uncle Sam will tell you. Let not our Boy Scouts take too much credence in Dan Beard's latest essay.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 1, 1918. Challenging Dan Beard [Long-eared Owl]. <title>Omaha Sunday World-Herald</title> 54(9): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

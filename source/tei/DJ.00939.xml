@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00939">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Visit From the Sparrows.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-09-22</date><biblScope>53(51): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Visit From the Sparrows.</head>
+         
+         <p>While this is the quietest time of all for the bird student, just between the departure of the summer birds and the arrival of the winter pals, with the southbound migration seeming to avoid visiting us as frequently as when northbound in the spring, the amateur ornithologist may still have a pleasant Sunday in the woods and undergrowth, looking for the sparrows that soon will be passing through.</p>
+         
+         <p>As has been frequently observed in these columns,, there are sparrows and sparrows - the Englisher being the only undesirable in the large assortment.</p>
+         
+         <p>More than a dozen beautiful and useful varieties of sparrows pass through Nebraska during migration, and this is but one-third of the total number of this species to be found in the United States. It is probable that a dozen is placing the figure rather low, but this number may be rather easily identified.</p>
+         
+         <p>Within the next few days or weeks, and perhaps now, you may find the Harris, Fox, Grasshopper, Song, Whitethroated, Whitecrowned and many other migrants in passage. The Song sparrow occasionally stays the year around, but is rather rare. The Field and Chipping sparrows are still with us, while the strangers, such as Nelson Sharptailed, Vesper and LeConte sparrows may occasionally be seen.</p>
+         
+         <p>The whine of the Harris sparrow is distinctive and you will know him by his mournful protestation. He is a large bird of his class, and the male has a jet-black veil over his face. The Whitethroat and Whitecrown are well named, the latter being additionally distinctive because of the prominent bulge on the top of his pretty cranium. The Fox sparrow has the habits of a barnyard hen, and scratches around in the underbrush most industriously. In color and markings, he looks like some sort of thrush, with speckled breast and a rich, red-brown spot on his rump. He is one of our prettiest birds.</p>
+         
+         <p>Presently the Tree sparrow, with the spot of black in the middle of his gray chest, will be here to spend the winter, along with the Slate-Colored Junco, who is also a sparrow at heart. The Chippy, with the white live over his eye, is preparing to leave and the Field sparrow, with its pink bill, is also packing up its effects.</p>
+         
+         <p>The sparrows are a most interesting study, and now is the time to begin indulgence in the same, for with the falling of the leaves, observation is much easier.</p>
+         
+         <p>Don't forget the woods and fields today - for they welcome you.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 22, 1918. <title>Omaha Sunday World-Herald</title>	53(51): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

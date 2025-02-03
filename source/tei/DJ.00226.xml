@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00226">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Distressed Robins.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-04-13</date><biblScope>54(27=28): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Distressed Robins.</head>
+         
+         <p>Several inquiries have reached the World-Herald of late concerning the strange behavior of the robins this spring. It is said, in these reports, that the redbreasts are making a practice of pecking at the windows of residences and of making diligent endeavor to get inside houses, this practice being so peculiar as to attract notice.</p>
+         
+         <p>The World-Herald has been asked to explain this strange phenomenon, and the "bird editor" has been besieged by applicants for information pertaining thereto.</p>
+         
+         <p>It is beyond the knowledge of any human to fathom the mind of a bird, but we can make a few guesses, and, perhaps, get away with them while nobody is looking.</p>
+         
+         <p>The robin's stunt of pecking at window panes is not new. I happened a couple of years ago when we had an early spring, followed by delayed vegetation. The warm March brought all the robins into this territory and then there were no leafy trees in which they might nest.</p>
+         
+         <p>They had mated, however, and had to build a home somewhere. So they pecked around trying to secure some secluded nook away from the madding throng. The extent to which these robins went in building nests would astonish you, and we think explains their present endeavor to get inside some quiet room which they can see through the glass.</p>
+         
+         <p>If this conjecture is wrong, we will cheerfully stand correction, but the coincidence is certainly here - that the robins only peck at windows when there is no foliage on the trees to hide their nests.</p>
+         
+         <p>What is the answer? We would gladly receive adverse opinions, if there be such.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 13, 1919. <title>Omaha Sunday World-Herald</title> 54(27=28): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

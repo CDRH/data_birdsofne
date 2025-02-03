@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00672">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Belted Piping Plover.</title><title level="j">Oologist</title><author>Anderson, Geo. P.</author><date/><biblScope>17: 156.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-20">2006-06-20</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Belted Piping Plover.</head>
+         
+         <head>(<hi rend="italic">Aegialitis meloda circumcincta</hi>.)</head>
+         
+         <p>This interesting little Plover arrives here to breed about the first of May, but does not commence housekeeping until the middle part of the same month.</p>
+         
+         <p>I have found a set of two eggs the 13th of May which I presume is about as early as they commence laying in this locality.</p>
+         
+         <p>Their favorite nesting site seems to be the barren sandbars in the rivers, although I have found a nest of this species on a sandbar which had quite a growth of young willows.</p>
+         
+         <p>They scratch several shallow holes in the sand and seem to take possession of the dryest one.</p>
+         
+         <p>In a dry season they very seldom line their nest but in a wet season they will occasionally line it with pebbles and bits of tried twigs.</p>
+         
+         <p>I have found them to lay two and three sets in a season, but seldom three except when their nests have been robbed. I have never found the birds setting on their nests, but which I presume they do during the night.</p>
+         
+         <list type="simple">
+            
+            <item>Geo. P.Anderson</item>
+            
+            <item>Dannebrog, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">1900. <title>Oologist</title> 17: 156.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

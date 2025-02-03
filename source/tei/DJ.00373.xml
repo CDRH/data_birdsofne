@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00373">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Grasshopper Scare [Birds and Insects].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-12-09</date><biblScope>53(10): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Grasshopper Scare.</head>
+         
+         <p>State authorities have sounded the tocsin of alarm. They say that the open fall and other natural or unnatural conditions have provided ample opportunity for the growth of the larvae. Wet weather kills the eggs which have already been laid, or will kill them in the early spring. We have had no wet weather this fall, but still have an opportunity to take care of these threatened youngsters during the new year, if Pluvius will do his part.</p>
+         
+         <p>The state food administration has asserted that the arsenic supply of the country is to be taken over by the government, to be used in battling the aforesaid bugs, should they appear in unusual numbers. This is very well, and will help. But nature provides its own safeguard against such plagues, and this safeguard is the birds.</p>
+         
+         <p>Whether or not wet weather this spring reduces the army of grasshoppers; whether or not this army, should it appear, can be destroyed by the proper application of arsenic, the fact still remains that the birds will take care of the job, if permitted to do so.</p>
+         
+         <p>If there was ever a direct appeal issued for the protection of our Nebraska bird life, it was in the food administration's warning that the grasshoppers are mobilizing!</p>
+         
+         <p>The Franklin gulls saved Utah from a plague of black beetles that threatened to drive the Mormon settlers into other territory or the grave - and there is a monument erected to these gulls in Salt Lake City - the only one of its kind in the world.</p>
+         
+         <p>The Redwing and Rusty Blackbirds delivered Nebraska from a plague of insects that threatened the wheat crop twenty-five years ago, and put an immediate stop to the practice of poisoning these useful birds because they eat a little - comparatively little - grain.</p>
+         
+         <p>If the grasshoppers assail our war crop of corn and other imperative products, the report of the shotgun should immediately cease in the state. The department of agriculture will furnish reams of authority for the statement just made, and the farmer whose acres are swarming with birds should consider himself lucky in the springtime - for these feathered experts are among the very worst enemies Kaiser Bill has.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 9, 1917. The Grasshopper Scare [Birds and Insects]. <title>Omaha Sunday World-Herald</title> 53(10): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00039">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">August Sport. How the Prairie Chickens Feathers Fly this Month. Birds Rising and Asking to be Shot for the Fun of the Thing - Exploits of the Workingmen's Club Delegation - Private Scores Reported at Headquarters.</title><title level="j">Omaha Weekly Herald</title><author>Omaha Herald, Staff Writer.</author><date>1881-08-26</date><biblScope>16(47): 6.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-08-04"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofreading from Source</item>
+</change>
+</revisionDesc>
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>August Sport.</head>
+         
+         <head>How the Prairie Chickens Feathers Fly this Month.</head>
+         
+         <head>Birds Rising and Asking to be Shot for the Fun of the Thing - Exploits of the Workingmen's Club Delegation - Private Scores Reported at Headquarters.</head>
+         
+         <p>"Open season" was the very[?] which sent sportsmen skurrying out on the first of the week, with double-barreled shotguns and capacious game bags, so hail the advent of the prairie chicken season.</p>
+         
+         <p>They were expecting rare, good sport, and were not disappointed. The late spring had prevented farmers in most localities from burning over the prairie, and the chicken bred and hatched and shed his pin feathers, and grew plump [?] in his native lair till the 15th of August found him nearly full grown and in prime condition. As that veteran fowler, John Petty, chants:</p>
+         
+         <list type="simple">
+            
+            <item>"His pet birds will meet him on the way,</item>
+            
+            <item>And his dog goes limping on."</item>
+         
+         </list>
+         
+         <p>First to return are the party for the Workingmen's Sportsmen's club, who started out in a special car on the U.P. railway Sunday, shooting on the wheel, and claim 400 birds, captured mostly near Duncan.</p>
+         
+         <p>Ed. Johnson and George Moore reported yesterday from Columbus with a score of 138 birds, (all prairie chickens.)</p>
+         
+         <p>Goodley Booker and W.H.B. Hughes loom up from Norfolk prairies with 85 birds.</p>
+         
+         <p>B.E.B. Kennedy, J.F. McCartney with Sam. Chapman, of Plattsmouth are blazing away in the region of Oakland where they will bag chicken and at the same time select a place for the field trials of dogs in September. They promise to leave a few birds to encourage the dogs.</p>
+         
+         <p>John Smiley of the U.P. baggage department "smashed" seventy-five birds; not counting those which got away.</p>
+         
+         <p>C.K. Cralle and his party telegraph from Grand Island that they have been doing famously, but are taking a rest, their dog being sick from getting feathers in his throat.</p>
+         
+         <p>One citizen, whose name is suppressed out of regard for the fact that his father used to be the deacon of the chalk club, started in from Calhoun with a bag of birds on Monday noon, but recollected in time to save himself that the season did not open till Monday morning. He lay under a haystack till night and then "jumped" a milk wagon and came in.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Omaha Herald, Staff Writer. August 26, 1881. <title>Omaha Weekly Herald</title> 16(47): 6.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

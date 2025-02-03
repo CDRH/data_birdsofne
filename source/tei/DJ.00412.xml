@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00412">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hummel and the Parks [Murder of Live Trees].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-05-08</date><biblScope>56(31=32): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hummel and the Parks.</head>
+         
+         <p>Long before the primaries, Joseph B. Hummel made us a secret campaign pledge that is particularly interesting to those who love Mother Nature and like to see her let alone. Hummel is elected now, and so we are privileged to speak without violating any confidence. He said:</p>
+         
+         <p>"If the people of Omaha give me control of the parks of this great metropolis, I will devote a reasonable portion of my working hours to the building up of woodlands and rustic vistas. There was a time when I may have made some mistakes in the 'cleaning up' of our parks, but I was educated differently before the end of my last term of office. I now propose, as far as the finances of my department will permit, and using that money with due discretion, to build parks, instead of permitting them to be destroyed. The ax, except on very carefully deliberated occasions, will be a weapon relegated to the toolhouse. We must have more trees and shrubbery and plants and birds. I am assured by the most ardent advocates of nature-preservation that the cleaning up of greensward along boulevards, and the maintenance of all sorts of ball diamonds, tennis courts, and playgrounds in the parks is not objectionable - but I certainly intend to see that the rustic features are not only maintained but improved as much as any man can do.</p>
+         
+         <p>This should be good news for the birds, especially.</p>
+         
+         <p>While the biggest cities in the east are spending large amounts of moneys to plant trees and bushes, and to encourage the rustic element in the public holdings, the park commissioner of the past three years in Omaha insistently permitted the positive murder of live trees in some of our largest and most beautiful parks.</p>
+         
+         <p>All this to the unspoken grief of the useful birds and wondrous flowers and vines that only ask the chance to take care of themselves in the way God intended them to do.</p>
+         
+         <p>The World-Herald feels that even the songsters had something to do with the political landslide of last Tuesday, and that every Cardinal and Brown Thrasher and Goldfinch and Chickadee voted solidly for Mr. Hummel, expecting him to continue doing what he had started to do when removed from office three years ago.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 8, 1921. Editor [possibly Miles Greenleaf]. <title>Omaha Sunday World-Herald</title> 56(31=32): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

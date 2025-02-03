@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00714">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Rapid Disappearance of Native Birds].</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy, Sporting Editor.</author><date>1897-09-19</date><biblScope>p. 19.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Ring-neck Pheasant—Rapid Disappearance of Native Birds (1897)</head>
+         
+         <p>As a law prohibiting the killing of these birds in Nebraska has already been spread upon our statute books, why would not Ohio's course be a good one for the next Nebraska legislature to follow? That the Mongolian and ring-neck pheasant would thrive in various portions of this state has already been substantially demonstrated. Some five or six years ago Dr. George L. Miller of this city liberated a single pair of a cross of these two species up near Calhoun and despite the absence of any prohibiting law or any especial attention having been paid to their welfare, I can offer actual proof of their thrift. While quail shooting over a stretch of country densely covered in places with shrubbery and patches of thick timber in that vicinity with Con Young, last fall, I flushed a bevy of nine of these beautiful birds. Being unsatisfied as to their identity, with the aid of the dogs we succeeded in getting most of them up the second and third time, and had ample opportunity of determining just what they were. Later we learned from parties in Calhoun that these birds had been frequently seen in that neighborhood off and on for the past several years. While there is no testimony that the birds have increased more prolifically than the above flock attests it stands to reason that they would thrive here, for it should be recollected that they have had neither care nor protection since the liberation of the original pair, other than that extended by lenient and conscientious sportsmen. How many of the birds have been killed by vagrant market shooters is a question, but it is not likely that all of the progeny of Dr. Miller's two birds have escaped these pests. The law that was enacted in the pheasants' behalf by the late lamented (?) legislature was at the instigation of parties, I have never been able to learn just who, resident at Hastings.</p>
+         
+         <p>The rapid disappearance of our native birds is becoming a more melancholy and graver subject for contemplation with each recurring summer season, and from the implications now presented it will be but a few more years when most of the little feathered beauties formerly so familiar have glanced from view forever. Even robin redbreast, fifteen or twenty years ago the commonest form of all bird life in this vicinity, has joined the speedily vanishing horde, and where scores and scores were to be seen then, a single member is a rarity now, and in many of their old favored haunts they are as unknown as the great emu is on the broad plains of Australia. The blue bird, always the sweet harbinger of spring, common fifteen years ago in every dooryard, while not literally exterminated in Nebraska, is but infrequently encountered, and is sure to totally disappear within a very short time. While driving in from Millard with a friend the other evening we saw a pair of blue birds flitting from post to post of the wire fence out about Clinton Briggs' farm and my companion remarked that they were the first blue birds he had seen for two years, notwithstanding he has driven much over this and adjoining counties, and through scenes of sunlight and breeze, of swaying branches and glowing fields, where formerly they reveled by the thousand. The beautiful scarlet tanager, the cat bird, gold finch, martin, bobolink, flycatcher, tomtit, creeper, vireo, yellow-winged sparrow, wren and a myriad of other formerly plentiful visitants of our summer woods, orchards and fields, are now so rare that those who were not interested in oological affairs years ago would not recognize one were he to see it. Even the meadow lark is yearly becoming scarcer, and a good many of our game birds, such as the golden plover, the Esquimo curlew, woodcock and prairie pigeon, have entirely vanished. Of all the birds of gaudy plumage most of my readers knew so well years ago, the bluejay, that buffoon of American bird life, alone seems to hold his own. There have been many theories advanced as the cause of this rapid extirpation of our birds, chief among which is trapping for their plumage and the war made upon them by the ever-pestiferous English sparrow, and it is in the former I take the most stock. While the foreign sparrow is a greedy, pugnacious little scamp, he has been but seldom seen in combat with any of our native birds, and if it has been from this source that they have disappeared it has been by a sheer crowding out and nothing more. I am preparing quite a lengthy disquisition for The Bee on the birds of Nebraska, on information based on personal research and observation, and when it appears in these columns it will surprise many by revealing what a surpassing clime for song and plumage birds this state really is. I do not think there is another state in the union whose fauna exceeds our own in point of number or interesting features.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold, Sporting Editor. September 19, 1897. [Ring-neck Pheasant. Rapid Disappearance of Native Birds.] <title>Omaha Sunday Bee</title> p. 19.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

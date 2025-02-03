@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00330">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">From Nebraska.</title><title level="j">Young Oologist</title><author>N. A. S. [N.A. Sherman].</author><date>1884-06-01</date><biblScope>1(2): 28.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-18"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>From Nebraska.</head>
+         
+         <p>The first number of <hi rend="smallcaps"><title>The Young Oologist</title></hi> received; I am well pleased with it. On the morning of the 10th inst., I found eight or ten nests of the Bronzed Grackle. They were each and every one of them placed from six to ten feet high in the wild plum trees, which grow in abundance on the banks of the creeks in this state. The birds in question have chosen very picturesque places for their camping ground. The plum trees are at present one mass of white blossoms. The nests of the Mourning Dove were as plenty as those of the Black birds.</p>
+         
+         <p>N.A.S.<lb/>York, Nebraska.</p>
+         
+         <cit>
+            
+            <bibl default="NO">N.A. Sherman. June 1884. <title>The Young Oologist</title> 1(2): 28.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

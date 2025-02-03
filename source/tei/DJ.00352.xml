@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00352">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Getting Ready for Spring {Goldfinch].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-02-23</date><biblScope>54(21): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Getting Ready for Spring.</head>
+         
+         <p>While laymen are very generally unaware that the Goldfinch, or "Wild Canary," as he is incorrectly called, stays with us all winter long, it is yet the fact that this bird presents one of the first hopeful signs as winter wanes and springtime isn't so far away.</p>
+         
+         <p>In warm weather the Goldfinch patronizes the citified back yards and gardens, as well as the woodland, for he is ever in search of seeds, which makes up the principal part of his diet.</p>
+         
+         <p>But in the winter he has to seek cover in the dense jungles along streams, where there is a lot of wild hemp and sunflower and other weed patches to furnish him not only protection but food.</p>
+         
+         <p>So the Goldfinches, generally in large numbers or not at all, are to be found today in such weed thickets as described.</p>
+         
+         <p>But this point is not the one in question - for this editorial is intended merely to cheer humanity onward to the period of radishes and green onions - since spring is surely coming, and not far distant!</p>
+         
+         <p>The Goldfinch in the winter is a dusky bird, with the general color scheme of an ordinary English Sparrow, and as the asparagus season approaches he commences to assume the yellow tinge that eventually reaches the rich canary hue of the hot weather.</p>
+         
+         <p>These Goldfinches today have more yellow in their overcoats than in many years at this season - and it is pretty hard to fool Dame nature.</p>
+         
+         <p>Possibly this is to be a really early spring - and the Goldfinches have forecasted it!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 23, 1919. Getting Ready for Spring {Goldfinch]. <title>Omaha Sunday World-Herald</title> 54(21): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

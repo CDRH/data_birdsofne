@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00300">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Feather Prophets.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-10-22</date><biblScope>58(4): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Feather Prophets.</head>
+         
+         <p>Nearly every fall, about this time, there appears some sort of yarn by a hunter and trapper up north to the effect that there is to be a very severe winter, or a very mild one, according to the thickness of the squirrel's fur, or the plastic qualities of certain barks - or any other of many natural hints alleged to be visible only to those rich in woodlore.</p>
+         
+         <p>it is difficult to say that feather prophets are necessarily weather prophets, but we confess a bit of coincidence in the arrival of certain northern birds in these parts as suggesting some unusual disturbance in the district they have left, at very least. Local history will show, as well, that every often their sudden appearance here precedes a cold snap.</p>
+         
+         <p>There is nothing particularly mystic about this, when you stop to think it over. If you are cold, you go to a warm place, or else don some more duds. Birds can't do the latter in a jiffy, so they move along ahead of the storm. Hence we get 'em when the weather doesn't suit 'em in Minnesota or Canada.</p>
+         
+         <p>We had a few days of pretty frigid weather a week or so ago, and right ahead of that stretch came flocks of Red Crossbills, scattered Red Breasted Nuthatches, a few Siskins and one or two Tufted Titmice. These are all beautiful birds, and fairly unusual hereabouts, all of which makes it the more interesting to tramp about in the woods this morning, and see what may be seen.</p>
+         
+         <p>The Crossbills, whose name is very descriptive, are able, by the fact that the points of their beaks cross each other, ti pry open the seed pods of conifers, and they make a merry racket feeding in an evergreen glade in the winter. The old country gives us a sweet little fairy story about these birds; that they bent and broke their bills attacking the nails that held the Saviour to the cross. It is said that the Crossbills are protected by and enshrined in the hearts of some people over there, for that reason, to this day.</p>
+         
+         <p>The Crossbills are very beautiful, but flighty, and no one can say when or where they will be seen. The Siskins travel in flocks, generally being cousins of the Goldfinches, and are valuable for their seed eating proclivities. The Red Breasted Nuthatches are tiny upside-down birds, who devote their lives to tree surgery, while the Titmice are something akin to the dandy little Chickadees, and a glorious surprise when met in the woods.</p>
+         
+         <p>All these more than welcome visitors are here now - right in Elmwood park, to be exact- and whether or not they presage bad weather, they certainly are cheerful and pretty enough to suggest good luck in all ways.</p>
+         
+         <p>Look them over.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 22, 1922. <title>Omaha Sunday World-Herald</title> 58(4): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

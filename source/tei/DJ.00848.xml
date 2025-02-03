@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00848">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Spring Fever - Yield to the Feeling].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1900-03-18</date><biblScope>35(168): 18. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-19">2006-06-19</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <p>As the sun grow stronger and the last lingering snow drifts, like dirty gray streaks, mark the draws along the old Military road, and robins return, and the brown earth steams and swells beneath the midday warmth, there comes to us a restless longing for something different from the ordinary life, which is perhaps the survival of a migratory instinct transmitted from some long forgotten ancestor, who changed his skies with the changing seasons. Call it by whatever name we may, spring fever, or what not, this state of mind does certainly exist and demands a cure.</p>
+         
+         <p>There is a better remedy than to yield to the feeling, just as the birds and beasts do, to burst our bonds for a while and to spend a day, or a week, or a month, if we can, "far from the madding crowd's ignoble strife." It matters little what the excuse may be that we make to ourselves and our business associates, whether it is to go a fishing, on the opening day, or snipe shooting, or duck hunting; any excuse is a good one which for a time frees man or woman from the restraints of everyday life and give opportunity for communion with nature, now just opening her eyes and stretching her arms after her long sleep.</p>
+         
+         <p>Although this restlessness comes to every one except the most hardened business man, it does not come to all at the same time or by reason of the same causes. One man may recognize its first symptoms as he walks down Farnam street and feels a warm, soft air of spring blow upon his face; another may be stricken as he walks through Hanscom park and sees the swelling buds of the maple and the elm; another may sit at his desk dreaming for an hour over something he has seen in a newspaper which sends his thoughts a thousand miles afield, or yet another may find the sweet poison in some vernal odor, or in the voice of a newly arrived bird. Whatever its cause all know the symptoms of the disease and all know the remedy.</p>
+         
+         <p>Let him who dreams of brown foam flecked streams, whose waters are kissed by the swollen catkins of bending willows, and bordered by sprangling reeds, make ready his rod and line and start for the bass waters. There he will perhaps catch some fish, but whether he does or not, he will find what is of more worth to him than bass, though he may not know it. He will see the newly-come killdeer wading along the dank shores, and the yellowleg and the yellowhammer undulating from tree to hillock and cackling in the delight with which the sensuous air fills and life; he will see the little turtles basking in the sun and the muskrats diving in the quiet places. He will hear the melodious gurgle of the blackbirds, the jangle of jay, the tumultuous cawing of the mating crows and the far off scream of the circling hawk. He will stretch his legs in a long day's tramp and will come to his resting place at night honestly tired out, and with an appetite such as he has not had for months.</p>
+         
+         <p>Or if he dreams of only Cut-Off's waning grandeur, what more easy than to board a car and find himself in an hour at the long gravelly beach where the miniature surf beats unceasingly, where the sun seems ever bright and warm, where the waters are nearly as blue as the skies above them, where the lesser gull, with his long light wings, sails and dips, and where the man can turn back the pages of a quarter of a century and at once become a boy again, running bare-legged along these changing shores, or wading in the shallows to capture frogs or crawfish, winning at the same time the rest and the new strength which means for him, in the months to come, better work and more of it than he could have done without this interval of transformation from man to youth.</p>
+         
+         <p>The duck hunter and the snipe hunter has his attack of the spring fever, as the fisherman does, and it send him to the river or the lake or the broad marsh, with his load of decoys and shells. And it may be that out of all this work among the springing rice and bursting flags, they get more pleasure and more health than they could from any other pursuit. Where a man's heart is, there must be health.</p>
+         
+         <p>There are many to whom these cuttings are their sole recreation, pleasures anticipated for one-half the year and looked back upon for the other half, and the number of such is constantly increasing. It ought to increase, for they who really delight in such things do better work and make more useful citizens than those who pin themselves down to an unending round of narrow business life.</p>
+         
+         <p>The laying aside for a time the daily routine, the mental rest, the delight of again seeing beautiful things, long known, yet ever fresh, and of seeing other things which are wholly new—all these combine to pour into a man's system a new vigor which will enable him when he returns to his work to do that work with an increased interest, intelligence and earnestness. From the point of view of mere dollars and cents it is worth every man's while to take two vacations each year; one on the spring and one in the fall. Such play-spells pay for themselves in the better work a man by reason of them can do through the long months of heat and cold.</p>
+         
+         <p>To all you, who now feel the symptoms coming one, look up either the fishing box or the shell case, and get out and mingle with the new life that comes with the spring, and when you get back write me a line about the big bass you caught or the bag of ducks you made.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. March 18, 1900. [Spring Fever - Yield to the Feeling]. <title>Omaha Sunday World-Herald</title> 35(168): 18.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

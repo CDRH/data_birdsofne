@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00997">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Witching Hour.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-04-09</date><biblScope>57(25=28): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Witching Hour.</head>
+         
+         <p>This season, for those who find something beautiful and holy in the coming of the birds of springtime, is the most beautiful of all. It is a resurrection of bird souls that seems to accompany the Eastertide, which is quite fitting, since nothing is closer to God than is a bird.</p>
+         
+         <p>Easter comes late in the calendar this year, but that does not matter. The birds come to us anyway, and their carol is the same, and their garments are the same, and their loveliness is the same. They look not upon calendars, but upon the Divinity, we would like to believe. What other lively thing have we in this spherical arrangement of massed matter that can sing us a glorious hymn while mounting beyond the clouds, never to return, as far as human record shows?</p>
+         
+         <p>we do not mean that these heaven-seeking feathered beauties of ours do not return - but there is plenty of evidence that we do not know when or where some of them return. And it is surely certain that their songs were not learned from us - but we have reaped most of our music from them - and what comes from God's air is God's song - and, by the way, where do the Chimney Swifts go in the winter?</p>
+         
+         <p>Let the twitter of these Chimney Swifts, soon returning after a winter spent WHERE? - mean to us that the Omnipotent takes care of such creatures, who have defied mortal scientists; they know not where the Swifts spend these winter months unless in the dead bowels of Central American or Mexican volcanoes.</p>
+         
+         <p>Why pester ourselves about these mysteries when the Myrtle Warblers are soon to flash their yellow-rumped plumage among our bird-loving hosts, and the Bluebird is back in the same box that he occupied last year, and the House Wren will presently scold if his 1921 domicile has not been properly cleaned for him and his wife!</p>
+         
+         <p>Sundays are wonderful days, because for most people they afford opportunity to think of things better than those that occupy attention on other days. They may give you the chance to get outdoors and get your lungs and eyes and ears and soul full of stuff that was arranged for you sometime before the nebular hypothesis began to heave globules of worlds into the nothingness that the birds only know.</p>
+         
+         <p>The birds are waiting to tell you more about yourself this very day - and more and more of these birds will be in the woods and fields to lecture you each day for the next month.</p>
+         
+         <p>But this is Sunday!</p>
+         
+         <p>Did you ever hear a Brown Thrasher try to imitate a Cardinal, while both sit in the same tree and a Sabbath divinity referees the match - no decision?</p>
+         
+         <p>Try it this morning.</p>
+         
+         <p>It will give you some new ideas!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 9, 1922. <title>Omaha Sunday World-Herald</title> 57(25=28): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

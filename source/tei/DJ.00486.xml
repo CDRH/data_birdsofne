@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00486">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">When the Leaves Are Red.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-09-24</date><biblScope>51(52): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>When the Leaves Are Red.</head>
+         
+         <p>There is something insidious in the soft and unexpected arrival of Indian Summer. While you are glorying in the grandeur of the cosmos and the defiant beauty of the gaudy zinia, the leaves of the sumac and the woodbine have donned their autumnal garments of carmine and of bronze, whilst the reluctant trees of the woodland give up their summer foliage in zig-zagging deposits to weave a deep, rich-scented carpet for us to tread in ecstasy.</p>
+         
+         <p>And into these woods and these leaf-carpeted nooks there now come the birds that love and understand them best. It is as though this wealth of scenic investiture is particularly prepared for the feathered tourists who stop with us a while on their deliberate journey to Dixie and beyond.</p>
+         
+         <p>Rustling about in the auburn underbrush and heaps of fallen leaves there will soon be found that intensely interesting and dainty fellow - the Fox Sparrow, named for his color, no doubt, yet bearing many characteristics of the barnyard fowl preyed upon by Sly Reynard along the frontier.</p>
+         
+         <p>For the Fox Sparrow scratches about in the loam, beneath the leaves, and then feeds upon what he has turned up - like your Plymouth Rock or other domesticated food for the frying pan.</p>
+         
+         <p>And there comes the melancholy whine and sigh of the burly Harris Sparrow, who seems ever to have a secret sorrow upon his soul, as he sobs in the dense and ruddy underbrush of autumn - a transient bound for the border.</p>
+         
+         <p>Rearing likewise very large among this brethren of the clan, will be seen the White Crowned Sparrow, well named in consideration of the bright coronet of snowy white which adorns his head, while the soft note of his call will distinguish him quickly from the rest.</p>
+         
+         <p>Ah, these rusty woods - there falling leaves - the wilted foliage that speaks so eloquently of the silent frosts that have come - and the killing frosts which are soon to come!</p>
+         
+         <p>Out of this delightful picture, so exquisitely perfumed by nature, comes the clear sweet whistle of the Peabody Bird!</p>
+         
+         <p>"Old - Sam - Peabody!"</p>
+         
+         <p>How quaintly and perhaps sorrowfully the White Throated Sparrow pipes this little cry of his!</p>
+         
+         <p>And if you watch closely, you will soon see him there in the shrubbery, with his white dickey and the narrow white stripe all down his crown - a delightful bird truly, yet telling most certainly of the winter that is coming.</p>
+         
+         <p>These are but a few of the delights to greet your eye and ear in the woods these days, when the sparrows and the warblers, great and mysterious families, are flitting plaintively to the warmth of the southland.</p>
+         
+         <p>There is loveliness in the springtime, but there is a sad beauty all its own in the autumn, when the leaves are red.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 24, 1916. <title>Omaha Sunday World-Herald</title> 51(52): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00393">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hawks.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-11-19</date><biblScope>58(8): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hawks.</head>
+         
+         <p>Wandering far from his native, prickly, semi-desolate arid desert haunts of Arizona and Old Mexico, an inquisitive harris hawk recently took a northern trip into Nebraska. Since he was the first of his tribe ever seen in these parts, the populace welcomed him with the salvo customary in such cases. In other words, he was shot as a curiosity. His neatly stuffed body now resides in the display window of a local bicycle shop. We might observe that if all curiosities that come to Nebraska were shot, there wouldn't be room for much else in the aforesaid shop windows.</p>
+         
+         <p>But that hasn't anything at all to do with this sermon - for a sermon it shall be, of its kind.</p>
+         
+         <p>Hawks are hawks to nearly every farmer and to every huntsman. They are considered legitimate prey. They are "bumped off" in a casual sort of way when the edible game birds are not flying, and merely as practice. They are assassinated as Chicken Hawks if they happen to be anywhere near a chicken; Duck Hawks if they happen to be in the vicinity of a duck; Pigeon Hawks if there is a pigeon on the horizon - and so on.</p>
+         
+         <p>The theory being that they prey particularly on the object whose name they bear, it is probable that the Harris Hawk once tried to eat Professor Harris, a famed naturalist, after whom the bird was entitled.</p>
+         
+         <p>A tramp abroad through the fields these days, acting on the mentioned premise, will doubtless discover many Dog Hawks, Automobile Hawks, Windmill Hawks, Winter Wheat Hawks, etc. Wherever a hawk floats, that directly beneath him must be his particular diet.</p>
+         
+         <p>As a matter of fact, after careful observation, the United States department of agriculture finds but three dangerous and damaging hawks among all the several varieties that float and soar above the fields and woods of this section of the country.</p>
+         
+         <p>These three "highwaymen" are the Goshawk, the Coopers Hawk and the Sharp-shinned Hawk.</p>
+         
+         <p>These are not in any considerable way useful to humanity, and their sudden demise causes no grief on the part of anyone - but the rest of the Hawk family are pretty good folks, and worthy of protection, so says Uncle Sam.</p>
+         
+         <p>Ravages by these birds have created the sentiment against all hawks, and thus the innocent suffer with the guilty. That same thing happens to humans, too - and thus this sermon.</p>
+         
+         <p>We do not blame anyone for the killing of the Harris Hawk, but he was a useful bird, living chiefly on carrion and noxious rodents, and made his only and fatal mistake in coming to Nebraska as a hawk and not wearing a disguise.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 19, 1922. <title>Omaha Sunday World-Herald</title> 58(8): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

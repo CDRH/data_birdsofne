@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00875">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Why Study Birds?</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-12-19</date><biblScope>56(11=12): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Why Study Birds?</head>
+         
+         <p>For nearly five years the World-Herald has boosted for the birds in Sunday editorials, in the firm belief that the feathered folks of the woods and fields have a great deal to do with the physical welfare of our people.</p>
+         
+         <p>It was not necessary for this newspaper to invent arguments in favor of these birds. The United States department of agriculture furnishes, or will furnish, ample testimony as to the work the tiny creatures of the air do for the farmer or the fruit-grower or ordinary householder.</p>
+         
+         <p>If statistics are desired concerning the quantities of weed seeds, noxious insects or harmful rodents devoured by our birds in a season - Uncle Sam will cheerfully furnish them, and they will astound you!</p>
+         
+         <p>There are harmful birds in the vast Nebraska list, comprising nearly 500 varieties, but the undesirables are as a drop in the bucket.</p>
+         
+         <p>We would not speak, at this time, of the value of birds to the community, in an economic or physical sense.</p>
+         
+         <p>Bird study for the amateur, we think, has its chief value in the fact that it takes the office-ridden and business-plagued persons of both sexes out of doors.</p>
+         
+         <p>Walking is certainly the most health-giving of all exercises, and bird study makes walking an essential. It is a truism that those who enjoy walking nearly always enjoy studying bird-life, and it is surely so that those who enjoy introspection of bird-life must walk.</p>
+         
+         <p>So there, you see, lies the almost inevitable result.</p>
+         
+         <p>If you go into the woods or fields, you will become a pal of the birds.</p>
+         
+         <p>It you become a pal of the birds, you must walk.</p>
+         
+         <p>Poor logic, perhaps - but we dare YOU to try it!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 19, 1920. Why Study Birds? <title>Omaha Sunday World-Herald</title>	56(11=12): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

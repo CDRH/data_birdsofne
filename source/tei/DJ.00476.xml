@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00476">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">See! See! See [Kinglets]!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-10-29</date><biblScope>58(5): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>See! See! See!</head>
+         
+         <p>Woodland is fairyland today, with a leafy carpet shaming the most gorgeous oriental weavers, while showering through the silent branches rustle myriad other leaves, multi-colored and magnificent, to add to that carpet and to fill the most blase human heart and soul with a prayer of gratitude wholly fitting on the Sabbath.</p>
+         
+         <p>Those who happily permit their feet to lead them through this fairyland on such a weekly stroll, gain much in health of mind and body, and nature provides plenty of entertainment to add to the pleasure of the hike.</p>
+         
+         <p>Out there this morning, as you ramble along some ravine with its tangle of underbrush and rich-painted autumn vegetation rapidly passing into oblivion, one of God's feathered spokesmen will be fairly sure to make his appearance and call your perhaps flagging attention to the grandeur of it all.</p>
+         
+         <p>"See! See! See!" - you will hear him, in his fine, wiry little call.</p>
+         
+         <p>"See! See! See!" - he insists, and if your eyes are sharp you will finally see him, too - one of our tiniest and loveliest songsters, the Golden Crowned Kinglet, or perhaps his first cousin, the Ruby Crowned Kinglet, whose chirp is much the same.</p>
+         
+         <p>These delightful little midgets of the woods, scarcely larger than your thumb, are busy and friendly fellows. They hop about among the twigs and branches fairly close to the ground, mostly, and if you stand motionless for a moment, will come up to get acquainted, and will eye you sharply with their happy, sparkling eyes.</p>
+         
+         <p>Both of them are useful and pleasant friends to have about you on your walk, and the Golden Crown may be identified by a spot of orange on the top of his head, while the Ruby Crown, at this season, is plain gray on his sconce, but with a light ring about his eye. The Ruby Crown shows chiefly in the spring, when he would a-wooing go.</p>
+         
+         <p>While the Kinglets are more plentiful in the spring, in autumn, at least in this neighborhood, they are very occasionally seen here all winter, and are worth looking for.</p>
+         
+         <p>Dainty mites, perhaps come from heaven to tell us grosser creations to "See! See! See!" - shall we not profit by your example and open our eyes today to the glories of outdoors?</p>
+         
+         <p>The Kinglets are awaiting your decision this morning.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 29, 1922. See! See! See [Kinglets]! <title>Omaha Sunday World-Herald</title> 58(5): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

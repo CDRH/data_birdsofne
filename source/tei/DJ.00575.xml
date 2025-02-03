@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00575">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nature's Spring Alchemy.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-02</date><biblScope>55(32): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nature's Spring Alchemy.</head>
+         
+         <p>Billions and billions and more billions of buds on the millions and millions of trees and each bud gathering energy and expanding every day a little more! They do not seem to mind the horrible winds old Boreas is sending down from the north, and the storms of snow and rain and hail that keep coming every few days! Some of them started a little earlier, and now these buds have begun to show what they are trying to do. Some of them unfold white blossoms, but more show first their green leaves, with the blossoms unfolding from the top later. The box elders sway their pale green bunches of leaves and the maples their beautiful bronzy ones; the lilac bushes lower down rustle and they all say to the oaks and lindens, the locusts, the sycamores and catalpas. "Hurry up, we are getting ahead of you. Put on your new spring clothes and come out to dance tree dances with us." These trees shake back a: "Coming as fast as we can, but old Father Sol does not give us as much sunshine as we ought to have." How perfectly wonderful it is to think of all that energy gathered from the earth, the air, the sun, and made into beautiful trees! Some poet said: "Poems are made by fools like me, but only God can make a tree" when he was trying to sing the beauties of God's trees.</p>
+         
+         <p>And the earth babies are coming out from their lead blankets at the feet of the trees more and more. There are unnumbered violets now in bloom, blue and a few white and yellow ones. Then there is another kind that we sometimes call Dogtooth violet and sometimes Adder's Tongue, that grows from a tiny bulb, has lance-shaped spotted leaves and lily-shaped flowers on a long stem that seems to be trying to lift its dainty pale pink or yellow blossom up to the sun. And daintiest of all is the delicate little Spring Beauty that grows almost everywhere in the temperate zone, and belongs to the family of purslanes, or "pusley," as it is generally called, such a common weed that every grandeur tries to root it out But the Spring Beauty is the prettiest of the family, its raceme of tiny pink blossoms rising from its only two leaves in the most graceful way possible. The children find it out as soon as it comes.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 2, 1920. <title>Omaha Sunday World-Herald</title> 55(32): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

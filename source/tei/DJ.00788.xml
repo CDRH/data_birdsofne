@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00788">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">They Should Be Abolished.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1891-08-16</date><biblScope>21(59): 16. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-06"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>They Should Be Abolished.</head>
+         
+         <p>At a recent meeting of the Omaha gun club it was unwisely resolved to revive the old custom of an annual club hunt after the close of the competitive series at the trap. This means that some time during the month of October the members of this old and highly respectable organization, which includes all the finest shots in the city, will assemble at some designated point and elect their captains and choose sides for a general raid upon fur and feather. The hunt will continue but a single day, but the damage that can be effected in that time by forty or fifty skilled shots and hunters, whose single purpose is to make as big a bag of all kinds of game, from a snow bunting up to a grizzly bear, as is possible, is simply incalculable.</p>
+         
+         <p>It is a practice that should be discountenanced by all honest and legitimate lovers of field sports. The object of the hunt is a grand banquet, which is to be settled for by the defeated side, and is supposed to embrace almost exclusively the products of their slaughter in field and woods, and on lake, stream and lagoon. The result is decided by points, the game being graded by its supposed rareness and value, as for instance, a canvas back duck will count fifteen points, while a common meadow lark will count but once. Last year the club held no hunt of this description, but instead indulged in a big trap shoot on the grounds across the river, which was a commendable innovation on the old and unsportsmanlike custom. Nebraska gunners must realize sooner or later that the days when it will be possible to sally forth and make a good or even fair bag of geese or ducks, chicken or quail, or in fact any of the highly prized and favored game birds, are rapidly on the wane. It will require but a precious few more years to encompass the extinction of the prairie chicken of this state, in view of the wholesale illegal slaughter that is prosecuted throughout every county when the bird thrives, from the moment he loses his pin feathers until the time he is old and strong enough to take care of himself. It is over two weeks, yet before the open season is here, but for six weeks past, the hotels have been serving young prairie chicken under the aliases of "snipe," "squab," "plover," and "curlew."</p>
+         
+         <p>Every season the chickens are being driven further and further back and in an incredibly short time you will be forced to go over the border if you hope to get any shooting at all. The same can be said of the geese and ducks. Despite the fact that the general follower of the gun, who goes forth into the country simply blaze away at whatever flies up or runs before him and knows no more about the laws of natural history than he does of political economy, declares that it will be impossible to exterminate the wild fowl, that day, too, is inevitably coming on apace. No game bird ever flourished in the country so prolifically or was killed and netted in such countless numbers as the wild pigeon, but where is the wild pigeon today? In all climes accessible to civilized man the bird has been extirpated root and branch. And again, where are the limitless herds of buffalo that used to thunder over the broad plains and verdure clad hills of our own beautful state as well as those of the whole great west? Probably a hundred specimens of this noble animal yet remain in existence between the boundaries of Old Mexico and the frozen seas. Ten years ago the Platte river valley was the most famous ground for geese, crane and brant in all the known world, and so plentiful were the birds that they could be killed with a club. It is only the shrewdest and most careful shot who go thence in the height of the season today and come back with even a respectable bag, that is excepting on rare and isolated occasions.</p>
+         
+         <p>It is in view of this lamentable status of affairs that organized gun club hunts, when the participants have no use for the game they slaughter, and no interest in it, save that fastened by the greed and desire to kill as much as possible and beating some competitive slaughter. The object of legitimate gun clubs is supposed to be the protection, preservation and propagation of game birds and animals and fish, and not annual organized raids looking toward their destruction and extermination.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sporting Editor [Sandy Griswold]. August 16, 1891. <title>Omaha Sunday Bee</title> 21(59): 16. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

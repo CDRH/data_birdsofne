@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00882">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Summer Secrets Revealed.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-10-13</date><biblScope>54(2): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Summer Secrets Revealed.</head>
+         
+         <p>Trees and bushes almost denuded by shameless if beautiful autumn, are today revealing to the pilgrim in woodland a multitude of secrets held most secret by summer.</p>
+         
+         <p>The densest and most bewildering thickets are prostrate before the prying gaze of the interested nature lover, who can see within their depths all the lost glories of June and July, magnified by the perspective of October.</p>
+         
+         <p>Cunningly hidden nests, sought so eagerly by the bird student, and so infrequently found, now appear in their stark desolation, as if to say, with seeming innocence, "Funny you didn't see me! I was here all the time!"</p>
+         
+         <p>From out a copse will fly a belated young wood thrush, only to pause in the path, cock his pretty head and naively inquire, with gesture alone, if anything is wanted.</p>
+         
+         <p>You might have given a good deal to see that sober little fellow in his earlier days, but Father Thrush and Mother Thrush so tenderly hid their love-nest that only today is it apparent to your gaze, and only today is this robust young offspring ready for your inspection.</p>
+         
+         <p>Oh, why go on with details of the glories of the woods when the leaves are gone - are lying here so soft and bronzed and beautiful beneath your feet!</p>
+         
+         <p>They say, back there in the grimy city, that an epidemic threatens human lives, but here in woodland nothing threatens - nothing!</p>
+         
+         <p>Only the subdued squeaks and chips and chirps of the winter birds and the few remaining and fast departing summer songsters cozen your ear, and before your eyes you will find all those delightful little home secrets of bird life, those sequestered trysting places of the feathered folk, that you sought when the sun was high and to the north.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 13, 1918. Editor [possibly Miles Greenleaf]. <title>Omaha Sunday World-Herald</title> 54(2): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

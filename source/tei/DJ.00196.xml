@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00196">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cousins in Flower Land.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-01</date><biblScope>55(44): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cousins in Flower Land.</head>
+         
+         <p>Whether they call each other cousins in Flower Land is a question, but there is certainly some relationship that is very similar to that among the humans, and with the same differences. Lactuca Canadensis, for instance, or Wild Lettuce, and Taraxicum Officinale or Common Dandelion are of the same family, have similar leaves and a milky juice, but one grows sometimes ten feet high and the other nestles down in the grass. The wild lettuce growing along the edge of a low wire fence makes quite an imposing hedge with its branching stalks finished with thin, scattering flower spikes of pale yellow ray flowers. Then there is another cousin, Soncus Oleraceus, or Sow Thistle, which seems to have derived its title from the Greek, as that is the meaning of Sonchus, suggesting that a lowly swineherd must have given it this degrading title for a rather decorative leaved plant. All these plants were formerly used as pot herbs, and later their cultivated cousins are being dignified by the name of salads. The sisters and the cousins and the aunts of this family are almost numberless, being the great family of the Compositae. From this time on they will come forth in great numbers as golden rod, thistles, asters in great variety, ironweed, sunflowers, cone flowers, black-eyed-Susans, to make our autumn prairies gorgeous.</p>
+         
+         <p>Another with many cousins is the Sorrel family or Oxalidaceae. There is the pretty white Wood Sorrel veined with pink and the Violet Wood Sorrel, a rather darker pink, and the Lady's Sorrel, which is the one most common with us. It trails all around the higher growth of plants and its dainty clover-like leaves of glossy green with the yellow blossoms dotting them is always a pleasant sight. Cultivated, the Oxalis becomes a favorite plant for hanging baskets and presents many beautiful colorings. It is a native of the old world and is frequently found in the paintings of Fra Angelico and Botticelli. The leaves have an acid, pleasant taste and children are fond of picking and chewing them. There is a would-be relation of this dainty tribe that is named Sheep Sorrel, probably getting its name from its acid taste, as it really belongs with the buckwheat family, or polygonaceae, meaning many kneed, because of the many joints of the plants, which are uninteresting and really deserving of the name of weeds. They comprise the docks, knotweeds, smartweeds and tearthumbs, so named because in tearing them up the fingers are apt to be torn with the saw-edged stems.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 1, 1920. <title>Omaha Sunday World-Herald</title> 55(44): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

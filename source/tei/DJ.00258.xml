@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00258">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Those Endearing Charms.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-04-03</date><biblScope>56(27): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Those Endearing Charms.</head>
+         
+         <p>There is a sad but sweetly sympathetic strain in the opening lines of Thomas Moore's deathless poem - a strain that has caused it to become a song, and to bring tears to many eyes of those who think, in the mood of Whittier, of things that might have been.</p>
+         
+         <p>To the person - man or woman - who has fallen in love with the Outdoors, Moore's poem is likely to be particularly appealing. While a love-sick swain is to be pitied in his despair, or a hopeless bachelor given at least the cozening smile of condonement, the lad or lass who yearns for the Princeton Oriole and the Wood Thrush and the Maryland Yellowthroat knows all about the "endearing young charms" - and don't you forget it!</p>
+         
+         <p>There are no charms more endearing than those of the woods and open fields. There is no music to compare with that made by the winds through the trees and grasses, and no kiss to equal in passion that of the softly-blown velvet of the lowly ivy as it sweeps across your lips, or the red caress of the Bittersweet, that faithfully spells the calendar around.</p>
+         
+         <p>The endearing young charms of the birds are soon to be with us again, and we are to be vamped by blossoms and carols in the open.</p>
+         
+         <p>When the Hermit Thrush pipes his lay and the subdued tinkle of the Myrtle Warbler is once again heard in the land, the amateur ornithologist can forget his winter sadness and toss his Thomas Moore into the discard - for the gay charmers have returned.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 3, 1921. <title>Omaha Sunday World-Herald</title> 56(27): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

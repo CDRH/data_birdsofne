@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00705">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Purple Martins.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-04-17</date><biblScope>56(29): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Purple Martins.</head>
+         
+         <p>In the return of the Purple Martins to their summer homes in Omaha the bird lovers find cause for great rejoicing, particularly as this pleasant event took place more than a week ago, and considerably earlier than in previous years.</p>
+         
+         <p>There is no more likable feathered visitor than the Martin, as Miss Belle Ryan, assistant superintendent of instruction in Omaha schools, will testify, having had a colony of them in the big house outside her office window for many years.</p>
+         
+         <p>martins are very useful members of the swift or swallow family and consume tremendous numbers of noxious insects as they fly about in the air, but their congeniality and evident devotion to their home life is the most striking characteristic to win them our admiration.</p>
+         
+         <p>Personally, they are beautiful, with their purple sheen in the sunlight, and their swirling, singing maneuvers above their "rooming house" hour after hour.</p>
+         
+         <p>Many people put up Martin houses, but not all of them are successful in securing a colony. Yet the attempt is worth while - next season.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 17, 1921. <title>Omaha Sunday World-Herald</title> 56(29): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

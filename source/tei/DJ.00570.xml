@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00570">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Mystery.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-12-24</date><biblScope>58(13): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Mystery.</head>
+         
+         <p>Some wiseacre, attempting to explain the sudden and growing interest in the game of golf, declared that "it is outdoors, it is healthful, you can play it alone - and you never can tell what's going to happen next!"</p>
+         
+         <p>The same observation might be made of the equally growing pastime of bird study, and with particular emphasis on the "mystery" portion of it.</p>
+         
+         <p>No matter how often you tramp the woods and fields, perchance on such a Sabbath as this, or on other day of ease, be it winter or summer, spring or fall - you never can tell what's going to happen next.</p>
+         
+         <p>The more ardent of the steadily increasing amateur ornithologists keep notebook records of the different birds seen on each hike, and under what weather conditions, and over what terrain. There is no real reason for doing so except to compare statistics date by date, year by year - or with the records of other bird lovers. We would not attempt to urge this practice on anyone, because it will come spontaneously, if it comes at all.</p>
+         
+         <p>But those who actually do it will be surprised at the amount of bird mystery revealed thereby.</p>
+         
+         <p>This season, for instance, their records will show that the number of birds seen on any one hike since the close of the general small-bird migration in September has been astonishingly meager. The number of species of different kinds of birds may be about the same - but the aggregate number is sadly lacking.</p>
+         
+         <p>Why?</p>
+         
+         <p>Ask the golfer why he "pulls" one day and "slices" the next. He will have as much chance to answer your question as will the amateur ornithologist to reply to the first query.</p>
+         
+         <p>But the fact remains that there exists a great absence of small birds in the woods and fields. Clans that were strongly represented in the past now have or seem to have but one or two delegates.</p>
+         
+         <p>On the other hand there are whole flocks of Crossbills, Meadowlarks, Mourning Doves and Brown Creepers to be seen. Perhaps by the time this appears in print there will but a couple of each "brand" left.</p>
+         
+         <p>One day you will see dozens of Nuthatches; next day none.</p>
+         
+         <p>Bird lovers have suet baskets at advantageous spots in the woods. These baskets are always kept filled. One day one basket will have all the customers; next day the other basket will be the more popular.</p>
+         
+         <p>Why?</p>
+         
+         <p>Ask the golfer why he "tops" one day and tears up the turf on the next. It's all the same.</p>
+         
+         <p>It is this mystery of bird-lore and of bird study that makes it true that nowadays the woods are haunted with hard-headed business men who would be insulted if accused of a tender emotion, but who use their Sundays to become better acquainted with the queer little feathered folks that God gives us to add to our joys and our confidence.</p>
+         
+         <p>And, truly, if it were not for such Mysteries, who would there be in life at all?</p>
+         
+         <p>Plans and specifications of existence, accompanied by blue-prints, would make such existence about as engrossing as studying stuffed birds mounted in numbered trees and pointed out by gilded signs and handsome catalogs.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 24, 1922. <title>Omaha Sunday World-Herald</title> 58(13): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

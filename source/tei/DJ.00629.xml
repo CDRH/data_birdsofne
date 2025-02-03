@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00629">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Odors of the Mints.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-21</date><biblScope>56(8): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Odors of the Mints.</head>
+         
+         <p>If you would find the beauties of the autumn outdoors take with you a pocket lens. What may seem only a faded no-color bunch of leaves and stalks and seed pods will under its magic sight show rare beauties perhaps more beautiful than the bright colors of its summer crown.</p>
+         
+         <p>A sloping ravine-crossed hillside tree clad and stump dotted receives you on a soft springy capet of green overlain with the falling leaves and the stems of the many plants topped with their seed bunches. On the protected side of the stumps are still growing bunches of mints, catnip and horse mint, their roots and lower stems covered and protected by the decaying wood of the stump mingled with the leaf mould of many seasons. What is the mission of the mints few known, but they seem to prolong their work as long as possible. Do the horses in the woods around or the cats that come from the surrounding houses need them? And are they faithfully ministering to them? John Burroughs has a delightful chapter on honey making and in it shows the fondness of the bees for catnip. He suggests that catnip honey would be a novelty on the market, and even thinks it might be made profitable as it blossoms most of the year.</p>
+         
+         <p>There is really only one native variety in eastern or middle United States, and that has the name of our northern neighbor, Mentha Canadensis. The odors of the mints come from little glands on the leaves which secrete a volatile oil that requires only a slight bruising or sometimes only a shake to be diffused. There is the peppermint, the aromatic sage, the fragrant thyme, the lemon scented balm, and the peculiar odors of the horse mint, the dittany and the American Pennyroyal.</p>
+         
+         <p>Alongside the mints tiny plants of the dandelion peep p from the piled up leaf mould and a couple of blossoms smiled upon the observer with the lens, but it did not need any artificial aid to see their sunny countenances.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 21, 1920. <title>Omaha Sunday World-Herald</title> 56(8): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

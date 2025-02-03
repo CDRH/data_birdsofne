@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00592">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Notes.</title><title level="j">Forest and Stream</title><author>Hematite [pseud.].</author><date>1884-11-13</date><biblScope>23(16): 308.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-25"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Notes.</head>
+         
+         <p>CHICKEN shooting in Eastern Nebraska, except in some of the extreme northern counties, is a thing of the past. The land is all cultivated or burned over, which leaves them no place to nest. There is of course now and then a covey raised, but if some poacher from town don't exterminate them the farmers' boys do, long before the law is off. If one is bound to have a mess of chickens raised here he must go after them the last of July, and then the proper implement to hunt them with is some bug hunters' butterfly net. I have not shot a chicken for the last three years, except during the fall flight, after they have packed north of us, and are on their way south. I have shot a few this fall, and yesterday morning my son brought in five beauties.</p>
+         
+         <p>Quail are fairly plentiful and but little hunted, for when it is lawful to shoot quail we have ducks and geese, and most of our hunters would rather shoot them than quail, I suppose because they are larger. The law on quail, I am happy to say, is pretty well obeyed.</p>
+         
+         <p>Ducks are in force, teal have come and gone, mallards plenty. A party came in yesterday with seventy ducks, and I saw among them mallards, redheads, widgeon, canvasbacks, bluebills, broadbills, gray ducks, and one green-winged teal. Wilson's snipe are plenty and not much hunted.</p>
+         
+         <p>We have a few deer along the Missouri bottoms. The law is very well obeyed in regard to them. As we cannot hound them they are not hunted until we have a tracking snow. The gun we use here for them is (speak it low) a heavy 10-bore choke, loaded with about five drams and nine buckshot, and it is very seldom that a wounded deer is lost. In this vicinity we have but very few 12-bore guns, 10-bores are used mostly, weighing from 9 to 10½ pounds. Many of them are trash—cheap English guns that are made, like the man's razors, to sell. The American makers are well represented.</p>
+         
+         <p>Through the kindness of Mr. D.W. Cross, of Cleveland, Ohio, a few of us procured a half pound of the seed pods of the wild celery, which we planted in one of our lakes, and we hope that the experiment will be successful.</p>
+         
+         <p><hi rend="smallcaps">Hematite</hi>.<lb/>Blair, Neb., Oct. 30.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 13, 1884. <title>Forest and Stream</title> 23(16): 308.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

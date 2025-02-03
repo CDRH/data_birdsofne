@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00605">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Down From the North.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-10-10</date><biblScope>51(2): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Down From the North.</head>
+         
+         <p>As you take your morning walk today through the nearest wood or park, listen among the falling leaves for the winter birdlife that should be there. You will not be conscious of many of the feathered fellows, for the great army has generally departed for the southland, but a couple of distinguished strangers should have arrived, and they are the Brown Creeper and the Slate Colored Junco, or Snowbird.</p>
+         
+         <p>One of the most charming phases of the systematic study of bird life is the keeping of a weekly check upon the arrival and departure of the songsters. It makes the game a sort of competitive affair, reflecting the differences in the seasons and the effect of weather conditions upon migration.</p>
+         
+         <p>Exactly one week ago today the writer first noted the Brown Creeper in Elmwood Park. Will that tiny little chap, always climbing upward from the foot of some big tree, be back on the job today from the northern woods, accompanied by the family he has reared in his absence? In these columns many months ago, when the snow was waist deep in the woods, the Brown Creeper was properly eulogized as being one of birdland's living examples of grit, progress and prosperity, for he is always going up, no matter how bitterly cold the blizzard, and never takes a backward step for friend, foe or the elements.</p>
+         
+         <p>If the Brown Creeper does not greet you in your ramble this morning you should certainly find the Slate Colored Junco, hardened explorer of the Arctic circle, and known to the oldsters, as the Snowbird.</p>
+         
+         <p>Mr. Junco is a happy-go-lucky lurker in the ravines and thickets, where you should discover him today, for he made his first appearance of 1914 a year ago last Sunday. This opens up a bit of study. Why is the Junco a week late this year? It needs no expert ornithologist to give the answer. Wet weather and stormy times in the northland delayed the raising of his family - doubtless destroying a nest or two and forcing him and his good wife to linger longer up there than usual.</p>
+         
+         <p>Since the Junco is already a week late, it is possible that the Brown Creeper will be likewise delayed, but the mere pleasure of looking for these two fellows should make today's hike well worth while.</p>
+         
+         <p>There are few enough birds with us in the winter months, and these few should be appreciated.</p>
+         
+         <p>So, this morning in the woods, should you hear a squeaky twitter in some ravine and later spy a leaden bird displaying a flash of white on its tail tips when in flight - you may know that the Slate Colored Junco has returned once more.</p>
+         
+         <p>If it be a weak "seep" you may look for the Brown Creeper, and by these tokens you will know that Nebraska's hardier feathered friends have come down from the north.</p>
+         
+         <p>And, if not in prayer, in heartfelt yearning - may the heavens bless and the humans preserve them!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 10, 1915. <title>Omaha Sunday World-Herald</title>	51(2): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

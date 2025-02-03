@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00417">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Hunters at Perch and Cameron Lake.</title><title level="j">Bassett Eagle</title><author>Carlin, J.J.</author><date>1896-04-02</date><biblScope>2(12): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-21"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Hunters.</head>
+         
+         <list type="simple">
+            
+            <item>Perch, Neb., March 28, 1896</item>
+            
+            <item>Editor EAGLE: </item>
+         
+         </list>
+         
+         <p>On the 23rd we left Bassett for Pony Lake and vicinity for a duck hunt. In the gang were Jay Swart, Ky Hartung and myself. (We all regretted Bixby could not come.) After arriving here we induced Ed Humphrey to camp with us. We made the trip without mishap, but as soon as we pitched tent every settler and ranchman locked their hen house and smoke house, their excuse being that they knew if we got meat we would have to get it without shooting it. (On the dead square they were about right.) The Linkes, Opps, Ammors, Camerons and Brown appear anxious to know when we are going back. They all say this is the worst bunch of hunters that ever camped here. Ky is the only new member. Ky says John Opp ran him off the Opp land and says the Opps must own all the land down here, as John followed him for about four miles. The facts are John hailed Ky and wanted a pipe of tobacco. We have much trouble fixing up the difficulties the agent gots us into, and in convincing the people here that Ky is only having what he calls an "outing." Nevertheless we are having some fun for</p>
+         
+         <list type="simple">
+            
+            <item>My boat is on the Cameron lake.</item>
+            
+            <item>And in it Don and I some pleasure take.</item>
+            
+            <item>For the ducks and geese are on the wing.</item>
+            
+            <item>And as they pass they hear my No. 14 ring. </item>
+            
+            <item>But they look with scorn upon us both,</item>
+            
+            <item>And as I miss and miss can scarce suppress an oath.</item>
+            
+            <item>On Cameron's lake all kinds of ducks abound.</item>
+            
+            <item>The same on many similar lakes around.</item>
+            
+            <item>I'm in my boat at the break of day,</item>
+            
+            <item>And pull to my blind and there I stay</item>
+            
+            <item>Till the sun in the west the sand hills streak,</item>
+            
+            <item>Then a mile and a half to camp I sneak.</item>
+            
+            <item>A marsh the Cameron lakes divide,</item>
+            
+            <item>And in its marsh the wary jack snipe hide.</item>
+            
+            <item>As I walk out he starts with malice pretense,</item>
+            
+            <item>And flies like the line of an old rail fence,</item>
+            
+            <item>My gun to my shoulder a moment I hold—</item>
+            
+            <item>When the smoke clears away he is flying on bold.</item>
+            
+            <item>In camp at night, Ed, Jay and Ky</item>
+            
+            <item>Think they are cute, and Carlin guy.</item>
+            
+            <item>They sympathize. Still how they hoot;</item>
+            
+            <item>They laugh, wink and whisper he can't shoot.</item>
+            
+            <item>At last sad and alone to bed I go,</item>
+            
+            <item>And don't explain why I miss so.</item>
+            
+            <item>If Cleveland with us a week could stay,</item>
+            
+            <item>He would hunt no more in Chesapeake bay</item>
+            
+            <item>For we would surely find him fun,</item>
+            
+            <item>And help out, but not 16 to 1.</item>
+            
+            <item>When I go home I'll go with Ky,</item>
+            
+            <item>And people here will gladly say goodbye.</item>
+         
+         </list>
+         
+         <p>We got here in time to attend a republican caucus at Opp's. McKinley was its idol. The people here are happy even if they are all republicans.</p>
+         
+         <p>The boys have all just come to camp, and Jay is expounding the Monroe doctrine to Ky. Ky traded three of Jay's canvas-back's for two spoon-bills and gave 25 cents to boot. He traded with a little Bohemian boy. Ky fell in the lake yesterday, and as he crawled out from under the boat he swore the lake had fell on him. I want to kill a sand piper today. If I succeed I will let you know.               J. J. C.</p>
+         
+         <cit>
+            
+            <bibl default="NO">J.J. Carlin. April 2, 1896. <title>Bassett Eagle</title> 2(12): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

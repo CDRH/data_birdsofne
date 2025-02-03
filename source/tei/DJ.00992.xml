@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00992">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Winter Mourning Doves.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-02-26</date><biblScope>57(19=22): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Winter Mourning Doves.</head>
+         
+         <p>For the first time in many years - so many years in fact that even such old-time ornithologists as Billy Marsh cannot recall the like - Mourning Doves are being found in groups about Omaha and vicinity in the very middle of the winter.</p>
+         
+         <p>The Mourning Dove is often known as the Turtle-dove, and is one of the most adorable of our summer birds, and one which only recently was saved from massacre by hunters all through its breeding and nesting season. Now it is protected by federal and international game laws, and is growing in numbers apace.</p>
+         
+         <p>That the Mourning Dove should be with us all through the winter is highly unusual, and an additional blessing is that of the presence of the Bluebirds and Robins on the protected thicket-patches along the river at Camp Gifford and near Florence.</p>
+         
+         <p>The Audubon societies' Christmas census of birds, published in Bird-Lore for January-February, shows that Mourning Doves were seen in large numbers at Fremont, Lincoln, Grinnell and Iowa City. No Omaha census was taken this year, as the Audubon society seems to have quit functioning here for the nonce.</p>
+         
+         <p>Besides large numbers of Mourning Doves, those who hike in the woodland and fields in search of their surprise, a considerable number of Meadowlarks and of Sparrowhawks - very unusual in the wintertime in these parts.</p>
+         
+         <p>Why not step out this Sunday and see what you can find of these mysterious spectacles set forth by Dame Nature - especially of the birds?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 26, 1922. <title>Omaha Sunday World-Herald</title> 57(19=22): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

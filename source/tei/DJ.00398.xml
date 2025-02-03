@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00398">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Helping the Goldfinches.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-07-07</date><biblScope>53(40): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Helping the Goldfinches.</head>
+         
+         <p>Peculiar as it may seem, the Goldfinches, beautiful and useful birds that stay with us all the year 'round, are probably the last to nest. They are just beginning their courtship, while some of them, perhaps, have already started nest building. Certain it is however, that they are at least experimenting in architecture.</p>
+         
+         <p>The Goldfinch, now in full plumage, is a gorgeous little fellow of canary yellow and with black wings. A flesh-colored bill completes a decidedly beautiful picture. The female bird, as is generally the case in birddom, is of more modest raiment.</p>
+         
+         <p>Many people call this bird the Wild Canary or Thistle Bird, and the latter "alias" comes from the fact that the finch lines its nest with thistledown. Thereby hangs our tale.</p>
+         
+         <p>Apparently it is "some job" for the Goldfinches to collect thistledown for their upholstery, for they are certainly willing to accept assistance.</p>
+         
+         <p>If there are any of these splendid little creatures in your neighborhood, just tie a wad of cotton to a clothesline in the back yard, and watch the fun!</p>
+         
+         <p>The Goldfinches will simply swarm about it, as soon as they make the discovery.</p>
+         
+         <p>Clever little critters! They conserve just as the government would have them. Tearing off bits of the cotton they will drop them to the ground until perhaps a dozen bits have thus been deposited. Then these will be picked up, making a bunch bigger than the bird itself, who will promptly fly away with its huge cargo, pathetically trying to sing his appreciation through clenched teeth, as it were.</p>
+         
+         <p>This is a bit of bird help that furnishes a lot of pleasure. You should try it, and see how whole-heartedly the Goldfinches appreciate your kindness. You will be particularly successful if the cotton is placed near a bird bath in your yard, for there the birds congregate during the hot weather.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 7, 1918. <title>Omaha Sunday World-Herald</title> 53(40): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

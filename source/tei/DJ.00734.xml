@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00734">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Right Kind of Meaouw [Gray Catbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-05-27</date><biblScope>52(35): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Right Kind of Meaouw.</head>
+         
+         <p>As you are strolling through the shaded paths of the parks or woods today you will be frequently greeted with the soft mewing of one of America's most mysterious and most lovable songsters - the Catbird.</p>
+         
+         <p>His imitation of the birds' most hated enemy is nearly perfect, but that imitation is by no means the extent of this feathered creature's repertoire, for he is a half-brother of the southern Mockingbird and can sing almost as beautifully as that remarkable fellow. What is more, the Catbird and Mocker look a good deal alike, the white-tipped tail feathers of the latter being the principal difference in a casual glance.</p>
+         
+         <p>Keep your ears open today and you will doubtless be treated to a session with the Catbird at his studies, for it actually seems that this dusky lad spends a good deal of his time in trying to pick up the songs and notes of other birds. Some of them he masters, but others baffle him. It is great entertainment, and with plenty of comedy in it, too.</p>
+         
+         <p>Often, when the catbird mews, you will notice that other birds are distressed for the moment, perhaps fearing a real feline is skulking through the undergrowth intent upon their death, but the hoax is not for long. The appearance of a genuine cat brings a whole army of songsters to the spot, to squawk and yell and screech their warnings and protests.</p>
+         
+         <p>The Catbird's "meaouw!" is the only "meaouw" that has any business in a public park, or in the woods for that matter, and they are forbidden by law in the former.</p>
+         
+         <p>If you would enjoy the company of birds, you must do away with the cat - there is no compromise.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 27, 1917. The Right Kind of Meaouw [Gray Catbird]. <title>Omaha Sunday World-Herald</title> 52(35): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

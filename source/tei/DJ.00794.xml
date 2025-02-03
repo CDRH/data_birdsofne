@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00794">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Sky Guard.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-08-13</date><biblScope>57(43=46): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sky Guard.</head>
+         
+         <p>While there are by no means enough rational citizens interested in the protection and encouragement of bird life, it is certainly hard to find anyone who is not eager to do away with the particular insects that make their unpleasant presence firmly felt during these summer months. This situation is somewhat incongruous, since the fuzzy gnat that gets underneath your collar during the porch party and causes you to make a spectacle of yourself has but one principal and eager foe, the Sky-Guard of Birdland.</p>
+         
+         <p>Almost any evening, if you will take the trouble to investigate, you will see the heavens alive with soaring and fluttering feathered creatures, busily engaged in fattening their persons and saving your own from infinitesimal or more aggravated torture. Not only the feathered folk, but the lowly and little-loved bats are careening through the bug-laden atmosphere on a general clean-up campaign.</p>
+         
+         <p>Circling and fluttering, with strange squeaks, squawks and cries, you will see and hear the brave and broad-winged Night Hawk, which nests on the gravelled roofs of city buildings, or on rocky places in pastures. This Night Hawk wears long, bristling whiskers all around his copious mouth, and as he flies through the air, maw out-stretched to the limit, he gathers in everything in the bug line he meets, and does a sky-scraping job par excellence.</p>
+         
+         <p>You will see and hear, also, the Chimney Swifts, and Purple Martins, and many Swallows, including the Barn, Bank and Tree varieties, while the Screech Owls and Short-eared Owls browse the backyards and fields for noxious and large, destructive insect life.</p>
+         
+         <p>These named are but a few of the ornithological Sky-Guard on duty always, for when you add the Kingbirds and various other Flycatchers, and the hawks, you have a protective system of considerable caliber.</p>
+         
+         <p>Protecting the birds that protect us should be our common sense duty, it would seem. The government realizes this fact, and urges our help.</p>
+         
+         <p>Soo to it that your sons and daughters are brought up to regard the birds as their best friends, not only socially, but economically.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 13, 1922. <title>Omaha Sunday World-Herald</title> 57(43=46): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

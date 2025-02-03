@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00815">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Song Birds for Food.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-07-13</date><biblScope>54(41): 12-B. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Song Birds for Food.</head>
+         
+         <p>That the National Association of Audubon Societies is doing a great and good work, not from any maudlin sentiment regarding song birds, but from a true realization of their economic value, is not to be doubted. So it is good to see that this work is growing and is being more liberally financed by the thinking people of the nation, including not only the rich but those in moderate circumstances. The roster of members proves that both classes are largely represented.</p>
+         
+         <p>One of the latest campaigns of propaganda put forth by the association's headquarters at 1974 Broadway, New York, brings to our notice some birdland horrors almost unbelievable.</p>
+         
+         <p>It has long been known that some foreigners have none of the deep respect for birds that is born in the soul of every American lad and lassie. They figure a bird as something to eat - be it a duck or a goldfinch. Size has nothing to do with the case. If the alien hunter chooses a fowl dinner he either kills a lot of small birds or a few big ones, and takes no care to ascertain what they are.</p>
+         
+         <p>In Omaha members of a certain foreign colony have been known by Audubons to hunt Screech Owls as a particular delicacy. The Screech Owl is a very useful bird, destroying thousands of rodents each year, but the foreigners know him as "the chicken with the big eye."</p>
+         
+         <p>Eastward, however, the situation is worse. There are many foreigners in the east who have not been sufficiently Americanized to forget their foreign habits as to the birds. They snare Robins and other beautiful and useful songsters by means of nets and horse-hair loops. One of the propaganda pictures sent out by the national association shows six Robins caught by aliens in this way.</p>
+         
+         <p>Another picture, all being authentic and duly vouched for, shows a bag of birds taken from an alien near South Norwalk, Conn., by a game warden. This bag included twelve Robins, three Jays, three Flickers, two Hermit Thrushes and one Purple Finch. They were shot or snared for a restaurant in New York city which offered a large price for such delicacies!</p>
+         
+         <p>When you seat yourself at home tonight for your dinner - or supper - ponder on the delight of eating a couple of nice, freshly killed and tender Bluebirds - or a dozen Goldfinches baked in a pie!</p>
+         
+         <p>The National Association of Audubon Societies is seeking to make such a diet distasteful.</p>
+         
+         <p>Are you with 'em?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 13, 1919. <title>Omaha Sunday World-Herald</title> 54(41): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

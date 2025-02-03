@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00778">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Shooters After Wild Fowl. Open Water and the Spring Flight Brings Out the Gunners in Numerous Force.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1903-03-15</date><biblScope>page 11.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Shooters After Wild Fowl</head>
+         
+         <head>Open Water and the Spring Flight Brings Out the Gunners in Numerous Force.</head>
+         
+         <p>Local hunters are busy preparing for the spring sport. Guns are being gotten out of their winter haunts, and early mornings find a number of enthusiasts haunting the shores and marshes of Manawa and Cut Off lakes. Ducks are plentiful on these lakes and bags running as high as seventy-five have been brought in by those who spent the day on these lakes. Most of the hunters, though, slip out for a few hours' sport in the morning before taking up their day's labors, and they have had great sport and some kills. The pintails, which were here first, are not the only ducks that are found on Nebraska streams and lakes these days. Mallards, redheads and others are as plentiful, if not more so, than the pintails, and that is saying a great deal, for the pintails were everywhere in great flocks two weeks ago.</p>
+         
+         <p>A few parties slipped out of town during the week to duck haunts nearby and stayed a few days. They report good hunting on the Platte and the Elkhorn. Most of them have not returned yet, as they did not leave until the latter part of the week, and will not come home until after Sunday.</p>
+         
+         <p>George Toozer and a party of friends went to De Soto Monday, and had such good luck that Fred Goodrich and Gus Windhelm followed them up on Wednesday.</p>
+         
+         <p>Judge Munger, Henry Homan and M.L. Learned packed up their traps and slipped out to Clarks Saturday night for a little sport. Reports from there were too glorious for them to resist the temptation, especially after they saw a bag of seven geese that Fred Downs bought in from there early in the week. He declares that ducks and geese are simply swarming in the Platte at Clarks, and that no one should miss the opportunity of taking a few days off to look for them.</p>
+         
+         <p>Fred Hamilton and Prichard heard reports of a plenitude of ducks on the Elkhorn at Highland, and hurried out Saturday afternoon to hunt over Sunday.</p>
+         
+         <p>From the sandhills there comes word of ducks and geese in numbers greater than usual, and small parties are being made up already to go out after them. It is not likely that many of the local hunters will go up into this country for a week or so yet, as the promise of good sport then is even greater than it is now.</p>
+         
+         <p>Ward Burgess and Richard Kimball are the pioneers in the westward movement, having gone to Holdrege for a four days' outing.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 15, 1903. <title>Omaha Sunday Bee</title> page 11.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

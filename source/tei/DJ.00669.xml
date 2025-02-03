@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00669">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Phenomenal Flight of Hawks.</title><title level="j">Auk</title><author>Cary, Merritt.</author><date>1899-10-01</date><biblScope>16(4): 352-353.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-16">2006-06-16</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>
+            
+            <hi rend="bold">A Phenomenal Flight of Hawks</hi>.—Early on the morning, of August 29, 1899, while hunting Bartramian Sandpipers on the hay bottom southwest of Neligh, I was surprised to see the portion of the bottom bordering the Elkhorn River fairly covered with, what I then thought, an exceedingly large flock of Crows. But the few individuals who occasionally arose and lazily flapped their wings for a short distance had the flight of Hawks; and Hawks they proved to be, in extraordinary numbers. The majority were resting upon the ground, but each fence post had its occupant, and some were in the neighboring trees. They appeared to be quite wearied, as if from a protracted flight, and even the noise of a gun caused but a few of the nearest to fly.</p>
+         
+         <p>I shot two of the Hawks as they slowly flew over me, both of which belonged to the same species, <hi rend="italic">Buteo swainsoni</hi>. And, with but one exception (an American Rough-leg), all that I observed were of this species.</p>
+         
+         <p>I estimated the number of Hawks on this one bottom at between three and four hundred, and was informed by farmers farther up the river that large numbers of the birds were on the bottoms there at the same time. The greater number resumed their journey southward in a loose body an hour or so after sunrise, but a few remained throughout the day. The next morning none were seem.</p>
+         
+         <p>It would be extremely interesting to know the cause of this unusual flight of Hawks. I have known for some time that <hi rend="italic">Buteo swainsoni</hi> migrates to the south in the fall, but have never before seen them in flocks, or going southward so early in the season. There had been no cold weather here at the time of the flight; rather the opposite. Possibly in the Dakotas (their breeding grounds) there may have been some atmospheric disturbance which would account for the early exodus. There was also a very large flight of Bartramian Sandpipers on the same morning, but no other birds were present in unusual numbers.—Merritt Cary, <hi rend="italic">Neligh, Nebraska</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 1899. <title>Auk</title>	16(4): 352-353.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

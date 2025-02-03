@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00739">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Robin Red-breast.</title><title level="j">Omaha Sunday World-Herald</title><author>Smith, Doc George.</author><date>1891-04-12</date><biblScope>26(194): 11. Children's Page poem.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-06"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>ROBIN RED-BREAST.</head>
+         
+         <list type="simple">
+            
+            <item>Why so late at your nest</item>
+            
+            <item>Little Robin Red-Breast!</item>
+            
+            <item>The summer is passing away,</item>
+            
+            <item>The autumn's cold blast</item>
+            
+            <item>Is approaching full fast,</item>
+            
+            <item>Then why this delinquent delay.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>Thy dear little young</item>
+            
+            <item>Should in summer have sung</item>
+            
+            <item>Their hymns to the Author of day,</item>
+            
+            <item>Then Robin Red-Breast</item>
+            
+            <item>Why so late at your nest,</item>
+            
+            <item>Pray, what has occasioned delay?</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>Chide me not, chide me not,</item>
+            
+            <item>Little man of the cot,</item>
+            
+            <item>Already I sorrow and grieve,</item>
+            
+            <item>The smart of the dart</item>
+            
+            <item>That is piercing my heart</item>
+            
+            <item>You little folks cannot conceive.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>But later in life</item>
+            
+            <item>When suffering and strife</item>
+            
+            <item>Your sunshine and hopes shall obscure,</item>
+            
+            <item>You may get an impress</item>
+            
+            <item>Of my grievous distress</item>
+            
+            <item>And realize what I endure.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>In the Spring I was blest</item>
+            
+            <item>For I built me a nest,</item>
+            
+            <item>And three little eggs I had lain</item>
+            
+            <item>When a very rude boy</item>
+            
+            <item>Stole them all for a toy</item>
+            
+            <item>And burdened my bosom with pain.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>With sticks and with dirt</item>
+            
+            <item>I again went to work,</item>
+            
+            <item>And constructed another complete,</item>
+            
+            <item>But the same cruel boy,</item>
+            
+            <item>All ecstatic with joy,</item>
+            
+            <item>Soon found out my secret retreat.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>I flew at his eyes,</item>
+            
+            <item>But in spite of my cries,</item>
+            
+            <item>He tore it away from the tree,</item>
+            
+            <item>And, laughing, he ran</item>
+            
+            <item>With nest in his hand,</item>
+            
+            <item>Nor heeded the pain it gave me.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>I, a poor little bird,</item>
+            
+            <item>Am now building my third,</item>
+            
+            <item>So, kind little man, good night.</item>
+            
+            <item>Then from her sweet throat</item>
+            
+            <item>She warbled a note,</item>
+            
+            <item>And darted away from my sight.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>In the month of September,</item>
+            
+            <item>Quite well I remember,</item>
+            
+            <item>I strayed by a thicket along,</item>
+            
+            <item>When there by her nest</item>
+            
+            <item>Sat Robin Red-Breast,</item>
+            
+            <item>All merrily singing her song.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>I slyly did creep</item>
+            
+            <item>To get just a peep</item>
+            
+            <item>At her dear little family there,</item>
+            
+            <item>When all in a fright</item>
+            
+            <item>They flew from my sight</item>
+            
+            <item>And darted—I cannot tell where.</item>
+            
+            <item> 
+
+            </item>
+            
+            <item>Dear Robin Red-Breast,</item>
+            
+            <item>Come in springtime and nest</item>
+            
+            <item>In the tree by my own cabin door,</item>
+            
+            <item>And I will attend you,</item>
+            
+            <item>Watch, guard and defend you,</item>
+            
+            <item>And give you a part of my store.</item>
+
+          
+            <item><hi rend="smallcaps">Doc Geo. Smith</hi>,</item>            
+                   
+         </list>
+
+         
+                 
+         <cit>
+            
+            <bibl default="NO">Doc Geo. Smith. April 12, 1891. <title>Omaha Sunday World-Herald</title> 26(194): 11. Children's Page poem.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

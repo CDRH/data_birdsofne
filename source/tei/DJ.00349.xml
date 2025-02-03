@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00349">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Out With Old George. On the Big Pasture Lands for Upland Plover.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1909-08-29</date><biblScope>44(48): 6-N.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-16">2006-06-16</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Out With Old George.</head>
+         
+         <head>On the Big Pasture Lands for Upland Plover.</head>
+         
+         <p>Together with W.A. Pixley, I spent last Saturday and Sunday, the guest of that revel old sportsman, George Carson, out on the big pasture and hay lands near Geneva, upland plover shooting. While we had but a short time afield Saturday afternoon we killed eight birds and put a keen edge on our supplies for the morrow. After a refreshing rest at Mr. Hoagland's model motel, the day dawned at last, and a memorable one it proved to be—a golden one, a happy one, and one of fullest fruition.</p>
+         
+         <p>We left the genial Bill Carson's ice cream factory in the first pearl of the morning and as we rolled along I could not help living over the enchantment of all the past years on that very same errand and at that very same place with dear old George. Year after year, when the hourglass had spread its delicate azure across the pastures and the pink of the wild rose blended with the yellow of the moccasin and the sunflower, and the fluffy topaz of the golden rod and sensitive plant vied with each other; when the air was redolent with the multivarious odors of the late summer time, the newly-cut wheat and oats, the tasseling corn, the heavy fragrance of the sweet clover, the blossoming thistle and speckled disc of the wild poppy, when the mutterings of the thunder came from the storm that had circled us on the north and silvery tipped clouds thrust their glistening peaks, like ragged crags, above the horizon when a softer quiet lingered over our great pasture lands and a milder radiance played along the distant woodlands—those were the days that I put in with George Carson after uplands, year after year, until it would seem that I should have surely had a surfeit.</p>
+         
+         <p>But I have not. Instead I like them better than ever, and last Sunday I lived them all over again. And while we had not compass such a plethoric bag as marked some of our past experiences, we did kill twenty-nine uplands, and that was enough to make us all contented and happy. The aim of the sportsman today is not to outstrip the kills of ancient times. with the increasing scarcity of game he has grown to rest satisfied with the benefits of such an outing, to glory in the beauties of nature as they are revealed to him. He is ennobled bettered by the inspiration he finds in the woods and fields and by the lakes and streams, profits by the tidings brought to him on the winds through the cottonwoods, the songs sung by the gurgling streams and intoned by the nighty voice of all outdoors.</p>
+         
+         <p>But lack-aday, like all the good things of life, our sport came to as sudden a close on Sunday last as it had begun. The birds simply got up finally and quit the neighborhood where we were shooting. As we stood by the roadside and lamented, we saw once or twice a streak of drab [word not legible] across the azure of the sky miles away, it seemed, and merge with the clouds, while now and then, coming from where we could not tell, dropped that mystic, far-reaching tinkle, then all was quiet, save the insects in the grass by the roadside, the call of the meadow lark and the "chuck! chuck! chuck!" of the crossing blackbirds overhead. But the sweet day had closed and in the pink, the orange and the purple of twilight, we drove home along the pleasant country road happy as kings, over the day's sport that had faded out forever. Will there ever dawn another day so fair?</p>
+         
+         <p>Nebo answers—will there?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. August 29, 1909. <title>Omaha Sunday World-Herald</title> 44(48): 6-N.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

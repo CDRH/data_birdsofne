@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00354">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Glad News for Bird Bugs.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-11-02</date><biblScope>55(7=5): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Glad News for Bird Bugs.</head>
+         
+         <p>Those who devote their spare time to the outdoors, and particularly to the bird life there, watch the scores of the early season just as closely as do the baseball fans in the spring when the Reds and Giants and the White Sox are reaching for their stride.</p>
+         
+         <p>They watch to see if any new and interesting specimens are to be noted - a whirlwind pitcher, fresh from the sticks - or a Red Breasted Nuthatch, fresh from the Canadian pines.</p>
+         
+         <p>In the case we have in mind, the Omaha bird fan is likely to find much joy. Winter is a hard season for the ornithologist in one respect, that he has only a very few birds to "work on." So any new or unusual member that is added to his list fills him thus that much fuller of glee and things.</p>
+         
+         <p>Last Sunday we spoke of the appearance here of the Redpoll. That, as we said, is a good omen, for when one Redpoll shows up it is pretty certain there will be a few thousand more, and also that they will stay all winter. Still further, where there are Redpolls it is likely that Red Crossbills and Pine Finches may also be identified when the snow is deep. But we discussed that phase of the argument before.</p>
+         
+         <p>Now, however, it seems pretty sure that the bird lover is to have plenty of Red Breasted Nuthatches to visit with during the zero season, for no less than five of them were found last Sunday in a group in the conifers of Elmwood park.</p>
+         
+         <p>The Red Breasts are much like the Redpolls in that they generally "stay put," at least during the instant season.</p>
+         
+         <p>So, dear brother ornithologist-that-would-be, unless all signs fail, we are to have the Red Breasted Nuthatch, the Redpoll, and probably the Red Crossbill and the Pine Finch, or Siskin, this winter!</p>
+         
+         <p>Ain't that swell?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 2, 1919. <title>Omaha Sunday World-Herald</title> 55(7=5): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

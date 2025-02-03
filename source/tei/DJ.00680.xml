@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00680">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Plover Hunting in the Nebraska Uplands.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1917-11-18</date><biblScope>53(7): 4-S. Includes a picture of the hunting comrades.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Plover Hunting in the Nebraska Uplands</head>
+         
+         <p>Shooting Plover on the big pastures and plowed fields, with Orange Henslinger, a splendid fellow every way, and a great nature student, as our host, Stocky Heath, Bill Pixley and I have had some incomparable days with the uplands.</p>
+         
+         <p>Last Sunday as I gazed on the old photograph from which the above cut was made, the day the picture was taken came back to me as vividly as if it had been but yesterday.</p>
+         
+         <p>It was in July - a rare day, almost as much so as one those famous June days, with the bugloss spreading its cerulean carpet over the newly freshened pastures and the cooled atmosphere redolent with the fragrance of the ripening clover.</p>
+         
+         <p>As we drove out in Stocky's big car from Herman, the young robins, now as big as their parents, flew chirping shrilly from the roadside to vantage points in tree or bush, as we whirled along, the swallows twittered and flashed all about us in the truculent morning air, the doves arose on whistling wind from under the auto's wheels; the yellow-hammers pitched from cottonwood to cottonwood, and the meadow larks called as us melodiously as they chopped their way through the sweet summer mists from roadside to meadow middle.</p>
+         
+         <p>In the days of my youth, all of these birds had been game to me, and I was actually dreaming of these salad times, when we dashed through the open gate out upon the blue and yellow-dotted carpet of that glorious old pasture.</p>
+         
+         <p>The car stopped and out we piled, and as we three stood there, agreeing upon a plan of action, a triplet of melody, so soft that it must have fallen, I thought, from an angel's lute, and as we stood wondering whence it came we saw, not one, but several wisps of gray winging their way over us in the sunlit sky. And then louder and clearer, yet even more tender than before, fell again and again that wondrous rippling note which shames the marvels of acoustic and makes all other bird cries sound harsh by comparison.</p>
+         
+         <p>Another moment of conference and away we went, Stocky and I in the machine, and Pix down in the offing, along the line of the still standing corn to the south, where the blue and white and pink of the yet unabashed morning glories were clambering over and twining with the gold of the cinquefoil and the purple of the stately veronica.</p>
+         
+         <p>And so passed a perfect day, the likes of which I doubt if we ever behold again, and in the chequered cools of the evening, as we rolled back into the pretty little village, we had just forty-eight plover, a basketful of doves and hearts fairly brimming with a happiness that even surpasseth the understanding.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. November 18, 1917. <title>Omaha Sunday World-Herald</title> 53(7): 4-S. Includes a picture of the hunting comrades.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

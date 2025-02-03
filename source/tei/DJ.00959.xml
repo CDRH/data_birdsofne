@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00959">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Where There Are Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-07-09</date><biblScope>57(38=41): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Where There Are Birds.</head>
+         
+         <p>Little Difference it makes where you find them, in your yard or in the woods - there is wholesomeness if there are birds.</p>
+         
+         <p>It would seem more than proper that a part of Sunday should be in some way dedicated to getting better acquainted with these feathered friends.</p>
+         
+         <p>Birds are something more than small bundles of song neatly wrapped in fluff or feathers. They have a great deal of soul, and still larger quantities of brains - and the know where and when they are wanted. They know and recognize their friends, and are glad to meet them. This is not mawkish sentiment - it is physical truth. Any ornithologist will tell you so.</p>
+         
+         <p>The eyes of a bird are wonderful studies. You can read much in them. In summertime - at this time - when it is warm and perhaps stuffy in the underbrush, the little folks will peer out so quietly, standing guard over their sequestered young, that their very eyes are likely to be the first evidence of them to be noted. This is particularly true of the Maryland Yellowthroat and the Cuckoo.</p>
+         
+         <p>Their eyes, as those of others too numerous to detail, gaze frankly into yours, and reflect in their actions what they see there. Just point your finger at one of these diminutive wild songsters. Somehow they have learned that pointing is dangerous. Who taught them that? Who taught a young Mourning Dove, that never saw a gun, that there might be a horrid finish from anything deliberately pointed in its direction?</p>
+         
+         <p>Friendship and confidence once established, the comical Red-headed Woodpecker will perform nobly for you, and the Chickadee, even as in the winter when you are feeding him suet, perchance, will come very close and frankly pass the time o' day. You of the many who have wren-houses in your yard are aware of the scolding but fussy little comaraderie these mites are capable of, when once sure of their ground.</p>
+         
+         <p>Where there are birds, there is something of love and of charity and of real peace, and the human who cannot or does not appreciate and cherish these, has not, we believe, succeeded in getting from this brief life all the Almighty has so generously put into it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 9, 1922. <title>Omaha Sunday World-Herald</title> 57(38=41): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00951">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Waxwings.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-02-01</date><biblScope>55(18): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Waxwings.</head>
+         
+         <p>Constant reports from reliable sources indicate that Nebraska is full of Bohemian Waxwings.</p>
+         
+         <p>Do not be alarmed. These are not a new brand of "cootie," nor yet a group of alien enemies ready for deportation. They are simply good citizens, like most Bohemians, and are all covered with feathers and wear a swell turban.</p>
+         
+         <p>There are Waxwings and Waxwings. In the spring we are likely to see huge flocks of Cedar Waxwings, otherwise known as Cedarbirds, Cherrybirds, and so on, but the Bohemian Waxwing is a good deal bigger, and a great deal scarcer.</p>
+         
+         <p>This winter, however, according to circulars sent out by the experts of the University of Nebraska, the state is fairly overrun, or overflown, with Bohemian Waxwings.</p>
+         
+         <p>These beautiful birds can be distinguished from the Cedarbirds not only by the size but by the reddish color of the underparts, which is lacking on the Cedar Waxwing.</p>
+         
+         <p>Flocks as large as 1,000 are reported to have been seen in Nebraska this winter - all Bohemians. The number of Cedarbirds is much smaller.</p>
+         
+         <p>Anything that wears the name of Waxwing is sure to be beautiful and extremely polite, so it would do you good to go out in the pine groves today and see if you can find them. Their gorgeous crest and Ritz-Carlton manners will help identify them. The big ones are Bohemians, the small ones Cedar.</p>
+         
+         <p>Try it once - and report.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 1, 1920. <title>Omaha Sunday World-Herald</title> 55(18): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

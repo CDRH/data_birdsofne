@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00183">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Collecting Bird's Eggs.</title><title level="j">Omaha Sunday World-Herald</title><author>Rengler, Mrs. L.A. and Sandy Griswold.</author><date>1918-06-16</date><biblScope>53(37): 12-W. Forest Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest Field and Stream</head>
+         
+         <head>Collecting Bird's Eggs.</head>
+         
+         <p>Overton, Neb., June 11.-To Sandy Griswold, Sporting Editor of the World-Herald: For several years my husband and I have read and enjoyed your nature talks in the World-Herald. We are both lovers of nature and feel that one misses much as they go through life if they have not that spirit of communication with the great outdoors.</p>
+         
+         <p>We have a boy aged 9 years and are anxious that he cultivate a love of these things, too. Last summer we collected butterflies, dragonflies and moths. They make a beautiful collection as well as being instructive. This year we are adding pressed flowers to our collection. But there is one thing which we are so undecided about. So young a child must be taught a love of these things in a way that there will be no suggestion of cruelty. The butterflies have been killed in a way that caused no suffering, but the thing we are undecided about is a collection of bird eggs. You wrote once of making such a collection in your boyhood. I also had a collection when a young girl and there is nothing in my childhood that I look back to with greater pleasure.</p>
+         
+         <p>However, things have changed a little since then. Love and protection of birds is taught so much in the schools and in such a way that we wonder if such a collection procured with all care and consideration for the birds' home would teach what we wish it to teach or would it teach only a love for collecting with a certain disregard for nature's laws. If you had a boy this age or any other age, would you consider such a collection helpful or detrimental?</p>
+         
+         <p>I shall certainly appreciate your reply and wish you to know that we have all confidence in whatever you may write us, knowing that you will be able to understand the heart of a boy through your own experience in your boyhood. Please answer through your department of the World-Herald. Yours Truly-Mrs. L.A. Rengler.</p>
+         
+         <p>Ans.-Your queries have been read with much interest and in reply will say that collecting eggs is a former misguided idea of pleasure which is now emphatically tabooed by all loves of birds, and with the exception of the pursuit of the work, in a very limited way, by the American Museum of Natural History, for scientific purposes purely, has been abandoned entirely, in fact, it is not lawful in any state in the union, and if indulged in by any one, it is done surreptitiously. Of course, Mrs. Rengler, you know my love for the birds, and it has been many long years since I have been so thoughtless as to hamper in the slightest way their preservation and protection. Let the little fellow study the birds, get as close to them as possible, and the longing for a collection of their eggs will disappear. The study of entomology and the collection of specimens is another branch of nature pastime that is indeed charming and absolutely within the bounds of propriety. Your little favor, let me assure you, is greatly appreciated.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Mrs. L.A. Rengler and Sandy Griswold.	June 16, 1918. <title>Omaha Sunday World-Herald</title> 53(37): 12-W. Portion of Forest Field and Stream.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00646">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Owls from the Arctic.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-01-06</date><biblScope>53(14): 8-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Owls from the Arctic.</head>
+         
+         <p>It has been indicated by local taxidermists that there is now a tremendous flight of Snowy Owls into this part of the country from the polar regions, where they make their home.</p>
+         
+         <p>Such flights have occurred on four other occasions in the recorded ornithological history of this country. The first was in the early '70's and the last in the winter of 1901-1902.</p>
+         
+         <p>Because the Snowy Owl is so easily seen, and is so immaculately beautiful, he is marked for destruction at the hands of the first hunter who comes within a long distance of him. That is regrettable, for the Snowy Owl is a very useful bird.</p>
+         
+         <p>One of the Omaha taxidermists referred to says that in the past two months he has received more than 100 specimens of this bird, mostly from Nebraska points, and some from very near this city. This is more than have been received by the same company in the past ten years, combined.</p>
+         
+         <p>The reason for these occasional invasions by the Snowy Owl is supposed to be a shortage of Polar hares - a variety of Arctic Rabbit - upon which this kind ordinarily feeds extensively. It is known that these animals are nearly exterminated at times by a blood disease that amounts to an epidemic. One of these epidemics is now in progress, and the Snowies are down from the vicinity of the North pole to get something to eat.</p>
+         
+         <p>This wonderful and gorgeous owl stands two feet tall in his stocking feet and seldom roosts in trees. He is likely to be found on a straw stack or hummock of some sort, and because of his pure white raiment, can generally be seen a long way. The female is still larger, but grayish in color. They are an impressive couple.</p>
+         
+         <p>The Snowy Owls are with us now, in Nebraska, and the slaughter is going on, as usual. It is probable that the same is the case in other states in this latitude. And for every bird that is shot and sent in to be mounted, there are probably half a dozen that are merely destroyed. So you can readily understand what is happening to the Snowy Owls.</p>
+         
+         <p>It may be that these birds occasionally sieze and consume poultry, and we have no wish to dispute this fact. But the bird comes but once in a long time and the United States government says it is ordinarily a very useful species. Investigators have found that rodents form a large part of its diet, and that it sometimes is a scavenger to the extent of eating dead fish along the lake shores.</p>
+         
+         <p>Realizing that it will be very difficult to persuade a hunter not to shoot such a gorgeous specimen, we can merely say that in doing so the man behind the gun is doing his country and Canada a great injustice. Forbearance under this temptation is very worthy and we hope it is practiced often.</p>
+         
+         <p>There should be fewer Snowy Owls sent in to the local taxidermist.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 6, 1918.  <title>Omaha Sunday World-Herald</title> 53(14): 8-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

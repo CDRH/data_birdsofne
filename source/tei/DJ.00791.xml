@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00791">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Sinful Bluejay.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-02-12</date><biblScope>57(17=20): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sinful Bluejay.</head>
+         
+         <p>Birds that we admire in the summer are positively gorgeous when they stay with us in the winter. Our soldiers in France during the war said that the ugliest old hag had become a walking, living breathing model of Venus de Milo, and was worshipped as a goddess.</p>
+         
+         <p>The Bluejay is not entirely lovable. He is beautiful, but has an onery disposition, at least in the summer. In the winter, when he occasionally remains in these parts, he is more quiet and docile than during the breeding season, when he takes it upon himself to be the village pest of Birdville.</p>
+         
+         <p>During May and June, while other songsters are generally attending to domestic and family matters, the Jay, besides raising his own brood, loves to tear up other birds' nests, chase the neighbors around, and act up generally like a feathered roughneck on a toot. The Bluejay is not especially brave, and such depredations and felonies are usually staged when there is no protective opposition. A healthy robin will make a Bluejay beat all speed records in retreat and all spanked babies in noise.</p>
+         
+         <p>But in winter the Bluejay is a docile soul. There are a few of him around this winter, it having been so mild, in a general way of speaking. His glorious blue and white and black-gray coloring is subdued in Mother Nature's winter stage settings, and he only occasionally gives voice to his warwhoop. He has to hustle hard for his grub, if he chooses to stay in the north, and he pays respectful obeisance to the other winter birds who are regular citizens here during these months.</p>
+         
+         <p>Two-faced as he may be in this respect, it is good to walk through Elmwood or other parks during the winter and meet friend Bluejay in some thicket. Most probably he will sail silently away from you - but he is a glimpse and promise of spring and summer, and therefore welcome.</p>
+         
+         <p>Mister Bluejay's usefulness exceeds his harmful qualities, and as a tree-planted he is unexcelled. He carries acorns and other tree seeds widespread over the country and has started many a healthy grove.</p>
+         
+         <p>He is a cruel clown, a scapegrace, but a Beau Brummel of the woods whose vanity shouts from the tree tops.</p>
+         
+         <p>Like other sinners, he has many admirers.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. February 12, 1922. <title>Omaha Sunday World-Herald</title> 57(17=20): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

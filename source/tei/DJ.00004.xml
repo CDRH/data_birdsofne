@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00004">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Adder's Tongue or Dog's Tooth Violet?</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-04-29</date><biblScope>58(31): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Adder's Tongue or Dog's Tooth Violet?</head>
+         
+         <p>"Here's the lily for you," said the school girl and she darted off that she might be late. She had been down in a deep ravine early in the morning and then chased over the hills glimpsing violets and Dutchman's breeches as she went, and the roses in her cheeks were the result; no beauty parlor product they.</p>
+         
+         <p>The botanists say Erithronium americanum or albidum, and the common people say adder's tongue or dog's tooth violet according to locality.</p>
+         
+         <p>Why adder's tongue? Because of its long, slender shape and soft texture. Why dog tooth violet, evidently a misnomer for it belongs to the lily family? Perhaps because like the violet it comes early, and nestles down under some tuft of grass or budding shrub, alongside the violet proper. Why Erythronium americanum? The former because of its Greek color, red, in some species, and americanum because of its twelve species, all but one are North American.</p>
+         
+         <p>After it is coming a long train of its sisters and its cousins, indigenous to Nebraska and the Missouri valley, Sand lily, western part, also yuccas or Spanish bayonet; allium or wild onion; a dainty little pink blossom; western wild lily; mariposa lily; smilax or green briar, a vine; Solomon's Seal and rarely a trillium. And they are all delicately beautiful. Pick a few but do not exterminate them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">
+               
+               <editor role="editor">Editor [possibly Miles Greenleaf]. </editor> April 29, 1923. <title>Omaha Sunday World-Herald</title> 58(31): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

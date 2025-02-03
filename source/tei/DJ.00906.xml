@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00906">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Time for Nest Hunting.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-16</date><biblScope>55(34): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Time for Nest Hunting.</head>
+         
+         <p>It will not be very long until the grasses, brush and trees are filled with cleverly hidden nests, built by the birds that have arrived within the past week or so.</p>
+         
+         <p>Down in tufts of green bridal chambers will be found the youngsters of the Chewink, Meadowlark, Field Sparrow and others of their ilk, while in the underbrush the Thrushes, Cardinals, Catbirds, Vireos and Flycatchers will soon have established their abodes. In the bushtops we shall find the Yellow Warbler's home, and in the bushes the Chipping Sparrow's, also. Every available tree-hole will be occupied by Chickadees, Bluebirds or Nuthatches - while the Woodpeckers, busy clan, will build their own. Under the eaves of shacks the Barn Swallow is building, while the overhanging lips of ravine banks furnish an elegant opportunity for Bank Swallows, as well as for Phoebes - the latter more generally preferring the rafters of some bridge or culvert.</p>
+         
+         <p>Nevertheless, the nesting season is close at hand, and the small boy should be out to discover the abodes of our feathered friends.</p>
+         
+         <p>But not in the old way!</p>
+         
+         <p>Not to steal eggs from these nests and thereby amass a collection! This isn't being done, nowadays.</p>
+         
+         <p>Thanks to school and Boy Scout education, our lads now are taking a census of the nests in these parts - and are letting the bird homes strictly alone.</p>
+         
+         <p>Isn't this far better than the old days of the silver spoon egg-theft system?</p>
+         
+         <p>You bet!</p>
+
+         
+         <p>Let us identify each nest and report it at Boy Scout headquarters, from which establishment the information goes to the department of agriculture at Washington, where the biological survey is very eager to accumulate such "dope."</p>
+         
+         <p>The Boy Scouts are pledged to protect nests, and also to report them. Shall boys or men not belonging to this organization attempt to thwart them in this work by stealing eggs?</p>
+         
+         <p>We trust and believe not.</p>
+         
+         <p>The birds help us live. Let us assist in their propagation.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 16, 1920.  <title>Omaha Sunday World-Herald</title> 55(34): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00540">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Migration of the American Magpie to Eastern Nebraska, Twenty-five Years Ago.</title><title level="j">American Naturalist</title><author>Taylor, W. Edgar.</author><date>1887-12-01</date><biblScope>21: 1122-1123.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Migration of the American Magpie to Eastern Nebraska, Twenty-five Years Ago </head>
+         
+         <p>The Migration of the American Magpie to Eastern Nebraska, Twenty-five Years ago.-In Goss's "Birds of Kansas," 1886, p. 35, the magpie (<hi rend="italic">P. hudsonica</hi>) is mentioned as "an occasional fall and winter visitant in Western Kansas," no mention being made of the magpie in Eastern Kansas. Dr. Aughey, in his list of "Birds of Nebraska," 1880, says "the magpie exists in Western and Northern Nebraska." Dr. L.E. Hicks, State University, in a private letter, dated November 4, 1887, says, "I have not seen the magpie in Eastern Nebraska, and only one in the western part: in Dawes County, last month. I have reliable information of a pair nesting near Grand Island. They undoubtedly breed in Nebraska."</p>
+         
+         <p>Hence it is safe to conclude that the magpie (1887) is rather a rare bird in Eastern Nebraska, and most especially in the southeastern portion of the State. Such was not the case twenty or thirty years ago. In questioning the early settlers about the birds of Southeastern Nebraska, between 1850-65, the magpie is usually the first bird mentioned. I am told by a dozen or more reliable persons that is was a greater pest than the common crow: pecking holes in the backs of fat hogs, eating off the tips of their ears, etc. They were very numerous in the fall and winter; one reliable witness stating that, about twenty years ago, he put out poison for the wolves, and on going to the spot the next morning found no less that forty dead magpies. The "Birds of North American in Smithsonian Institution," published in 1860, gives description of twenty magpies killed in 1856, at various points on the Missouri from central Eastern Nebraska to the Black Hills.</p>
+         
+         <p>I am fully satisfied that twenty ot thirty years ago the magpie (<hi rend="italic">P. hudsonica</hi>) made its annual fall and winter visit to the Missouri bottoms, extending from Southeast Dakota to the Kansas state line, some few breeding in this section.-<hi rend="italic">W. Edgar Taylor, State Normal, Peru, Neb.</hi>
+         
+         </p>
+         
+         <cit>
+            
+            <bibl default="NO">1887. <title>American Naturalist</title> 21: 1122-1123.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

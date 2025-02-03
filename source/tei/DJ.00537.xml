@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00537">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">In the Midnight [Owls Justly Regarded as Wise].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-12-28</date><biblScope>55(13): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>In the Midnight.</head>
+         
+         <p>With all the world frozen, as it appears to the feathered tribes at this time, we well may wonder what the birds do for their daily ration. We can imagine the diligent Chickadee shaking the frost from the coated weed-stalk, or the Nuthatch pecking the ice from his coveted bark-crevices, and the Brown Creeper following along behind to pick up what he may.</p>
+         
+         <p>But what of the other birds?</p>
+         
+         <p>Omaha and vicinity have been blessed - or cursed - with as beautiful a season of Hoar-frost as ever was seen in these parts. Blessed for humans, but cursed for birds.</p>
+         
+         <p>The birds; that is our subject!</p>
+         
+         <p>We have seen the noble Cardinal, rich in plumage, scouring the snow beneath a suet basket, in order that he may pick up the brief morsels dropped by a veritable army of Woodpeckers, Nuthatches, Creepers and Chickadees, Juncos and Tree Sparrows were awaiting this largesse, too, but at night came the Owls.</p>
+         
+         <p>The Screecher and the Long-Eared Owl, dozing in the daytime, come out at night to do their sundry and divers duties. It is no trick at all to see them sleep, but no man ever sees them work.</p>
+         
+         <p>Mice and rats and other mysterious creatures of the winter night, fall prey to the Screecher and the Long-Ear. In the summer the malignant larger insects add to the menu. But these strangely silent birds are always on the watch, winter or summer, and ever in the interest of humans, who but faintly appreciate their work.</p>
+         
+         <p>Study the birds of the midnight. Study the Owls. The smaller specimens seen in these parts are our best friends - and let that fact be not forgotten when the boy's rifle is barking through the woods.</p>
+         
+         <p>The Owls of the night are justly regarded as wise birds!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 28, 1919. In the Midnight [Owls Justly Regarded as Wise]. <title>Omaha Sunday World-Herald</title>	55(13): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00952">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Weather.</title><title level="j">Omaha Nebraskian</title><author>Robertson, T.H., editor.</author><date>1858-03-10</date><biblScope>4(7): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Weather.</head>
+         
+         <p>This never failing topic of conversation in the social world, is sometimes of service to newspaper scribblers. We find it so occasionally. But in this instance we write about it because we can't help it. "What glorious weather," we hear from every friend we meet; and what "glorious weather" it is. Spring has fairly set in. There is no frost in the ground; the blue bird and the robin sing as sweetly as we ever heard them in April or May, and even the lark warbles his morning song, confident that the cold weather is gone. The ladies promenade our streets with parasols and sun-shades, and their crinoline assumes a more expansive form as the atmosphere becomes more genial. The lords of creation loaf on the shady side of the buildings or parade the street minus overcoats and gloves, while the dandies again flourish in glossy hats and coats, patent leathers, white kids, spotless linen, and carry diminutive ratans.</p>
+         
+         <p>We wonder if every other country is favored with weather as pleasant as ours. Here, people are already preparing their gardens for planting, and the farmers in this vicinity are getting ready to sow their spring wheat, barley and oats.</p>
+         
+         <cit>
+            
+            <bibl default="NO">T.H. Robertson, editor. March 10, 1858. <title>Omaha Nebraskian</title> 4(7): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00179">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Climatic Change and Winter Sightings of Birds].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1900-01-28</date><biblScope>35(119): 20.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-19">2006-06-19</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>[Climatic Change and Winter Sightings of Birds]</head>
+         
+         <p>The very general idea that this section of the globe is undergoing a decided climatic change is greatly strengthened by the remarkably mild weather we have had throughout the past two winter months. The oldest inhabitant can recall nothing to compare with it. Of course, we have had plenty of open winters before, but rarely, indeed, such a long, unbroken stretch of balmy weather as has existed since December 12. Since that date there has not been three consecutive cloudy days, and since January 3 the winter sun has shone warmly from an unflecked sky. On Saturday a week ago, and repeatedly since, I have no doubt, house flies came out of hibernation and made themselves visible in warm, sunny places within doors, and in on or two instances the appearances of honey bees has been reported. From my own observation I know that the crows have not migrated at all this season, and are to be seen today by thousands along all our river valleys as fat and contented as they usually are in the summer months, and the bluejays are still with us, as pert and clamorous as in the mating season. While I have not seen or even heard the querulous chirp of a robin during the recent pleasant weather, I have no doubt but what there are many of them still lingering even farther north than this. Usually the robins flock like turtle doves in the late fall, but they often remain here in great numbers after the time they should be swinging in the foliage or hopping over the sward of the softer south, and there is not a month in the whole twelve that I have not encountered them during my residence in this state. They are considered strictly migratoria, but this is a mistake, and like the crow and the jaybird they are largely influenced by the weather. But as I remarked above the winter is a remarkable one and not only furnishes material for the meteorologist and the savant in atmospheric phenomena to work upon, but presents the ornithologist an opportunity for the enlargement of his knowledge. It affords a chance for the every day lovers of birds, unused to scientific terms, a chance to familiarize themselves with the habits and economic importance of our feathered friends under conditions, but rarely met with. The study of ornithology, as suggested in books treating on the subject, is one attended with difficulties sufficient to dampen the ardor of even the more than willing student. The long high-sounding names used in the scientific nomenclature—which even Latinizes common English words—the many divisions into families and species, and the disputes of alleged authorities, have undoubtedly deterred many from following a study in itself so interesting and useful. In my treatment of birds I endeavor to avoid all scientific terms and designations, simply endeavor to foster a better acquaintance between the human family and its feathered friends without necessitating the medium of protracted study on the part of those who would lie to know more about our native birds.</p>
+         
+         <p>Again, I say, the present entrancing winter weather should afford all thus inclined an opportunity of acquiring new bird lore, and I invite notes from my readers from all parts of the state as to the observations they have made and are probably still making about the maneuvers of the various species in different localities. I do not care about any learned disquisitions pertaining to the higher phases of ornithology; simply notes in plain language all can understand about the habits of birds to indicate their value to mankind and by plain descriptions to facilitate identification. The bobolink, all through June, July and August, with velvet and silver plumage, and sweet twittering song, is an object of interest, but this interest is largely destroyed to the youthful student in bird life when the scientists teach that the first thing of importance to know about this dear little sprite of our meadows and big hayfields is that he is a Dolichonyx oryzorus of the family of Icteridal.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. January 28, 1900. <title>Omaha Sunday World-Herald</title> 35(119): 20.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

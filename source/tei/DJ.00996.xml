@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00996">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Witchery [Common Yellowthroat].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-06-13</date><biblScope>50(37): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Witchery.</head>
+         
+         <p>Even when the skies are dark, the landscape bleak, the north wind raw and the snow hip deep there is attractiveness enough in the open country, but when the foliage becomes so dense that the carolling songsters can easily hide from you ten feet away, and the earthy, flowery perfume of the glades is fairly suffocating - then one truly appreciates, truly senses the witchery of woodland.</p>
+         
+         <p>The birds appreciate it, too. My, yes! One of them even goes so far as to tell you so, if you will only visit him in his preserves. Just meander around some day through the thicket and weedy patches skirting a ravine or creek - there are plenty of such places near the end of your car line - and cock an expectant ear. Presently you will be surprised to hear an enthusiastic little whistle.</p>
+         
+         <p>"Witchery! Witchery! Witchery!"</p>
+         
+         <p>It is the Maryland Yellowthroat - or a western brother of that wonderful clan - and he has seen you coming. What is more he is glad to see you and will stay right abaft your beam as long as you will permit him. Inquisitive beyond all words, the cheery fellow will peer and peek and "rubber" at one until you really wonder who is the hunter and who the hunted.</p>
+         
+         <p>He is a little fellow, this Maryland Yellowthroat, and his name designates his uniform, but he has, besides, a jet black throat which sometimes has the appearance of a drooping mustache. You may have some trouble in locating your hearty new friend, for he has a trick of hiding behind the tiniest leaflet, but you  may rest assured that he has his eye on YOU.</p>
+         
+         <p>Hunt him out. Make him show himself. It is worth while, for he is the original member of the woodland glee club, and when he sings he points his tiny nose straight toward the zenith and warbles ecstatically the carol of the whole outdoor world.</p>
+         
+         <p>"Witchery! Witchery! Witchery!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 13, 1915. Witchery [Common Yellowthroat]. <title>Omaha Sunday World-Herald</title> 50(37): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

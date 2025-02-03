@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00327">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Frigid Free-Lancing [Birds Resident in Winter].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-01-13</date><biblScope>53(15): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Frigid Free-Lancing.</head>
+         
+         <p>Bird migration, we believe, is in many of its phases still a puzzler to the naturalist. A good many facts concerning it are known, but it is probable that the preponderance of data is yet to be secured.</p>
+         
+         <p>While certain birds come and go with the seasons, and on fairly uniform dates, there often springs up an exception to such migration rules to threaten their stability. It would seem that the feathered folk move only with their spirits, or according to their personal comfort and hardihood, rather than by glancing at some bird-calendar.</p>
+         
+         <p>For instance, while most of the Robins go south each fall, no small number remain up here in the north and brave the wint'ry blasts under cover of thick underbrush along waterways. While a majority of the Flickers seek southern climes there are still many of them to be seen about Omaha. Harris Sparrows and Chewinks are still present in the thickets along the river bottoms, although vast fleets of their fellows are hundreds of miles closer to the equator. A reliable Sioux City ornithologist reports that half a dozen Bluebirds are still in Stone Park, near that city, having weathered day after day of sub-zero temperatures.</p>
+         
+         <p>So it may be realized that many of the songsters are free lances and not bound by convention. As many humans prefer a white winter in Nebraska to the balmy perfumery of California and Florida, so do some of the birds.</p>
+         
+         <p>There is a local case in point, however, that will interest those who have learned the unqualified joy of bird study in all seasons.</p>
+         
+         <p>Many expert naturalists, professional and amateur, have dissertated upon the tenderness and susceptibility of cold of the Wilson Snipe, or Jack Snipe, as it is more popularly known. Sandy Griswold, of this paper, a recognized authority, has repeatedly told of the Jack's early departure for warmer parts in the early fall, and with good reason, too.</p>
+         
+         <p>But right out on the borders of Omaha, along a little creek lying less than half a mile from the city limits, there are today two Wilson Snipe placidly attending to their own business, having passed through six weeks of the bitterest weather Douglas county ever saw in December and early January.</p>
+         
+         <p>These two birds are seemingly happy, and are feeding in open holes in the ice along the shore, where the mud is kept from freezing solid by the wash of the water. They are fat and sassy and have been found Sunday after Sunday since last October, always in the same spot. Apparently they know a good thing when they see it. No winter resorts for them!</p>
+         
+         <p>So these two frigid free-lancers disprove a very important "rule" in bird migration, and if the lynx-eyed gunmen do not destroy them at their mud hole, they may be counted, no doubt, among our permanent residents.</p>
+         
+         <p>There are sights equally strange to be seen outdoors nearly any Sunday. Perhaps you do not know what you are missing in your leisure hours.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 13, 1918. Frigid Free-Lancing [Birds Resident in Winter]. <title>Omaha Sunday World-Herald</title> 53(15): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

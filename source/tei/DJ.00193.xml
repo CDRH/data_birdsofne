@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00193">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Count of Game. The Schedule of the Omaha Gun Club.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1885-10-18</date><biblScope>p. 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Count of Game.</head>
+         
+         <head>The Schedule of the Omaha Gun Club.</head>
+         
+         <p>The Omaha Gun club has adopted the following count of game for the annual shoot of the club which occurs October 27th. The count will be held on the 28th and the banquet on the 29th:</p>
+         
+         <head>Quadrupeds.</head>
+         
+         <list type="simple">
+            
+            <item>Buffalo ... 150</item>
+            
+            <item>Elk ... 100</item>
+            
+            <item>Deer ... 80</item>
+            
+            <item>Antelope ... 50</item>
+            
+            <item>Wild cat ... 25</item>
+            
+            <item>Wolf ... 25</item>
+            
+            <item>Beaver ... 20</item>
+            
+            <item>Otter ... 20</item>
+            
+            <item>Mink ... 20</item>
+            
+            <item>Jack rabbit ... 3</item>
+            
+            <item>Common rabbit ... 1</item>
+            
+            <item>Fox squirrel ... 1</item>
+            
+            <item>Grey ... 2</item>
+            
+            <item>Black ... 2</item>
+         
+         </list>
+         
+         <head>Birds.</head>
+         
+         <list type="simple">
+            
+            <item>Eagle ... 25</item>
+            
+            <item>American swan ... 20</item>
+            
+            <item>Trumpeter ... 25</item>
+            
+            <item>Pelican ... 15</item>
+            
+            <item>Sand hill crane (or white crane) ... 15</item>
+            
+            <item>Turkey ... 15</item>
+            
+            <item>Canada goose ... 12</item>
+            
+            <item>Goose ... 8</item>
+            
+            <item>Avocet ... 5</item>
+            
+            <item>Sickle bill curlew ... 5</item>
+            
+            <item>Esquimaux curlew ... 2</item>
+            
+            <item>Marbled godwit ... 5</item>
+            
+            <item>Hudsonian godwit ... 2</item>
+            
+            <item>Woodcock ... 5</item>
+            
+            <item>Rail ... 2</item>
+            
+            <item>Sora ... 2</item>
+            
+            <item>Clapper ... 5</item>
+            
+            <item>Virginia ... 2</item>
+            
+            <item>Wilson's snipe (jack snipe) ... 2</item>
+            
+            <item>Snipe ... 1</item>
+            
+            <item>Plover ... 1</item>
+            
+            <item>Pinnated grouse ... 1</item>
+            
+            <item>Sharp tailed grouse ... 1</item>
+            
+            <item>Ruffed grouse ... 1</item>
+            
+            <item>Quail ... 1</item>
+            
+            <item>Pigeon ... 1</item>
+            
+            <item>Merganser, hooded ... 2</item>
+            
+            <item>Mallard duck ... 3</item>
+            
+            <item>Canvas back ... 5</item>
+            
+            <item>Dusky duck ... 5</item>
+            
+            <item>Gadwall ... 2</item>
+            
+            <item>Duck ... 1</item>
+            
+            <item>Hawk ... 5</item>
+            
+            <item>Owl ... 5</item>
+            
+            <item>Blue bills ... 2</item>
+            
+            <item>Merganser, buff breasted ... 5</item>
+            
+            <item>Scaup ... 2</item>
+            
+            <item>Pin tail ... 2</item>
+            
+            <item>Wood duck ... 2</item>
+            
+            <item>Widgeon ... 2</item>
+            
+            <item>Red Head ... 2</item>
+            
+            <item>Ruddy ... 2</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">October 18, 1885. <title>Omaha Daily Republican</title> p. 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

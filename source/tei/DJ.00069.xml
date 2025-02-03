@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00069">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bird Fauna of the Salt Basin, near Lincoln.</title><title level="j">Forest and Stream</title><author>Hunter, J.S.</author><date>1899-12-30</date><biblScope>54: 527. Proceedings of the Nebraska Ornithologists Union 1:18-21.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-16">2006-06-16</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bird Fauna of "The Lake."</head>
+         
+         <head>At Lincoln, Neb.</head>
+         
+         <p>A few miles west of Lincoln is a small lake about three-quarters of a mile long and a half a mile wide. Altogether it covers probably 200 acres. The banks slope gradually to the water and in most places are scantily covered with short grass and sedges. The water on the average is between 2 and 3 feet in depth. This lake is called either "The Lake," or, in polite society is known as Burlington Beach.</p>
+         
+         <p>The Lake is semi-artificial and semi-natural-semi-natural in the fact that there always was a natural sink or hollow, in which there was more mud than water, and artificial in that a dyke was necessary to keep the water in. This dyke is only a few feet high and about a quarter of a mile long. At the upper end a short channel connects with the creek and allows the water from the creek to flow into and fill up the lake. The water is very salty and does not support much plant nor animal life.</p>
+         
+         <p>During the spring and fall migrations of the water fowl The Lake is one of the most attractive spots in this section of the State for the birds. At these seasons there is not a time but when one may see one or more flocks of ducks or geese. Formerly a number of the birds bred in the immediate vicinity, but now there are very few that do. Some of the sandpipers stay till the middle of July, and August, but do not nest. Some even stay till the first of the fall migrants arrive from the north.</p>
+         
+         <p>There is so little concealment for the hunter that the birds find it comparatively easy to keep out of range. Most of the shooting is done from boats or from blinds. The best record for the season just closed was made by two local gunners, who in six afternoons from a boat killed 157 ducks of various kinds. The most for any one afternoon was forty-four. On days when there are few hunters about there are sometimes as many as 4,000 or 5,000 birds on the water in one flock.</p>
+         
+         <p>The following list is a list of the birds collected by myself and other ornithologists in the immediate vicinity of The Lake:</p>
+         
+         <list type="simple">
+            
+            <item>3. Horned grebe—uncommon.</item>
+            
+            <item>4. American eared grebe—frequent.</item>
+            
+            <item>6. Pied-billed grebe—common.</item>
+            
+            <item>7. Loon—infrequent.</item>
+            
+            <item>36. Pomarine jaeger—very rare.</item>
+            
+            <item>51a. Herring gull—rare.</item>
+            
+            <item>54. Ring-billed gull—uncommon.</item>
+            
+            <item>58. Laughing gull—uncommon.</item>
+            
+            <item>59. Franklin's gull—common.</item>
+            
+            <item>60. Bonaparte's gull—uncommon.</item>
+            
+            <item>64. Caspian tern—very rare.</item>
+            
+            <item>69. Forster's tern—rare.</item>
+            
+            <item>70. Common tern—rare.</item>
+            
+            <item>74. Least tern—infrequent.</item>
+            
+            <item>77. Black tern—common.</item>
+            
+            <item>120. Double-crested cormorant—rare.</item>
+            
+            <item>120a. Florida cormorant—rare.</item>
+            
+            <item>125. American white pelican—uncommon.</item>
+            
+            <item>129. American merganser—rare.</item>
+            
+            <item>130. Red-breasted merganser—rare.</item>
+            
+            <item>131. Hooded merganser—frequent.</item>
+            
+            <item>132. Mallard—common.</item>
+            
+            <item>133. Black duck—uncommon.</item>
+            
+            <item>135. Gadwall—common.</item>
+            
+            <item>137. Bald pate—common.</item>
+            
+            <item>139. Green-wing teal—very common.</item>
+            
+            <item>140. Blue-wing teal—very common.</item>
+            
+            <item>141. Cinnamon teal—very rare.</item>
+            
+            <item>142. Spoonbill—very common.</item>
+            
+            <item>143. Pintail—common.</item>
+            
+            <item>144. Wood duck—frequent.</item>
+            
+            <item>146. Redhead duck—frequent.</item>
+            
+            <item>147. Canvasback duck—frequent.</item>
+            
+            <item>149. Lesser bluebill—frequent.</item>
+            
+            <item>150. Ring-neck duck—very rare.</item>
+            
+            <item>151. Golden-eye wheedler—rare.</item>
+            
+            <item>152. Barrow's golden eye—very rare.</item>
+            
+            <item>153. Buffle head—common.</item>
+            
+            <item>163. American scoter—very rare.</item>
+            
+            <item>165. White-winged scoter—rare.</item>
+            
+            <item>166. Surf scoter—very rare.</item>
+            
+            <item>167. Ruddy duck—common.</item>
+            
+            <item>169. Lesser snow goose—frequent.</item>
+            
+            <item>169a. Greater snow goose—frequent.</item>
+            
+            <item>169.1. Blue goose—rare.</item>
+            
+            <item>171a. American white-fronted goose—rare.</item>
+            
+            <item>172. Canada goose—frequent.</item>
+            
+            <item>172a. Hutchins's goose—frequent.</item>
+            
+            <item>180. Whistling swan—rare.</item>
+            
+            <item>181. Trumpeter swan—rare.</item>
+            
+            <item>190. Bittern—common.</item>
+            
+            <item>191. Least bittern—rare.</item>
+            
+            <item>194. Great blue heron—frequent.</item>
+            
+            <item>197. Snowy heron—very rare.</item>
+            
+            <item>200. Little blue heron—very rare.</item>
+            
+            <item>201. Green heron—common.</item>
+            
+            <item>202. Black-crowned night heron—common.</item>
+            
+            <item>204. Whooping crane—rare.</item>
+            
+            <item>206. Sandhill crane—rare.</item>
+            
+            <item>212. Virginia rail—uncommon.</item>
+            
+            <item>221. Coot—very common.</item>
+            
+            <item>223. Northern phalarope—uncommon.</item>
+            
+            <item>224. Wilson's phalarope—common.</item>
+            
+            <item>225. American avocet—infrequent.</item>
+            
+            <item>230. Wilson's snipe—infrequent.</item>
+            
+            <item>231. Dowitcher—infrequent.</item>
+            
+            <item>232. Long-billed dowitcher—infrequent.</item>
+            
+            <item>233. Stilt sandpiper—uncommon.</item>
+            
+            <item>234. Knot—very rare.</item>
+            
+            <item>239. Jacksnipe—uncommon.</item>
+            
+            <item>240. Bonaparte's sandpiper—common.</item>
+            
+            <item>241. Baird's sandpiper—very common.</item>
+            
+            <item>243a. Red-backed Sandpiper—rare.</item>
+            
+            <item>246. Semi-palmated sandpiper—very common.</item>
+            
+            <item>248. Sanderling—rare.</item>
+            
+            <item>249. Marbled godwit—infrequent.</item>
+            
+            <item>251. Hudsonian godwit—infrequent.</item>
+            
+            <item>254. Greater yellowlegs—frequent.</item>
+            
+            <item>255. Lesser yellowlegs—common.</item>
+            
+            <item>256. Solitary sandpiper—uncommon.</item>
+            
+            <item>258a. Western willet—uncommon.</item>
+            
+            <item>261. Bartramian sandpiper—frequent.</item>
+            
+            <item>262. Buff-breasted sandpiper—frequent.</item>
+            
+            <item>263. Spotted sandpiper—uncommon.</item>
+            
+            <item>270. Black-bellied plover—uncommon.</item>
+            
+            <item>272. Golden plover—uncommon.</item>
+            
+            <item>273. Killdeer—common.</item>
+            
+            <item>274. Semi-palmated plover—frequent.</item>
+            
+            <item>277a. Belted piping plover—rare.</item>
+            
+            <item>283. Turnstone—very rare.</item>
+         
+         </list>
+         
+         <list type="simple">
+            
+            <item>J.S. Hunter.</item>
+            
+            <item>Lincoln, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">December 30, 1899. <title>Forest and Stream</title> 54: 527.</bibl>
+         
+         </cit>
+         
+         <head>Bird Fauna of the Salt Basin.</head>
+         
+         <p>A few miles west of Lincoln is a small lake about three-quarters of a mile long and half a mile wide, covering about two hundred acres. The banks slope gradually to the water, and are covered with a scant growth of grass. The water averages between two and three feet in depth. This body of water is called by hunters "The Lake", and by society people "Burlington Beach". It is a semi-natural lake. Formerly there was a salt basin, in which there was very little water and a great deal of mud. Then a scheme was devised to make a lake for a pleasure resort, so across the lower end of the basin a dam was built, and at the upper end a channel dug connecting with Oak Creek. The water is very salty and supports comparatively little plant or animal life.</p>
+         
+         <p>But during the fall and spring migrations of the water fowl it seems to be a very attractive spot for them. During the two seasons there is scarcely a day but that one may see one or more flocks of ducks or geese, and numerous shore birds. There is solittle concealment that the ducks do not have much trouble in keeping out of range of a gun. Most ducks are killed from boats. Two local hunters the past fall killed 157 ducks of various species during six afternoons in a boat. Days when, in a twenty or thirty miles' tramp along the creeks one will not see a duck, there will be several nice flocks at the lake. I have seen quite often as many as four or five thousand ducks on the water at one time.</p>
+         
+         <head>Discussion.</head>
+         
+         <p>Dr. H. B. Ward: "It is perhaps a very minor point, but of some importance in accounting for the birds at the lake, that the water is comparatively rich in the minute life upon which many of the water-birds feed extensively. It has been found that the amount. of such material in the water is relatively large, although the visible animal and plant life of the lake is small. I do not doubt that the water-birds find pretty good feeding there in spite of the apparent barrenness of the water."</p>
+         
+         <cit>
+            
+            <bibl default="NO">1900. Proceedings of the Nebraska Ornithologists Union 1:18-21. Scientific names included with this version.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

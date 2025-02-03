@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00471">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Junco.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-12-26</date><biblScope>56(12=13): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Junco.</head>
+         
+         <p>Wherever you may roam along the roadsides in the winter, the colder the better, you are pretty sure to hear the wiry twang of the call of the Slate-colored Junco, and to see the flash of his white tail feathers as he dives from one patch of underbrush to another.</p>
+         
+         <p>Generally Mr. Junco is not alone, but grouped with a large number of his pals, liberally sprinkled with Tree Sparrows.</p>
+         
+         <p>The Junco, as his full name would suggest is a darby. He eats weed seeds until his little tummy is almost popping, and has positively no bad habits, as far as ornithologists have ascertained to date.</p>
+         
+         <p>In the zero periods of our winters the Junco is the most active, and a study of this bird is well worth while. He is one of the busiest of the winter tribe, and many folk call him a "Snowbird," which is a misnomer inasmuch as many other birds seem to have secured the same title.</p>
+         
+         <p>The Junco, in the spring, has a very beautiful little song, which he saves for that occasion, but in winter, as has been remarked, his wiry twang or a sharp chip are all that he can do to help you in his identification.</p>
+         
+         <p>A grand little bird, this Slate Colored Junco, and well worth becoming acquainted with.</p>
+         
+         <p>Try that acquaintanceship today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 26, 1920. <title>Omaha Sunday World-Herald</title> 56(12=13): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>
