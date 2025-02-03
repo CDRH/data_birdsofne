@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00527">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Match at Pigeon Murder.</title><title level="j">Omaha Daily Herald</title><author>Herald editor.</author><date>1882-05-24</date><biblScope>17(175): 2. An editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Match at Pigeon Murder.</head>
+         
+         <p>The Herald called on Mr. Petty, the active partner of the firm Collins &amp; Petty, yesterday morning, to interview that excellent sportsman respecting the pigeon-murder that opens in a match near this city to-day. The object was to ascertain from Mr. Petty whether ot not it was true that the scenes that were enacted here in former years, in which birds were literally starved to death for want of food and water in being shipped from distant states and cities, to supply the demand in these matches for pigeon-murder were to be repeated. Mr. W.H.H. Hughes, one of our oldest and best citizens and sportsmen, joined in the conversation, and some gratifying results were elicited, which prove that our sportsmen are becoming more and more considerate in the treatment of birds. What occurred in the past will occur no more. The birds for the present match have been gathered in the near neighborhood, and they are amply and well fed and watered, men being employed and kept busy in bringing food-supplies, and in feeding and watering the birds. We saw a crate of them en route to the shooting grounds that looked well, and Mr. Petty informed us that they would, on their arrival at the shooting grounds, be set free in a room with plenty to eat and drink. Another point is to be stated to the credit of the sportsmen: Mr. Petty and Mr. Hughes assured us that there was no need to employ any one to pursue and kill wounded birds to put them out of their misery, either inside or outside the grounds. This is done by the management inside the grounds, and plenty of people in such a city as Omaha strive to get the last one outside the grounds for domestic use. From which it will be seen that our sportsmen in Omaha have advanced on the old practices, and have mitigated the cruelties that are committed in other places-a fact which gives us great pleasure to print, and which it will give thousands of people in this state and city great pleasure to know.</p>
+         
+         <p>Mr. Petty concedes the cruelty of bird murder, and also pleads other cruelties to animals in extenuation. There is truth in what he says, but it does not help bird-murder as a sport at all. When Mr. Petty and Mr. Hughes were asked why the glass ball could not be substituted for the live bird in these trials of shooting skill, the answer was that matches with balls fail, where those with birds succeed because there is greater excitement in shooting the live bird than in shooting the dead ball. This is the probable fact about it, and this also is, as yet, prevailing human nature. We hope and believe the time be not far off when laws will be enacted and enforced that will do away with these matches in bird-murder. If we have not been misinformed there is considerable sentiment existing among Nebraska sportsmen in favor of such a law now.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 24, 1882. <title>Omaha Daily Herald</title> 17(175): 2. An editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00608">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Note on American Goldfinch Nest at Gibbon].</title><title level="j">Oologist</title><author>H. B. A.</author><date>1891-02-01</date><biblScope>8(2):15.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>H. B. A., Gibbon, Neb., writes:</p>
+         
+         <p>"While out for a walk this season I discovered the nest of an American Goldfinch placed in a crotch of an apple tree. In this nest, which was built as usual, I found first the bottom an egg of the Cowbird, over this a heavy lining, and on this a set of the Goldfinch. I allowed these to remain. Those of the Goldfinch were incubated, but that of the Cowbird did not, probably due to unusual amount of lining."</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 1891. <title>Oologist</title> 8(2):15.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

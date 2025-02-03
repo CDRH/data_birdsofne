@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00872">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">One of Stout's Mysteries.</title><title level="j">Omaha Sunday World-Herald</title><author>Stout, Edward.</author><date>1909-02-21</date><biblScope>44(21): 4-S.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>One of Stout's Mysteries.</head>
+         
+         <p>Ed. Stout dropped in at the gun store the other evening and chipped in with his usual good one.</p>
+         
+         <p>"It is a fine thing all this fine talk about hunting with a camera," said he, "but I tell you it isn't always safe to even point a thing that don't shoot at a bird or animal. Of course it is awful nice to go out and kill your ducks or chicken and bring them home and eat them, and it is also nice to go out and take their pictures and bring 'em home and hang on the wall to look at. It is only a matter of sentiment, either way. But the little incident I want to tell you about has always been a mystery to me, and I know you won't believe it, still it is just as true as gospel. People are always too prone to doubt everything that they can't understand, but I want to tell you that about nine times out of ten they are dead wrong. Supposing you should"-</p>
+         
+         <p>"Oh, go on, give us your story. We've had enough of that slush-what was it that has so mystified you," interrupted Billy Townsend.</p>
+         
+         <p>"Well, sir-but I know you won't believe a word of it, because"-</p>
+         
+         <p>"Cut it-if you're going to tell the story, tell it," from Bill again.</p>
+         
+         <p>"Well, sir, it happened about twenty-five years ago when I was living out at Waterloo. One Sunday morning in July, long before the chicken season was open, I went out the road leading south from old Major Stenglein's place for a stroll, and as it looked sort o' showery, I took my umbrel with me instead of a gun. I sauntered along for about a mile or two, then thought I would cut across the big pasture and go home, which would save me quite a spell of walking. Now you won't believe it, I know, but honest Injun, I had barely clum over the old board fence, when a bunch of nice half-grown prairie chicken got up in front of men and went whirrin' away down the pasture. Just for fun, I pulled up my old umbrell, just as if it was a gun, and coverin' a couple of chicken that were flyin' close together, I went 'bang!' But what's the use tellin' it-I know you won't believe a word of it, but it's true, and I'll swear to"-</p>
+         
+         <p>"Oh, go on Stout, what happened, this is getting tiresome?"</p>
+         
+         <p>"Well, sir, I'll tell you what happened, and you needn't believe it if you don't want to, but as true as I'm sittin' here on this counter, the two chicken I had covered with my umbrell, fell to the grass as dead as door nails!"</p>
+         
+         <p>Then we all went over to the Merchant's to see Pete Bouse.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold and Edward Stout. February 21, 1909. One of Stout's Mysteries. <title>Omaha Sunday World-Herald</title> 44(21): 4-S.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

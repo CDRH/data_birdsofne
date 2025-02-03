@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00323">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Forest, Field and Stream. [Woodcock Habits in the Haunts].</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1892-07-31</date><biblScope>22(43): 10. Column portion of sports page.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+  
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <p>The Raymond Gun club boasts of the finest shooting grounds in the west.</p>
+         
+         <p>Judge Dundy, Elmer Frank and "Skip" Dundy returned from a piscatorial foray Thursday evening freighted with an elegant basket of black bass and crappie.</p>
+         
+         <p>The slaughter of young chickens, and old ones, too, for that matter, for age cuts no figure with the shooter, has opened up in different portions of the state. The open season, however, does not open up until September 1.</p>
+         
+         <p>Owing to the thunder shower last Thursday afternoon the Bemis Park Gun club did not hold their regular monthly shoot. They will shoot next Thursday, a grand all-round shoot besides the club run, in which live birds will be used.</p>
+         
+         <p>A sunday or two ago I made mention of the scarcity of woodcock in this state, to which an anonymous correspondent takes exception. In a brief note he says: "I remember the time, not more than ten years ago, when good cock shooting could be obtained not six miles from Omaha. I have shot them myself, as they have always been my favorite game. I never learned to understand the bird, however, although I have studied them hard. As you have probably had some experience with them, can't you give us a little information through The Bee?" I will add this much: I have talked with several old gunners about the city and they say the day never existed when anything like a good bag of woodcock could be made here. Billy Nason, who has been hunting and shooting off and on for fifteen or sixteen years in this vicinity and who is a close observer and a well posted sportsman, has only bagged four woodcock in all that time and seen probably as many more. He knows, now, the haunts of one old bird, which he and other gunners have futilely endeavored to bring to bag for several years, but says he wouldn't know where to look for another.</p>
+         
+         <p>The woodcock, on account of its solitary life during most of the year, is a hard bird to study. Some of its most peculiar and interesting habits seem to have escaped the observation of the naturalists, who have had little opportunity to watch them in their native haunts. In the western states their feeding grounds are, as a rule, in low, wetlands that are covered with a thick growth of bushes and swamp grasses, rendering it almost impossible to see them when they are on the ground. In the east, however, especially in the hilly parts, I have found them feeding in the comparatively open woods, where I had little trouble in seeing them and making note of their movements. Early in April the woodcocks arrive in the sheltered valleys of southern Ohio and scatter themselves widely in pairs to spend the nesting season. The male bird has the habit of rising spirally in the early morning light, sometimes higher than the tree tops, and balancing himself in the air, uttering a low, droning sound, which may be heard to a considerable distance. This is his call to his mate, and when he falls the female is sure to be near the spot. The birds play in a very droll fashion, running round and round each other in a small circle on the ground, their feathers ruffled, their wings delicately lifted, and their long bills pointing directly upward, their heads resting upon their backs. Sometimes they hop on one foot, holding the other at an odd angle as if it were broken, which gives a very comical appearance, the male in the meanwhile uttering a low murmuring sound. The female bird often carries her young between her feet when flying, and I have seen the male bird do this. One singular habit of woodcocks, which I have never seen noted by ornithologists is that both male and female sit upon the nest at the same time while incubating, if the weather is cold and wet. In doing this they draw very close together, looking in opposite directions, their heads thrown back and their bills elevated at an angle of forty-five degrees.</p>
+         
+         <p>The woodcock bill is covered with a membranous sheath that has a fine net work of nerves. This enables the bird to find its food by boring in soft earth. Its feeding time is at night or on dark days, when it may be seen moving about in a quick, nervous manner touching the ground with the tip of its bill and using its wings and tail as if there were danger of tumbling over. The nervous covering of the bill is so sensitive that the bird can distinguish with it the slightest movement of a slug or a worm several inches below the surface by simply touching the ground. Some times in boggy places where the mud will shake the woodcock drums the surface lightly with the core part of its wings to make the worms stir so that it can detect where they are and probe for them.</p>
+         
+         <p>Another curious habit of this bird is that of moving its eggs, to an extemporized nest when it is disturbed while incubating. I was told of this habit by an old time sportsman, and afterward verified it by experiment. Finding a nest near a spot where I was camping I disturbed the sitting bird two or three times each day, and on the third day it moved its eggs to a new nest about fifty feet away from the original one. The second nest appeared to very rudely and hastily constructed, and was in a place much more difficult to reach than the first.</p>
+         
+         <p>It is a good bet that a man can't kill a half-dozen woodcocks any where in the state of Nebraska in a days shooting.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. July 31, 1892. [Woodcock Habits]. <title>Omaha Sunday Bee</title> 22(43): 10. Column portion of sports page.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00448">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Indian Summer.</title><title level="j">Omaha Nebraskian</title><author>Robertson, T.H., editor.</author><date>1860-10-27</date><biblScope>6(43): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Indian Summer.</head>
+         
+         <p>We of Nebraska, are now revelling in all the delights of "Indian Summer" - a season perhaps sometimes known in other latitudes, but not as glorious as in this country of magnificent prairies and beautiful vallies. The verdure of the fields and plains is fled; the millions of flowers that decked the prairies have reigned their sunny robes, and the variegated forests, the yellow fading woods give token that</p>
+         
+         <list type="simple">
+            
+            <item>"There is a time, just when the forest</item>
+            
+            <item>Prepares to pave old winter's way,</item>
+            
+            <item>When autumn, in a reverie lost,</item>
+            
+            <item>The mellow day time dreams away;</item>
+            
+            <item>When summer comes, in musing mind,</item>
+            
+            <item>To gaze once more on hill and dell,</item>
+            
+            <item>To mark how many sheaves they bind,</item>
+            
+            <item>And see if all are ripened well.</item>
+            
+            <item>With balmy breath she whispers low,</item>
+            
+            <item>The dying flowers look up and give</item>
+            
+            <item>Their sweetest incense, ere they go</item>
+            
+            <item>For her who made their beauties live.</item>
+            
+            <item>She enters 'neath the woodland's shade,</item>
+            
+            <item>Her zephyrs lift the lingering leaf,</item>
+            
+            <item>And bear it gently where are laid</item>
+            
+            <item>The loved and lost ones of its grief."</item>
+         
+         </list>
+         
+         <p>Who <hi rend="italic">can</hi> portray the delights of this glorious season? What pen can describe these bright sunny days mellowed by the light hazy smoke that circles the hill? or the gentle south wind that kisses the cheek and gives warmth as if flies? or that undefined loveliness that pervades the soft shadowy days of matchless Indian Summer? There is a sadness, and yet a pleasure in these days. We are reminded of the decline of life; painful, yet sweet memories of dear ones gone to their long home, faded like the forest leaf and autumn flower, throng upon us; yet the season is not without its lessons of instruction, its moments of pleasure.</p>
+         
+         <p>But if the Indian Summer days are lovely, the nights are transcendent. Bright and gorgeous, yet mild and balm; not warm, nor yet cold. The placed rays of night's queen fall serenely upon the earth, imparting</p>
+         
+         <list type="simple">
+            
+            <item>"Beauty and deep softness o'er the whole,"</item>
+         
+         </list>
+         
+         <p>and the shining starry train that glitters round her way, makes up a scene at once so beautiful and grand, that one might almost imagine himself in a land of enchantment. What tongue cane sing thy glories, matchless Indian Summer!</p>
+         
+         <cit>
+            
+            <bibl default="NO">T.H. Robertson, editor. October 27, 1860. <title>Omaha Nebraskian</title> 6(43): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

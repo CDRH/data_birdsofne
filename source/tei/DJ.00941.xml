@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00941">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Waiting on the Wire.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-09-09</date><biblScope>52(50): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Waiting on the Wire.</head>
+         
+         <p>As somber reminders of the approach of winter and the impending departure of most of the glorious bird life that enriches our woods and fields during the summer months, the roadside wires today bear long lines of feathered migrants, waiting for that mysterious call to the southland.</p>
+         
+         <p>These wires - or the burden they bear - present an interesting study at this season for it is now and now only that the birds congregate for their flight. Some morning they will have disappeared completely.</p>
+         
+         <p>Several sorts of Swallows are likely to be seen, perched ruminantly aloft, one after the other, like soldiers awaiting command. Generally they all face the same way, but there are exceptions to this rule. They squeak brief comments to each other, under their breath, and seem to be considering the good time they have had up here and the rigors of the journey ahead of them.</p>
+         
+         <p>Kingbirds, too, will be discovered on the wires, especially in the lowlands along the river, and this is a novel spectacle because ordinarily one will see but one or two of these fellows at a time, in the summer, Their presence, and that of the swallows in such large numbers, makes times mighty hard for any insects that happen to be near.</p>
+         
+         <p>In the ravines the Robins have already mobilized, and are rarely seen on the wires, but may often be found clustered in some huge tree in numbers to equal the swarming of blackbirds in certain seasons. The bluebirds are likely to be discovered in groups on the wires, for they, too, have the habit of flocking together for their migration, which will not come for several weeks.</p>
+         
+         <p>Autumn is a sad but beautiful time of the year - the most mournful feature being the departure of the friendly birds. But there are others to come to spend the winter, and there is cheer in that.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 9, 1917. <title>Omaha Sunday World-Herald</title> 52(50): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00615">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Notes From the Plains.</title><title level="j">Forest and Stream</title><author>Griswold, Sandy - Anonymous.</author><date>1895-01-19</date><biblScope>44(3): 47.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-02"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Notes From the Plains.</head>
+         
+         <p>Omaha, Neb., Jan. 10.—The lack of wild fowl shooting in this vicinity during the past fall season was in a great measure counterbalanced by the excellent quail shooting. There were more of these birds, all the regular shooters agree, than there has been for a period of ten or fifteen years. In fact, it is doubtful whether they were ever so plentiful before. With no backset this winter the crop next fall should be larger than ever. Of course, there were many birds killed. They retailed at $1 per dozen part of the season in the open market, but a great abundance has been left over for seed. Stockton Hith and Fred Montmorency were up at Honeycreek on the last day of the open season and say that they flushed covey after covey that evidently never been shot into. However, it is not the gunner who decimates the ranks of Bob White out this way, but old Crimp and the hawks. The mercury drops as low as 28 degrees below out here, and hawks are no more plentiful anywhere in the country.</p>
+         
+         <p>My old duck hunting host, Anse Newberry, of the Sugarbeet marshes writes me that big gray wolves are very numerous and very aggressive throughout the northern part of Cherry county. These fierce brutes are very destructive on the stock and seem to have an especial appetite for horse flesh. When once they select a victim he rarely escapes. A sneak, a sudden spring and the horse is hamstrung and at their mercy. A Mr. Bridgeman, near Newberry's, lost two fine colts New Year's night.</p>
+         
+         <p>Lou May, a very energetic member of our State Fish Commission, has just returned from a couple of month's sojourn in the Gulf States. He had some great sport with the sea bass at Pass Christian, and can spin about as many and about as good piscatorial yarns as the next one. There is only one man whom I know who can beat him, and that is Charlie Richards of Rochester, N.Y. Mr. May says the commission has a great campaign mapped out for the coming season—that over thirty lakes and streams in the sand hill country are to be stocked with bass, croppie, pike and pickerel fry.</p>
+         
+         <p>As usual, the wild fowl shooters are all predicting great sport the coming season, but just what they base their prognostications on I fail to see. There never has been such a woeful scarcity of rain in this country, and the outside world is pretty familiar with the calamitous drouth out this way during the past summer. The truth is I cannot recall such a thing as a hard, rushing fall of rain, of any considerable continuance, within the past year, and last fall there was little or no water on any of our famous ducking grounds. So far this winter, however, there has been a goodly fall of snow in the mountains, and when the usual thaw comes this will be sufficient, in all probability, to swell our streams and fill our lakes in a way that will delight both hunter and fowl. Last fall was the poorest season I ever experienced out this way. There were scarcely any ducks at all, save blue and green wing teal, and they never fail, and the geese came in along the Platte and the Loup in this and spasmodic flocks. In fact, the honkers have been much more plentiful since the first of December than at any other time and tolerable bags have been made off and on, so far, all through the winter. Last spring it was just the opposite. Birds have not been known as plentiful in ten years, and canvasback were particularly numerous. Lawyer Simeral, Ed. W. Hamilton and I bagged 169 in a single afternoon's shooting—all canvasback.</p>
+         
+         <cit>
+            
+            <bibl default="NO">[Sandy Griswold]. January 19, 1895. <title>Forest and Stream</title> 44(3): 47.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

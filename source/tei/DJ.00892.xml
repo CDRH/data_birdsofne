@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00892">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Tales of Omaha Nimrods. A Symposium of Hunting Episodes Told by Old Sportsmen.</title><title level="j">Omaha Daily World</title><author>Editor.</author><date>1885-10-31</date><biblScope>1(60): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-01"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Tales of Omaha Nimrods.</head>
+         
+         <head>A Symposium of Hunting Episodes Told by Old Sportsmen.</head>
+         
+         <p>A group of sportsmen, old and young, collected in a cosy corner of a Douglas street store the other night, and in chatting about the autumn hunt of the gun club the Omaha nimrods related a number of tales of the chase which are too well verified to need endorsement, but have not hitherto been put into print.</p>
+         
+         <p>"John Petty, 'Old Spoonbill' as I call him," said a bachelor member of the group, "made one of the most wonderful shots I ever saw when we were out one cold day together on the Platte. The river was frozen over. Fully 200 yards below us, 'honk, honk,' was heard, and down came two big geese and settled on the ice. Petty said he'd have a shot at them just for luck and I was curious to see how he would make it, for he is one of the most ingenious of hunters as well as a close student of birds' habits. He knew as well as I did that the gun wouldn't carry shot that distance. What did he do but aim at the ice at a point some distance this side of the geese? The shot glanced and crippled one of the geese so that it could not get away. The other flew but soon came back to see what the trouble was and before we left that spot we had crawled up and shot three more geese."</p>
+         
+         <p>One of the old settlers lit a cigar, patted his dog and said: "When I came to Omaha in the sixties we used to shoot wild turkey on west Cass street where Bailey's brick yard is now and the bottom beyond the Union Pacific shops was covered with waterfowl. One afternoon Judge Lake and B.E.B. Kennedy were driving home along the Bellevue road with a good load of game when they caught sight of two geese on a slope above the road, 110 to 120 yards away. One goose was standing lower than the other so that its head was on a line with the other's body. Judge Lake said he wouldn't miss such a chance, even if the birds were all out of reach, and he said: 'Now, Kennedy, I'll aim at the body of the second bird and we'll see how near I can come to the pair.' He fired and knocked over both birds with one barrel. How did he do it? Well, he couldn't do it to-day. He was using home-made cartridges—heavy paper rolled about a bit of wood and pasted—that would carry sixty or eighty yards before bursting. That is how he was able to make such a shot."</p>
+         
+         <p>Another member remarked: "Yankee Hathaway had a high old time some years ago with a golden eagle at Horseshoe lake. It was of the same size and kind with the one that Sam Nash shot this week. Hathaway was crawling on his belly through the brush when he heard a whirr and before he could turn felt something big fly down after a wounded goose. He turned and headed for it, and finding it was an eagle and could not get about in the willows he disabled one of its wings, tied its feet and started to take it home alive. On the road the eagle contrived to get its feet out of the handkerchief which was tied around them and before Yank could think twice it had struck at him with its claws and ripped his clothes open from the breast down. Hathaway found he was not able to handle the bird and so he dragged it to a pool beside the road and throwing himself on it he held down its head till the bird was drowned. Yank was ordered in for repairs before he could come down town."</p>
+         
+         <p>"How did you knock over four geese at Gothenburg this week Lane?" asked a stay-at-home member of the secretary of the club. Under the moral suasion of a threat that if he did not tell the story it would be told for him Lane consented to narrate: "We were out on the Platte, Parmalee, Kay and I, and I had set out my decoys and put up a blind while the other boys went back after their plunder. A big flock of geese came sailing down so thick that it seemed as if they would cover the sand bars and fill the water and settled a hundred yards from me and from that out I laid low, for I knew that in the daytime it was natural for a goose to fly down stream and that would bring them toward me; but half a dozen old geese flew low right over where I lay and saw me and that gave it away. They set up the loudest honking I ever heard and the rest of the geese began to walk off. I stood it as long as I could and then I raised up and shot into a lot that were higher than the rest and when we got up there Parmalee won a bet that a single barrel had killed four Canada geese. Eh, what's that?"</p>
+         
+         <p>The group hushed their chat while from the rear room came the plaintive call of a dude hunter: "How much do mud hens count?"</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 31, 1885. <title>Omaha Daily World</title> 1(60): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

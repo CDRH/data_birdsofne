@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00453">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Inland Stormy Petrels [Chimney Swift].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-08-29</date><biblScope>50(48): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Inland Stormy Petrels.</head>
+         
+         <p>There are many humans who admit a wholesome fear of the elements and to whom the approach of a big storm presages a period of the most intense nervous agony. Perhaps they have passed through a tornado; have endured the horrors of a gigantic flood or have stood beneath some giant tree that has been shattered by lightning. At any rate, they are "gun-shy," and no earthly reasoning can efface the terror which spreads across their souls when the clouds pile up in their greenish-gray menace and the thunder rings as a strongly wielded hammer upon its anvil.</p>
+         
+         <p>Perhaps by an ever willing providence, nature at this time bring forth her own stormlings to encourage and bolster the fading spirit of those who are afraid.</p>
+         
+         <p>As the aerial scouts of the battlefront bring the tidings of an approaching conflict, so the cuckoos, the swallows, the night hawks and the chimney swifts skirmish before the swirling clouds and give a most pertinent example of fearlessness in the face of what might seem an appalling peril.</p>
+         
+         <p>In the sultry moments before the outbreak of the tempest you may hear the subtle, solemn "tuck" of the cuckoo, and from the ominous skies above comes a cheery, shrill twittering which can be nothing but the storm-cry of the chimney swift as he flutters and sweeps in giant circles before the vanguard of Pluvius.</p>
+         
+         <p>Generally there is a veritable army of these swifts shooting gracefully among the first rain drops, and there will likely be a goodly showing of swallows, from the barns, banks and trees, scattered in the corps of inland stormy petrels. Mayhap a night hawk, with his white barred wings, is seen sweeping across the meadows and copses while the first low rumble of thunder is heard.</p>
+         
+         <p>In such moments, to many humans more frail than the rest, these birds of the leaden skies are a considerable comfort and bring it home more poignantly than before that the songsters should be loved and protected, if for their services alone.</p>
+         
+         <p>The inland "stormy petrels" are of particular interest because of the somewhat violent summer experienced here. It is but another idea for those who would hunt the feathered folks with the glass rather than the gun.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. August 29, 1915. Inland Stormy Petrels [Chimney Swift]. <title>Omaha Sunday World-Herald</title> 50(48): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

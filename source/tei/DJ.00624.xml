@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00624">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Day of Bird Days.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-09</date><biblScope>55(33): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Day of Bird Days.</head>
+         
+         <p>As near as ornithologists can calculate, this is about the best day in the whole year, as far as Omaha and vicinity are concerned, for the observation of our small migratory birds as they pass up the Missouri Valley and other waterways to their breeding grounds farther north.</p>
+         
+         <p>With them should come a great number of migrants that winter far to the south, but which spend the summer in this territory, instead of seeking Minnesota and Canada for their nesting places.</p>
+         
+         <p>So, if it is possible, all nature lovers should make it a point to take to the woods and fields this morning, as early as possible, and watch for the Warblers.</p>
+         
+         <p>We do not mean to say, of course, that the Warblers travel on such a particular and studied schedule that they will reach Omaha on this certain date, but we are assured, and know from experience, that the end of the first week in May is just about the "one best bet" for bird research.</p>
+         
+         <p>The woods along the river, where there is swampy ground at their base, is ideal for this study, as some of the Warblers like the lowlands, and some the leafy bowers on the bluff.</p>
+         
+         <p>The very late spring, which makes "leafy bowers" a good deal of a joke, may retard the flight this year, but your trip today will be well worth while, anyhow.</p>
+         
+         <p>Forty-four different birds were identified in Elmwood park last Sunday. The number should be nearly double in Fontenelle Forest today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 9, 1920. <title>Omaha Sunday World-Herald</title> 55(33): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

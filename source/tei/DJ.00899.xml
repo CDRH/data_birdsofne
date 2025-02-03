@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00899">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">In the Teeth of the Storm [Red Crossbill].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-12-16</date><biblScope>53(11): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>In the Teeth of the Storm.</head>
+         
+         <p>When the bitter northwind swept down into Omaha a week ago today, with the thermometer registering far below zero and the snow whipping across the fields and whistling through the trees before the gale which had picked it up from the icy ground, there arrived in the teeth of this blast an exceedingly welcome and beautiful winter visitor.</p>
+         
+         <p>Standing out against the drab of December as brilliantly as the livelier plumaged summer birds against the bright foliage of that more comfortable season, the Red Crossbills presented a pretty picture to the few hardy ornithologists who braved the Sabbath tempest.</p>
+         
+         <p>To birdlovers this Crossbill excuses a multitude of sins in ferocious winter, and it is only when the weather is bitter cold that he is found so far south.</p>
+         
+         <p>The Red Crossbill, as his name implies, is clothed in rich, carmine plumage - perhaps closer to crimson than carmine - but be that as it may, when you see him hanging upside down from a cone in some evergreen tree, cracking open the seed pods while the wind blows through his whiskers, you are likely to have a good word to say for winter, after all.</p>
+         
+         <p>And as for his comely wife, in her greenish yellow and orange clothing, she will attract and charm you, too - a beautiful and faithful helpmeet!</p>
+         
+         <p>These Crossbills are here; arrived, as we have said, in last Sunday's storm. It is probable they will remain during the winter, and you may find them mostly in coniferous trees. Their pretty song, something like that of the Goldfinch in summer, but with a bit more whistle in the note, will quickly attract you, and a search for them will be worth while.</p>
+         
+         <p>The Crossbill's beak, you will guess, is crossed at the end, and this is used in giving leverage for breaking open the tough seed pods. A pretty folk-story has it that when Christ was on the Crucifix, these birds attempted to release him, and in this heroic endeavor so cruelly bent their bills.</p>
+         
+         <p>While this fancy is sweet in its imaginative qualities, still it must not be considered that the Crossbills are afflicted. nature evidently planned them thus to aid them in gaining their livelihood, and if you find them today you will note that they certainly use their peculiar beaks to good advantage. In drinking, they must run their heads to one side - but we have seen humans do that - a year ago!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 16, 1917. In the Teeth of the Storm [Red Crossbill]. <title>Omaha Sunday World-Herald</title> 53(11): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

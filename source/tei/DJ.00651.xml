@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00651">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Pale Touch-Me-Not.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-08-13</date><biblScope>57(43=46): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Pale Touch-Me-Not.</head>
+         
+         <p>A little spring bubbling forth gently almost at the end of the ravine that stops at the railroad track. On the south side of the ravine, bluffs that tower almost straight up, tree clad, with the rich soil that years of growing and dying vegetation had made the bed of innumerable ferns, and still lesser growth that hid under the bushes and shrubs. Where the stream that flowed from the spring widened a bit and the sun managed to peep in occasionally was a wealth of plants bearing small yellow blossoms that on inspection looked almost like an orchid. "Impatiens," said the Oracle. "Why Impatiens?" said the pupil. "Hunt for the seed." Then a little thin pod like a very diminutive pea pod was found and when plucked and the ends touched by fingers, "zip." it went, becoming a round coil, and the seeds flew in every direction.</p>
+         
+         <p>To the Jewel-weed family it proved to belong. Balsaminaceae, a wild cousin of the woods to the lady-slippers of the garden. Pale Touch-me-not its own name, which explains the Impatiens pallida of the botany.</p>
+         
+         <p>Like the general growth this season the Touch-me-not is unusually large and beautiful, its yellow blossoms well set off by the purple ones of the Ironweed that grows beside it, all overtopped by the tall slender trees that reach across the narrow ravine and allow only occasional glimpses of the sky above. If one would woo the nymphs of the woods this home of the Touch-me-not is the ideal place to find them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 13, 1922. <title>Omaha Sunday World-Herald</title> 57(43=46): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

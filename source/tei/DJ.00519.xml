@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00519">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">In the Markets. The Displays of Poultry and Other Seasonable Edibles.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor.</author><date>1890-12-21</date><biblScope>26(82): 16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-10"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>In the Markets.</head>
+         
+         <head>The Displays of Poultry and Other Seasonable Edibles.</head>
+         
+         <p>The produce markets are beginning to herald the near approach of Christmas by their appetizing displays of edibles. However, the most convincing sign is the great number of evergreens intended from Christmas trees which grace the fronts of different buildings. There are all sizes, shapes and condition of trees, for the small one intended for a child of humble parents to the gay one intended for the homes of the wealthy, and the large trees for public entertainment.</p>
+         
+         <p>A glance inside the shops will make the best fed person's mouth water. Yellow and red bananas in large bunches are hung temptingly around; bright yellow oranges are piled here and there and stacked high up in boxes, and lemons are piled up side by side with them. Large, green transparent grapes in tempting bunches are packed away in sawdust in strong coopered barrels, only displaying themselves when the end of a barrel is knocked in. Tangerines, soft and juicy, form a pleasing contrast to the egg fruit placed side by side on the display tables. Bright red California strawberries, large and luscious, are snugly ensconced in pint and quart boxes and reminds one of summer time when all fruits are in the market.</p>
+         
+         <p>Bright, red-cheeked apples, russet and brown colored and the Northern green stand around in barrels temptingly inviting a person to sample them, but an iron screen stands between and keeps the visitor from committing petit larceny. Red, yellow and white popcorn suggest a warm fire, a popper and a comfortable December evening.</p>
+         
+         <p>In the vegetable line crisp celery, bright, brittle lettuce and cranberries suggest a good hearty dinner and large yellow pumpkins remind us of the old farm house and its dessert—pumpkin pie. Radishes, cucumbers, parsley, onions and turnips are there in profusion and all go toward making a hearty dinner.</p>
+         
+         <p>Hanging about the rooms quail, ducks and the prairie chicken promise a good dinner to the sportsmen who prefer the flavor of game. Rabbits and squirrel are plentiful, and antelope, deer and bear carcasses can be had at reasonable figures to help out the courses at dinner.</p>
+         
+         <p>The gobble of the live turkey and the clucking of the chickens are heard on all sides. Turkeys, ducks and geese are plentiful and prices are not high. A good fat turkey can be had for 90 cents to $1. A few domestic pigeons have been received and that toothsome morsel the colored folks love so well, the possum, is hanging nose down, awaiting a lover of his flesh to carry him home and put him in the pan with sweet potatoes.</p>
+         
+         <cit>
+            
+            <bibl default="NO">December 21, 1890. <title>Omaha Sunday World-Herald</title> 26(82): 16.</bibl>
+         
+         </cit>
+         
+         <head>Home Markets.</head>
+         
+         <head>Game.</head>
+         
+         <list type="simple">
+            
+            <item>Prairie chickens: $3.75 - 4.00 a dozen</item>
+            
+            <item>Quail: $1.25 - 1.50 a dozen</item>
+            
+            <item>Ducks</item>
+            
+            <item>Mallard: $2.50 - 3.00 a dozen</item>
+            
+            <item>Teal: $1.25 a dozen</item>
+            
+            <item>Mixed: $1.50 a dozen</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">December 22, 1890. Omaha Morning World-Herald 26(82).</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

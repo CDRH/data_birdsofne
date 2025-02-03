@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00567">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mysterious Chickadee.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-22</date><biblScope>55(47): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mysterious Chickadee.</head>
+         
+         <p>To those of us who make a habit of prowling the woods in all sorts of weather, winter and summer, fall and spring, the comparative bashfulness of the delightful Chickadee during the present season never ceases to cause wonderment.</p>
+         
+         <p>This little black-capped fellow is so very much in evidence when the snow is deep, or the storm is raging, that it seems almost incredible for a bird-lover to march miles and miles through the summer forests only to see or to hear a paltry pair or so.</p>
+         
+         <p>of course, in the winter stillness of the woods, the calls of the birds are much more easily heard - and in the summer time the heavy foliage makes the songsters harder to locate with the eyes - but, nevertheless, the Chickadees do not appear on the record as frequently in August as in October or January - which is peculiar, we think.</p>
+         
+         <p>Peculiar in this way, that the Chickadees raise a lusty batch of young, which are growing up but seldom seen. One would think that the old folks would be chortling a great deal about their flock - but they don't.</p>
+         
+         <p>Dear little Chickadee! Bravest and most cheerful of all out winter feathered tribe - where are you in the summer?</p>
+         
+         <p>Well we remember the happy "Dee-dee-dee!" of this optimist when the blizzard was raging, and the "Pee-Wee" call when the sun shone over the icy fields! But now, with the balmy late-summer glamor over all, this splendid bird and his large family holds strangely aloof, and makes the amateur ornithologist feel might lonesome out there under the leaves.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 22, 1920. <title>Omaha Sunday World-Herald</title> 55(47): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

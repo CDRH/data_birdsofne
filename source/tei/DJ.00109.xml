@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00109">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Are Birds Weather Prophets.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-02-02</date><biblScope>54(18): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Are Birds Weather Prophets.</head>
+         
+         <p>Those of us who enjoy an acquaintanceship with the birds are astonished by their ever-changing moods, especially in the winter. During the spring and summer, when the woods are full of their carolling and the fields are coursed by their swiftly passing shadows, the amateur naturalist will see about as many songsters one day as another - or will think that he does, anyhow. That is because of their plenitude.</p>
+         
+         <p>In the winter, however, the species in this neighborhood are cut down to a general maximum of about fifteen and a possible maximum of not much more than that. The "zero flyers" cannot conceal themselves among the bare trees, stripped underbrush and dull fields.</p>
+         
+         <p>But it is interesting to note - and it has been noted, too - that more winter birds are usually seen in the colder weather, than in the mild. Authorities explain this fact by saying that in cold weather, especially when there is snow on the ground or ice on the trees, the birds are seriously put to it to secure their daily provender. So they are out hustling, where the ornithologist may observe them. In mild winter weather, with no snow and no low temperatures, such as obtained in January just past, their food comes easy, and they are more quiet.</p>
+         
+         <p>But this remarkable January was an exception, and it will be interesting to watch the coming weather; to see if the birds are skilled weather prophets.</p>
+         
+         <p>During the several weeks of very mild winter weather just past, the birds have been busier about the suet holders and bacon rinds placed in the woods by naturalists, than ever before. The suet disappeared within a few hours after it was placed, and the chickadees, Nuthatches, Brown Creepers and even the Woodpeckers were seen "caching" the bits of beef fat in the bark crevices of the trees.</p>
+         
+         <p>Does this mean that heavy weather is coming, and that the birds know it? They always stow away a large quantity of this food, but never before have they been seen so actively on the job in warm weather.</p>
+         
+         <p>It would be well to check the feathered scientists on their guess. Perhaps they can teach Colonel Welsh and Brer Hicks some new stuff!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 2, 1919. <title>Omaha Sunday World-Herald</title> 54(18): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

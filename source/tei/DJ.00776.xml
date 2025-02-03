@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00776">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Sharpening the Ax [Tree Removal at Elmwood Park].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-03-02</date><biblScope>54(22): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sharpening the Ax.</head>
+         
+         <p>Spring is nearly here. With it will come the usual and seasonable activities - most of them commendable. At this writing we are looking at the snow as it swirls around the back yard where our perfectly good asparagus and winter onions are sojourning, and wondering just how low-down the mercury can get and still keep an iota of self-respect.</p>
+         
+         <p>But, nevertheless, spring is nearly here, and we are wondering what the City Ax Commissioner is going to do on that Elmwood park job. Moreover, the Boy Scout Council of Omaha is keeping an eye on the matter and certain members of the Chamber of Commerce are also interested.</p>
+         
+         <p>To be Fair to Mr. Falconer, we must say that probably he doesn't realize that his Elmwood park foreman is planning to do out there this spring. But, on the other hand, it is surely his business to find out and to make a decision on it, before it is too late.</p>
+         
+         <p>Last fall this foreman cut a wide swath through the vast grove of maple, ash and elm that has adorned the southwestern corner of the big park for a quarter of a century. This was to accommodate a new boulevard entrance into Elmwood, and there is no criticism thereupon.</p>
+         
+         <p>But the said foreman has gone further and blazed two out of every three of the remaining trees for execution, on the grounds that they are too thick!</p>
+         
+         <p>These trees are valuable - practically priceless! In a treeless state, trees can scarcely be too thick. Let Nature take care of the decimation - but spare the ax.</p>
+         
+         <p>How this same foreman scraped all the pine needles out from beneath the evergreens in Elmwood park and otherwise disported himself until the World-Herald took a hand, has been discussed in the past.</p>
+         
+         <p>Let Elmwood alone, Mr. Falconer! It is the best public bird and nature preserve in possession of the city of Omaha - and should be respected!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 2, 1919. <title>Omaha Sunday World-Herald</title>	54(22): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

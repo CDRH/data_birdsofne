@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00528">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds Are Mating [Horned Larks].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-02-15</date><biblScope>55(20): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds Are Mating.</head>
+         
+         <p>Spring isn't here as yet. The calendar will not permit such a thing - but the birds are mating, just the same.</p>
+         
+         <p>Yes, the birds are mating - and they are larks, too.</p>
+         
+         <p>If you don't believe it, step out into the fields today and see for yourself.</p>
+         
+         <p>It is the Horned Lark and his prospective bride who have arrived in our midst to conduct their annual spring house-warming, and they appear to be a very numerous neighborhood, all by themselves.</p>
+         
+         <p>Some weeks past we spoke of the strange fact that none of these Horned Larks have been reported about Omaha this winter, in spite of the fact that they are winter birds. Perhaps the ground was frozen too solid to enable them to secure food. At any rate, as soon as the first thaw came along - so did the Horned Larks.</p>
+         
+         <p>They have already paired and are conducting their period of wooing, which is an interesting process. The male, in his effort to impress his supreme strength and stamina, soars so high in the air that often he disappears behind low-lying banks of fog - twittering his inimitable song the while, and evidently very proud of himself. After hanging 'way up there, singing constantly, for a considerable period, he suddenly closes his wings and drops like a stone, at express speed, until within a few feet of the ground - when he suddenly spreads out and alights softly beside the lady of his heart.</p>
+         
+         <p>Then they proceed to chase each other all over the premises with the wildest abandon and the wildest song.</p>
+         
+         <p>Strange birds, these. They are named for the feathered tufts that erect themselves like horns from their heads - especially marked in the male. They will nest on the icy ground in March.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 15, 1920. The Birds Are Mating [Horned Larks]. <title>Omaha Sunday World-Herald</title> 55(20): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

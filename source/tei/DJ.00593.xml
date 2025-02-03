@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00593">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Notes.</title><title level="j">Forest and Stream</title><author>Polk, Burr H.</author><date>1883-05-31</date><biblScope>20(18): 345.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-08-08"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+  
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Notes.</head>
+         
+         <p>The ducks are loitering hereabouts much later this spring than usual. Whether this is on account of the continued cool weather is not known. The varieties are mainly blue-wing teal, widgeon, shovelers and gray ducks, with an occasional mallard and greenwing. But male shovelers seem to predominate. As they go mostly in pairs, especially the bluewings, the general conjecture is that they are here for the purpose of nesting. An unfortunate feature of the subject is that they are daily banged away at by local hunters, and as they are considerably tame, fall an easy prey to the gun. But they are barely fit for the table, being very strong and "fishy," and they are full of lice.</p>
+         
+         <p>Nearly a month ago my brother wrote me from Vicksburg that several broods of half or two-thirds grown blue-wing teal had been seen there this spring. During all the winter there was not a single one of these ducks seen in that neighborhood, and the supposition is that they bred further south and were working their way north with their young ones. I have not heard that this thing has occurred in former years. This together with the fact of the large numbers stopping in this latitude, would lead one to think the ducks did not intend to go as far north this summer to breed.</p>
+         
+         <p>Burr H.	Polk    <lb/>Lincoln, Nebraska, May 21.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 31, 1883. <title>Forest and Stream</title> 20(18): 345.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

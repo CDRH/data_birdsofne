@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00325">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Fremont and the Birds.</title><title level="j">Nebraska Farmer</title><author>Aughey, Samuel.</author><date>1877-07-01</date><biblScope>1(7): 5. July 1877.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Fremont and the Birds.</head>
+         
+         <p>Recently while on a tour with the Entomological Commission, I visited Fremont, the forest city of Nebraska. I am indebted to E.H. Rodgers, of the First National Bank, for a ride over the country and a sight of some of the most magnificent farms of Dodge and Saunders counties. Evidently this section was early occupied by a class of enterprising and high-toned citizens. The beautiful groves and fine private residences, and excellent business firms in and about Fremont are proof of the high character of those who created these counties. Here Prof. Dake, of blessed memory, lived before he came to the University. Judge Maxwell lives near the city, on a farm which shows the marks of a master farmer, and proves that legal lore can find scope in agriculture, as well as on the bench.</p>
+         
+         <p>Fremont is blessed with two daily papers, whose editors, gull of the life and energy of the West, are as remarkable for their big hearts as they are for their enterprise and ability. Our old friend, N.W. Smails, who is dear to us for the noble deeds of former years, is as vivacious and studious as when he poured hot shot from the old Nebraska <hi rend="italic">Statesman</hi>. One of the most attractive features of the place is </p>
+         
+         <head>The Large Number of Groves</head>
+         
+         <p>that are scattered over the city. Many of them are small and the property of private citizens, and constituting a portion of their grounds. Tree planting was early commenced here, and fortunately it was not limited to private property. Sixteen years ago two squares, and the included street, were set apart for a public park, and planted in trees. The bulk of the trees were maple, and mingled with them were ash, box elders and cottonwoods. They have reached such a size that they shade the ground, which is grown over with a thick sod of blue grass. This park is, as it deserves to be, the pride of the city. Here the people can come on festive and public occasions to enjoy the balmy shade of a temple of nature, and to rest at eventide. I heard it intimated that hearts were often touched and plighted here, but as I am not familiar with that subject, I cannot vouch for it. As might be expected, these groves here become</p>
+         
+         <head>A Paradise for Birds.</head>
+         
+         <p>When I was passing through these grounds hundreds of songsters were carolling in the tree-tops and branches. In fact, birds are more abundant here than anywhere else that I have been this season, except around Nebraska City. I observed the following species, among many others that space forbids me to mention. The beautiful and almost everywhere present blue-birds were here of course. Orioles were specially abundant. The golden robin (<hi rend="italic">Icterus baltimore</hi>), I observed in a least half a dozen of groves. The orchard oriole (<hi rend="italic">I. spurius</hi>) and Bullock's oriole (<hi rend="italic">I. bullockii</hi>), were also observed. The bobolink, robins, and larks were equally abundant. At the edge of the city I encountered one thistle bird. Among the sparrows found here are the white crowned sparrow (<hi rend="italic">Zonotrichia leucophrys</hi>), Harris' finch (<hi rend="italic">Z. querula</hi>), the tree sparrow (<hi rend="italic">Spitzella monticolia</hi>), the field sparrow (S. pusilla), the chipping sparrow (<hi rend="italic">S. schialis</hi>), and the song sparrow (<hi rend="italic">Nelaspiza melodia</hi>). The wrens were also exceedingly numerous. The ruby crowned wren (<hi rend="italic">Regnlus calendula</hi>) was here, of course, as it is found almost everywhere, and quarrelsome as ever; but to be tolerated everywhere because of its beauty; and the insects it destroys. One male of the golden crested wren (<hi rend="italic">R. satropha</hi>), flitted past us in the park, and doubtless nests here. Cuvier's golden crest (<hi rend="italic">R. Cuvieri</hi>) was also observed. The thrushes "whose soft, liquid, half plaintive notes" surpass in sweetness all our other birds, were here in force. Among them was a pair of wood thrushes (<hi rend="italic">Turdus mustelenus</hi>), and the hermit thrush (<hi rend="italic">T. pallasi</hi>), whose notes are scarcely inferior to those of the wood thrush. Above the city, at the river, Wilson's thrush (T. fuscescens), was warbling among the bushes. A pair of mocking birds (<hi rend="italic">Nimus carolinensis</hi>) recently made themselves at home in these groves. One of them had been captured in a trap, but was put at liberty on the day of my arrival at the earnest solicitation of many citizens. This was the first time that I had met them in their wild state north of the southern border of the State. The cat-birds, so closely related to the mocking birds, and whose song in spring is so remarkably sweet, mellow, and varied, and can imitate the notes of most other birds, are in their element here, and must rapidly increase in numbers. Around the city various species of blackbirds, and plover and quails were observed, but not in exceptional numbers.</p>
+         
+         <p>It is a rare treat to get to a place to which the birds have been attracted by the art and industry of man. The trees were remarkably free from insects, which no doubt have been reduced to a minimum by the birds. Good things tend to bring other blessings. The groves and the birds must help to make the men of Fremont still nobler, and the women still more beautiful. Those who wish to see how Nebraska can and should be improved by human agency, should visit this place. Such cities, with such groves, should be multiplied all over the State. It is cheering to know that there are many Fremonts in embryo, because trees are being planted by the million, and only time is required to bring them into maturity and beauty. Let them be still further multiplied until the entire State blossoms and blooms into a paradise.</p>
+         
+         <p>Samuel Aughey.</p>
+         
+         <cit>
+            
+            <bibl default="NO">July 1877. <title>Nebraska Farmer</title> 1(7): 5.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00071">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Birdland Preparedness [Crested Flycatcher].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-06-25</date><biblScope>51(39): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Birdland Preparedness.</head>
+         
+         <p>While President Woodrow Wilson is generally upheld in his plan for preparedness to preserve peace in the future, the idea was not original with him and he has no right to expect to be honored as its conceptor.</p>
+         
+         <p>As a matter of fact, Mr. Wilson has plagiarized a brilliant stroke achieved by a rather common but little understood bird, namely the Crested Flycatcher.</p>
+         
+         <p>Mr. Wilson would protect American homes and preserve peace therein for all time to come by organizing and equipping a sufficient army to act as bugaboo when possible invaders cast longing glances in this direction.</p>
+         
+         <p>The Crested Flycatcher does that very thing, and has been doing it for time unmeasured.</p>
+         
+         <p>This industrious fathered fellow and his frau are the largest of our birds subsisting entirely upon insects, usually caught upon the wing, from which adept practice the useful critter gets its monicker.</p>
+         
+         <p>When the nesting season arrives, the Crested Flycatcher builds its home in a hole or crevice in some dead tree, generally pretty well up in the world, and often in the abandoned domicile of a member of the woodpecker family.</p>
+         
+         <p>When the nest is completed, Mister or Missus Crested Flycatcher searches about until the deserted skin of a snake is found, and this threatening article is then hung in the nest hole, so that it may be plainly seen from the outside.</p>
+         
+         <p>The snakeskin acts as a perpetual threat against all marauders and is a mighty healthy argument in favor of preparedness, for it does the work. Nests thus arrayed are seldom bothered.</p>
+         
+         <p>The Crested Flycatcher could scarcely be called a songbird, for its remarks are abrupt, vociferous and unmusical, but the male bird is rather pretty in the eye and interesting to observe in his many distinctive traits.</p>
+         
+         <p>When it comes to this form of preparedness, the darling Wood Thrush has ideas of his own, for he always drapes a piece of white cloth or paper over or into his nest, so that it will flap wildly in the breeze and—theoretically—frighten vandals away.</p>
+         
+         <p>Preparedness for the protection of homes did not originate with this or any other government. Nature solved the problem when time began.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 25, 1916. Birdland Preparedness [Crested Flycatcher]. <title>Omaha Sunday World-Herald</title> 51(39): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

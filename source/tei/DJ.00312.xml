@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00312">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The First Nesting [Horned Lark].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-02-20</date><biblScope>56(21): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The First Nesting.</head>
+         
+         <p>While the subject has been dealt with many times before, the mating of the Prairie Horned Larks at this time o' year is distinctly interesting.</p>
+         
+         <p>The birds themselves are among the hardiest in the northern continent, and are known as the only larks of America that hang in air in full song. The English Skylark is noted for this, and has a wonderful refrain, while that of the Horned Lark is a somewhat squeaky but very distinctive bubble of excitement.</p>
+         
+         <p>This Horned Lark derives its name from the tufts of fluff that protrude upward from its pretty and busy head, and when perfectly clean and in full plumage, is a really beautiful songster.</p>
+         
+         <p>The Horned Larks begin mating just about this time, and the male bird has a very unusual way of attracting the female. he soars aloft to vasty heights - clean out of the human vision, in fact - singing all the time. Then he suddenly closes his wings and drops like a tiny brick until within a few feet of the earth, when he makes a sudden "dead stick" landing - horns and all!</p>
+         
+         <p>These Horned Larks begin nesting about the first of March in the open fields, in some little crevice along a gully, and they lay their eggs upon a mere mat of straws and grasses, almost impossible to discover.</p>
+         
+         <p>Horned Larks are easily identified if seen, but the best means of picking them out is by their squeaky song, which is very well known to all professional and amateur ornithologists.</p>
+         
+         <p>Aside from their peculiarities, the Horned Larks are very useful birds, living almost entirely on weed seeds and noxious critters that can be found on the surface of the earth.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 20, 1921. The First Nesting [Horned Lark]. <title>Omaha Sunday World-Herald</title> 56(21): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

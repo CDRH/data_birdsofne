@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00547">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Misery Loves Company [House Sparrows and Blackbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-01-07</date><biblScope>58(15): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Misery Loves Company.</head>
+         
+         <p>It is no very astonishing thing to find, in the human walks of life, some unfortunate fellow of superior intellect, accomplishment and physical presence making comrades of the very lowest. Generally his fellow belags note this strange companionship. They worry about it, perhaps, and wonder how it happened. Of course there is a reason.</p>
+         
+         <p>Out in the vast patch of weeds along the Little Pappio to the westward of Ak-Sar-Ben field, where the Crossbills and the Goldfinches and the Meadowlarks and the Mourning Doves are making their winter feeding quarters, there is also a tremendous galaxy of "winged rats" - or, to be more specific, English Sparrows.</p>
+         
+         <p>As usual, these sparrow-pests are doing their utmost to control the situation in their own favor. Their raucous screeches and squawlings and bawlings are a hissing in the bird neighborhood. The decent songsters look askance at the disorderly "bums," for the most part, and try to avoid contamination by contact.</p>
+         
+         <p>But, strange to relate, among this small army of house sparrows there is a beautiful "down-and-outer."</p>
+         
+         <p>He is a majestically glossy Redwing Blackbird, apparently without a flaw, except in his head, which certainly must be affected in some respect, judging from the way he is spending his time.</p>
+         
+         <p>Every day you may find this perverted and misled beauty swarming up and down that creekbed and its shore line of weed patches, feeding and jazzing around with those base-born sparrows, just as if he considered himself one of the gang.</p>
+         
+         <p>Maybe he is. Maybe he is one of the gang because he has been disappointed in love, or murdered his mate or embezzled something out of the hoard of the Blackbird community in which he was once an honored and respected leader.</p>
+         
+         <p>Maybe there is no extradition from Sparrowland, and he is trying to lose himself among these onery ruffians.</p>
+         
+         <p>Anyway, he is very much out of the picture, like many humans.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 7, 1923. Misery Loves Company [House Sparrows and Blackbird]. <title>Omaha Sunday World-Herald</title> 58(15): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

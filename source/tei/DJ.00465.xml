@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00465">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Jenny [House Wren].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-06-16</date><biblScope>53(37): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Jenny.</head>
+         
+         <p>Although we have spoken of her before, Jenny Wren deserves an additional tribute.</p>
+         
+         <p>There are mornings when the war news isn't quite as good as we would like to have it - but Jenny, with her indomitable spunk, furnishes instant cheer and a splendid example.</p>
+         
+         <p>Nothing feazes the House Wren - which is Jenny's real name.</p>
+         
+         <p>Storms, physical combat, personal grief, anxiety of any sort has positively no effect on her good nature, nor on her vocal efforts.</p>
+         
+         <p>As far as belligerency is concerned, she reminds one a good deal of Belgium. She will fly into the enemy English Sparrows with a fearlessness and fervor that can't help but call forth the plaudits of the multitude - and she wins most of such battles, too. Woe betide the "winged rat" that perches in front of Jenny's house, like a miniature dog-in-the-manger! Mrs. Wren makes short work of him.</p>
+         
+         <p>But her song - that incessant, delicious bubble of encouragement, for all the world like the rippling of a fresh, cool brook - that is what endears the House Wren to everyone!</p>
+         
+         <p>Ever on the alert in the capture of insects and worms which might wreck the war garden, Jenny mixes work and pleasure, and has a song for every chapter in her daily life.</p>
+         
+         <p>We could take an excellent lesson from Jenny House Wren - especially during these parlous times!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 16, 1918. Jenny [House Wren]. <title>Omaha Sunday World-Herald</title> 53(37): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

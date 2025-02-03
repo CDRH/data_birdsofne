@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01020">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Remarkable Shooting.</title><title level="j">Omaha Daily Herald</title><author/><date>1878-04-23</date><biblScope>13(157): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-26"/>
+    <respStmt>
+	<name>Anastasia Smallcomb</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Remarkable Shooting.</head>
+
+<head>High Toned Sportsmen Who Shoot Feathered Game With Rifles.</head>
+
+<p>Yesterday Doctor Carver, the champion rifleman, Mr. Schuyler, of Schuyler, Hartly &amp; Graham, of New York, and J.H. Collins, of this city, took a trip down to the Platte river, Mr. Schuyler and Doctor Carver using rifles and Mr. Collins acting as guide and herder. The doctor killed seven geese and four ducks, and Mr. Schuyler four geese and one duck - all wing shots. Doctor Carver made three consecutive shots with his Winchester, killing a teal duck at each shot. Taking the size into consideration, the rapidity with which a teal flies, and the high wind, it is the most wonderful shooting imaginable. Mr. Schuyler having never before attempted rifle shooting at game on the wing did remarkably well, and the doctor will have to look to his laurels a little or he may find friends on reaching New York who will stir him up some, "so to speak."</p>
+
+<p>Mr. John W. Petty, of Collins &amp; Petty, gun dealers of this city, has arranged to shoot a match with Doctor Carver next Thursday, April 25th, for $800, Doctor Carver $500 to Mr. Petty's $300, Mr. Petty to use a shot gun at 18 yards rise, and the Doctor to use his rifle, each to shoot at 500 glass balls.  This will be the most interesting shooting match ever witnssed in this county, and we may expect to meet sportsmen from all over the State to witness it.</p>
+
+<cit>
+<bibl default="NO">April 23, 1878.  <title>Omaha Daily Herald</title> 13(157): 8.  Paragraph on pending shooting match not included.</bibl>
+</cit>
+
+</body>
+</text>
+</TEI.2>

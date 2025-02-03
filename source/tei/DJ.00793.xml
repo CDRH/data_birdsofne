@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00793">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Joy of Singing [Dickcissel].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-05-21</date><biblScope>57(31=34): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Joy of Singing.</head>
+         
+         <p>Without pausing to inquire further into the subject, we would like to take it as admitted that no great human singer can warble from the first grey dawn of morning until the sun has set. Certainly we would like to claim as true that no such singer can sing that long and do justice to his or her art.</p>
+         
+         <p>Birds, however, do not limit themselves to concerts or recitals on certain evenings or fashionable noondays or mornings. They awake singing - many of them - and turn their last note into an ornithological snore about the time that human mothers are commencing to worry about the dinner dishes.</p>
+         
+         <p>There are several songsters of this zone who sing constantly during the hours of daylight, and apparently for the sheer joy of it. Notably we find the House Wren on this job through the matrimonial and parental stages of its career, but for the purpose of this discourse we would speak of our torrid friend the Dickcissel.</p>
+         
+         <p>This Dickcissel was once encumbered with the title Black Throated Bunting, which described his appearance, but the scientists have given him his present name, based on his incessant song "Dick! Dick Dickcissel!"</p>
+         
+         <p>Perched on a roadside wire of fence post, generally, this hot-weather bird sings and sings, all summer long - and he has the credit of being the only songbird whose strange "wave-length" makes it possible for a passenger to hear him over the roaring of a train.</p>
+         
+         <p>Dickcissel is here now, and will leave late in August for the south. He is very useful, and has no bad habits to speak of. His yellow breast, black markings and rufous-shouldered wings make him easily identified, but his song is enough for that purpose.</p>
+         
+         <p>How he can keep up that never-ending "Chip! Chip! Chee-chee-chee!" for hours on end, is baffling.</p>
+         
+         <p>But he does it. Identify him on your hike today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 21, 1922. The Joy of Singing [Dickcissel]. <title>Omaha Sunday World-Herald</title> 57(31=34): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00108">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds' Thanksgiving.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-11-26</date><biblScope>58(9): 14-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds' Thanksgiving.</head>
+         
+         <p>These are chill days and nights. Maybe, when these words are in print, the mercury will be very low or very high, but the times tend toward winter, and that is why we would suggest that you remember the birds in your Thanksgiving offerings.</p>
+         
+         <p>A chunk of beef suet nailed to a tree, and preferably beneath a bit of screen so that the squirrels or other four-legged playboys may not cheat the winter songsters, will suffice. The birds will appreciate the gift, you may be assured.</p>
+         
+         <p>And, just by the way, a goodly part of your heavily creaking banquet board was saved for you by these birds.</p>
+         
+         <p>If your turkey was raised and educated in Nebraska, it is certain that its food was protected by the feathered tribes of this state.</p>
+         
+         <p>Your pumpkin pie and your squash and your potato would have been mere thoughts if not for the birds that made a business of preying upon the insect-life upon their vines or plants during critical stages.</p>
+         
+         <p>No tree-borne fruit could have lived, were it not for the never-ending work of the bark-investigating bird-clans of the winter, and the insect-eating warblers and vireos and the like in the spring and summer.</p>
+         
+         <p>No grain could be grown without the vast swarms of blackbirds and meadowlarks and mourning doves and others, that wage constant warfare with deadly pests of the fields.</p>
+         
+         <p>And the rats and mice of barns and fields would have wrecked many a food-foundry were it not for the nocturnal efforts of the owls, and the daylight vigils of the good hawks.</p>
+         
+         <p>This is an old sermon, but very preachable on such a sabbath, with Thanksgiving at hand. It is only too true that few of us appreciate what the birds are doing for us, in dollars and cents, if you please - and saying nothing about the aesthetic features of them, which we become acquainted with in childhood.</p>
+         
+         <p>Hang out your suet for the feathered fellows that have made your larder rich. The Nuthatches, and the Chickadees, and the Brown Creepers, and the Downies, and the Hairies - and all of 'em, will rejoice with you, and wish you many happy returns of the day.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 26, 1922. <title>Omaha Sunday World-Herald</title> 58(9): 14-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

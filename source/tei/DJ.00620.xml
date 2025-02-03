@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00620">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Notes on Some Birds of Gage Co., Neb.</title><title level="j">Oologist</title><author>Pearse, A.S.</author><date>1896-02-01</date><biblScope>8(2): 15-16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-21"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Notes on Some Birds of Gage Co., Neb.</head>
+         
+         <head><hi rend="smallcaps">The Prairie Horned Lark</hi></head>
+         
+         <p>Is an abundant resident, breeding here in the spring and summer, and collected in flocks of from 6 to 40 or 50 in the winter when it is often found in wheat fields. On April 23, 1893, I took four fresh eggs from a nest composed of dried grass by a stone in a pasture. I took no eggs in '94, but on April 3d found two nests each containing three birds about a week old. Both nests were of grass and the inside measurements were 1.5 in. deep by 2.5 in. wide. On May 31st I found another nest with birds about one and one-half weeks old; composed of grass, situated in a pasture as were the preceding.</p>
+         
+         <p>They were paired on Feb. 24, 1895. * (*I am pretty sure that they remain paired throughout the year, but I have not enough data to be positive.) I watched one pair who had been feeding quietly, then suddenly would fly up and flutter about each other in the air for about a minute and then alight and go on feeding. I also observed a pair doing this on Feb. 10th. On March 17th I found a nest containing one egg, which was deserted a few days afterwards. Jan. 6, 1896, I examined a stomach which contained small seeds and sand.</p>
+         
+         <head><hi rend="smallcaps">The Flicker</hi></head>
+         
+         <p>Is a common resident, a few remaining with us all winter. <hi rend="italic">Colaptes cafer</hi> is commoner in the fall and winter than <hi rend="italic">C. auratus</hi>.</p>
+         
+         <p>Set 1. On May 21, 1893, I took 6 fresh eggs from a willow stub 15 feet from the ground.</p>
+         
+         <p>Set 2. May 4, 1894, I took a set of 10 from willow stub 10 feet from the ground. The eggs lay in and upon two inches of chips at the bottom of the cavity 17 inches from the opening; incubation varied from fresh to eggs that would have hatched in four or five days.</p>
+         
+         <p>May 7, 1895, a friend took a set of 7 from a 22-inch cavity, 12 feet up in a box-elder; bird had to be removed from the eggs with the hand.</p>
+         
+         <p>Sept. 8, 1895, examined a stomach that contained wild grapes.</p>
+         
+         <head><hi rend="smallcaps">The Lark Bunting</hi></head>
+         
+         <p>Is common during the breeding season in the pastures.</p>
+         
+         <p>Set 1. June 2, 1894, took a set of five, incubation fresh to begun. Nest in a tuft of weeds in a pasture; composed of weed stems and lined with fine grass; bird set close and then fluttered along the ground as if wounded. There was also a Cowbird's egg in the nest.</p>
+         
+         <p>Set 2. June 6, 1894 took a set of five, incubation begun. Nest in a pasture by a weed, composed of grass and weed stems loosely put together. Both of the above nests had a platform of weed stems at the side of the nest on the surface of the ground.</p>
+         
+         <p>In 1895 I first observed them on May 11th, when they were abundant in the pastures, the males singing their beautiful soaring song. They were last seen July 13th.</p>
+         
+         <head><hi rend="smallcaps">The Burrowing Owl</hi>.</head>
+         
+         <p>I did not meet this species until 1895. I found two colonies both of about 20 birds (judging from the number of holes in use). The burrows were in pastures, which had a sandy soil under the turf. They were usually about 6 feet long while some were as long as ten.</p>
+         
+         <p>Around the mouth and covering the bottom I always found cow and horse dung in the ones occupied. May 11th I dug out two burrows both 6 feet long. One contained two fresh eggs, five field mice and a small garter snake beside the usual manure. The other burrow was strewn with horse and cow dung ready for eggs. There were also about a dozen mice and a small garter snake in the burrow. Partly dug out another hole which contained the remains of two small Sandpipers and a Chickadee.</p>
+         
+         <p>May 26th took five fresh eggs from a burrow three feet from a well traveled country road. The male flew away as we approached; the female was on the eggs. When I removed her she snapped her bill and bled at the mouth as I have seen them do before. The eggs were about 3½ feet from the mouth of the burrow, which also contained two toads and a mouse. F.A. Colby also collected a set of seven, incubation begun, on May 19th, and a set of eight, incubation begun, on June 1st.</p>
+         
+         <p><hi rend="smallcaps">A.S.Pearse</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 1896. <title>Oologist</title> 8(2): 15-16.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

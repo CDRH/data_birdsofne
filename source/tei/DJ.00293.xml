@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00293">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Feathered High-Brows [Birds in Rustic Parks].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-12-03</date><biblScope>52(10): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Feathered High-Brows.</head>
+         
+         <p>Unless the exception is the simple barnyard fowl of low degree, or milady who boasts of her aigrettes, very few fools wear feathers.</p>
+         
+         <p>For more than a year the people of Omaha have been more or less enthusiastic in their efforts in behalf of the birds. The children have taken hold of their part of the campaign in great numbers and the songsters have enjoyed twelve months of popularity such as they never before knew, at least in these parts.</p>
+         
+         <p>Most of the bird conservation work has been conducted in Omaha's rustic parks - which will not be rustic long, alack, unless the park commissioner lets them alone.</p>
+         
+         <p>At any rate, the birds have come to the realization that in these parks they find a haven of refuge and a good deal of kindly attention. Artificial homes, suet feeding stations, drinking fountains and other features likely to make a songster happy have appeared in Omaha's parks and wooded spots - thanks chiefly to the Nebraska Audubon society.</p>
+         
+         <p>Now the harvest of gratitude is being reaped.</p>
+         
+         <p>It is a remarkable and indisputable fact that now, winter or summer, there are a dozen times more birds, in number and variety, within the rustic parks of this city than there are in the free woods nearby.</p>
+         
+         <p>This statement is made after careful observation. In Elmwood park at present, with the rigors of winter hard at hand, the underbrush and clusters of trees are well populated with the hardy feathered high-brows who will spend the frigid season with us, and who know where there is food and protection and admiration.</p>
+         
+         <p>In the woods half a mile distant - there are very few.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 3, 1916. Feathered High-Brows [Birds in Rustic Parks]. <title>Omaha Sunday World-Herald</title>	52(10): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

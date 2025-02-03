@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00758">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Scarcity of Wild Fowl in Eastern Nebraska].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-11-06</date><biblScope>34(37): 24. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <p>The extreme scarcity of wild fowl in this immediate section of the state this fall is a matter that is perplexing the observant sportsmen not a little. The general belief was that the birds would be unusually plentiful, and hence there is much disappointment in shooting circles. There has been, and is yet, for that matter, a fair abundance of water in our adjacent lakes, sloughs and streams, feed is everywhere in bountiful quantities, and all through the summer and well into early autumn the most encouraging reports came down from the north of an almost unprecedented brood of geese and ducks. The unanimous understanding was that great shooting was in store for the fortunate sportsmen of this vicinity. But alas for human plans and human calculations. The early reports were either erroneous or the birds have taken another route on their migration south. Poorer wild fowl shooting has not been experienced here in a decade. There was a spasm of sport with the teal and locally bred ducks at Cut Off and Manawa in early September, but since then these commonly favorite resorts have been as barren of the palmated beauties as the Sahara desert is supposed to be. At Quinnebogg, Onawa, down on the Waubuncey and along the Missouri river and tributary streams, the shooting has been but meagre and spasmodic, and now that the quail season has opened ambitious sportsmen have laid aside their rubber waders and donned the hobnailed shoe and leggins-instead of the swamp and marshland, the underbrush and stubble life imbued with life and color by their picturesque presence. I will not attempt at this time to account for this mysterious absence of the birds, but a clew may be derived from the statement that for years the birds have not been so plentiful nor the shooting so good on the distinct ducking grounds in the north and west as it has been in this fall. The Merganzer club, the recountal of whose exploitations will begin in next Sunday's World-Herald enjoyed a royal two weeks up in the Dakota Lake creek country, finding the shooting even better and more satisfactory than for several years past.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. November 6, 1898. [Scarcity of Wild Fowl in Eastern Nebraska.] <title>Omaha Sunday World-Herald</title> 34(37): 24.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

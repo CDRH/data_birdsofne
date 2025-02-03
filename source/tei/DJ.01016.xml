@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01016">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Gold Hunters.</title><title level="j">Omaha Daily Herald</title><author>William H. Burns</author><date>1875-10-15</date><biblScope>10(317): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-25"/>
+    <respStmt>
+	<name>Anastasia Smallcomb</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Gold Hunters Camped.</head>
+<head>A Company Camped on the Niobrara Waiting for News.</head>
+<head>The Route Up the Elkhorn to the Black Hills.</head>
+
+<dateline>Camp on the Niobrara, Sept. 29, 1875.</dateline>
+<p>To the Editor of the Herald:</p>
+
+<p>We are now at Giles ferry with Hyatt's train and arrived here at noon to-day. We went into camp intending to stay here until we hear how the treaty at Spotted Tail agency terminates. We don't feel like crossing our train and stock and going on Indian territory. As soon as you get any returns from the treaty send us by first mail.</p>
+
+<hi rend="center"><line><hi rend="smallcaps">Good Roads.</hi></line></hi>
+
+<p>We have four wagons and nine persons in our company all in good spirits there is here plenty of water all along the route and it is settled to within thirty miles of the river.</p>
+
+<hi rend="center"><line><hi rend="smallcaps">B Wanted.</hi></line></hi>
+
+<p>If any one wants to come and join our train he would be heartily welcome as we want more company for mutual protection.</p>
+
+<p>The river is very low and easily forded; the water is not more than one feet deep with sandy bottom.</p>
+
+<p>The road on the side is good to the hills and when we start we will make time for all our teams are in good condition.</p>
+
+<p>We have six months provisions on hand and if the treaty is not made will bring up more flour for the spring campaign. Game is plenty, deer, elk, antelope, geese and wild turkey. I was out this afternoon and brought in a pair of fine wild turkeys.</p>
+
+<p>William H. Burns.</p>
+
+<cit>
+<bibl default="NO">October 15, 1875. <title>Omaha Daily Herald</title> 10(317): 4.</bibl>
+</cit>
+
+</body>
+</text>
+</TEI.2>

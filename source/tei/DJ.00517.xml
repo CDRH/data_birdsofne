@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00517">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[March Days and Bird Hunting].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-03-05</date><biblScope>34(156): 21. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-16">2006-06-16</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <figure entity="MarchDaysBirdDog">
+            
+            <figDesc>March Day mallard and bird dog at the lake.</figDesc>
+         
+         </figure>
+         
+         <p>March days.</p>
+         
+         <p>Well, they are here again at last. The clouds and sunshine, snow and thaw, bracing winds, swaying boughs and other incongruous concomitants invite you forth. Your feet devour the way with crisp bites, and you think nothing could be more pleasant to them [word unreadable] you are offered a few yards of turf, laid bare by winds and sun, and then you realize that nothing is quite so good as the old standby, a naked ground, and carve more of it, even as this is, and hunger for it with its later garnishing of grass and flowers. The crows, too, are drawn to these bare patches and are busy upon them, and you wonder what they can find; spiders, perhaps for these you may see in thawy days crawling sluggishly over the sodden snow, where they must have come from the earth.</p>
+         
+         <p>The scraggy woodlands in the valleys of the Elkhorn and the Loup are astir with more life than a month ago. The fox squirrels are busy and noisy, the chickadees throng about you, some times singing their sweet, brief song of three notes; the speckled nuthatches pipe their tiny trumpets in full orchestra, and the bluejays are clamoring their ordinary, familiar cries with occasional notes you do not often hear. One of these is a note, rapidly uttered cluck, the bird all the time dancing with his body, but not with his feet, to his own music, which in the main I cannot recommend. Today, doubtless, he is practicing allurements for the coming mating season.</p>
+         
+         <p>The woods' floor, barred and netted with blue shadows of trunks and branches, is strewn with dry twigs, leaves, shards of bark and shreds of moss and lichen, with here and there a heap of last fall's nut shells, the squirrel's kitchen middens, and there the signs of the quails' nightly roosting, and similar traces of the rabbit's moon-light wanderings and perhaps a fluff of his gray coat shows where they have ended forever in a coyote's jaws.</p>
+         
+         <p>Here and there the top of a cradle knoll crops out of the snow with its patches of green moss, sturdy, upright stems and tattered leaves of the hazel, as fresh as when the first snow covered them, a rusty trail of wild grape leaves, and the flat pressed lobes of the squirrel cup with a downy heart of [word unreadable] full of the promise of spring. The bottom land thickets are filled with a certain subtle scent quite distinct from the aroma of any other season, but which baffles description, yet tickles the nostrils with a longing for a more generous waft of it. You can trace it to no sources, as you can the odor of May and June, but simply know that it has come into the crisp, yet softening air, and you enjoy it.</p>
+         
+         <p>You are also made aware that the skunk has been abroad and that he is somewhere to the windward. You know this by another indescribable pungency in the air. You also see that amorous squirrels have been out during the night by the little disheveled places in the dry leaves, and the links in the scattered snow. Yet among all these signs and the potent odor of the polecat, you still discover that subtle exhalation, perhaps, of the earth filtered upward through the white coverlet, perhaps the first awakened breath of all the deciduous trees, but nevertheless there, always in March, in the wooded valleys of all Nebraska streams.</p>
+         
+         <p>Day by day warmer shines the sun and warmer blows the wind from southern seas and northern lands.</p>
+         
+         <p>More and more the tawny earth comes in sight among the puddles of melted snow, that bring the mirrored sky and its fleecy clouds, with treetops turned topsy-turvey, down into the bounds of the fields. The brooks are alive again and babbling noisily over their gravelly beds, and the lake, bearing them, groans and cracks for deliverance from its icy prison.</p>
+         
+         <p>On the marsh you may find the ice shrunken from the shores and an intervening stretch of water where the muskrat may once again gaze upon the sun and stars. You hear the liquid trumpets of the wild geese, and see the gray battalion riding northward on the swift wind.</p>
+         
+         <p>The sun and the south breeze, that perhaps bears some faint breath of stolen fragrance from far-off violet banks, tempt forth the bees, but they find no flowers yet, not even a bunny-cup of willow catkin, and can only make the best of the freshly bared vegetable refuse and the sappy breaks in the maple twigs.</p>
+         
+         <p>Down from the sky, whose livery he wears and whose song he sings, will shortly fall the heavenly carol of the blue bird, the first robin will trill his cheery melody and we will all cry, "Lo, spring has come!"</p>
+         
+         <p>And the next day it will snow and freeze and winter will pounce once more upon us, and we will order another ton of coal and reconcile ourselves as best we can for longer waiting.</p>
+         
+         <p>And the sportsman and March days?</p>
+         
+         <p>Don't you recollect the day, Stocky, when the frost first released its hold on the meadow below the Bluffs? Loud howled the winds of March and scowled the leaden sky, yet you and I plunged on through mud, and jumped the foaming ditch as lightly as on a June morning. Not yet had the frog broke the silence left in winter's wake; no liquid note around the old box in the garden where the blue bird makes his summer home; no sound from the azure jays in the clump of sumach on the hillside; no dots upon the sky where the wild ducks should be hastening up from the south. Yet here we tramp through a remnant of snow, and there we twist our feet loose from devouring mud, looking happy and expectant. And old Spot dashes through the cold water and flounders through half frozen slush, while the chilly wind whistles over his wet coat, yet he wags his tail, and looks as if he would not go back to the fire if we should. Many the acres of dreary dead grass and chilly stop through which we plow and splash our way, with never a sight or sound of life but the dark line and dismal caw of the winter crow across the sky. Yet on we go, though our fingers are numb, and on goes old Spot, though never was a day more hard upon us. Suddenly the old setter moves more slowly; you hasten along after him. yes, he is actually drawing to a point. Then, before we are near enough to him, and before he settles into rigid certainty, a sharp "skeape," breaks upon our anxious ears, and from the dead flags some twenty yards ahead of the dog there mounts a bit of white and russet, seeming almost too small to shoot at.</p>
+         
+         <p>With a quick twist, about the moment you pull the trigger, the russet and white tacks away on a new line, leaving your shot whizzing along the old one, and as you whirl your Lefever around and pull the trigger of the second barrel he has time to twist again, he is just far enough to ride untouched through one of the openings between the shot the best gun will leave at this distance.</p>
+         
+         <p>That is the first jack and you bet he is on to his job, and is there anything more ravishing than the way he now plays with us? Rejoicing in the breeze and cleaving the swiftest gale faster than any bird that flies, the little rascal spins up the wind a while, and then darts skyward as if on a visit to the stars. Quickly changing his mind, he now darts on one tack now on another, when wheeling in a long circling sweep, back he comes as straight as an arrow. A few more zig-zag courses, as if to warn you not to be too confident of his return, when up he darts again, then with sudden whirl falls into a spiral line, and with his long bill toward the earth, down he comes, pitches around backward and alights within 100 yards of where you floated him. Do you remember how we chased that danged bird up and down that desolate bog before I finally got within reach of him? And do you remember what I said, as at the crack of that load of good King's smokeless he gyrated into the oozy slime, a very dead bird? And that night, down at Townsend's gun store, when we showed the first jack of the season, what heroes we were, and how the venerable Billy Hughes, the nonchalant George Loomis, the garrulous Frank Parmalee, jocular Jack Knowles and suave Con Young pricked up their auriculars, and ordered Billy to load them a hundred No. 8s?</p>
+         
+         <p>Why do sportsmen think so much of the jack? No one can tell, but it is with him that March days hold so much sport for the man with the gun.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. March 5, 1899. [March Days and Bird Hunting.] <title>Omaha Sunday World-Herald</title> 34(156): 21.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

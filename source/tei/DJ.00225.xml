@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00225">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Very Distinguished Tourists [Warblers].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-05-13</date><biblScope>52(33): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Very Distinguished Tourists.</head>
+         
+         <p>If it be of any interest to the Bureau of Publicity, they should be apprised that the "Stop in Omaha" campaign is a big success.</p>
+         
+         <p>At present there are scores of thousands of very distinguished and noteworthy tourists in the city, inspecting the public parks and the boulevard system. They will also be found looking over the residence district.</p>
+         
+         <p>"Looking over" is used advisedly, for they are in the treetops, and can look over almost anything in the landscape. being of a talkative disposition, like certain other tourists, one can hear them twittering away to each other and to themselves about what they see in Omaha.</p>
+         
+         <p>They are the warblers, the prettiest and tiniest and most numerous class of birds that grace this continent. Lots of folks think all songbirds are warblers, and perhaps they are, to a layman - but there is a distinct tribe of insectivorous feathered chaps that are classified as warblers, and who range from South America to their nesting grounds in northern United States and Canada.</p>
+         
+         <p>The Warblers are here, and plenty of them. Since there are more than two dozen different varieties, each with a uniform and a song of its own, they are pretty hard to identify without a good deal of study. But this study is an inspiring and delightful pastime. You should try it this morning, before church, let us say - for the earlier in the day the more you will see in the parks and woods.</p>
+         
+         <p>And they will not be here long, either, so you must make haste. Within a week or so they will have passed through to the north, and you will not see them again until late summer, when they fly back to the extreme southern part of the country, to Central America or even South America. A few stay here - the Yellow Warbler and the Redstart, for instance - but not many.</p>
+         
+         <p>Inspect these distinguished tourists today. It will do you good, for the woods and the spring air are both heavenly in May.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 13, 1917. Very Distinguished Tourists [Warblers]. <title>Omaha Sunday World-Herald</title> 52(33): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

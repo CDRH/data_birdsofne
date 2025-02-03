@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00654">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Passing the Buck.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-06-19</date><biblScope>56(42=38): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Passing the Buck.</head>
+         
+         <p>Birds are a good deal like humans when it comes to bullying. There are a great many humans extremely pacific in disposition, but even they, when their cause is just, will stoop to just a little bit of swanking and swashbuckling - and we do not exclude the dear girls in this matter, either. The ordinary, average human is fairly likely to take a sweet little bit of advantage when offered. It is human nature.</p>
+         
+         <p>And then, therefore, there is bird-nature.</p>
+         
+         <p>By some freak of this nature, a Kingbird can bully a Crow, five or six times his size, most unmercifully. Great ebon clouds of Crows flee and fly ignominiously with squawks of anguished fear before one dinky little Bee Martin, or Kingbird, as he is properly termed.</p>
+         
+         <p>The crow, however, having safely escaped from the determined and Dempsey-like attack of the Kingbird, decides to patch up his reputation in Birdland, and he knows exactly how to go about it, too!</p>
+         
+         <p>He flops around over the countryside until he locates a nice, large Red Tailed or Broadwing Hawk, which he promptly attacks, with unvarying success. The Hawk conducts a disorderly, feverish and noisy retreat. All this in spite of the fact that the Crow could whip the Kingbird, and the Hawk could administer the K.O. to the Crow.</p>
+         
+         <p>Tumbling over the rest of the dominoes in this strange sequence, a burly Robin can chase a Kingbird all over the lot when he so desires, and a couple of English Sparrows can ruin a Robin by "mere attrition" as General Grant would say.</p>
+         
+         <p>But when the English Sparrows reach the vicinity of the House Wren, which bundle of nerves is by no means as large as your thumb - the House Wren unswervingly runs 'em to ruin and leaves the field deserted.</p>
+         
+         <p>Reasoning from these undisputed facts - a Wren is the fighting superior of the Hawk. Exceptions will be noted.</p>
+         
+         <p>There are peculiar exceptions along other lines, too. The Bluebird, for instance, is a most amiable, lovely and peace-cherishing creature. Every year it is driven from house to house by the English Sparrows, who operate even as the Goths and Vandals, in seemingly unbeatable bands.</p>
+         
+         <p>And yet, when a Bluebird and his mate finally decide to live in a certain house, they plant themselves at the doorway thereof, and all the English Sparrows of the universe couldn't budge 'em therefrom, at least in our birdlore.</p>
+         
+         <p>Birds, Bandits and Boxers prove that size isn't everything in a fight.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 19, 1921. <title>Omaha Sunday World-Herald</title> 56(42=38): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

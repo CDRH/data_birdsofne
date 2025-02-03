@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00710">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Quinnebogg Woods and Their Night Herons.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1919-06-01</date><biblScope>54(35): 14-E.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Quinnebogg Woods and Their Night Herons</head>
+         
+         <p>An old hunting pal up at Tekamah writes me that a colony of black-crowned night herons have taken possession of a small woods on the river off from old Quinnebogg, this May, and are nesting in some of the big trees there.</p>
+         
+         <p>This is, indeed, welcome news, considering the fact that the night heron has long since ceased to be a common visitor to this section of the world, and seems to be among the list of birds that are doomed to oblivion.</p>
+         
+         <p>The adult night heron stands quite two feet in height. The male is a beautiful bird with three long, white plumes from the back of his head, down his back. His neck and breast are pure white, his back dark green and his eyes a flaming red. The female is without plumes, but is pure white. Subsisting upon insects, small reptiles, and various pests of the farmer, the birds are of great value to the agricultural interests of the country, and the real sportsmen will never molest them. The night heron is uncommon here, and almost everywhere else. In these days of a growing scarcity of wild life these birds are something to ponder over.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. June 1, 1919. <title>Omaha Sunday World-Herald</title> 54(35): 14-E.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

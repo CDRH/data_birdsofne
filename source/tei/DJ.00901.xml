@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00901">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Tenderest Time of All [Breeding Birds].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-03-25</date><biblScope>52(26): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Tenderest Time of All.</head>
+         
+         <p>To those who take something more than a passing interest in birds, and who find the lives of these feathered wild things a volume yet unread in its entirety, the present days bear a particular joy.</p>
+         
+         <p>Such of our summer birds as have already arrived are making diligent plans for the establishment of homes with the prospect of additions to their families later. The tender period of wooing and winning, through which they are now happily singing their way, is particularly sweet to look upon, for in the melting are of lovemaking the birds are far superior to the most doting couple of young people who ever held hands and forgot that there are eyes other than their own.</p>
+         
+         <p>There could scarcely be anything prettier or more inspiring or better calculated to create in the human bosom a feeling akin to envy, than the mating of a pair of Bluebirds and their subsequent house-hunting.</p>
+         
+         <p>The murmuring, whispering, endearing little love song of this beautiful bird, in its three or four tender notes expresses all the emotions of love as no human has yet been able to express them, while the gallant solicitude of the chivalrous male and the girlish timidity and embarrassment of the lady are wholly sufficient to call back the days of the honeymoon, if you have been blessed with one - or to encourage you to secure such an entanglement at the earliest possible opportunity.</p>
+         
+         <p>But whilst the Bluebird and the cavalier Robin are thus preparing themselves for domestic life, the hardy little Horned lark has won himself a mate during the late winter months spent with us, and is already assisting his good wife in attending to a simple nest of modest-colored eggs. The Horned Larks bring forth their broods early, in some little gully washed out of the earth by an early rain, and soon their youngsters will be seen scampering about - albeit they are mighty hard to find.</p>
+         
+         <p>In Birddom this is the tenderest time of all, and it would do your humdrum heart good to take advantage of it with a little walk through the fields and woods today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 25, 1917. The Tenderest Time of All [Breeding Birds]. <title>Omaha Sunday World-Herald</title> 52(26): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

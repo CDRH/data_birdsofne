@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00955">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Welcome Strangers!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-04-18</date><biblScope>55(30): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Welcome Strangers!</head>
+         
+         <p>For some reason best known to the almighty, the past six months have been unusually fruitful in the production of strange ornithological visitation and spectacles to the great delight of the amateur bird-adorers of this vicinity.</p>
+         
+         <p>The winter is over, we would judge by looking at the calendar, although the thermometer at this writing doesn't back up this statement to any appreciable extent. It is probable that the unschooled bird admirer thinks that there isn't much doing in the bird line in the winter, and yet, a composite list taken by reliable field observers includes the names of more than 30 different species of birds seen in Elmwood park and vicinity during the months of December, January and February. On one Sunday in February, twenty-seven different birds were seen in that park.</p>
+         
+         <p>The strangers noted during the winter were many. We have mentioned them before, but will repeat the list just for fun, as the "Visitors' List" seems to continue to grow. There was the Red Breasted Nuthatch, the Red Crossbill, the White-winged Crossbill, the Tufted Titmouse, the Townsend Solitaire, the Siskin and an unusual number of Bluebirds and Robins, which, however, were not seen in the park, but which remained through the season in the thickets near the Missouri river north of Carter Lake.</p>
+         
+         <p>Now, it would seem, the spring time would attempt to rival winter's record, even before the big migration of warblers due about the first of May.</p>
+         
+         <p>For the Purple Finch has shown his dainty feathers in Elmwood park, among the trees that are yet left standing by the city ax commissioner. This finch is common enough in the east, and is in the Nebraska list, but very seldom reported by positive observation.</p>
+         
+         <p>The Red Bellied Woodpecker is being seen rather frequently, which is unusual - and, to cap the climax, the Yellow Bellied Sapsucker was identified last week, feeding on the ground in Turner park - in the very heart of the city, we might say!</p>
+         
+         <p>It would be a waste of good print paper to try to tell the reader about the last mentioned couplet of birds - but they are worth studying. The Sapsucker has an evil reputation, according to some.</p>
+         
+         <p>And, by the way, do not forget that Red Crossbills have been found nesting in Elmwood park - the first record of that sort in Nebraska, according to Professor Myron H. Swenk, of the state university.</p>
+         
+         <p>Welcome - all you feather strangers!</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 18, 1920. Editor [possibly Miles Greenleaf]. <title>Omaha Sunday World-Herald</title> 55(30): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

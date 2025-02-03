@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00036">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Audubon Society.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-09-21</date><biblScope>54(51): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Audubon Society.</head>
+         
+         <p>In the year just preceding America's entrance in the great war, the Nebraska Audubon Society was booming. Its meetings were packed, and it had amassed a small fortune by both indoor and outdoor programs based on the propaganda that if birds cannot live - neither can men.</p>
+         
+         <p>Naturally, with the patriotic and feverish effort to win the war, all else was set aside in 1917 and 1918 - as was more than proper. But now the war is over, and we are back at our old occupations and attempting to think normally, as before.</p>
+         
+         <p>Therefore, it is well that the Audubons have announced their intention of a strong winter campaign, including monthly meetings, assisted by their latest recruits, the Boy Scouts.</p>
+         
+         <p>The first meeting of the new season was held last night at the public library by the Audubon Society, and the attendance was not what it should have been. Two Boy Scouts related their ornithological experiences at Camp Gifford, which was sufficiently interesting to have attracted a throng.</p>
+         
+         <p>Bird life is so important to the welfare of Nebraska that every man, woman and child should take immediate and personal interest. The work should not be left to the few characterized by Commissioner Falconer as "bird nuts" and the Boy Scouts.</p>
+         
+         <p>If there is any question as to the value of the birds, economically, the department of agriculture or the Scouts will testify.</p>
+         
+         <p>As to the pleasure of bird study and protection - just try it once and see!</p>
+         
+         <p>In the meantime, join the Audubon Society and attend its meetings.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 21, 1919. <title>Omaha Sunday World-Herald</title> 54(51): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

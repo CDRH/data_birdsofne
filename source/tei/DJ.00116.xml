@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00116">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Blonde and Brunette [Gray and Red Screech-Owls].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-01-21</date><biblScope>58(17): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Blonde and Brunette.</head>
+         
+         <p>Considering everything that could possibly be known to the casual observer on his hikes through the woods on the Sabbath day, there might be a breath of gossip about this Screech Owl family.</p>
+         
+         <p>While these queer little folk are very unobtrusive, except for their habit of frightening belated human wayfarers with their wild, eerie whimper, and although they are extremely useful through their nocturnal menu, nevertheless the finger of suspicion points in their direction and scandal is afoot.</p>
+         
+         <p>It is well known that the Screech Owls are out every night until all hours, and that although most of their children are grayish-brunette, every once in a while a decided blonde appears.</p>
+         
+         <p>One could little suspect such decent citizens of the small-timber of anything worse than an error in judgement, and natural history absolves them from any part whatever in the complexion of their offspring. Dr. Cous and his auto-suggestion might try it on Mrs. Screech Owl, just as a scientific experiment.</p>
+         
+         <p>For there are gray Screech Owls and red Screech Owls, apparently with no reason for the difference in color.</p>
+         
+         <p>An interesting little natural history sidelight on this strange thing came to pass in Elmwood park last Sunday. Elmwood is a rustic place, or would be if the park commissioner and his trimmers would let it alone - and there are four or five different varieties of owls out there all the time.</p>
+         
+         <p>In one particular little notch of a jack-pine tree, along one of the main park thoroughfares, there has been perched a gray Screech Owl for a long time. He seemed to make it his home during the daytime, and was a "regular customer" with the bird lovers.</p>
+         
+         <p>Last Sunday, however, in the same hidden notch, sat a red Screech Owl, sound asleep. He remained there until the observers departed.</p>
+         
+         <p>Later last week the gray Screech Owl was back in the same spot.</p>
+         
+         <p>Brothers or sisters, perhaps - these two funny little chaps - but the red Screech Owl had not been seen before, nor has it been seen since.</p>
+         
+         <p>It is such intimate bird matters as these that make the Sunday hike a habit, and add years to your life and maybe something more valuable to your spirit, in the learning.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf], January 21, 1923. Blonde and Brunette [Gray and Red Screech-Owls]. <title>Omaha Sunday World-Herald</title> 58(17): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

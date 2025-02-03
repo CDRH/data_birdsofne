@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00492">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Lesson of the Spring.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-04-15</date><biblScope>58(29): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Lesson of the Spring.</head>
+         
+         <p>Mankind, highest form of the animal kingdom, hoards its surplus capital and demands full return for its use from others of its kind; the vegetable kingdom holds it surplus in store and when the times comes gives it forth to the cosmos without thought of repayment.</p>
+         
+         <p>Every tree and shrub and herb and tiniest plant are now at work sending forth their tribute to the making of the world. They do it so quietly that man, superior man, does not for a moment comprehend the myriad forces that are at work; only a very, very few realize the vastness of the force.</p>
+         
+         <p>Mankind count their reserve wealth in millions and billions. Vegetable life in trillions, uncountable. Every bud is a manufacturer, bringing up from the depths of earth, extracting from the rays of the sun, drinking in from the rain and the waters and making things of beauty that it gives lavishly to whomsoever will take. Try to count the leaf buds on a single tree and learn how great the task, multiply that by the number of trees in the forest, the blades of grass, the tiny fronds of the smallest fern, the infinitesimal life of the mosses and the algae and all working, working every minute of the twenty-four hours; they need no sleep until their task is done and they have brought forth that for which they are designed and then they scatter it with faith and trust.</p>
+         
+         <p>And they work together with such a democratic spirit of mutual aid. Under the branches of the buck brush, where last autumn's leaves here gathered, the dandelions are leafing out beside the horsemint, the bedstraws are springing up all round round them and the buck brush are putting out at every joint of last year's stalks a bud that is growing larger, soon to make a grateful shade for the time when the more tender plants need it. The Mullein is forming cups, soft and cozy with their velvety leaves, from which will soon spring the tall stalk that will bear the innumberable blossoms and seeds, while the old fashioned housewife will gather the plushy leaves and form a liniment that faith helps to the healing of all the ills of the flesh. Every hour the carpet of green is growing more beautiful, and it contains more strands than any carpet made by man.</p>
+         
+         <p>When will man learn to give freely and gladly like the trees and the grass and the grains? Then will everybody have enough and to spare, for so has the Creator promised. "Give and it shall be given unto you; full and pressed down and running over."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April; 15, 1923. <title>Omaha Sunday World-Herald</title> 58(29): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

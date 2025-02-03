@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00945">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Warblers are Coming!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-04-25</date><biblScope>55(31): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Warblers are Coming!</head>
+         
+         <p>Two weeks from today is just about the best time to watch the migration of the myriad Warbles passing up the Missouri Valley from South and Central American to their breeding grounds farther north - in some instances in the Arctic circle, we are told.</p>
+         
+         <p>The Warblers include a classification of birds most difficult to identify, and yet the most beautiful and interesting. They are little fellows, mostly feeding in the treetops or bushtops, and yet there are enough exceptions to make it impossible to say just where the amateur may find a Warbler.</p>
+         
+         <p>For instance, unless all precedent is to be smashed, there will be Prothonotary Warblers among the weed-stalks and grass arising from the swampy marsh just south of Camp Gifford in the Wiley tract. They are there - or have been there - nearly every spring. "Prothonotary" is a nasty sort of word, but the bird itself seems innocent of that outrage, for it is bright yellow-orange over its head and shoulders, and darker below.</p>
+         
+         <p>The Myrtle Warbler, perhaps the hardiest of the crew, fusses around in the treetops, feeding on the buds, perhaps. It has a splotch of bright yellow on its rump, and is the first to come and the last to go. It has been here for several days.</p>
+         
+         <p>There are many other Warblers to be seen within the next fortnight, and it would be useless to name them. Get yourself a reliable Bird Guide and see for yourself. The study is most interesting - especially when you realize that you have but a week or two during which to make your investigation.</p>
+         
+         <p>The hike today, next Sunday, and the following Sabbath, should be made delightful by the presence of these best of God's creations.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 25, 1920. <title>Omaha Sunday World-Herald</title> 55(31): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

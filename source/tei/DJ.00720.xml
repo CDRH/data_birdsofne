@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00720">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Red-breasted Merganzer.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1913-01-19</date><biblScope>48(16): 2-S.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Red-Breasted Merganzer</head>
+         
+         <p>Lakeside, Neb., Jan. 16.-To Sandy Griswold, Sporting Editor of the World-Herald: While down on Island lake, thirty miles south of here, during the close of the long spell of balmy weather which marked our fall out this way, I shot a duck which I know little about, and I respectfully ask you for a little information about it. The bird was about the size of a spike-tail and had a bunch of long, hairy feathers on its head, black in color. The bill was long and slender, not at all like a common duck and feet and bill were of a bright red color. Its body was white underneath and black and white above. Its head was also black and white. When shot it was only winged and it gave us a good exhibition of its diving power until caught. It had webbed feet, same as any other duck and when shot was in company with two others of the same species. I would be greatly pleased if you could name this duck for me. Hoping to see your answer in Sunday's World-Herald. I remain, yours respectfully-William Greggs.</p>
+         
+         <p>Ans.-Your bird was a sheldrake, red-breasted merganzer, (merganzer serrator.) Like the goosander, this species belongs to the northern hemisphere at large, but is found in Europe, as well as China and Japan. It has been found breeding in Iceland, in company with Barrow's golden-eye, and old world observers have generally reported it as abundant in the north. It occurs regularly as a resident in Greenland, and, of course, in this country is quite a common species. It has been reported, in summer from Alaska and from Maine and breeds in both sections. It has also been found breeding along the Anderson river in the far north. The nest is said to be closely similar to that of the black duck, and is often lined with the down plucked from the female's breast.</p>
+         
+         <p>Like all merganzers, it is a tough and hardy bird, well fitted to endure our northern winters, and not proceeding southward so long as there are any open waters in which it can procure subsistence. It spends much of its time on the salt water and associates more or less with the winter sea ducks of the New England coast, but more, perhaps, with the whistlers than any other. It feeds almost wholly on fish and is entirely unfit for the table. It is a great swimmer and a great diver, also very swift on the wing. It frequently comes in very gently to decoys, dashing along at great speed, until it reaches the point where it wishes to alight, and then, without checking its flight, throwing itself down upon its breast in the water and sliding over it for some distance. After alighting, it looks about for a moment, alternately raising and depressing its crest, and if it sees nothing to alarm it, goes to work fishing. It is a shame to kill this beautiful bird, as it is useless. I saw Sam Richmond kill a magnificent specimen upon the Loup last October, and intended to bring it home for mounting, but forgot it and left it hanging in the grove in which our camp was pitched.</p>
+         
+         <cit>
+            
+            <bibl default="NO">William Greggs and Sandy Griswold. January 19, 1913. <title>Omaha Sunday World-Herald</title> 48(16): 2-S. Forest Field and Stream column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

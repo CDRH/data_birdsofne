@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00601">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Night Migration of Birds Over Omaha.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1906-09-16</date><biblScope>41(51): 6-E. Portion of Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-26">2006-06-26</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <p>Tuesday night last, after the storm in the early evening, the first issue of our sumer birds left for the south. No sooner had darkness settled over the earth than the air was full of them, and the naturalist and sportsman fortunate enough to have had his attention attracted by the phenomenon must have reveled in the experience. Of course it was impossible to see any of these feathered voyagers as they clove the misty space above on their pilgrimage to fairer climes. The heavens were obscured with heavy, humid clouds, but the signal cries of the birds showed that the air was full of them. These piping sounds of farewell seem to come from all quarters, all bent in one direction, toward the south. They kept flying till way in the night and there must have been thousands passed over the area covered by the city of Omaha. It was a fascinating experience to me and I remained up listening to the medley of answering cries until long after midnight. While I could distinguish the notes of many of our summer visitors, among the most numerous seemed to be the upland plover. That pearly triplet that falls from but one feathered throat was constantly in the hearing, but mingling with it was the be-zeep! be-zeep! of the nighthawk, the tinkle of the yellowleg, the cackle and whistle of traveling ducks, the pur-rut! pur-rut! of cranes and herons and the pink! pink! pink! of many different kinds of warblers. All of these birds may not have been migrating but nature has taught me that many of them were, especially the plaintive, piping song birds and the plover. This is a late date for the uplands to linger here, but when we come to consider the midsummer weather we have been having for the past fortnight, there is nothing strange about this. This delicate little sandpiper generally disappears from this latitude along about the last ten days of August, and I do not remember of ever seeing, save an isolated bird or two, any of them upon our meadows or pasture fields, later than September 10. As for the catbirds, rosebreasted grosbeaks, orioles, chewink, tanagers and flycatchers, with the hordes of the smaller warblers, they have about all departed, many of them with the last August days. The robins, while massing and seeking the silent woods in great numbers, do not wholly leave the country until the bleak days of November are fully upon us. The bluejay, cardinals, downy and hairy woodpeckers, tomtits, and cedar birds often winter here, that is, great numbers of them, and occasionally a few robins find sufficient shelter in the thick woods of our river bottoms to justify their ignoring the long trip south. But they are restive, wild and wary, an entirely different bird from those we see hopping over our lawns and fluttering among our shade trees in the sweet summer time. The little thistle bird, or, more properly speaking, the goldfinch, and the blue bird, too, seem a trifle hardier than their warbling congeners, and lag behind until well in October. The yellowhammer and redheaded woodpecker also continue to enliven the landscape until well into the month of keen frost and flaming banners, while the supposedly delicate turtle dove is frequently encountered clear up to the first real snow fall.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. September 16, 1906. [Night Migration of Birds Over Omaha]. <title>Omaha Sunday World-Herald</title> 41(51): 6-E. Portion of Forest, Field and Stream column. Obvious bird name misspellings corrected.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

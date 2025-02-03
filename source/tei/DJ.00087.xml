@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00087">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds' Christmas Tree.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-12-24</date><biblScope>52(13): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds' Christmas Tree.</head>
+         
+         <p>Way down east, where most things originate, both good and bad, a very pretty little custom was started by school children, many years ago.</p>
+         
+         <p>These young people had been taught by the advocates of the then budding Audubon movement that the wild birds of the woods and fields are entitled, for the work they do for humankind, to the greatest of consideration and of love.</p>
+         
+         <p>So these young people, looking forward one bleak winter to the joyous Yuletide, bethought themselves that maybe the songsters have little children who figuratively hang up their stockings on Christmas eve, and for whom there is some big, jolly, feathered Kris Kringle to come in the night and leave his substantial tokens of cheer.</p>
+         
+         <p>Also they thought of the poor little birds, in the bitter weather, whose parents had nothing to give them, and who were starving by inches on Christmas day, perhaps, because the sleet and snow had covered up all the weed patches and niches in the bark of trees, from which and from which only they might secure their daily fare.</p>
+         
+         <p>So these children decided to give the birds a Christmas tree of their own.</p>
+         
+         <p>With their teachers and parents they went out into the woods or parks and there selected certain natural trees upon which to hang their gifts. Upon many of the limbs they tied appetizing pieces of rich beef suet, and beneath, upon the hardened surface of the snow, they sprinkled a great feast of bird seed, cracked corn, cracked nut meals, crumbled baked potato and cornmeal, liberally mixed with table salt. Upon the trunks they tacked broad strips of bacon rind that had been saved for that purpose by their mothers, and even a few pieces of coconut meat were fastened to the tree to the feathered epicureans of the forest.</p>
+         
+         <p>All this was done on the day before Christmas, and upon that day itself the young people, after having tasted of their own delights to the utmost in their cozy homes, sallied forth in a rollicking band to see how the birds and birdlets were enjoying THEIR Christmas day.</p>
+         
+         <p>And what they saw - well, that pretty little stunt of their has now become a pretty little custom, for they do it every year, and that certainly proves that they saw enough!</p>
+         
+         <p>You young folks who are about to revel in all the good things that Santa Claus and your loving fathers and mothers will give you, might certainly add a great deal to the real pleasure of the day by following the example of your cousins 'way down east, and giving the birds a Merry Christmas Tree!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 24, 1916.  <title>Omaha Sunday World-Herald</title> 52(13): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

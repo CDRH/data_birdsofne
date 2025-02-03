@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00257">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Elmwood Shrike Returns.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-28</date><biblScope>56(9): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Elmwood Shrike Returns.</head>
+         
+         <p>After an absence of three years, the Loggerhead Shrike or Butcher Bird has returned to Elmwood Park, at least for one brief sketch.</p>
+         
+         <p>Up until the spring and summer of 1918 the Shrikes were common residents in that delightful reserve. They nested every spring in the coniferous trees along the ravine at the east entrance to the park on Dodge street, and evidence of their ferocious hunting was to be found everywhere. Their last recorded appearance until last week was recorded in the summer of 1917, when a large brood was raised.</p>
+         
+         <p>The Loggerhead Shrike made his return to Elmwood a rather spectacular affair, resulting in the timely demise of a very large rat, whose head was torn off and probably consumed by the piratical "hawk" that has no talons. The gory corpse was found underneath one of the evergreens, and over it, on the topmost peak of a "Christmas tree," sat Mister Shrike, calmly looking for further business to attend to.</p>
+         
+         <p>Shrikes are generally conceded to be useful birds although there is some argument about it. Plenty of evidence is at hand that they kill and devour other small birds by seizing them with their hawk-like beak, impaling them on thorns or barbs of wire fences, or ingeniously throttling them in the clefts of small bushes - but it is also known that for every bird killed they take hundreds of large insects of noxious varieties.</p>
+         
+         <p>Some expert ornithologists say that the Shrike is so slow on the wing that it cannot catch many birds of other species unless the victims are wounded or sick, but it is admitted that the Butcher Bird is a fearless fellow and will tackle anything that flies, with few exceptions.</p>
+         
+         <p>At any rate, this one male Shrike has been seen in Elmwood, and the rest of the birds, to say nothing of the field mice and rats, had best have a care!</p>
+         
+         <p>Sometimes these Shrikes stay all winter in these parts, and this rover of the woods may be seen straight through until spring.</p>
+         
+         <p>He is worth looking for.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 28, 1920. <title>Omaha Sunday World-Herald</title> 56(9): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

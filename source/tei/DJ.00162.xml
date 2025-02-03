@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00162">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cherink! Cherink [Towhee]!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-04-02</date><biblScope>57(24=27): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cherink! Cherink!</head>
+         
+         <p>To those of us who delight in tramping the woodland and the tangled ravines in both winter and summer, the first remarks of the retiring Towhee come as a springtime kiss - a sort of salute by Mother Nature, who is good to her own!</p>
+         
+         <p>He has many songs and carols, which develop as his amorous ardor increases, but he announces his return to the thickets which we prowl, with the single ejaculation - </p>
+         
+         <p>"Cherink!"</p>
+         
+         <p>This clinking, grating, undescribable observation on the part of Brer Towhee is a masterpiece of God's outdoor handiwork. It comes to us who "hike" as a remark from heaven itself.</p>
+         
+         <p>It has none of the louder and more apparent choral beauties of the efforts of the Robin and the Bluebird - nor of the chattering year-around insistency of the Chickadee - but it chinks to us from forbidden messes of weeds and bushes, to say that spring has really arrived, and that somewhere, in a ground-nest hidden beneath some fallen twig of leaf-cluster - there is to be a large family of "Ground-Robins" born.</p>
+         
+         <p>Presently these Towhees will cease their "Cherink" and will perch on a branch above that mysterious hard-to-find nest, and warble "See-Towhee!" with exasperating loveliness - while the lowly, sneaking Cowbird seeks the Chewink nest that humans seldom strike.</p>
+         
+         <p>Blessed is this bird indeed! Beautiful, songful and mysterious. Protect it.</p>
+         
+         <p>"Cherink!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 2, 1922. Cherink! Cherink [Towhee]! <title>Omaha Sunday World-Herald</title> 57(24=27): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

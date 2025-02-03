@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00344">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game.</title><title level="j">Omaha Weekly Republican</title><author>Editor.</author><date>1861-08-16</date><biblScope>4(10): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game - Prairie Chickens and Grouse (1861) </head>
+         
+         <p>Game.-Our sportsmen are enjoying themselves hugely nowadays, among the prairie chickens, grouse and other game birds which are so abundant in field and grove. On Saturday last the two Messrs. Crowell and W.A. Little, Esq., bagged 49 chickens. Charley Turner was out the same day, and had as good luck. We are indebted to Charley Turner and William Crowell for the material for an excellent game dinner on Sunday last.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 16, 1861. <title>Omaha Weekly Republican</title> 4(10): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

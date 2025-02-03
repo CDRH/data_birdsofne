@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00061">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Baths for the Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-06-11</date><biblScope>51(37): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Baths for the Birds.</head>
+         
+         <p>Did you ever stop to think what you would do if there were no place in Omaha where you were sure to be able to get a drink, and no place where you could bathe yourself?</p>
+         
+         <p>Impossible—for you!</p>
+         
+         <p>But what about the birds?</p>
+         
+         <p>We are about to enter into the very heart of summer, and although there is no way of forecasting exactly what sort of a summer it is to be, we are all very well acquainted with the possibilities. Nebraska's climate is delightful, in most instances, but on more than one occasion she produces a summer that would raise blisters upon the renowned gates of perdition. In such instances the songbirds suffer untold agonies and very often die in large numbers.</p>
+         
+         <p>There has been a great awakening in Omaha, and in most of the country for that matter, in regard the necessity of fostering and conserving wild bird life. It is delightfully possible to encourage many varieties of songsters to live within the very heart of the residence districts of cities and towns, and the most important step in this direction is the installation of plenty of bird baths in the back yards and in the parks where there are no lakes nor streams.</p>
+         
+         <p>Your back yard may not have such a bath today—see that it has tomorrow.</p>
+         
+         <p>Besides the humanitarian necessity of so doing, you may rest assured that the songsters will patronize such a bath and will bring you more pleasure than could possibly be described in this humble plea.</p>
+         
+         <p>Feed the birds in the winter, bathe them in the summer, protect them always—and the mission of our feathered friends upon this earth will be made infinitely easier.</p>
+         
+         <p>You would not refuse the most disgusting tramp a drink of water!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 11, 1916. <title>Omaha Sunday World-Herald</title> 51(37): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

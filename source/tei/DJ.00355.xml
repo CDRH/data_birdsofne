@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00355">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Glad Tidings to the Sportsman and Hunter.</title><title level="j">Omaha Daily Herald</title><author>An Old Sportsman.</author><date>1867-10-29</date><biblScope>3(25): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Glad Tidings to the Sportsman and Hunter.</head>
+         
+         <list type="simple">
+            
+            <item>Fort McPherson, Oct. 25, '67</item>
+            
+            <item>Editors of the <title>Omaha Daily Herald</title>:</item>
+         
+         </list>
+         
+         <p>The weather at present around the fort is delightful; the morning and evenings are cool and bracing, and during the day the rays of the sun produce that temperature of heat that is pleasant to all; never in the remembrance of the oldest settler was there such a beautiful supply of game, with such an absence of Indians, as at present exists; but yesterday morning the largest herd of buffalo that has been seen for four years were distinctly visible from the Fort, rushing like an avalanche in impetus towards Brady's Island in the immediate neighborhood, which abounds in all kinds of game.</p>
+         
+         <p>What an enchanting scene is presented to the experienced eye of an old hunter to witness the fleet antelope bounding over the plains, and to observe the flight of the wild turkeys preparatory to alighting on Brady's Island. The waters of the south fork of the great Platte are covered with ducks, and beneath, the angler can at any time reap his reward, by safely anchoring on terra firma, various descriptions of the piscatory genus.</p>
+         
+         <p>Brady's Island, at present, is an island of game; the Government contractor, John F. Morrow, Esq., having taken from it about three thousand tons of hay, gives the sportsman a double chance.</p>
+         
+         <p>There is now within the Fort an excellent theatre in full running operation, with a talented role (for amateurs) of artistes.</p>
+         
+         <p>Mr. M.F. Cutting, who during the war held the distinguished position of a colonel in the army of the Government, is now Post Trader at this fort, and has lately enlarged his establishment, which is now a building one hundred and fifty feet in length, with every modern convenience, the outer building being well fitted up, the inner, according to the taste of the present day, and he can certainly boast of some of the finest billiard tables in the United States, they being Phelan &amp; Collanders' latest and most improved style. Mr. Cutting can relieve the wants of the wearied hunter.</p>
+         
+         <p>Sportsmen, whether English or American nationalities, come and share the sport with</p>
+         
+         <p>An Old Sportsman.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 29, 1867. <title>Omaha Daily Herald</title> 3(25): 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

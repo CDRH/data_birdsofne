@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00147">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cats and Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-06-02</date><biblScope>53(35): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cats and Birds.</head>
+         
+         <p>Many people like cats as pets, which, perhaps, is natural. Certainly it is their privilege under existing laws.</p>
+         
+         <p>Nearly everybody, however, loves the songbirds, and with the exceptions of a few thoughtless youngsters and still fewer uneducated adults, you will never find anyone dreaming of molesting a Robin or a Bluebird that comes to beautify his or her yard.</p>
+         
+         <p>Yet those who have cats about the place cannot have birds; while those who have birds, very naturally, cannot have cats.</p>
+         
+         <p>The birds are entitled to our best consideration, because they are highly useful - in fact positively necessary to the welfare of the human race, whilst the family cat has but one argument in its favor, which is its supposed skill in the catching of mice and rats.</p>
+         
+         <p>No cat is necessary in a modern and well-kept home to keep down the rodent pest - for in a cleanly and well-built residence no such pest is likely to appear. If, however, mice or rats do make their way into such home, it is positive that modern traps discount the prowess of the cat by a comfortable margin.</p>
+         
+         <p>In the summertime a cat will invariably spend most of its leisure hours stalking birds and let the rodents take care of themselves, for the admiring householder feeds the feline extravagantly and bird-hunting is indulged in, it would seem, more as a pastime than anything else. This is proven in scores of recorded instances in which birds have been killed by cats and left dead upon the ground, no attempt being made to consume the remains.</p>
+         
+         <p>Since so many citizens admire the cat as a pet, it is necessary to say that the United States government has issued bulletin against that animal for the reason that it makes a business of killing the birds, adding positive proof that the birds must be conserved if our fruit, grain and vegetable crops are to be protected.</p>
+         
+         <p>Therefore, if you have a pet cat and must keep it about your home - be certain that it does no wander into other fields and help the Hohenzollerns by massacre of the loyal songsters! No birds will habitually frequent your own yard as long as you have the cat, but this situation is your privilege, if the feline is your choice.</p>
+         
+         <p>As far as being a faithful pet is concerned - a cat is yellow. It will not stay with you if you do not furnish food and shelter, in which it is far different from the dog, who will stick to its master through thick and thin, and unto the last gasp.</p>
+         
+         <p>If the birds were gone the insects would immediately destroy most of our valuable plant life, and it wouldn't take long for the operation either, according to such government experts as Edwin Howe Forbush of Massachusetts, and others.</p>
+         
+         <p>If the cats were gone there would be no loss and little grief except the pet owner, and only then for a few fleeting hours.</p>
+         
+         <p>The birds must be saved. Let the cats prove a similar necessity.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 2, 1918. <title>Omaha Sunday World-Herald</title> 53(35): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

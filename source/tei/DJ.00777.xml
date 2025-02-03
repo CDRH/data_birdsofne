@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00777">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Sharp-Shins.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-02-18</date><biblScope>58(21): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sharp-Shins.</head>
+         
+         <p>Swiftest and cruelist of all our Hawks, this gloriously painted little tiger of the air, the Sharp-shinned, streaks through the air like a bullet - and immediately the summer song or winter hunger chirp of our birds is silenced. Not feather flutters. No bird eyelash quivers.</p>
+         
+         <p>It is indeed one of the Almighty's many mysteries that he has seen fit to paint this death-dealing Hawk in such marvelously beautiful colors.</p>
+         
+         <p>With a metallic blue back that shines like rifle steel in the sunlight, rich red bosom to glisten siren-fashion under the slanting rays of the evening, when the grim aerial hunter is on the wing there is terror in every gentle heart in the woodland and across the fields and the weed patches where there is provender for the songsters.</p>
+         
+         <p>One of the three really dangerous and noxious Hawks that infest this part of the country, the Sharp-shinned is the most deadly because of his diminutive size, and his speed and his beauty.</p>
+         
+         <p>There are human Sharp-shinned Hawks.</p>
+         
+         <p>They drive fast automobiles, wear fine clothes - and are deadly to the more beautiful and more gentle of their kind.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 18, 1923. <title>Omaha Sunday World-Herald</title> 58(21): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

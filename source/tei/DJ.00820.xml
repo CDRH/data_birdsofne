@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00820">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Spare the Birds.</title><title level="j">Nebraska Farmer and Western Educational Advocate</title><author>Anonymous.</author><date>1861-03-01</date><biblScope>March 1861.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Spare the Birds.</head>
+         
+         <list type="simple">
+            
+            <item>"With sonorous notes</item>
+            
+            <item>Of every tone, mixed in confusion sweet,</item>
+            
+            <item>The forest rings."</item>
+         
+         </list>
+         
+         <p>The season of planting is near, and with it come myriads of birds, to gather up the worms and various tribes of insects that lay embedded in the earth until the plowshare rolls them up to view of these insect-catchers, that will ever be found to follow in the wake of the plowman.</p>
+         
+         <p>Spare then, the birds, say we! They may gather up a few grains of your seed, but they will save you ten to one that the worms would destroy. It is cruel to destroy the birds, when they come as the friends of the farmer. What music so sweet to the ear at early morn, as</p>
+         
+         <list type="simple">
+            
+            <item>"-the gentle lark, weary of rest,</item>
+            
+            <item>From his moist cabinet mounts upon high,</item>
+            
+            <item>And wakes the morning from whose silvery breast</item>
+            
+            <item>The sun ariseth in majesty!"</item>
+         
+         </list>
+         
+         <p>Then "spare the birds." Read what Audubon says of the immense number of insects found in the craw of a single wren, a thrush, or a robin. farmers should protect small birds. They are much cheaper than insect-powders.</p>
+         
+         <p>The following birds may be classed as great insect-destroyers, and should be remembered as the friends of the farmer and gardener: King-bird, Whip-poor-will, Cuckoo, Woodpecker, Martin, Chimney-swallow, Wren, Cat-bird, Blue-bird, Meadow thresher, Ground-bird, Rice-bird, Robin, Chirping-bird, Blue-jay, Small Owl, Night-hawk, Sparrow, Thrush, Hang-bird, Black-bird, with several more. These, if cared for and protected, not only remove insects from the earth and trees, but from flowering plants and vines around the dwelling, and build their nests amid the fragrant roses to encircle your windows. They will richly repay you for all your care and protection. They will sing you a sweet lullaby as you go to rest, and wake you with their morning hymns, until your higher nature shall say:</p>
+         
+         <list type="simple">
+            
+            <item>"Bird of the dewy morn!</item>
+            
+            <item>How oft thy heavenward lay</item>
+            
+            <item>Floats up where life and light are born,</item>
+            
+            <item>Around the rosy day."</item>
+            
+            <item> </item>
+            
+            <item>"A free, wild spirit unto thee is given,</item>
+            
+            <item>Bright minstrel of the blue celestial dome!</item>
+            
+            <item>For thou wilt wander to yon upper heaven,</item>
+            
+            <item>And bathe thy plumage in the sunbeams home;</item>
+            
+            <item>And, soaring upward, from they dizzy height,</item>
+            
+            <item>On free and fearless wing, be lost to human sight."</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">March 1861. The <title>Nebraska Farmer and Western Educational Advocate</title>.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

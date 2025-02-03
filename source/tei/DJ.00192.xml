@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00192">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">New Contingents Appear.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-08-12</date><biblScope>52(46): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>New Contingents Appear.</head>
+         
+         <p>With autumn not so far distant but that the recent series of cool and snappy days have made us hanker for the crisp, colorful Indian sumer, there has come a subtle change in birdland. The spring songs are gone and in their place are heard the first vocal attempts of the new generation and the more serious observations of the parents, doubtless somewhat worn with the task of raising their children.</p>
+         
+         <p>The most noticeable change is the return of the Bluebirds into public life, reinforced by new contingents of youngsters. In the spring these glorious creatures, largely by reason of their brilliant raiment, are the most prominent of all our songsters, excepting, perhaps, the Robins, but after their homes have been established and their eggs hatched, little more is seen of them for weeks, even months. The loss is a considerable one, you may guess.</p>
+         
+         <p>Despite their seeming absence, the Bluebirds are still with us, of course, but they are so quiet and retiring and domestic in their habits during this period that the casual observer will have some difficulty in locating them. Their delicious murmur is not heard while the youngsters are being trained, except at rare intervals, which leaves a dismal vacancy in the woodland chorus.</p>
+         
+         <p>But when their offspring are sufficiently matured to be able to cast about on their own initiative, the Bluebirds are themselves again. As today, they are back on the job, which brings us joy once more. Their plaintive song may be heard frequently in the morning and evening, and often a group of them will be seen upon a wire or fence, practicing their newly learned art.</p>
+         
+         <p>In the last moments of fall, when winter is hard at hand, these Bluebirds will congregate in large numbers here and there, and will leave only when bitter cold is upon them. They do so regretfully - for the regret is clearly expressed in that song, successfully imitated by no human nor his agency.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 12, 1917. <title>Omaha Sunday World-Herald</title> 52(46): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

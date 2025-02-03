@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00120">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Blue Jay—the Profane.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-02-27</date><biblScope>51(22): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Blue Jay—the Profane.</head>
+         
+         <p>One who prowls the woods and fields during the rest moments of life and who takes particular care to observe the birds and their generally gentle songs, is occasionally impressed by the human aspect of the songsters' world.</p>
+         
+         <p>It is a world not much different from our own. Each bird has its mate and their object, like ours, is the successful raising of a family and an equally successful pursuit of happiness.</p>
+         
+         <p>In an ordinary residential district of any city there are many different characters, and this is likewise the case in the bird cities of the woods. While humans have their proud, beautiful reserved families—the birds have their Cardinals. While humans have their busy, industrious, friendly groups—the robins, bluebirds, chipping sparrows and many others are the same in featherdom. We have our neighborhood gossips—and the birds have their house wren.</p>
+         
+         <p>Unfortunately, in a good many of our human communities, we likewise know a big, handsome, good-natured fellow, rascally at times, but often displaying the best of hearts, who is at once an influence for welfare and evil and who is often liked because of his boisterous character and in spite of his dissipations. Generally he is loud and profane. As his counterpart in bird-dom—there is the Blue-Jay.</p>
+         
+         <p>Here is the sort of bird that would have benefited by social center work had there been such a thing in his early life. He might thus have been weened away from his habit of tantalizing other birds, or bursting into their homes, of inciting a rough-house every now and then for the pure joy of a quarrel and from using vile language.</p>
+         
+         <p>For Mister Blue-Jay is the most profane of birds. He can swear in an almost human tongue, and in any language. He is likewise a master of slang expletives and he shouts his coarse jests and taunts through the woods and across the fields in all seasons of the year.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 27, 1916. <title>Omaha Sunday World-Herald</title> 51(22): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

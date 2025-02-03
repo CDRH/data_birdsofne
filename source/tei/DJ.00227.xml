@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00227">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Doing Their Bit in Birdland.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-06-10</date><biblScope>52(37): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Doing Their Bit in Birdland.</head>
+         
+         <p>With all American mobilized in the great effort to out-fight and out-supply the menacing Prussian military, it requires no extraordinary flight of the imagination to conceive that even the birds have enlisted and are throwing their tiny bodies and souls into the conflict.</p>
+         
+         <p>It seems that never before were there so many songsters in the environs of Omaha. This may not be actually true, but many observant trampers of the woods and fields have made the assertion and backed it with unofficial figures on varieties and numbers noted. But whether or not there are more birds, it is certainly true that there is more activity on their part in the destruction of noxious insects.</p>
+         
+         <p>This activity may be explained by the very backward season, which has kept down the number of objectionable bugs thus far, and forced the birds to work harder to supply themselves and their offspring. No matter what the reason, you can prove top your own satisfaction, by a trip through the parks, woods or fields, that the feathered foragers are raising Cain with insect life and by so doing are helping Uncle Sam to raise the tremendous crops he now so sorely needs.</p>
+         
+         <p>For the noxious insects referred to are the best allies of the Kaiser and if unchecked by their most natural enemies, the birds, would devastate every field in the country, and ruin every orchard - for which statement your watchful Uncle Samuel is authority.</p>
+         
+         <p>So these tremendous armies of feathered heroes are really at the front in America, and in their campaign deserve the heartiest support and protection at our hands. They, as much as the soldier and farmer, are doing their bit.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 10, 1917. <title>Omaha Sunday World-Herald</title> 52(37): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

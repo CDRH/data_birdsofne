@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00919">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Triumph for the Birds [Federal Law Against Spring Shooting].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-08-27</date><biblScope>51(48): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Triumph for the Birds.</head>
+         
+         <p>Unless the Supreme court of this nation finds that the federal law against the spring shooting of wild fowl and game birds is unconstitutional or discriminatory, these feathered clans are to be forever protected in their breeding season and the possibility of their extermination becomes remote.</p>
+         
+         <p>The Biological Survey of the department of agriculture last week made publics its anxiously awaited regulations [not legible] the open season on  [not legible] and it positively forbids spring shooting.</p>
+         
+         <p>The officials who drew up this regulation were fairly swamped with petitions carrying thousands of names, imploring that permission be given to shoot ducks and the like while on the way to their nesting grounds during migration.</p>
+         
+         <p>One female duck killed in such season means the killing of a flock - the flock she would have raised, and this point, among many others, was brought to the attention of the department of agriculture in telling letters from hundreds of prominent Nebraskans and members of the Audubon society.</p>
+         
+         <p>The Survey, in issuing its regulation prohibiting spring shooting, calls attention to the fact that the number of game birds has increased mightily during the three years of the federal law, and for this reason extends the time for fall shooting by several days.</p>
+         
+         <p>On the eve of this great triumph for the protection of our migratory birds, it was learned also that the United States and Canada have signed a treaty for the joint protection of migratory song and insectivorous birds, which is a great step forward in that direction.</p>
+         
+         <p>Nebraska, during the past year, has made great progress in education and accomplishment in the protection of the feathered tribes so essential to the conservation of agricultural resources, and it is to be hoped that the legislature will this winter enact a law prohibiting the shooting of morning doves or turtle doves as they are sometimes called - at least during their breeding season. The open time for the slaughter of these useful, beautiful and absurdly tame birds is now between the middle of July and the first of September. The doves are nesting and raising their young during all of this time.</p>
+         
+         <p>The Nebraska Audubon society has grown wonderfully in membership and power since a year ago, and is soon to enter upon its winter campaign with a healthy treasury and a long list of conquests behind it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 27, 1916. Triumph for the Birds [Federal Law Against Spring Shooting]. <title>Omaha Sunday World-Herald</title> 51(48): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

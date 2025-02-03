@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00835">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Sportsmen Issue a Challenge. The Gun Club Proposes to Go Gunning for a Banquet.</title><title level="j">Omaha Daily World</title><author>Editor.</author><date>1886-09-22</date><biblScope>2(26): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-01"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sportsmen Issue a Challenge.</head>
+         
+         <head>The Gun Club Proposes to Go Gunning for a Banquet.</head>
+         
+         <p>The Omaha Gun club held a meeting last night and instructed the secretary to issue a challenge to the Omaha Sportsmen's club for a club hunt, the losers to pay the expenses of a banquet. A committee was appointed to arrange the date of the contest. The revised Omaha Gun club rules governing the count of game will be used. Snipe count from 1 to 8, geese from 8 to 12, crane 15 to 20, herons 10 to 15, swans 30, duck 4 to 8, eagles 25, and miscellaneous from 3 to 25.</p>
+         
+         <p>Quadrupeds count as follows: Grey squirrel 2, fox squirrel 3, rabbit 3, jack rabbit 6, badger 15, coon 15, fox 20, wolf 25, mink 20, otter 25, beaver 25, weasel 15, wild cat 25, antelope 75, deer 100, elk 150, buffalo 200, Rocky mountain sheep 250.</p>
+         
+         <cit>
+            
+            <bibl default="NO">September 22, 1886. <title>Omaha Daily World</title> 2(26): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

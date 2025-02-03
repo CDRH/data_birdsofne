@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00861">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Spring Songs.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-04-08</date><biblScope>58(28): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Spring Songs.</head>
+         
+         <p>Birds come and go through the seasons, but their songs remain in our hearts.</p>
+         
+         <p>In the spring we recognize the songs of long ago, even as we remember prayers long left unsaid.</p>
+         
+         <p>Birds are holy things, especially in the spring, and they come to us so directly from Heaven that their authority cannot be questioned.</p>
+         
+         <p>Prayers are easily memorized by humans, but the songbirds have been worshipping the Master for uncounted years. Their music comes to us exclusively. There is no competition. God gives it.</p>
+         
+         <p>Birds that have been with us all winter are now departing for Northland, while our summer-resident songsters are beginning to arrive.</p>
+         
+         <p>Presently - first of next month - come the Warblers in all their glorious strength; in their choir of praise to the Almighty.</p>
+         
+         <p>Bird-music from those virgin throats inspire us, and the pity is that all of you who read these lines do not go forth into the parks and woods today and make the acquaintance of your best friends.</p>
+         
+         <p>Kilmer said that only God could make a tree.</p>
+         
+         <p>Were it not for God's birds - His work would have been in vain.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 8, 1923. <title>Omaha Sunday World-Herald</title> 58(28): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

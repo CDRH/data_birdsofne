@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00100">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Songs Imitated Cleverly by Mrs. Button.</title><title level="j">Omaha Morning Bee</title><author>Anonymous.</author><date>1918-05-11</date><biblScope>47(281): 5.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Songs Imitated Cleverly by Mrs. Button</head>
+         
+         <p>As an accompaniment to a bird lecture at the joint meeting of the Nebraska Ornithologists' union and the Nebraska Audubon society, held last night at the Unitarian church, Mrs. Lily R. Button, wife of District Judge Button of Dodge county, cleverly imitated the songs of Nebraska birds. Prof. Clarence Mickel of the University of Nebraska delivered the lecture on "Warblers," and showed a number of colored slides of the Nebraska feathered singers. As each bird was shown on the slide Mrs. Button imitated the song until the church building rang with the trills and warblings of the little fellows.</p>
+         
+         <p>The meeting was the annual affair of the Nebraska Ornithological union and the Nebraska Audubon society and was preceded by a banquet served by the women of the church. Two hundred guests were served.</p>
+         
+         <p>Officers elected for the coming year by the Nebraska Ornithological union were: A.M. Brookings, Hastings, president; Miss Jeanette McDonald, Omaha, vice president; and Prof. Myron Swenk, University of Nebraska, Lincoln, secretary and treasurer.</p>
+         
+         <p>The annual trip to Fontenelle forest will be made today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 11, 1918. <title>Omaha Morning Bee</title> 47(281): 5.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

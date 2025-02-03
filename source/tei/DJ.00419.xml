@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00419">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Hunters' Feast. A Royal Lay-Out for the Sportsmen and Their Friends. Snipe and Stories Charmingly Combined.</title><title level="j">Omaha Weekly Herald</title><author>Omaha Sportsmen's Club.</author><date>1880-11-05</date><biblScope>16(5): 7. In Daily Herald on October 30.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+      <revisionDesc>
+      <change>
+        <date value="2005-08-08"/>
+          <respStmt>
+      	<name>Katharine Potter</name>
+          </respStmt>
+          <item>Proofread from Source</item>
+      </change>
+      </revisionDesc>
+      
+      
+      
+                 
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Hunters' Feast.</head>
+         
+         <head>A Royal Lay-Out for the Sportsmen and Their Friends.</head>
+         
+         <head>Snipe and Stories Charmingly Combined.</head>
+         
+         <p>It was the losing side in the Omaha Sportsmen's Club's annual hunt who gave the club supper Friday night at Wirth's. They scored lowest on the count of game after the hunt, but they scored high in the estimation of the guests last night. The members and friends put their feet under a mahogany whose length like the hospitality that spread it was almost boundless, and a review of the faces along the table showed the following:</p>
+         
+         <p>President Hughes, Gen. Crook, J.S. Collins, Secretary Sprigg, Treasurer Preston; J.W. Petty, S.B. Hathaway, G.E. Brucker, F.H. Blake, Geo. T. Mills, J.H. Peabody, H.A. Homan, D.S. Parmalee, W.J. Lard, H.W. Yates, J.J. Hardin, John and R.N. Withnell, M.W. Kennedy, John McCaffrey, Charles McCormick, J.F. McCartney, A.E. Touzalin, Mayor Chase, W.H. Gates, B.D. Troxell, Stewart Hayden, and representatives of the Press.</p>
+         
+         <p>The party was a general one and discussed the merits of the spread like true connoisseurs. It was difficult to tell whether the winner or the loser manifested the better appetite, or whether the guests partook with more zest than either. Gen. Crook had quite rallied from the fatigue of transporting 200 pounds of cartridges across the sandbars of the Platte; time had healed the sorrows of Dr. Peabody's morning hunt when he was out of sight of land and game; Blake was consoled for line broken gun, and other sportsmen banished all thoughts of fatigue or mishaps when they met at the board.</p>
+         
+         <p>The table was loaded with the triumphs of the artist-cook-geese from the Platte sandbars were there served <hi rend="italic">a la ecaralette</hi>; snipe from Iowa lakes, smothered or on toast; mallards from the northern country, rendered up <hi rend="italic">a la bourghounonne</hi>, and other birds appropriately prepared with the attendant sauces, jellies, salads, coffees, cakes, etc.</p>
+         
+         <p>After the feast President Hughes, Dr. Peabody, Mayor Chase, Richard Withnell, S.B. Hathaway and W.J. lard related hunting episodes or discussed the conservation of game, and the meeting finally broke up, leaving all happy and contented.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Friday November 5, 1880. <title>Omaha Weekly Herald</title> 16(5): 7.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

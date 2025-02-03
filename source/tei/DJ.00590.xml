@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00590">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska.</title><title level="j">Forest and Stream</title><author>Snap Shot [pseud.].</author><date>1887-12-29</date><biblScope>29(23): 45.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-06-08"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <p>Nebraska.—Louisville, Dec. 11.—Along the Platte River this fall the geese have been more numerous than for the past few seasons. Only a few, however, have been bagged in this vicinity, as they chiefly stay on bars in the middle of the river, and one cannot get at them with a boat on account of the shallowness of the water, nor wade with safety on account of the quicksands. Quail are quite numerous, but the deep snows of '85 and '86 thinned them out badly. The coveys are small in numbers compared to those of a few years ago. Chickens are very scarce; I cannot account for it, as they had a good hatching season. Rabbits are quite numerous, and a good many large bags have been made.—Snap Shot.</p>
+         
+         <cit>
+            
+            <bibl default="NO">December 29, 1887. <title>Forest and Stream</title> 29(23): 45.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

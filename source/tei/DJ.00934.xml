@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00934">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Veritable Gunners' Paradise.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1894-08-12</date><biblScope>p. 16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-19"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Veritable Gunners' Paradise.</head>
+         
+         <p>There is but little doubt, I will say in answer to innumerable inquiries, but one of the best countries in the world for feathered game, and for fish of all kinds, is that lying adjacent to the Elkhorn road traversing the state northwestward. In many of the localities, chicken, quail, plover, geese, ducks, yellow legs, crane and the sand piper family, as well as many varieties of fish, can be found in a single day's hunt.</p>
+         
+         <p>The season for chicken shooting is now drawing near, and all the country between Norfolk and Chadron is overrun with these royal birds; there will be great shooting also on the Albion line between Humphrey and Oakdale, along the Verdigre branch and all through this region. At almost any of the stations good chicken shooting, coupled with first-class accommodations, can be obtained, and in numerous localities plover and wild fowl are always to be found in abundance in season. These may all be found on a single trip.</p>
+         
+         <p>For a man who only has a few days, and especially desires to shoot chicken, the stations between Oakdale and Long Pine and north of Norfolk offer the greatest inducements in the way of accessibility and amount of sports within reasonable distance of the towns. Men with more time who are bent on camping for a week or longer and enjoy the greatest variety of shooting, and good fishing, most any of the stations will answer, or those west of Long Pine to Chadron. The latter affords many excellent grounds by a drive of from six to ten miles back from the railroad, much of which have never been shot over, and where an abundance of all kinds of game abound, from the stately Canada goose to the lordly swan and sandhill crane. From Atkinson, Newport, Stuart, Bassett, Long Pine, Wood Lake, Johnston and Valentine and other points the drive can be made to points where fishing can be had in addition to superb hunting. The best accommodations can be had at many of the ranches and farm houses where parties do not care to camp out. Many of the Elkhorn's agents are the best posted as to game and are always ready to introduce sportsmen to reliable persons who will give the necessary information and assistance to insure the best of sport. Throughout this entire territory you will find but few farmers who will object to your shooting on his premises and legitimate sportsmen are always welcome. September and October are the great months. There is but little fear of stormy weather, and all you want to grow fat and healthful and saucy is an old suit of clothes, a good gun and plenty of shells. Last season Judge Powers and Campbell went to Atkinson, drove out twelve miles, put up at a ranch all night and hunted back the next morning, killing ninety-seven chickens, a number of ducks and geese.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. August 12, 1894. <title>Omaha Sunday Bee</title> p. 16.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

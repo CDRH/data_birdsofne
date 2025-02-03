@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00001">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">About Prairie Chicken Trapping.</title><title level="j">Forest and Stream</title><author>W. R. H.</author><date>1894-12-22</date><biblScope>43(26): 560.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-19"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>About Prairie Chicken Trapping.</head>
+         
+         <p><hi rend="smallcaps">Sioux City</hi>, Dec. 14.—<hi rend="italic">Editor <title>Forest and Stream</title>:</hi> The season of the year in which the trapper of prairie chickens gets in his deadly work is fast approaching and I think that a little jogging of the memory on the subject will not be amiss on the part of the various State game protective associations, game wardens and all who are interested in the preservation of this fast disappearing bird. State Legislatures as a rule will soon be in session and now is the time for us to get more stringent laws on the subject passed. I think that while the general game laws may be amended to advantage, we can do more real good if they are let alone as they now stand and our attention is directed toward the enactment of such new laws that the trapper will find it unprofitable to break. Trapping is done almost entirely by farmers and destroys more game than all the market-hunters, game-hogs and others combined.</p>
+         
+         <p>Now that the cold weather is setting in, the chickens are moving south; and sections that since early in the spring have been deserted are now full of birds coming from Minnesota and Dakota. All through Central Nebraska and along the Missouri River in South Dakota, Nebraska and Iowa the cornfields are full of them, where a short time ago one might hunt for a week without finding one. These birds are so wild that there is little danger of many being killed in a legitimate way, but as the ground is covered with snow and their food is out of reach they will become victims of the deadly traps by the thousand, to say nothing of the hundreds that will be potted as they huddle under some haystack or other cover for protection against the snow and cold.</p>
+         
+         <p>I don't know whether Iowa has a game warden or not, but if there is such an official or any organization for game protection they can find plenty of work this coming winter if they want it right in the Missouri River bottoms. As a starter they could not do better than visit and investigate thoroughly Monona county; in the vicinity of Onawa in that county trapping has always been practiced to a large extent. In my own trips in the latter part of the season I have never failed to see dozens of traps in plain sight from the wagon-roads. I have a number of friends in Onawa who are sportsmen in every sense, and who deeply deplore this state of things but say that the men who violate the laws are customers of theirs, and it would mean ruin to their business if they should prosecute the offenders. Now right there is a fine field for a game warden to commence operations, and I could and will name dozens of other localities if that is not enough to warrant the proper officials beginning their work.</p>
+         
+         <p>I understand that South Dakota sportsmen intend to do something besides talk toward putting a stop to trapping in the southern counties along the Missouri River and I sincerely hope it is true. A few more years such as last season and the chickens will be as extinct in South Dakota as the buffalo.</p>
+         
+         <p>W. R. H.</p>
+         
+         <cit>
+            
+            <bibl default="NO">December 22, 1894. <title>Forest and Stream</title> 43(26): 560.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00033">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">An Artful Architect [Eastern Wood-Pewee].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-07-18</date><biblScope>50(42): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>An Artful Architect.</head>
+         
+         <p>Picture a wooded park and a nearby ravine. It is warm and the almost tropical foliage hangs about and overhead in motionless and stifling grandeur. The bluejay and the incessant dickcissel relieve the silence, varied anon by the bubbling notes of the yellow warbler. A hot summer day in the jungles, folks - and a day worth spending there!</p>
+         
+         <p>Out of this moist, earthly heart of nature there comes the sweetest, the most plaintive, the most illusive and indescribable song of any offered by the multitude of feathered friends hidden in the copse and glade. It is a mere breath of a song - a fancy - almost a dream. When you have heard it you wonder in the next moment whether it was not of the coinage of your imagination - a fleeting trick of the ear - a bit of the darling magic of woods.</p>
+         
+         <p>"Pee-a-wee-e-e-e?" inquires this wraith-like note, and then answers itself soberly, sadly - "Pee-wee-e-e!"</p>
+         
+         <p>Nonsense, you woodland scouts - it is naught but the Wood Pewee - and if you can find him by following his song you have indeed the best of ears and the best of eyes. For he is a ventriloquist - and a clever one, too! While he enraptures you with his honey-like melody, he will seem a thousand mystic miles away - and yet there he is, pert, yet modest, perched on a barren limb, where he may the more easily survey his own tiny world.</p>
+         
+         <p>A flycatcher - the Wood Pewee - and the cleverest architect of all the forests.</p>
+         
+         <p>His nest is as much a thing of fairyland as he is himself - a tiny little cup of leaves and moss, built on some horizontal limb, generally stretching across a ravine. The feathered architect constructs his cozy home in the exact color scheme of the limb or branch, and it has the appearance of nothing but a knob or knot. You will never find this wonderful bungalow except by watching the Wood Pewee in person, and that is no slouch of a job, either, for he flits back and forth like lightning across the open spaces, snatching insects from the air for himself and family.</p>
+         
+         <p>While Pewees are common enough in the glades about Omaha, the nests that have been found might be counted on the fingers of a very few hands.</p>
+         
+         <p>Try to discover one yourself. If you succeed you will be a hero among the lovers of bird lore. Go out today and try your luck - it is real sport.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 18, 1915. An Artful Architect [Eastern Wood-Pewee]. <title>Omaha Sunday World-Herald</title> 50(42): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

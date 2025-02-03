@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00824">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Dead Game Sport [Chickadee].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-07-25</date><biblScope>50(43): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Dead Game Sport.</head>
+         
+         <p>Some months ago, when the snow acreage in Nebraska was considerably larger than it is at present, all due respects were paid to the greatest of all Woodland Minstrels - the Chickadee.</p>
+         
+         <p>At that time, in these columns, a large and varied assortment of adjectives was employed in telling folks about the virtues of this black-capped mite of the frozen glades, and it was remarked that one of the most likeable qualities thereof was his virulent persistency - his wealth of song in spite of all exigencies of weather, and his apparent cheerful disregard of temperature, be it ever so hideous.</p>
+         
+         <p>Thus the Chickadee must again be honored in these torrid woods, when the bulk of the work of the woodland orchestra falls upon the dickcissel, the field sparrow and other kindred salamanders of Nebraska plains and jungles.</p>
+         
+         <p>Six months ago, when the parks and ravines were deep with snow and the bows were bending with their frosty cargo, there came through the crisp silence that cheerful carol.</p>
+         
+         <p>"Chickadee! Chickadee-dee-dee!"</p>
+         
+         <p>The quaint squawk of the nuthatch and the wiry squeak of the brown creeper were the only answer at the time - the only reliable answer.</p>
+         
+         <p>Now, however, these same parks and ravines are choked with foliage, sheltering and sweltering in a true Nebraska summertime. In their hidden [word not legible] there are birds in myriads - [word not legible] love beauties who will depart with the first cool wisp of autumn air from the north and who will forget [word not legible] protected havens as quickly as a [word not legible] widow abandons her immature [word not legible] when the last boat leaves.</p>
+         
+         <p>The nuthatch and the brown creeper have gone to the polar regions for the summer, and the realm of the songster has been left to the feathery invasion from the south, but there still is heard that cheery and persistent call:</p>
+         
+         <p>"Chickadee! Chickadee-dee-dee!"</p>
+         
+         <p>Well, folks, that's the answer! This Chickadee person is a bird of character. He likes Nebraska through and through. PErhaps you have noticed that every once in a while somebody leaves these parts to get-rich-quick in other climes, only to return to set up in business once more under the protecting wing of the Cornhusker state. When he returns he has to start all over again.</p>
+         
+         <p>Then the dead game sports, who have stuck by the guns, greet him with a cheery welcome, which might well be set to the music of that faithful thicket booster.</p>
+         
+         <p>"Chickadee! Chickadee-dee-dee!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 25, 1915. A Dead Game Sport [Chickadee]. <title>Omaha Sunday World-Herald</title> 50(43): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

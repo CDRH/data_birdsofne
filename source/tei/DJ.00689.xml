@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00689">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Prairie Chickens.</title><title level="j">Forest and Stream</title><author>W. R. H.</author><date>1894-10-20</date><biblScope>43(16): 334-335.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-02"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Prairie Chickens.</head>
+         
+         <p>Beatrice, Neb., Oct. 7.—Traveling in Nebraska during the last three weeks over the major portion of the State, I could not help having brought forcibly to my attention the fact that game of all kinds and particularly prairie chickens are fast disappearing. Why the sportsmen of the State will not awake to this fact is a mystery I cannot explain. I carry my gun with me, and whenever an opportunity presents itself I am eager to go out in the country for a few hours' shooting, but those occasions are becoming more painful to me every year, owing to the growing scarcity of the birds.</p>
+         
+         <p>I know a great many sportsmen throughout the State and get from them a very good idea of the game prospects. Their reports of chickens become more gloomy every year. That the bird is rapidly becoming a thing of the past is only too clear. "Not a chicken in the county" is a remark that is almost universal. Mr. D.E. Fuller, in the issue of Sept. 29, stated a fact when he said chickens are a rare bird in that section. They are rare in most sections of the State. The district to-day in Nebraska in which they are at all plentiful is in the unsettled sand hills in the northwestern part of the State, and they will not be so there long. "Diamond Walt" mentions a party of market-hunters as leaving Grafton for the sand hills. Why, the hills are full of such parties. A number of sportsmen friends of mine living at Hastings have just returned from a two-weeks' hunt near Telford [Thedford], and tell me that within half a mile of their party seven different outfits of market-hunters were in camp and making big shipments daily.</p>
+         
+         <p>Some of these days a State sportsmen's association will be formed, when it will be too late to protect the game, and they will deplore the scarcity of game and pass mighty resolutions, and petition the legislature and all that sort of thing, and raise funds to import birds and attempt to restock the depleted covers. Why cannot such an association be formed now to see that the present laws are enforced? The laws are all right; all that is needed is to enforce them. It will be a little trouble, but not nearly so expensive as restocking, and much more satisfactory.</p>
+         
+         <p>The general reason given for the scarcity of chickens is that they died from lack of water. They died, it is true, but not from that cause, and long before the drought struck Nebraska. Quail are fairly plentiful; how is it that they survived&gt; I have been out twice during the past week and saw quite a number of bevies each time, but not the faintest sign of a chicken.</p>
+         
+         <p>While at Sutton I spent an afternoon with two friends most pleasantly. We found nine bevies of quail, and though the young dog we had with us would not work, we managed to walk up quite a number and bagged 53. Several more were killed, but we could not find them. That provoking dog would stand around and wag his tail in the most amiable sort of way, and bark his approval every time a bird got up, but he utterly refused to look for dead birds; that wasn't his line of business. Coming home, my friends pointed out a field in which five chickens had been found and killed earlier in the season, and added that those birds were the only ones seen or killed this season in their section. A few years ago chickens were thicker than blackbirds in that neighborhood, but the market-hunter has been around since then.</p>
+         
+         <p>By the way, "Diamond Walt" speaks of that bevy of quail at the Grafton Park. They must be something more than the common variety. I didn't know that quail piped "Bob White" so late in the season.</p>
+         
+         <p>W. R. H.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 20, 1894. <title>Forest and Stream</title> 43(16): 334-335.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

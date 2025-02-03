@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00841">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Spreading the Gospel.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-07-14</date><biblScope>53(41): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Spreading the Gospel.</head>
+         
+         <p>THere can be no doubt that most thinking people are now fully convinced that the birds must live if we intend to, and that the Almighty placed these beautiful creatures upon this globe for a purpose so important that exaggeration is well nigh impossible.</p>
+         
+         <p>Especially in war time, when we are urged to conserve every kernel of grain and every pound of vegetable food, should we take to heart the government's assurance that the birds are our best protection against the ravages of noxious insects, worms and rodents - all of which are constantly foraged upon by different classes of these winged experts.</p>
+         
+         <p>Apparently some misguided folks in Cass county have been revenging themselves upon Robins for taking their cherries, overlooking the fact that if it were not for these same robins and other birds, there would be no cherries to take.</p>
+         
+         <p>L.J. Mayfield, editor of the Louisville Weekly Courier, of that county, calls attention to this depredation, and bases his argument more upon the humane foundation, in which he is correct. it certainly requires a heart of Bessemer steel to deliberately murder a robin, who is as cheerful and companionable and friendly as the household dog. Mr. Mayfield says, in his newspaper:</p>
+         
+         <p>"Reports reach us that there are people in Louisville who make practice of shooting robins. They give, as their excuse, that the robins eat their cherries. We cannot imagine a person in this day of bird study, when all children are taught in school to protect the birds, and to feed them, and put up houses for them and to study their habits, who would take deliberate aim at one of the best loved birds, because they happened to eat a few cherries.</p>
+         
+         <p>"Enlightened people now feel honored when a robin family condescends to make their home on the premises, and are willing to divide their fruit with them. It is also against the law to shoot a robin, and anyone seen shooting one is liable to be prosecuted. More than one nest full of young robins around here have died of starvation because their industrious parents were caught in some man's cherry tree. Let the birds live! Have a heart!</p>
+         
+         <p>Audubon, in his honored grave, may take great satisfaction in the fact that there are very few instances of bird murder nowadays as compared with the times in which he lived and studied. In the country and in big cities such as Omaha the songsters are comparatively safe, even against thoughtless youth, for the slingshot and the air rifle in but rare instances are aimed at these friends of humankind. Nests are no longer disturbed and, on the contrary, the youngsters devote a goodly share of their leisure hours to the job of helping the birds in their career.</p>
+         
+         <p>The cherry-raisers of Louisville should listen to Editor Mayfield, for they are way behind the times.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 14, 1918. <title>Omaha Sunday World-Herald</title> 53(41): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

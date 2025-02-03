@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00383">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Gun Club Banquet. The Most Successful Event of Its Kind Ever Held in Omaha.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1885-10-30</date><biblScope>p. 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-01"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Gun Club Banquet.</head>
+         
+         <head>The Most Successful Event of Its Kind Ever Held in Omaha.</head>
+         
+         <p>Forty-two guests sat down at the annual banquet of the Gun club, which was held at the Millard hotel last evening. This number included besides the members of the club about a dozen invited guests. The table was set in oblong form and elegantly trimmed. At the head sat Mr. Jeff W. Bedford, with Hon. B.E.B. Kennedy and Judge Lake on his right and left respectively. Capt. Hughes occupied the opposite end, and ranged along either side were the remaining guests. The first duty before the assemblage was the discussion of the viands, which consisted of all the delicacies of the season, as will be shown by the following:</p>
+         
+         <table width="300">
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="bold">Menu.</hi>
+                  
+                  <list type="simple">
+                     
+                     <item>Blue Points en Couquelle.</item>
+                     
+                     <item>Celery.
+<milestone rend="hr" unit="100"/>
+                     
+                     </item>
+                     
+                     <item>Consomme, Sportsman Clear-Quenelles</item>
+                     
+                     <item>Spanish Olives.
+<milestone rend="hr" unit="100"/>
+                     
+                     </item>
+                     
+                     <item>Jack Snipe on Toast.</item>
+                     
+                     <item>Breast of Quail Larded-Financiers.</item>
+                     
+                     <item>Saratoga Chips.
+<milestone rend="hr" unit="100"/>
+                     
+                     </item>
+                     
+                     <item>Roast Goose, Apple Sauce.</item>
+                     
+                     <item>Mashed Potatoes.
+<milestone rend="hr" unit="100"/>
+                     
+                     </item>
+                     
+                     <item>Canvas back Duck with Jelly.</item>
+                     
+                     <item>Mallard Duck with Dressing.</item>
+                     
+                     <item>Red Head Duck a la Bourgeoise.</item>
+                     
+                     <item>Green Peas.
+<milestone rend="hr" unit="100"/>
+                     
+                     </item>
+                     
+                     <item>Cold and Ornamental Dishes.
+<hi rend="bold"/>Teal, Blue-bill and Butter Ball Ducks.</item>
+                     
+                     <item>En Bellevue.
+<milestone rend="hr" unit="100"/>
+                     
+                     </item>
+                     
+                     <item>Champagne Punch.
+<milestone rend="hr" unit="100"/>
+                     
+                     </item>
+                     
+                     <item>Prairie Chicken Salad, en Mayonnaise.
+<milestone rend="hr" unit="100"/>
+                     
+                     </item>
+                     
+                     <item>Plum Pudding,           Brandy Liqueur.</item>
+                     
+                     <item>Wine Jelly           Roman Punch</item>
+                     
+                     <item>Assorted Cakes,           Ice Cream</item>
+                     
+                     <item>California Grapes,           California Pears.</item>
+                     
+                     <item>Oranges.</item>
+                     
+                     <item>Coffee</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>Having done the repast justice the guests lighted their cigars and prepared to enjoy the second feast of the evening—that of reason. The first speaker of the evening was Judge Lake, who entertained the boys most handsomely with anecdotes of the first years of the organization of the gun club. He narrated the occurrence of the first banquet in 1863 in a little frame house where the fish market now stands.</p>
+         
+         <p>Hon. B.E.B. Kennedy followed. He and Judge Lake are the only original members of the old club who are still alive which fact lent a charm to their interesting and well told tales. Mr. Kennedy, like his predecessor, told old jokes and stories of the pioneer days.</p>
+         
+         <p>Captain Hughes, in his own peculiar way, entertained the guests with a recounting of experiences and hunting stories. General George Smith, Eugene Finger and Mr. Hathaway were the other speakers of the evening. Their speeches, while widely different in style and incident, were all relative to subjects peculiarly interesting to sportsmen. At about midnight the assemblage dispersed.</p>
+         
+         <p>The affair is counted the grandest success of any banquet yet given. T.H. Cotter, C.B. Lane and F.S. Parmelee, the committe having the matter in charge, are awarded the highest credit for the earnest efforts they put forth to make the affair an entire success.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 30, 1885. <title>Omaha Daily Republican</title> p. 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

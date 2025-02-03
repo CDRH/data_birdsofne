@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00817">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Song Sparrows.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-02-04</date><biblScope>58(19): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Song Sparrows.</head>
+         
+         <p>"I saw a bird the other day, he was about as big as a Sparrow - "</p>
+         
+         <p>How often do we hear our kind and well-meaning friends thus open an amateur ornithological discussion.</p>
+         
+         <p>"About as big as a Sparrow" might be about fifty different sizes - for there are about that many different sparrows, and all of them are delightful and useful birds, with the single exception of the filthy and pestilential European, House or English Sparrow, that was imported here for no good.</p>
+         
+         <p>The study of our residential and migratory Sparrows is almost as interesting as it is baffling, and it must be admitted that many varieties cannot well be identified without possession of a specimen, and certainly no true bird lover, unless professionally scientific, would go as far as to take a specimen.</p>
+         
+         <p>At present, in our weed patches along the creeks, there are to be found many of the Tree Sparrows as usual at this time of year. These birds, with the pencil spot in the center of their gray breasts, are annual winter visitors.</p>
+         
+         <p>But there are also considerable numbers of Song Sparrows, hiding and darting about in the brush-heaps in the vicinity of Omaha, and these offer unusual chances for study.</p>
+         
+         <p>These are the same dainty Sparrows that in the impending springtime will fascinate you with the most delightful of all melodies. Today they have nothing to offer but a smart chip.</p>
+         
+         <p>Make the Song Sparrow a friend of yours today; you will appreciate that friendship very much within a couple of months.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 4, 1923. <title>Omaha Sunday World-Herald</title> 58(19): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00982">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Winged Game. The Splendid Sport it Affords on Nebraska Waters. A Roving Hunter Tries It and Gives His Opinion.</title><title level="j">Omaha Weekly Herald</title><author>Tucker, S.A. and J.W. Petty.</author><date>1880-11-12</date><biblScope>16(6): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-08-08"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Winged Game.</head>
+         
+         <head>The Splendid Sport It Affords on Nebraska Waters.</head>
+         
+         <head>A Roving Hunter Tries It and Gives His Opinion.</head>
+         
+          <p>The fine bag of game made by S.A. Tucker, representative of the Parker gun, of Meriden, Conn., and J.W. Petty, of this city, on their expedition Monday, shows the possibilities of hunting on Nebraska waters. Famous bags have been made heretofore on the North Nebraska lakes and along the sandbars of the Platte, and this last achievement comes simply to emphasize what they had already proclaimed. In one day's shooting Messrs. Tucker and Petty, hunting along the Platte river between Clark's and Silver Creek, about 115 miles west of Omaha, captured 64 geese, 8 ducks and twelve quail. There is no doubt but if they had cared to shoot more they could have bagged a hundred birds, but they did not know what to do with all they had, and were not disposed to slaughter uselessly. Neither is there any doubt that they could have gone out on the following day and with proper management have brought down a hundred more.</p>
+         
+         <p>Mr. Tucker is an enthusiastic and observant sportsman and his business takes him to all parts of the country, where he has splendid opportunities for shooting. He has studied the feeding grounds and habits of sea fowl, particularly of ducks and geese. In view of these things a Herald reporter sought Mr. Tucker's opinion on the hunting along the Platte as compared with what he had seen elsewhere.</p>
+         
+         <p>Mr. Tucker said: "I think there is no place in the United States this side of the mountains where a man can get so large a bag as on the Platte river. I have shot on the Sacramento river in California, on the Currituck sound, North Carolina, and at other famous localities for years, nearly all over the United States."</p>
+         
+         <p>"We find the Canada goose," he added, "as far east as Maine, but they winter as far south as Currituck sound. The Hutchins and snow geese are not found in large numbers there, and the white front or western brant which is also abundant here, is very scarce there. I shall try to find, on my trip south, where the white fronts and snow geese winter. They do not get as far east as New York, and I presume they winter in Texas."</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 12, 1880. <title>Omaha Weekly Herald</title> 16(6): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

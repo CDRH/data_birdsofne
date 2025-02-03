@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00164">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cherry Thoughts - Birdlover!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-01-29</date><biblScope>57(16=18): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cherry Thoughts - Birdlover!</head>
+         
+         <p>No matter what the condition of the weather today, the amateur ornithologist may take plenty of comfort in the knowledge that a large number of our most beautiful migrant Warblers are already leaving South and Central America, Mexico and even Texas, headed our way.</p>
+         
+         <p>Records show that the Black and White Warbler sometimes leaves Mexico and those parts for the north as early as the first of the year, and, naturally, is one of the first to reach this section. It is remarkable, however, that the Myrtle Warbler, which is generally the very first to arrive, coming in sometimes when there is yet snow on the ground, leaves the Southland later than several other species of Warbler. It is therefore apparent that Mr. and Mrs. Myrtle are speedy travelers, as Warblers go.</p>
+         
+         <p>A Black and White Warbler was seen in Elmwood park in the latter part of last July, on his way back south, having concluded his duties as a father and raiser of families - somewhere up in the Minnesota woods, no doubt.</p>
+         
+         <p>Besides the welcome thought that the Warblers are on their way to us, it is equally as cheering to know that within six weeks the birds will be nesting in the outskirts of Omaha.</p>
+         
+         <p>"What?" you may exclaim.</p>
+         
+         <p>Yes, the Horned Larks often nest earlier than the middle of March - and said nest is on practically bare ground in the field, under the scant protection of a little gully or hole.</p>
+         
+         <p>Signs of spring that cannot be denied.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 29, 1922. <title>Omaha Sunday World-Herald</title> 57(16=18): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

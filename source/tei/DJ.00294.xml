@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00294">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Feathered Hijackers [Birds Rifle Caches of Others].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-04-11</date><biblScope>55(29): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Feathered Hijackers.</head>
+         
+         <p>Sometimes it seems that human beings after all are but little more than educated animals. There are hijackers, for instance, who wear long trousers and sawed-off shotguns - and also hijackers that wear feathers and long, low rakish beaks.</p>
+         
+         <p>All during the early fall and early winter, the "bark birds," such as Chickadees, Nuthatches, Brown Creepers and the various woodpeckers, busily engage themselves in storing away, in bark crevices, such surplus food as they may come upon. Especially they delight in hoarding the beef suet kindly cached for them by bird-lovers, of which there is a constantly increasing number.</p>
+         
+         <p>But when unseasonable cold spells come along, accompanied by sleet and other manifestations of a heartless nature inclined to cover up bird food, these feathered folk immediately turn into woodland "hijackers," and blandly spend their time seeking out and rifling the caches made by other birds.</p>
+         
+         <p>Mister Joseph Nuthatch, for instance, has no compunction in swiping a few chunks of suet or a couple of larvae from the "plant" stored by Mr. and Mrs. Phillip Nuthatch. On the other hand, Mr. John B. Chickadee will cheerfully pilfer a few banquets from the supply of Mr. and Mrs. A. Downie Woodpecker.</p>
+         
+         <p>So these feathered hijackers pursue the even tenor of their ways, and by systematically stealing from each other, eventually even things up, so that everybody is happy - what?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 11, 1920. Feathered Hijackers [Birds Rifle Caches of Others]. <title>Omaha Sunday World-Herald</title> 55(29): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

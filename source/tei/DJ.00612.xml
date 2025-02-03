@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00612">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Notes From Nebraska.</title><title level="j">Ornithologist</title><author>Kline, H. A.</author><date>1883-01-01</date><biblScope>8(1): 18-19.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+
+<revisionDesc>
+<change>
+  <date value="2005-08-01"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Notes from Nebraska.</head>
+         
+         <p>April 21, '82, found my first nest of the American Long Eared Owl. 'Twas in the forks of a small white oak tree fifteen feet from the ground and contained five eggs ready to hatch. It resembled that of the Common Crow, only smaller. While I was examining this nest the old birds showed their displeasure by flying and darting close to me, continually snapping the bill.</p>
+         
+         <p>At times they would alight upon the ground and with spread wings and tail flutter around, doubtless for the purpose of alluring the intruder from their nest. The same day I found the nest of a Black Cap Chickadee containing six fresh eggs.</p>
+         
+         <p>April 23d I found the nest of a Screech Owl in a hollow tree twenty inches below the opening. It contained three fresh eggs. From this same tree during the Winter of 1881 and '82 I captured five fine specimens of this owl.</p>
+         
+         <p>May 1st I took another set of eggs of the American Long-eared Owl. This, like the former, contained five eggs and they were incubated about two weeks. Another nest was found on May 4th with five eggs almost hatched.</p>
+         
+         <p>May 6th I discovered the nest of a Red-tailed Hawk in a Red Elm tree fifty-eight feet from the ground. After a very hard climb I found the nest contained four (?) young about two weeks old. On the 13th of May I found two more nests of this hawk, both of which contained eggs; one two, and the other three.</p>
+         
+         <p>May 18th I was informed by a herder or "Cow Boy" that he had found a burrow on the prairie inhabitated by a Burrowing Owl. The next evening armed with a spade we repaired to the place and after digging six feet we came upon the nest. It was about two feet under the ground, and contained nine young of various sizes, and two eggs, one of which was pecked. The burrow was evidently made by some burrowing animal, probably a skunk.</p>
+         
+         <p>Cooper's Hawk.-The following is the date of different nests found this year: May 11th, one nest containing four fresh eggs. May 15th, one containing four and another containing five eggs, all of which were fresh. May 17th, two more nests containing five eggs each. These were slightly incubated. May 11th I received a full set of eggs of the Marsh harrier, five in number. The nest was placed on the ground in the prairie grass. Two more nests were found, May 18th, containing respectively five and six eggs. These last were slightly incubated. May 17th I also found a nest of the Short-eared Owl. It was on the ground in the prairie grass and contained eight beautiful eggs. A good Pointer dog is invaluable to any one collecting eggs here, as these Owls and Hawks give chase whenever he comes near their nest. The dog will come very handy also to find the nests of Prairie Hens, Plover, Larks, &amp;c.</p>
+         
+         <p>H.A. Kline, Polo, Ill.</p>
+         
+         <cit>
+            
+            <bibl default="NO">1883. <title>Ornithologist</title> 8(3): 18-19.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

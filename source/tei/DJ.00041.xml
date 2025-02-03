@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00041">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Poem on Autumn Waterfowl Hunt near Pawlet].</title><title level="j">Omaha Sunday Bee</title><author>Madison, Peter.</author><date>1896-03-01</date><biblScope>page 15.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>[Poem on Autumn Waterfowl Hunt near Pawlet]</head>
+         
+         <p>Pawlet, Feb. 4.-To the Editor of The Bee: The following poem I dashed off last night with one hand behind my back. It depicts, however, in realistic colors, and aroma, an event which occurred at Hamilton's lake a year ago last fall. I acted as a guide to the party referred to in verse, and you will confer a great favor on their sandhill friends by giving it a place in your valuable columns.</p>
+         
+         <list type="simple">
+            
+            <item>Draw your cheers a little closer,</item>
+            
+            <item>Git aroun' the blazing log,</item>
+            
+            <item>Fill them up again there, landlord,</item>
+            
+            <item>Let us have a drop o' grog;</item>
+            
+            <item>An' I'll tell yez all a story</item>
+            
+            <item>'Bout a party of the boys,'</item>
+            
+            <item>From the town of Omahaha</item>
+            
+            <item>Who came out to make some noise,</item>
+            
+            <item>With their nice, slick hunting breeches</item>
+            
+            <item>An' their guns all polished up,</item>
+            
+            <item>They was goin' to have some shooting</item>
+            
+            <item>Be it quail, or "chick" or pup,</item>
+            
+            <item>An' they had their ammunition,</item>
+            
+            <item>Faith they knew just what to bring,</item>
+            
+            <item>In a flask of glass and leather,</item>
+            
+            <item>Stuff to set one's blood a-ting.</item>
+            
+            <item>Well they see me standing near them</item>
+            
+            <item>An' they'd heard o' me, they say,</item>
+            
+            <item>So they hired me to go with 'em,</item>
+            
+            <item>Said they weren't afraid to pay,</item>
+            
+            <item>An' I promised that I'd fetch 'em</item>
+            
+            <item>Where they'd get the best of game.</item>
+            
+            <item>So we tramped around the sandhills</item>
+            
+            <item>An' all we saw was mighty tame.</item>
+            
+            <item>Well, there wasn't much use shootin'</item>
+            
+            <item>When we'd nothing for a mark,</item>
+            
+            <item>So we thought we'd make a cottage</item>
+            
+            <item>For the night was getting dark.</item>
+            
+            <item>An' they told me who they was, then</item>
+            
+            <item>As we sat around the fire-</item>
+            
+            <item>Lord! I mind it well this minute-</item>
+            
+            <item>The thermometer was higher,</item>
+            
+            <item>'Course tonight it's down past zero,</item>
+            
+            <item>But that night it warn't so bad,</item>
+            
+            <item>Tho' t'was cold enough, I'll bet you</item>
+            
+            <item>And those fellows, they were glad</item>
+            
+            <item>That they'd brought some "bitin' billy"</item>
+            
+            <item>In their little leather flask.</item>
+            
+            <item>Well, they emptied it and filled it,</item>
+            
+            <item>An' I had all that I could ask.</item>
+            
+            <item>One they said, was Sandy Griswold,</item>
+            
+            <item>And a sport yez ought to see,</item>
+            
+            <item>All the others said that Sandy</item>
+            
+            <item>Wrote the sermons in The Bee,</item>
+            
+            <item>He was kind o' church reporter,</item>
+            
+            <item>'Cause he was so meek and good</item>
+            
+            <item>But I never saw no churchman</item>
+            
+            <item>Hit that flask as Sandy could.</item>
+            
+            <item>One of them they all called Stocky</item>
+            
+            <item>An' his maiden name was Heth,</item>
+            
+            <item>But he felt a kind of rocky</item>
+            
+            <item>'Cause he had some aching teeth,</item>
+            
+            <item>Aching not because they hurt him,</item>
+            
+            <item>But because he wanted game.</item>
+            
+            <item>he was quite a hand at shootin',</item>
+            
+            <item>And plain grub was kind of tame.</item>
+            
+            <item>Hamilton, He was another,</item>
+            
+            <item>But he didn't make much noise</item>
+            
+            <item>And the others said that he was</item>
+            
+            <item>Always Frank, when with the boys.</item>
+            
+            <item>Well, he wasn't much on drinking,</item>
+            
+            <item>For he was a quiet chap,</item>
+            
+            <item>So he quietly retired and</item>
+            
+            <item>Said he guesses he'd take a nap.</item>
+            
+            <item>But, of course, I can't Skip Dundy,</item>
+            
+            <item>He was with us, too, that night,</item>
+            
+            <item>As we all turned in at bedtime,</item>
+            
+            <item>Going to bed by pale moonlight.</item>
+            
+            <item>Well, we hadn't been asleep yet</item>
+            
+            <item>More'n an hour or so at most</item>
+            
+            <item>When we heard a tap, tap, tappin'</item>
+            
+            <item>At the door and window post.</item>
+            
+            <item>And we wondered what the row was</item>
+            
+            <item>Some one says, "It's a chip-munk;"</item>
+            
+            <item>Others, it was something different;</item>
+            
+            <item>And sez I, "Boy's, it's a skunk;"</item>
+            
+            <item>Then up sprang the sturdy Sandy</item>
+            
+            <item>Pale and trembling like a child,</item>
+            
+            <item>With is teeth all set a-clinchin',</item>
+            
+            <item>And his eyes a-startin' wild.</item>
+            
+            <item>An' the one they all called Frankie</item>
+            
+            <item>With abbreviated shirt</item>
+            
+            <item>Looking like a naked scare-crow</item>
+            
+            <item>Says, "Aw, now, is he good sport,"</item>
+            
+            <item>Well, they shot at him and missed him,</item>
+            
+            <item>An' they shivered like to freeze</item>
+            
+            <item>In their low neck, short-sleeved clothing</item>
+            
+            <item>Till they all began to sneeze.</item>
+            
+            <item>The next morning found some bullets</item>
+            
+            <item>Sticking in an old barn door,</item>
+            
+            <item>But the target wasn't near there,</item>
+            
+            <item>Mister Skunkie was no more.</item>
+            
+            <item>Should you go to Omahaha</item>
+            
+            <item>Anxious to get on a drunk</item>
+            
+            <item>Ask these boys to come and tell you</item>
+            
+            <item>How they didn't kill the skunk.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">March 1, 1896. [Poem on fall waterfowl hunt near Pawlet.] <title>Omaha Sunday Bee</title> page 15.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

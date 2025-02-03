@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00494">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Lindens and Mallows: Cousins.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-09-24</date><biblScope>57(49=52): 12-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Lindens and Mallows: Cousins.</head>
+         
+         <p>Who would believe if they did not have the botany to inform them that the low-growing, pretty-leaved, daintily-colored mallow of the garden and the field was a sister to the large stately linden tree of the forest? Both founders of families under the Order Malvales, one surnamed Tiliaceae, the other Malvaceae. So Tilia Americana or American Linden, with its cyme of six to twenty creamy, drooping, fragrant blossoms is cousin to Malva Rotundifolia, the Dwarf or Running Mallow - "Cheeses," the children call them, because the seed is like a tiny round cheese. Then one of the children of Malvaceae is Abutilon, Velvet Leaf or Indian Mallow, from which probably springs our greenhouse Abutilon with its graceful, pendant yellow blossoms. Our American Indians doubtless could tell us of the use which they make of the Mallows family, as its emollient, or healing properties, are well known among them.</p>
+         
+         <p>Another branch of this family is the Hibiscus, of which Nebraska has two varieties, one called Sweating Weed, doubtless from properties first discovered by the Amerinds, who used such plants largely in their ceremonies, and another the Flower of an Hour. The famous Rose of Sharon, which has traveled from western Asia, and was at one time largely cultivated in eastern gardens, has escaped from cultivation in eastern states. And Althea Officinalis, or Marsh-Mallow, is also confined to the eastern states, only coming to the west in its manufactured form of a toothsome, sweet marsh-mallow.</p>
+         
+         <p>The European Linden, or Lin, was said to be the origin of the family of the great botanist, Linnaeus.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 24, 1922. <title>Omaha Sunday World-Herald</title> 57(49=52): 12-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

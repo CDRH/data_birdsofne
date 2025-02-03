@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00088">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Birds and Dollars.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-11-21</date><biblScope>51(8): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Birds and Dollars.</head>
+         
+         <p>Any enthusiastic amateur ornithologist could chirp his head off from now until a populist presidency without accomplishing half as much toward bird protection as did Colonel G.C. Shields, of the League of American Sportsmen, when he recently asserted that "the destruction of our birds costs Uncle Sam one billion dollars a year!"</p>
+         
+         <p>Colonel Shields said something. He wheezed a whole lungful, in fact, for when he connected birds with dollars he created a growing respect for the former. It is fairly safe to say that almost everyone has a sort of sneaking interest in dollars, and when it is learned that the killing of birds costs a billion of 'em every year, we are likely to spike the guns and invite the songsters to stick around until finally transported by senile decay.</p>
+         
+         <p>The estimable colonel, who is president of his league, cites a whole lot of figures concerning the tremendous number of chinch bugs and Hessian flies found in the stomachs of quail. He asserts that cotton growers lose over $100,000,000 annually through the boll weevil because the quail, prairie chicken, meadow larks and other birds are being so rapidly wiped out. These cotton planters cannot seem to realize that every time they shoot a meadow lark the warm the cockles of thousands of hearts in Weevilville.</p>
+         
+         <p>It would seem to be pretty well established that no farmer has any business killing a bird until he can eat as many bugs as the bird could before its demise, for the bugs are the constant dread of the agriculturist and the constant prey of the birds.</p>
+         
+         <p>Not only the big, fat aristocratic birds lend their aid to Uncle Sam's soil tillers, but likewise the smaller varieties of animated fluff.</p>
+         
+         <p>Should you take a little tramp today you will doubtless find, along some weedy ravine or tangled brush path, a brownish little bird with a white mark over his eye and a dark spot in the center of his breast. He is the tree sparrow, and he will winter here, having just arrived.</p>
+         
+         <p>This wistful little pal of the gray days has a mission of his own, for he specializes in weed seed, and in Iowa last year he ate approximately 875 tons of it! A distinguished ornithologist, Dr. Beal, arrived at these figures, estimating the daily weed seed consumption of each bird at a quarter of an ounce. It would be interesting to see the Iowa farmers hoeing out the fruit of 875 tons of weed seed, would it not?</p>
+         
+         <p>Ten purple martins, common in the state in summer, were shot in Nebraska last year for experimental purposes, and these ten stomachs yielded 265 locusts and 161 other insects. It was a bad day for the locusts, but a mighty good one for Nebraska trees - and trees are scarce in Nebraska!</p>
+         
+         <p>Catbirds - moody gray ghosts of the thickets, are perhaps guilty of pilfering ripe fruit from vines and trees, but it has been proven most conclusively that 62 per cent of the food of catbird nestling is cutworms - and you who have gardens know what cutworms are!</p>
+         
+         <p>So in studying birds and glorying in that study you need not of necessity pose as a silly sentimentalist, for upon meeting a hard headed business man who is rather inclined to question your alleged waste of valuable moments, shoot him dead with Colonel Shields' billion dollar argument.</p>
+         
+         <p>And when some misguided admirer of that treacherously beautiful rat - the squirrel - or that fickle and murderous feline who deserts her bowl of milk to prowl the underbrush - comes to you in their defense and sneers at our song birds, kindly quote him the following from Ernest Harold Haynes:</p>
+         
+         <p>"... And it should be remembered that birds which destroy house flies probably destroy the typhoid germs they may be carrying, and that birds which destroy mosquitoes may be freeing us from the dangers of malaria. I am inclined to think that birds have not yet received the credit due them as preventers of disease."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 21, 1915. <title>Omaha Sunday World-Herald</title> 51(8): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

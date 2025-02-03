@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00782">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Shooting Notes from Nebraska.</title><title level="j">Forest and Stream</title><author>Coveter, R.G.</author><date>1876-08-17</date><biblScope>7(2): 27.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Shooting Notes from Nebraska.</head>
+         
+         <list type="simple">
+            
+            <item>Jackson Station, August 8th, 1876.</item>
+            
+            <item>Editor <title>Forest and Stream</title>:-</item>
+         
+         </list>
+         
+         <p>Being a subscriber to your valuable paper I send you a few notes regarding this section of Nebraska. Anyone desiring further information who will write me or make inquiries through the columns of <title>Forest and Stream</title>, will be answered to the best of my ability. I am agent of the U. P. R. R. C., and prepared to answer inquiries regarding it in this State, or to procure information in regard to any station on line of road.</p>
+         
+         <p>Jackson Station, Nebraska, is on the U. P. R. R., 100 miles west of Omaha, situated in the great Platte Valley, one mile north from that stream, about three miles south of the Loup fork, and about eight miles from the confluence of the latter with the former stream. About half a mile north lies a range of hills of slight elevation, which are cut up by numerous ravines and basins, and extending many miles to the northwest, affording good shelter for wolves, which are very numerous, antelopes and deer. The former are found in considerable numbers, and are rapidly increasing, the latter only occasionally near by, but plenty within 25 miles. The late reservation of the Pawnee Indians-now vacant-a fine body of land about 30 by 15 miles in extent, lies 10 miles due west, scarcely any settlers intervening. This large body of unsettled land, lying directly along the Loup Fork contiguous to the hills before mentioned, and well watered, will undoubtedly attract more large game and afford rare sport near at hand. These hills are from one to three miles in breadth, are not desirable for cultivation, and will probably remain comparatively unsettled for years to come. The Pawnee reservation in not yet open for settlement.</p>
+         
+         <p>The Platte being wide and shallow seems to be a favorite place of resort for water fowl which feed in the fields and rest on the sand bars, which form a large portion of the stream. There was no day during the winter of '75-6 that good shooting could not be had within 1½ miles of the railroad depot. Geese, ducks, swan, crane, etc. Jack rabbits abound at all seasons of the year. Quail were nearly all killed by the severe winter of '74-5, but are being stringently protected, and this season shows a very gratifying increase.</p>
+         
+         <p>The close season for prairie chickens (pinnated grouse) which closed July 31st, has been unusually favorable, there having been no illegal shooting and a splendid season. Their numbers are now legion, nearly full-grown, except some coveys of quite small, which, I think, are second season broods. Coveys numerous and generally large (from 15 to 30).</p>
+         
+         <p>Myself and a party of four, with three worthless dogs, hunted about five hours August 1st, and two hours on the morning of August 2d, making a bag of 120 chickens and 10 jack rabbits. This is by no means a large bag, but taking into consideration the fact that we were practically without dogs, thus causing the loss of many birds, and that the shooting was all within two miles of the railroad depot, which was our base of operations, it speaks <hi rend="italic">loud</hi> for the resources of this vicinity.</p>
+         
+         <p>I make no claim to being a crack shot, but will wager that with a good dog, I can make as good a bag, even over the same ground. Thos. L. Kimball, General Ticket Agent of the U. P. R. R. C., with a party, were at Columbus, August 12th and bagged about the same number that we did.</p>
+         
+         <p>Some person not having the fear of the Lord before his eyes poisoned my liver colored pointer, Dixie, a short time since, leaving me disconsolate, as I find it impossible to replace him. Taking him all in all never saw his equal. I would feel under obligations if some of your readers (in this vicinity) who have pointers would correspond with me.</p>
+         
+         <p>Antelopes are reported in immense droves along the railroad between Sidney and Cheyenne. Deer and elk plenty in Boone County and west. I would be pleased to meet sportsmen from abroad, (yourself included, Mr. Editor), and would show them around here or accompany them into the upper western country after large game. Think I can safely promise a pleasant trip, to say nothing of its profitableness.</p>
+         
+         <p>R.G. Coveter.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 17, 1876. <title>Forest and Stream</title> 7(2): 27.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

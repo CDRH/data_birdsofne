@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00640">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Ornithologists Find Over 75 Wild Birds. Nebraska Union to Number of Two Score Spend Happy Day in Fontenelle Forest. University Professors, Teachers, "Y" Boys and Plain Birders in Crowd.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1915-05-09</date><biblScope>50(32): 11-N.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Ornithologists Find Over 75 Wild Birds</head>
+         
+         <head>Nebraska Union to Number of Two Score Spend Happy Day in Fontenelle Forest.</head>
+         
+         <head>University Professors, Teachers, "Y" Boys and Plain Birders in Crowd.</head>
+         
+         <p>Did you ever see half a hundred perfectly sane people stand gazing in hushed excitement with straining necks and starting eyes for ten whole minutes at a bird perched high in a tree top? You might have seen such a sight as this time and time again yesterday in Fontenelle forest, where the ornithologists of the state armed with glasses, note book and pencils ranged the woods the whole day through on their annual bird hunt.</p>
+         
+         <p>At one point, in a thickly wooded ravine, a woman in Dr. S.R. Towne's hunting party whispered breathlessly, "What's that big bird?" pointing onward and upward.</p>
+         
+         <p>"Must be a hawk," declared the doctor, levelling one of his two pair of bird glasses at the object in the top of the treetop.</p>
+         
+         <p>His party gathered around, glasses leveled.</p>
+         
+         <p>Other parties drew up.</p>
+         
+         <p>"A Cooper hawk, if he hasn't another bar on his tail," declared Dr. Lawrence Bruner, head of the entomology department of the University of Nebraska, as he and his party crept stealthily up to join Dr. Towne's.</p>
+         
+         <p>R.F. Dawson, another state university professor and president of the Nebraska Ornithological union, scenting a new bird drew near with his followers and soon half a hundred people, including men and women teachers, Y.M.C.A. boys, and just plain birders, were gazing at the hawk which perched above supremely unconscious of the excitement he was causing.</p>
+         
+         <p>A cardinal was the cause of another round-up of bird lovers. A bunch of warblers with some gold finches glinting here and there among them was another center of interest.</p>
+         
+         <p>The ornithologists broke into the woods at Child's Point shortly after 7 a.m. - all except the party with Prof. M.H. Swenk of the state university, which missed the interurban car at South Omaha and came later. The first order of the day was to divide into groups of from ten to twenty. Prof. Bruner headed one group, and other groups were led by Dr. Towne, Prof. Dawson and Mrs. Lily Ruegg Button of Fremont, who can imitate the note of any Nebraska bird; Prof. T.C. Stephens, of Morningside college, Sioux City, who gathered specimens of snails for his collection, and Prof. Swenk.</p>
+         
+         <p>Following in general the Burlington track to the Coffin spring road, which intersects it two miles east of the Maxwellton, the birders dipped into one wooded ravine after another where Sweet Williams blue the hillsides, where columbines are just beginning to bloom and a few belated violets show.</p>
+         
+         <p>They did not cease in their quest until noon, and after a picnic luncheon were up and at it again.</p>
+         
+         <p>Prof. Bruner, who kept a list of all the birds he saw and heard, declared that the red-bellied nuthatch was the most valuable find of the hunt and that the blue-gray gnatcatcher was a close second.</p>
+         
+         <p>The combined lists showed seventy-five kinds of birds to the credit of the ornithologists. Even more would have been seen had the day been less windy, according to Prof. Bruner.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Anonymous. May 9, 1915. <title>Omaha Sunday World-Herald</title> 50(32): 11-N.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

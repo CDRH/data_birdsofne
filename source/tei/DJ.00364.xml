@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00364">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mr. and Mrs. Goldfinch.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-08-06</date><biblScope>57(42): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mr. and Mrs. Goldfinch.</head>
+         
+         <p>So here is the month of August once again, full of corn on the cob, hay fever, schoolboys' final spree before the fatal bell-toll of early September, and strangest of all, made interesting to nature lovers by the building activities of our year-around songbird, the Goldfinch.</p>
+         
+         <p>Many laymen will recognize this beautiful bird more clearly by his colloquial title of "Wild Canary," which he certainly deserves in color and in song, but which is far from correct, since he seems to like Nebraska well enough to forget any possible ancestors in the Canary Islands.</p>
+         
+         <p>Mr. and Mrs. Goldfinch are with us constantly, valuable always as seed-eaters highly destructive to weeds, as well as a constant source of joy through their angelic warblings in the spring and summer, and their mandolin-tinkling when the mercury hovers about the winter cipher. Their bright Canary-yellow of the dog days gradually changes to a seemly dusk-brown in the snowtime, but they are Goldfinches always, and just the same.</p>
+         
+         <p>Since they are here so long, one would think they would nest early, and yet their operations along such domestic lines commence generally in August, when their dainty nest is built, often in a thistle and lined with the down therefrom. Hence our forefathers were wont to term them Thistlebirds.</p>
+         
+         <p>It is pleasant and interesting and helpful to tie a handful of cotton to a clothesline or a bush near your bird bath and watch the Goldfinch couple lug it off in tiny mouthful lots to take the place of the thistledown or other soft bedding provided by nature.</p>
+         
+         <p>While we have no scientific proof to back the assertion, we are fairly convinced that the Goldfinches mate for life, as there are scores of reports on these birds, male and female together, carrying away this commercial cotton in May and June, when it is positively known that they do not nest until August, with very rare exceptions.</p>
+         
+         <p>Eggs and young birds are found in these sweet nests late in September ofttimes, and a study of the beautiful creatures is well worth while, particularly right now.</p>
+         
+         <p>Give them a bit of a tour of inspection on this Sabbath day. The fresh air - and their pleasant doings - will benefit.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 6, 1922. Mr. and Mrs. Goldfinch. <title>Omaha Sunday World-Herald</title> 57(42): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

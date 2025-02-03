@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00532">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Melancholy Days [Voices of Birds Hushed in the Woods and Fields].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-09-03</date><biblScope>51(49): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Melancholy Days.</head>
+         
+         <p>Although summer has not yet taken from us her manifold charms of blossom and fragrance, nor the vast depth of her foliage in the wildwood, nor the fluffy white clouds adrift above, there is yet something melancholy in the glades and through the fields, for the voices of the birds are hushed.</p>
+         
+         <p>Not completely so, of course, for even on the gory battlefields of Europe we are told that sturdy songsters still lift up their melody as an assurance that sweetness and purity and hope yet live.</p>
+         
+         <p>But the birds of our own contented country, or the part of it in which we live, have ceased the enthusiastic, inspired warbling of their springtime and are soberly, and more or less silently, contemplating a trip to the southward or a winter among the snows.</p>
+         
+         <p>There is melancholy to be found by the bird lover in these woods and through these fields, therefore, because the spirit of Ornis is brooding and silent. Many of the songsters have already departed, without farewell or ostentation, and those which remain seem brooding in the darkest dells or under cover of the earliest leaves to flutter to the ground.</p>
+         
+         <p>Robins, kingbirds and grackles, as well as others of the more numerous of our summer birds, have gathered into vast flocks, seemingly for the sake of company in their coming flight, while the orioles and grosbeaks and catbirds are hidden away in the foliage, only occasionally giving voice to a weak, sad note of regret that summer is following spring around the circle and that soon nebraska must be left to the tender mercies of glorious Indian summer and then Jack Frost.</p>
+         
+         <p>Young birds, raised by their doting parents during this season, are rounding out into true birdhood and seem to swell around with wonderful pride in their being, but their voices have yet to be cultivated in the southern school and they have otherwise much to learn.</p>
+         
+         <p>Yet, while these paths through the woods and across the open stretches are almost silent now, there comes to the bird student renewed joy in the feathered comrades that are with us always. The nuthatches bring delight in their discordant squawk, the vigorous squeaks and rappings of certain woodpeckers assume a real melody and the happy chatter of the chickadees encourages us to face almost any season in such splendidly cheerful company.</p>
+         
+         <p>The vast throng of mysterious little warblers will be passing through now, on their way to Central America and even more distant climes, from their breeding places up north - and that will take a bit of the curse from the steady disappearance of the summer comrades.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 3, 1916. Melancholy Days [Voices of Birds Hushed in the Woods and Fields]. <title>Omaha Sunday World-Herald</title> 51(49): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

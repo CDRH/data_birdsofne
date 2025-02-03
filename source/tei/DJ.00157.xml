@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00157">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cheerful Cemeteries.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-03-26</date><biblScope>57(23=26): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cheerful Cemeteries.</head>
+         
+         <p>Birds have a divine power of transmitting to us, in the Valley, a glimpse and a choral from somewhere above. Their feathers are not dyed, and their songs are not rehearsed or studied. They represent more full and more wholesomely than any other, the Divinity known to all tribes and sects - the God of nature.</p>
+         
+         <p>Cemeteries ordinarily are gloomy - regarded as such, at any rate, and a campaign to popularize a final resting place for thousands as a proper outdoor commune of Nature would seem to be doomed to failure in its inception. yet this failure is not necessary. Where there are birds, there is hope.</p>
+         
+         <p>The United States department of agriculture in its Farmers' Bulletin, No. 1239, presents an illustrated treatise on "Community Bird Refuges" and a considerable portion of this impressive pamphlet is devoted to cemeteries as sanctuaries for birds, as well as for those passed on.</p>
+         
+         <p>"Cemeteries have the reputation of being good places for birds," says the bulletin. "The reasons, one must infer, are seclusion, freedom from disturbance, and an abundance of trees and shrubs."</p>
+         
+         <p>Bulletin No. 1239, just off the federal press, includes the following tribute to an Omahan and to an Omaha institution:</p>
+         
+         <p>"The movement to convert cemeteries into bird sanctuaries and ti improve them for the purpose is already well under way and is being fostered by the National Association of Audubon Societies. A pioneer in this work. H.S. Mann, secretary of the Forest lawn Cemetery association of Omaha, Neb., reports:</p>
+         
+         <p>"'We have been very successful in attracting birds to Forest Lawn cemetery. The cemetery contains 320 acres, all fenced, and is located north of the city limits of greater Omaha. It has an abundance of trees and shrubbery, about 250 acres of the half section being unimproved at this time. A creek runs through the southern portion of the cemetery, and east and north of it are great stretches of wild lands.</p>
+         
+         <p>"'Bird houses, feeding stations, and baths have been erected in the cemetery. Quantities of tangled underbrush and small fruit-bearing bushes and vines have been set out and preserved for the birds. With these attractions, free from annoyance of cats, hunters and children at play, it is a paradise for birds.</p>
+         
+         <p>"'Bird students visit the cemetery frequently, as a larger number and a greater variety of birds may be found within its sacred inclosures than anywhere else in this section of the country, excepting perhaps the great Fontenelle forest reserve of 2,500 acres on the Missouri river adjoining the city on the south.'"</p>
+         
+         <p>Indeed, Mr. Mann has done a great deal to make this mentioned cemetery cheerful, through encouraging therein the colorful birdlife that we would have about us when our last earthly deposit is made.</p>
+         
+         <p>There is no better field for bird study than Forest Lawn cemetery, unless it be Fontenelle forest, just as the bulletin has observed - and while in that cemetery we find an uplift in the carol of the Cardinal and the thoughts of the songs that were once in the hearts of those whose names we read in granite, here below.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 26, 1922. <title>Omaha Sunday World-Herald</title> 57(23=26): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

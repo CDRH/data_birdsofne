@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00439">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hunt Supper. Annual Game Hunt of the Sportsmen's Club. At the Grand Central Last Evening - Their Bill of Fare - Ladies Present for the First Time.</title><title level="j">Omaha Daily Republican</title><author>Omaha Sportsmen's Club.</author><date>1875-10-16</date><biblScope>18(102): 4. Similar report October 16, 1875. Omaha Daily Herald 10(318): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hunt Supper.</head>
+         
+         <head>Annual Game Hunt of the Sportsmen's Club.</head>
+         
+         <head>At the Grand Central Last Evening - Their Bill of Fare - Ladies Present for the First Time.</head>
+         
+         <p>The annual supper of the Omaha Sportsmen's Club took place last evening at the Grand Central hotel, at 8:30 o'clock.. There were two very prominent features connected with the supper, to-wit: it was the best hunt supper ever given by the club, and it was the first one within our recollection that was graced with the presence of the ladies. it has been our pleasure to attend every supper given by the club since we came to Omaha, and we can fairly say that this supper eclipsed them all. It was the first supper given by the club in the Grand Central hotel, and the success that attended it will ensure the serving of future suppers in the same place.</p>
+         
+         <p>The following was the menu:</p>
+         
+         <head>Oyster Soup.</head>
+         
+         <p>Roast ducks with jelly-Mallard, pin-tail, gadwall, dusky, merganser, wood, red-head, widgeon, blue-winged teal, green-winged teal.</p>
+         
+         <p>Assorted game-Snow goose, apple sauce, pinnated grouse, clapper rail, Virginia rail, yellow-shank snipe, golden plover.</p>
+         
+         <head>Entrees.</head>
+         
+         <p>Pate of Small Game, a la Chasseur, Compote of Mallard Duck, Salmi of Wood Duck, Wilson Snipe on Toast, Chaux Froid of Prairie Chicken, Red-breasted Snipe on Toast.</p>
+         
+         <head>Vegetables.</head>
+         
+         <p>Mashed Potatoes, Sweet Potatoes, Boiled Onions, Stewed Tomatoes, Hubbard Squash.</p>
+         
+         <head>Pastry and Dessert.</head>
+         
+         <p>Snow Pudding with Vanilla Custard, Lady Cake, Sponge Cake, Victoria Biscuit, Maraschino Jelly, Rum Jelly, Neapolitan Ice, Nuts, Raisins, Fruit, Coffee.</p>
+         
+         <p>We "tackled" the above, and got along down the list as far as we could, but had to give up at last. It was too much for one time. We are unable to give this feast the proper notice. If it was ten hours later, we could write a better notice, for we are not feeling just right at the present writing.</p>
+         
+         <p>Plates were laid for many more than were there, yet there was a large attendance, over fifty ladies and gentlemen sitting at the tables, as we should judge. Those who were not there are requested to ponder on the above bill of fare and then regret until the next supper that they were not present.</p>
+         
+         <p>President D.C. Sutphen presided at the table. Interesting remarks were made by Messrs. B.E.B. Kennedy, J.D. Jones, J. Budd, Col. H.G. Litchfield, U.S.A., Yankee hathaway, Dr. V.H. Coffman, W.H.S. Hughes, W.J. Hahn, G.A. Hoagland, Dr. beadle of Papillion, Broatch, Homer Stull of the Herald, Cranz, Taylor, and others. An unanimous vote of thanks was given to Mr. Thrall, of the Grand Central, for the splendid supper that was served.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 16, 1875. Omaha Daily Republican 18(102): 4. Similar report October 16, 1875. <title>Omaha Daily Herald</title> 10(318): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

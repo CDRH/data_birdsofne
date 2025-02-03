@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00870">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Stop It - Joe.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-11-05</date><biblScope>52(6): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Stop It - Joe!</head>
+         
+         <p>Joseph B. Hummel is a mighty good commissioner in more ways than one, and has done a great deal for Omaha in his work upon the parks and boulevards during his service. His best quality, in the opinion of many, is that he is always ready to listen to suggestions and to abide by them if they seem reasonable.</p>
+         
+         <p>In Elmwood park, however, the park department seems to break loose once in a while with modern ideas that do not suit that woodland paradise at all. Once or twice Mr. Hummel has been asked to prevent the destruction of trees and underbrush in that rustic park, and has always willingly responded.</p>
+         
+         <p>Today, nevertheless, a considerable group of men are engaged in raking the dead leaves from the slopes of the beautiful natural ravine through that park. Also they are hauling the dead logs and limbs from the spots where nature placed them, and are converting the same into firewood.</p>
+         
+         <p>This Mr. Hummel, should be stopped.</p>
+         
+         <p>Dead leaves and moss-covered logs are far more beautiful to city-bred people than the trim lawns and clipped trees of the boulevards. There is an eighteen hole golf course in Elmwood park, which should be perfectly kept, and there are neat drives and walks and flower-beds in certain portions to satisfy people who like that sort of thing. But the best and most striking charm of Elmwood park is its natural wildness and primeval loveliness, something that once destroyed is gone forever.</p>
+         
+         <p>The fallen autumn leaves not only form a gorgeous carpet in the draws and ravines of this park, but likewise are cast there by nature to afford a covering for the plant life during the winter, and to fertilize the soil. The violets and ferns and mosses are cruelly disturbed and even destroyed when this rich blanket is so rudely torn from them.</p>
+         
+         <p>Stop this work, Mr. Hummel, and make a multitude of friends! Develop the artificial features of the park to your heart's content, but let the rustic alone!</p>
+         
+         <p>Not only the people, but the wild creatures of that natural beauty spot will thank you for it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor. November 5, 1916. <title>Omaha Sunday World-Herald</title>	52(6): 4-E.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

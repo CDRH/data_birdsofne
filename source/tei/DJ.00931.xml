@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00931">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Useful Birds to the Farmer.</title><title level="j">Nebraska Farmer and Western Educational Advocate</title><author>Ream, H.</author><date>1861-05-01</date><biblScope>2(5): 68-69. Published at Brownville. May 1861.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Written for the Nebraska Farmer.</head>
+         
+         <head>Useful Birds to the Farmer.</head>
+         
+         <p>In the March number of the Nebraska <hi rend="italic">Farmer</hi> an article appeared recommending the birds to be spared. I will heartily agree with the writer in sparing such birds as are not in my opinion destructive to the crops of the farmer. As I have had some experience in farming I will give you some facts which cannot prove otherwise than beneficial to the farmer, especially in this portion of Nebraska. Last season I planted forty acres of corn in which numerous flocks of blackbirds came, until they formed a perfect cloud when they would rise up out of the field. I can be safe in saying there were tens of thousands of blackbirds, and every time they would alight in the field each bird would take a separate ear of corn to make its meal. They were destroying my corn so much that I was obliged to keep two boys in it all the time, with each of them a shotgun and ammunition to drive them away, and sometimes I assisted them. During the summer we used twenty-two pounds of bird shot, and enough powder to shoot it all away, at them. And also one bottle of strychnia, we used used in killing them in time of doing our spring plowing. With all this labor and expense in trying to destroy the blackbird, I am safe in saying that they destroyed full five hundred bushels of oats. All our neighbors shared the same fate who did not scare the birds from the field from the time the ears were first in the milk until it became too hard for them to peck it.</p>
+         
+         <p>I say then spare not the blackbird. They have been so numerous here every season that the propriety has frequently been suggested by the farmers of fixing bounty on every blackbird killed, of an amount sufficient to pay people for their time, ammunition, and strychnia. It is generally believed that it would be profitable for every farmer who cultivates a reasonable portion of land, to pay a sum of at least ten dollars a year, if that would be the means of destroying the blackbird which has been so great an evil in this portion of Nebraska.</p>
+         
+         <p>The king-bird also is one of my enemies, in consequence of his subsisting principally on bees. And the woodpecker pecks too much corn to be profitable to our corn crops. All other birds enumerated in your list of useful birds to the farmer, I shall ever be friendly to, and shall never wilfully destroy them, as I believe them to be useful to the farmer,</p>
+         
+         <list type="simple">
+            
+            <item>H. Ream,</item>
+            
+            <item>Dakota, Co., Nebraska.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">May 1861. <title>Nebraska Farmer and Western Educational Advocate</title> 2(5): 68-69. Published at Brownville.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

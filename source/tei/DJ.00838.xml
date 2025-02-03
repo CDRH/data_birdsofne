@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00838">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Sportsmen's Hunt. Smaller Scores than Usual.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1877-10-19</date><biblScope>13(5): 4. Hunt and team members announced October 16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sportsmen's Hunt.</head>
+         
+         <head>Smaller Scores than Usual.</head>
+         
+         <p>The members of the Omaha Sportsmen's Club who participated in the fall hunt on Wednesday came flocking in yesterday. The game was counted at Sutphen's store from 2 to 6 o'clock p.m. The amount of game killed was unusually small. By the system of counting, mallard ducks are reckoned as 3, wood, pin tail, ruddy, gadwall, red head, bald pate ducks, wilson snipe and widgeon, 2 each; and shoveler, teal and ruffle ducks, red breast snipe, yellow shank snipe, kildeer plover, sandpipers, rail and sora rail, 1 each.</p>
+         
+         <p>As the hunt was conducted in the order in which they were chosen, it will be seen that Capt. Budd's side were the victors by 6 to 4.</p>
+         
+         <p>The following gives the total number of game killed: Mallard duck, 23, wood, 12; gadwall, 9; pin tail, 9; shoveler, 10; teal, 79; ruffle head, 2; red head, 2; ruddy, 1; bald pate, 2; widgeon, 1; red breast, 36; sand pipers, 14; kildeer plover, 13; rail, 2; sora rail, 3.</p>
+         
+         <p>The grand supper, given by the defeated side, has been postponed to Monday evening, and will take place at the Grand Central Hotel.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Herald writer. October 19, 1877. <title>Omaha Daily Herald</title> 13(5): 4. Point tally not included since a report with more details provided in Omaha Republican story.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

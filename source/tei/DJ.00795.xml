@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00795">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Slaughter of the Doves.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-06-18</date><biblScope>51(38): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Slaughter of the Doves.</head>
+         
+         <p>There is true sport and sportsmanship in the hunting of game birds in the fall, and it is to protect this sport and these sportsmen that the Audubon Societies and kindred organizations are doing their utmost to conserve these birds and to prevent their ultimate elimination. Modern weapons and the steadily increasing number of hunters make it imperative that the game laws be carefully drawn and exactingly enforced, else the ducks and geese and plover and the rest follow the passenger pigeon to certain extermination.</p>
+         
+         <p>It is easy to appreciate the red-blooded joy of the hunt when properly conducted, and when the objects of the hunt are strong, vigorous and truly wild creatures of the air and of the swamplands. But—the Mourning Dove a game bird!</p>
+         
+         <p>As game as the family cow or the robin that stands beside you as you spade your garden to devour the worms and insects that you unearth.</p>
+         
+         <p>Even now, in the excess of passion for killing, the doves are being slaughtered in direct violation of the law, and what will happen when the law permits this slaughter for six whole weeks can readily be imagined.</p>
+         
+         <p>The sad, plaintive call of the Turtledove is heard in any park or woods and during their nesting seasons they will stay beside their charge until one may place one's hand upon their backs. Truly a game bird and one to challenge the sharpest wit and the keenest eye of the skilled hunter!</p>
+         
+         <p>When the open season commences the doves will be in the fields and upon the poles or wires or trees along the roadside. Then automobile excursions of huntsmen will start out from the cities and towns and the slaughter will begin. That thousands of these pretty and useful birds are killed from automobiles is a pretty likely demonstration of their standing as "game birds." You don't kill many ducks or geese or plover from automobiles!</p>
+         
+         <p>Those who dote upon the lazy "sport" of dove shooting virtuously defend themselves by telling how much grain these birds consume from the fields. They overlook the fact that while the grain is in the making the Mourning Dove is eating nothing but obnoxious insects which prey upon that grain and other plant life. If all the birds that eat grain were killed, there would be no grain. The agricultural experts of every government on earth are now preaching that sermon most religiously.</p>
+         
+         <p>In the '70s the farmers of Nebraska poisoned scores of thousands of Red Winged Blackbirds because they ate grain. The following year the Blackbirds didn't eat the grain—but the crickets and beetles did—and made a mighty complete job of it! They don't poison Blackbirds any more in these parts.</p>
+         
+         <p>Must the same demonstration be given in the case of the Mourning Dove?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 18, 1916. <title>Omaha Sunday World-Herald</title> 51(38): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

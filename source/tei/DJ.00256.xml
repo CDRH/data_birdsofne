@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00256">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird's Noses [Crows and Elmwood Park Feeding Stations].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-01-28</date><biblScope>58(18): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird's Noses.</head>
+         
+         <p>Without starting any fulsome argument as to whether or not our birds have the sense of smell, which we think they do - it is simply interesting that one big, burly Bluejay should be able to follow a sack of beef suet over the vast area of Elmwood park.</p>
+         
+         <p>Also it is interesting to note that three or four large and belligerent-looking crows have found that by patronizing certain hidden spots in that park, they can regale themselves with this splendid winter dinner set forth by ardent amateur ornithologists.</p>
+         
+         <p>In Elmwood park there are at present about a dozen bird feeding stations, which, during the winter months, are filled each Sunday with beef suet scraps secured from the butcher as a sort of bonus, maybe, on monthly cash orders for human food.</p>
+         
+         <p>Some of these feeding stations, which are wire soap-racks nailed to trees, by the way, are more heavily patronized by the smaller winter songsters than others, and since the seed eating birds haven't acquired the knack of clutching the tree bark and pecking a suet existence through the wire mesh, they have to remain on the ground below and gobble up what crumbs the Chickadees and Nuthatches and Woodpeckers knock down for them.</p>
+         
+         <p>It is at these posts that the Bluejay - lonesome in Elmwood park - and the three burly Crows, congregate. The question is as to just how they find out which suet holders are empty, and which are still operating - and, in fact, just where to find them at all.</p>
+         
+         <p>Such bird mysteries make outdoor study on the Sabbath hike not only health-giving but very instructing. Try it today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 28, 1923. Bird's Noses [Crows and Elmwood Park Feeding Stations]. <title>Omaha Sunday World-Herald</title> 58(18): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00800">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Snow Bunting Once Abundant Now Very Rare.</title><title level="j">Omaha Sunday World-Herald</title><author>Williams, T.O. and Sandy Griswold.</author><date>1922-03-12</date><biblScope>57(21=24): 3-W.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Snow Bunting Once Abundant Now Very Rare</head>
+         
+         <p>Gordon, Neb., March 8. - Sandy Griswold, Sporting Editor of the World-Herald: I am sending you today, by parcel post, the carcass of a bird, many of which were found in this territory on morning of February 20. The evening before there was a light sleet which turned into snow, but the temperature was not so severe, just above freezing. But these birds seemed bewildered in the night, dashing into trees, against buildings and woven wire fences, and thus ending their lives. Some say that this is a migratory bird and got caught in the storm here while going north. But do these little birds fly all night? They look to me, like our ordinary English sparrow. But, in that case, what were they swarming about for, in the night? Please give us your explanation of the mystery in the Sunday World-Herald and oblige. - T.O. Williams.</p>
+         
+         <p>Ans. - A common snow bird or snow bunting, which used to visit Nebraska in countless numbers some twenty-five years ago, but for many years now, seems to be only a rare visitant. The bird is identified by its brown, black-lipped beak, the little tuft of feathers at the base of the rictus, black feet, general conformation and coloration. The hind claw is straitish, with its digit longer than the middle toe and claw, which may confound it with the Lapland longspur and several members of the sparrow family. Generally, in midwinter, the bird is almost snow white, with its black and rufous lines, and I have seen them in flocks of hundreds out in the sandhills lake country of Deuel county, where they appeared in early March by the thousands. They came just prior to or during a windy snowfall, whirling over the whitened prairies in great masses, to the right and to the left, in evolutions that would shame those of the best drilled soldiers, and as if governed by a single purpose. They seldom light in trees or any elevated point, being strictly a ground bird. When they alight they scurry about like feathered mice - run - but never hop. They make an excellent pot-pie, and in the early days were slaughtered and trapped by the thousands for this purpose.</p>
+         
+         <cit>
+            
+            <bibl default="NO">T.O. Williams and Sandy Griswold. March 12, 1922. <title>Omaha Sunday World-Herald</title> 57(21=24): 3-W.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

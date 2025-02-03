@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00092">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds and the Heat.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-07-30</date><biblScope>51(44): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds and the Heat.</head>
+         
+         <p>Because they are so intensely human, the songbirds are a constant source of joy to the students of their lore, and the recent season of ghastly heat opens up still more unusual channels of investigation and comment than those previously dealt with since Omaha awoke to the importance of her birds.</p>
+         
+         <p>The feathered folk suffer with the heat just as much, if not more, than humans - perhaps for the reason that they are generally thrown upon their own resourcefulness in securing relief. Of late, thanks to the campaign of education waged by the Audubons and the press, humans are taking steps to provide baths for the songsters in the summertime, which has alleviated a great deal of suffering.</p>
+         
+         <p>And the birds, as has been said, do really suffer. If you risk a hike today through the parks or woods or fields you will note that the songbirds are pretty scarce - at least in your vision. For the same reason they may keep you at home, they are quietly gasping in the shade in some sequestered nook, and will remain there until driven out by hunger or thirst. The birdland melody is mighty noticeable in its absence in such torrid times. Life is a serious business with these companionable little people. With open beaks they pant and cuss and sweat somewhere in the shade until relief finally comes.</p>
+         
+         <p>Just as is the case with humans, there are some birds which seem to simply revel in heat. These salamanderesque songsters, as far as Omaha and Nebraska are concerned, are the field sparrow and the dickcissel. The "see-see-see-ee-ee" rapidly ascending song of the former and the "chip-chip-chee-chee-chee" of the latter are really at their best in such times as these. The Field Sparrow seems actually to select the hottest place in a blazing open field in which to nest and rear its young.</p>
+         
+         <p>The noticeably decreased number of birds to be seen in our yards and parks during the wave of heat has caused some discussion as to whether or not the songsters depart for cooler climes in such instances, just as the winter birds jump a few miles south for a day or so when the blizzards are raging. But this is probably not the case. More likely the birds merely seek seclusion and quiet and shade during the scorching daytime, and do their foraging early in the morn and late in the evening.</p>
+         
+         <p>At any rate, this is the time when everyone, whether interested in birds or not, should keep plenty of pans of clean water handy about the yards, if only as a matter of humanity.</p>
+         
+         <p>You would be in pretty bad shape, wouldn't you, if you couldn't buy a glass of cool water - much less a place in which to bathe?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 30, 1916. <title>Omaha Sunday World-Herald</title> 51(44): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

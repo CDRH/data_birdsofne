@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00659">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Patriotic Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-04-08</date><biblScope>52(28): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Patriotic Birds.</head>
+         
+         <p>From the war front in France the national Association of Audubon Societies has occasionally sent out brief mail dispatches telling of the wonderful sang froid of the songsters in a territory ripped and blasted both day and night by shot and shell.</p>
+         
+         <p>These stories are authentic, and have been proven so, if the word of reputable naturalists and scientists of that perturbed country can be believed. The native birds of the war-ridden nations seem acclimated, if the word is permissible, and sing and nest according to their lights in such woods and fields as have not been positively annihilated.</p>
+         
+         <p>Perhaps these birds possess a patriotism of their own. That is not very hard to believe, when one really becomes acquainted with the songsters, for when they find that people wish to have them about, they stay - in spite of everything.</p>
+         
+         <p>The United States is particularly blessed with feathered tribes of various habits and raiment and usefulness. It would seem that they have the patriotic idea, too.</p>
+         
+         <p>An ornithological friend of the World-herald has told us that only the other day, upon the topmost branch of a stark, dead cottonwood in Elmwood park, he saw a Cardinal and a Bluebird outlined in the brilliant sunshine against a fleecy, white cloud.</p>
+         
+         <p>"It was the Red, White and Blue as God Almighty gave it to us," he writes in sublimest enthusiasm. "It was, indeed, an emblem of American patriotism such as no artist could ever hope to reproduce!"</p>
+         
+         <p>The woods and fields breathe Americanism these days, and when the birds themselves combine to present the colors of Old Glory, it would be indeed restful and yet inspiring to visit them during the peaceful hours of the Sabbath.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 8, 1917. <title>Omaha Sunday World-Herald</title> 52(28): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

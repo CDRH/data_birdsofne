@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00444">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Story Old But True [Pruning Wildwoods].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-08-18</date><biblScope>53(46): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Story Old But True.</head>
+         
+         <p>There are whisperings, with the machinations of the new city administration, of a campaign of "improvement" and "cleaning up" of our public parks.</p>
+         
+         <p>This means, we are sure, that Elmwood and Mandan and other rustic reserves are contemplated for martyrdom at the hands of the landscape gardener.</p>
+         
+         <p>It means that underbrush is to be cut out, perhaps, and that trees are to be trimmed of their draping vines and made to assume the sort of artificial beauty so beloved of the real estate propagandist who chances to own adjacent property.</p>
+         
+         <p>It means that the birds and the wild things yet left within the limits of this great city are to be driven beyond its bounds, and that in place of carefully protected city woodland we are to have sleek and saccharine sunken gardens and concrete walks and geometrical flower beds and the like.</p>
+         
+         <p>New York city - now the greatest habitation of the whole, wide world - carefully preserves in portions of Central park and other municipal holdings the very features which real estate barons would today eliminate in Omaha's few remaining rustic parks, through influence upon city officials.</p>
+         
+         <p>The state of Massachusetts is busily engaged in building up the bird and wild life preserves lost to it by the action of misguided public officials of that commonwealth in years gone by. Similar actions, threatened here today, would some day have to be undone.</p>
+         
+         <p>There are many parks in Omaha, most of them of the sort demanded by the artificial beautifier, and there can be no reason why at least two or three of them cannot be preserved in their simple rustic grandeur.</p>
+         
+         <p>The pruning knife is already snipping away in Elmwood, and the hand of the artificial artist is to be seen in many a nook and glade thereof. That great natural spring, rushing from the hillside in the heart of the park, where not only citizens but learned medical men have secured tested and guaranteed drinking water for many years, has been harnessed and cheapened by running it through bubbling fountain pipes. The next logical step in the ravishment of this glorious spring would be a nickel-in-the-slot machine to sell the wares given to us by a munificent God!</p>
+         
+         <p>In the name of Nature is there no one left to protest against the spoliation of Nature's work within our very city, when so little of this work is yet left for us to love?</p>
+         
+         <p>Parks are for the public - but the public includes many people. There are those who like the artificial grandeur, and there are those who crave the rustic. It would be an easy thing for this new reform administration to satisfy both.</p>
+         
+         <p>At any rate, Mr. Falconer, concern yourself with the fact that the wildwoods you may eliminate in a week cannot be replaced in a century.</p>
+         
+         <p>This is an old story in these columns - but true!</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 18, 1918. Editor [possibly Miles Greenleaf]. <title>Omaha Sunday World-Herald</title> 53(46): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

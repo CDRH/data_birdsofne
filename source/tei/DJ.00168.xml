@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00168">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">For the Chickadees.</title><title level="j">Omaha Sunday World-Herald</title><author>The Physician.</author><date>1912-12-22</date><biblScope>48(12): 2-S. Portion of Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest Field and Stream</head>
+         
+         <head>For the Chickadees.</head>
+         
+         <p>Turner Park, Omaha. Dec. 20. - To Sandy Griswold, Sporting Editor of the World-Herald: Your exquisite little bit of sentiment on the chickadee in last Sunday's World-Herald, reminds me that it would be a good idea to endeavor, by the aid of the proper of growth - deep little thickets, with their dead snags, hole bored stumps, and clambering vines - to entice these, the prettiest of all our winter visitors to our city parks. They already frequent these tracts in goodly numbers, but with the proper sort of conditioning they could be coaxed here in much larger numbers, and abide with us, too, throughout the year. Mr. Watson, one of the best members of the board we have ever had, and who presides so competently in the managerial chair of your paper, would be an influential factor in this regard with the present board, for we know he is a lover of the birds and well qualified to advance suggestions. Anyway, I think the scheme worthy of both consideration and a thorough trial and I herewith give my experience toward a practical solution.</p>
+         
+         <p>Three years ago chickadees and downy woodpeckers, with an occasional pine grosbeak, were occasionally seen about the shrubbery on my place. About that time I placed a few pieces of pump tubing in the trees, and that and each subsequent winter I have constantly kept pieces of beef suet fastened to the branches. As a result, while the birds do not remain constantly, still from November to April, the following birds are almost daily visitors. Chickadees, downy and hairy woodpeckers, white-bellied nuthatches, while I have had, off and on, robins - all through the winter months - blue jays, rarely a black and white creeper, and once three brown creepers. I have not been able to determine definitely whether they use the tubing for roosting or not, but think they do. Last spring a pair of blackcaps acted as though they were about to build in one, but were prevented by the sparrows. Last night we were entertained for over an hour by a little screech owl, from his perch in a sidewalk maple. - The Physician.</p>
+         
+         <cit>
+            
+            <bibl default="NO">December 22, 1912. <title>Omaha Sunday World-Herald</title> 48(12): 2-S. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

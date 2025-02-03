@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00353">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Getting Away With It [Youths Shooting Cardinals].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-09-16</date><biblScope>52(51): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Getting Away With It.</head>
+         
+         <p>It is a constant and never ending source of wonder to the wanderers in woodland how the Cardinal carries about such grandeur, such flaming richness in color, and in the language of the times - gets away with it.</p>
+         
+         <p>Despite all that has been said and done to prevent the cruel and wicked shooting of our songbirds by sons of thoughtless parents, the crack of the rifle and the twang of the sling-shot are yet heard in the glades and the vandal's bullet reaches many a mark.</p>
+         
+         <p>A boy with a gun is absolutely impossible unless an adult with authority and horse sense is along. To him everything that moves is a target and it needs no psychologist to tell us that it is the splendid imagination of youth that brings this unhappy condition to pass. Every rustling in the underbrush is a Bengal Tiger, a Grizzly Bear or Blackbird, the Pirate. Every bird that flies is a German Taube of a Man Eating Eagle. Thus the lad who has sallied forth with a foolish father's consent to shoot English Sparrows ends with as large a bag of songbirds and other harmless and useful creatures of the wilds as far as can be accounted for by his prowess.</p>
+         
+         <p>There is no wish to destroy the youthful imagination, nor even to curtail it. This visualization is a very important part of the growing mind, and deserves encouragement. But until this mind has grown to something like maturity there is no reason why the natural temptation that lurks between the sights of a real gun should be thrown along with the previously mentioned fantasies.</p>
+         
+         <p>But such temptation is presented, the youthful gun is levelled and fired - and the question first raised remains unanswered. How does the fiery Cardinal, one of the most conspicuous birds of the woods, get away with it?</p>
+         
+         <p>The observant nature lover knows the reason why. Between the most wondrous passages of his rich, whistling warble, or between the sharp, crisp chips with which he expresses alarm or interest, the Cardinal flies as silently and swiftly as an owl in the night to new positions. His deep red coat is camouflage, too, strange as it may seem - for instinct had taught him how to find the darkest shadow beneath a leaf clump, where his silhouette against the sky will completely neutralize his native color. Or, again, in the fall or winter, he will seek tangles of the richest, reddish-brown, dried foliage, in which his identity is lost. And no bird better knows the art of absolute quietness of body and voice, when needs be.</p>
+         
+         <p>Very few Cardinals fall to the imaginative arm of the thoughtless youth, which is at least some solace to those who know how much our country needs all its birds today to continually insure all crops against insect warfare.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 16, 1917. Getting Away With It [Youths Shooting Cardinals]. <title>Omaha Sunday World-Herald</title> 52(51): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

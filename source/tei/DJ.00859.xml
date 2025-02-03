@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00859">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">No More Spring Shooting.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-03-03</date><biblScope>53(22): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>No More Spring Shooting.</head>
+         
+         <p>This is the first spring in the history of Nebraska in which hunters are forbidden, by statute, from campaigning against the ducks and geese.</p>
+         
+         <p>last year, under the federal law reinforced by a treaty with Great Britain, it was illegal to shoot these birds in the United States and Canada in the spring months, but there was no penalty attached to the law, and so it was generally disregarded. United States officers covered the Missouri and Platte valleys thoroughly, and secured evidence against offenders, but that concluded the operations on the part of Uncle Sam. The killers of birds in the breeding season went free.</p>
+         
+         <p>But now it is different - much different.</p>
+         
+         <p>The Nebraska legislature passed a law against spring shooting, and provided a heavy penalty for violation of the same.</p>
+         
+         <p>More than that, a chief game warden was appointed who has no political axes to grind, but who is a red-blooded sportsman himself, with plenty of [word not legible] and a laudable ambition to see that the wild animals and birds of this state are fully protected.</p>
+         
+         <p>George Koster proved his acumen by seining the small lakes and ponds of Nebraska for undesirable fish - undesirable since they prey on the game varieties - and furnishing this perfectly good food to the people at cost.</p>
+         
+         <p>Now Game Warden Koster is called upon to see that the spring shooting law is enforced, and his friends know that they cannot impose upon such friendship, but that he will see to it that not a duck nor goose will be shot within the limits of this state, as afar as he is able to prevent such depredation.</p>
+         
+         <p>Unthinking persons, who yearn for the opportunity of killing the spring birds as they swoop to their breeding places, would urge the federal government to permit such killing as a "food conservation measure." This argument appears ridiculous to Uncle Sam, who is prepared to show that these birds do much more good for humanity by their destruction of noxious insects and flora, than they could on the dining table.</p>
+         
+         <p>For the solace of the huntsman it might be added that statistics show how much greater the legal sport in the fall becomes when these birds are protected in the spring.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 3, 1918.  <title>Omaha Sunday World-Herald</title> 53(22): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

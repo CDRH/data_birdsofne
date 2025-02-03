@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00565">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Mysteries [Cardinal and Kinglet].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-10-12</date><biblScope>55(2): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Mysteries.</head>
+         
+         <p>There is no more attractive or more colorful bird than the Cardinal, and although very common in the vicinity of Omaha he is yet very difficult to locate, especially when there is foliage on the trees and underbrush.</p>
+         
+         <p>His habits are those of the recluse, which may account for the fact that he is not yet extinct, for the willful gunners who shoot anything that flies could scarcely overlook the Redbird, law or no law.</p>
+         
+         <p>The Cardinal has the happy habit of keeping his own counsel. He very seldom says anything except in the springtime or when seriously alarmed. In the former instance he generally mounts to the very highest treetop, where he is fairly safe, and whistles that wonderful song.</p>
+         
+         <p>"What Cheer! What Cheer! What Cheer! Whew!"</p>
+         
+         <p>In other seasons, and when worried about something, he is more likely to produce a metallic, clinky, "Chink! Chink!" and then flit noiselessly out of danger.</p>
+         
+         <p>The flight of the Cardinal among the underbrush is itself a study, for he can rise up within a few feet of your nose and disappear in something less than no time, despite his vivid colorature.</p>
+         
+         <p>But we have a peculiar incident to describe - one that should be of interest to all bird lovers. Perhaps it is a mere fancy - but these are the facts.</p>
+         
+         <p>Nearly anyone can imitate the whistle of the Cardinal to a considerable degree of perfection, and it is very true that the Redbird heeds such calls and generally comes around to see about them.</p>
+         
+         <p>We recently located a Cardinal and his mate in a very dense thicket along the Little Pappio creek, and although we were sure of our identification, wished to see the birds in their glorious plumage, merely to satisfy an appetite for the beautiful.</p>
+         
+         <p>Whistling the Cardinal song merely caused the two lovely creatures to rustle about in their underbrush home - much agitated.</p>
+         
+         <p>After we had about given up hope - here came their ambassador plenipotentiary - a Ruby Crowned Kinglet!</p>
+         
+         <p>This little critter is one of the friendliest of birds, and one of the most fearless. He perches within a yard of one's nose and looks the situation over thoroughly - just as did this particular Kinglet.</p>
+         
+         <p>The Ruby Crown sized us up and then went back to the Cardinal to report that our whistled song was a base imitation - whereupon the Redbird and his mate "beat it" - softly and silently - and were seen no more that day.</p>
+         
+         <p>And the Ruby Crowned Kinglet twittered around and laughed at us - the spy!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 12, 1919. Bird Mysteries [Cardinal and Kinglet]. <title>Omaha Sunday World-Herald</title>	55(2): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

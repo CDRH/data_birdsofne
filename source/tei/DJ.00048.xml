@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00048">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Barren Waste in Winter, Flower Colors in June].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1900-01-07</date><biblScope>35(98): 18. Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <p>One visiting the sandhills at this season of the year could not reconcile themselves that they were in the same country they gazed over with such delight in June or October. Now the plain and hill is one barren gray waste, devoid of life or animation, save the undulations of an occasional snow bunting, darting erratically low down over the dead grass, or the winnowing shape of an isolated redtail high up in the blue vault above. But last June the whole country, hill and dale alike, was a sea of the loveliest, softest colors ever arrayed for the delectation of man. Here spreads an area of the most delicate pink-the wild rose-ever painted by the great artist, and there a sheet of azure, the prairie violet, then a broad flame of topaz, the moccasin plant, intermingling with the purple of the lobelia, the low glow of the hepatica and gentle dots of the wild poppy. And then as far as the eye can reach are countless clusters of dainty blossoms, a turbulent ocean of exquisite beauty, indescribable. Oh, yes, there is something in Nebraska's sandhills besides sand and cacti. In the early summer the whole of Cherry county is one single bloom, and on the roundbacked hills you are never out of sight of a thousand colors. Even in the recesses of the loneliest and most desolate blow outs, you will find spots of pink and blue, lovely symbols of good, among those gloomy shadows, glowing from the crevices of the flint and magnesia, the smiles of these rugged giants of the western desert. The sandhills in the western part of this state are a favored country for flowers. All through the season the wild rose bushes are sheets of fragrant flame; and all the berries and the shrubs and the weeds, and their name is legion, are bursting with color on every hand. On the hills, in the damp bottoms along the little struggling, spring-fed rills, along the bluffs sides, in the thick motes, in the overflowing wild grass, through the burned tracts, where there is seemingly naught but sand-every place is alive with beauty, every place has its favorite flower, modest ot gay and flaunting.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. January 7, 1900. [Barren Waste in Winter, Flower Colors in June]. <title>Omaha Sunday World-Herald</title> 35(98): 18.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

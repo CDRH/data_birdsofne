@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00562">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Mournful Bluebird.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-10-03</date><biblScope>56(1): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Mournful Bluebird.</head>
+         
+         <p>There is something almost pathetic in the autumn notes of our lovely Bluebird, as he begins to realize that he must leave his dearly adored summer habitation for summer climes. He gathers about him his Bluebird friends and prepares for the big aerial trek.</p>
+         
+         <p>These birds are peculiar in this respect. During the summer they are seldom seen, possibly being busy with the arduous duties of raising their young. In the spring they are prominently on display, with their glorious blue coats and red vests - and also at this particular time of year are they easily seen and heard. Their murmuring song is seldom heard in the heat of the summer, but is incessant in spring and fall.</p>
+         
+         <p>At any rate it would seem fairly certain to the regular traveler of the wilder path of woods and fields that the Bluebirds have an emotional horror of leaving us. They gather together at this period, probably with their sons and daughters, and freely express their sadness at the prospect.</p>
+         
+         <p>It is known to ornithologists that these summer birds are so eager to return in the early spring that often they are caught in late blizzard and destroyed in large numbers. Thus, also, they hesitate to leave, and with their pretty little muttered lullaby, express their sorrow at the prospect of departure.</p>
+         
+         <p>Some Bluebirds, however, are so delighted with our neighborhood that they stay all winter in sequestered and protected jungles along the river.</p>
+         
+         <p>In truth, Bluebirds like us - and certainly we are conscientiously able to reciprocate.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 3, 1920. <title>Omaha Sunday World-Herald</title> 56(1): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

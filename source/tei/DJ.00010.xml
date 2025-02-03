@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00010">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Alas for the Meadowlark.</title><title level="j">Cody Cow Boy</title><author>Anonymous.</author><date>1903-07-30</date><biblScope>3(35): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-20">2006-06-20</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Alas for the Meadowlark</head>
+         
+         <p>[The Rev. Robert E. Lee Craig, Episcopal minister of Omaha, while out in Central Nebraska, holding past Lenten services and baptising some babies, for shooting 21 meadow larks was fined $110.]</p>
+         
+         <list type="simple">
+            
+            <item>He stole a summer song, dear,</item>
+            
+            <item>This godly man of mark,</item>
+            
+            <item>He made the spring day silent,</item>
+            
+            <item>He killed a meadow lark.</item>
+            
+            <item> </item>
+            
+            <item>The plowman in the morn, dear,</item>
+            
+            <item>Will miss the dawn-tipped wings,</item>
+            
+            <item>That soaring upward taught him</item>
+            
+            <item>To think of nobler things.</item>
+            
+            <item> </item>
+            
+            <item>And the children off to school, dear</item>
+            
+            <item>Across the fresh turned sod,</item>
+            
+            <item>Will seek in vain the songster</item>
+            
+            <item>That kept them close to God.</item>
+            
+            <item> </item>
+            
+            <item>And all the summer long, dear</item>
+            
+            <item>Each day when it is done</item>
+            
+            <item>We'll wonder who tomorrow</item>
+            
+            <item>Will welcome up the sun.</item>
+            
+            <item> </item>
+            
+            <item>For he is head and cold, dear,</item>
+            
+            <item>Our little meadow lark.</item>
+            
+            <item>And he sang a song of love to</item>
+            
+            <item>That godly man of mark.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">Anonymous. July 30, 1903. <title>Cody Cow Boy</title> 3(35): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

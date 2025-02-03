@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00060">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Big Bags. Omaha Sportsmen Make a Heavy Slaughter of Ducks.</title><title level="j">Omaha Daily Republican</title><author>Anonymous.</author><date>1883-03-27</date><biblScope>25: 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-01"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Big Bags.</head>
+         
+         <head>Omaha Sportsmen Make a Heavy Slaughter of Ducks.</head>
+         
+         <p>Ducks just now are very plenty in the lakes and rivers in this part of the country, and the sportsmen are gathering some fine bags.</p>
+         
+         <p>Judge Thurston, H. Homan and B.F. Troxwell returned on Saturday night from a successful duck hunt. On Friday afternoon, from 2 o'clock until dark, Homan and Troxwell bagged 141 ducks, and were joined on the following morning by Judge Thurston, and the bag on Saturday was 190, making a total of 331. This is the largest bag made by any three men this season, and the ducks were of the choicest variety, being principally red-heads and canvas-backs.</p>
+         
+         <p>Eighteen members of the Workingmen's Sportsmen's club, compromising two teams captained by Councilman Leeder and S.B. Hathaway, left last week for Horseshoe lake and the group of lakes north of the city on their annual spring hunt. Loeder returned Saturday evening with quite a load of game. It is said that the whole party got between 300 and 400 ducks.</p>
+         
+         <p>W.F. Heins and two others returned from a hunt on Sunday with 300 ducks.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 27, 1883. <title>Omaha Daily Republican</title> 25: 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

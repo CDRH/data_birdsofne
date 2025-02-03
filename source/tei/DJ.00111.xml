@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00111">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Dead Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-06-27</date><biblScope>55(39): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Dead Birds.</head>
+         
+         <p>Very apparently the great war imbued our youths with the notion that the carrying of firearms is perfectly proper, and that shooting should be the big ambition of anyone old enough to pull a trigger. We make this guess from the evidence of rapidly increasing number of dead song birds found in the woods and fields this spring.</p>
+         
+         <p>Very naturally, the most confiding, useful and innocent of our feathered friends are those to be first victimized. The Flickers and Downies and Chickadees seem to be pet targets for the destructive elements of our young riflemen. Since these particular birds will often permit one to approach within a few feet of them, the slaughter is not difficult. Chickadees will readily feed from one's hand in the winter, and Flickers have been caught under hats by caddies on the golf courses during summer.</p>
+         
+         <p>Newly arrived immigrants are notorious for their disregard of the laws protecting birds, some of them shooting every feathered thing that moves. There is an excuse for these newcomers, however, as that is the regular order of things in many nations across the pond.</p>
+         
+         <p>But for well-bred young Americans to go rifling for song birds, positively informed that it is against the laws of the country and nature - this approaches the unbelievable.</p>
+         
+         <p>Deputy officers of the Humane Society report a considerable slaughter of small birds in this way, and this newspaper believes that it is a mistake to permit minors to cavort around the country with loaded shotguns or rifles, no matter under what pretext.</p>
+         
+         <p>"We are shooting targets!" they inevitably explain.</p>
+         
+         <p>And so they do - when anyone is observing.</p>
+         
+         <p>But what happens when they are alone?</p>
+         
+         <p>The bodies od dead songsters give the answer.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 27, 1920. <title>Omaha Sunday World-Herald</title> 55(39): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

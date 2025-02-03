@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00548">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Missouri River Crow Roosts.</title><title level="j">American Naturalist</title><author>Taylor, W. Edgar.</author><date>1887-12-01</date><biblScope>21: 1123-1124.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Missouri River Crow Roosts (1887) </head>
+         
+         <p>Missouri River Crow Roosts.-In vol. xx. p. 780, American Naturalist, it is stated that "the number of crows in the Western States, comparatively speaking, are so insignificant that their roosting-places have not been noticed by the ordinary observer." Probably the writer did not aim to include the Missouri Valley, yet such a conclusion seems to be general, but, undoubtedly, is incorrect.</p>
+         
+         <p>A large roost of <hi rend="italic">C. americanus</hi>, covering perhaps four or five acres, exists on Hogthief Island, in the Missouri River, about six miles above Peru, Neb., and fifteen miles below Nebraska City. Two other good-sized roosts are known, one ten miles north, and the other on an island eight miles south of Hogthief Island. Mr. N.S. Goss, author of "Kansas Birds," in a letter written October 29, 1887, says, "The crows had several years ago, quite a large roost in a heavily-timbered bend on the Neosho River, in Allen County (Kansas) and I am informed that there is a roost on the Wakarusa River, in Douglas County, and without doubt there are several others in the State."</p>
+         
+         <p>I am informed of several smaller roosts in Eastern kansas and Southeastern Nebraska, but perhaps the greater number roost on Hogthief Island and contiguous territory. All the principal roosts, numbering, perhaps, not less than one hundred thousand crows, are in an almost direct north and south line not over one hundred and fifty miles in length. I am of the opinion that more than half of the above number roost on Hogthief Island and adjacent territory. The crows have been roosting on and near this island for at least twenty-five years, beyond which time, owing to the new settlement of the country, I have not, so far, been able to trace their history. Probably, at some time previous to the settlement of the country, the crows at these various roosting-places in Eastern Kansas and Southeastern Nebraska had one roost,-different roosts being formed by the change of food supply occasioned by the settlement of the country.</p>
+         
+         <p>The crows assemble on the island named about the first of October and disperse about the first of May. About daybreak on a fine morning, when setting out for the day's journey, their chatter and noise, made in taking flight, maybe distinctly heard in Peru, six miles away. A reliable witness, who has lived in the country for some ten or fifteen years, states that he has often "observed, flying in one direction, flocks of crows six miles lone and one-half mile wide." In the winter the crows are so very plentiful in the surrounding country, including a radius of from twenty to forty miles, as to attract the attention of the most careless observer. Farmers have very often been compelled to guard their feed-pens. I have frequently been told by reliable persons that the crows in severe winters peck holes in the backs of hogs, in some cases eating off the ears.</p>
+         
+         <p>Sometimes these crows roost in small bushes and large weeds, but generally in trees, often the willow or cotton-wood.</p>
+         
+         <p>I am aware that many of these crows breed in this territory; this fact having been proven by Messrs. C.J. Pierson and J.M. Root, of the Normal Science Society, and by Mr. Goss and Professor Cragin, of Kansas. But it seems probable that some, at least, go to other territories for breeding; as several students living in Furnas, Hall and other counties in Central Nebraska have noticed that in the summer and winter crows are very seldom seen, while large flocks are commonly observed in the spring and fall. However, we hope to investigate this point further, as well as determine something more definite as to numbers, former roosts, and mode of life.</p>
+         
+         <p>The roost on the island may be plainly seen from the tower on the Normal School building.-<hi rend="italic">W. Edgar Taylor, State Normal, Peru, Neb.</hi>
+         
+         </p>
+         
+         <cit>
+            
+            <bibl default="NO">1887. <title>American Naturalist</title> 21: 1123-1124.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

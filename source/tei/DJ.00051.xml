@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00051">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Yellowhammer.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-06-01</date><biblScope>54(35): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Yellowhammer.</head>
+         
+         <p>One of the best known, most beautiful, most useful and most interesting of our birds is the Flicker, more generally called the Yellowhammer by Young America.</p>
+         
+         <p>There are two varieties of this splendid article in Nebraska, but the one we are best acquainted with is the Yellow Shafted Flicker. In the sandhills the Red Shafted Flicker is seen very frequently.</p>
+         
+         <p>The Flicker is a dandy old bird and possessed of just enough humor to make him doubly interesting. he has the habit of getting into his hole in some dead tree and then peering out for all the world like an old lady sunning herself in her bed room window. Moreover, when he is down below in his nest, a brisk rap on the stump will generally bring him out to receive the callers, whoever they may be. Then he will look down as much as to say:</p>
+         
+         <p>"Hello, old chap! What's on your mind?"</p>
+         
+         <p>As for usefulness, it is probable that the Flicker does more business in destroying tree-destroyers than any of the other woodpeckers. Also, he makes a speciality of ants and other insects of the ground.</p>
+         
+         <p>Doubtless you have seen the Yellowhammer on your lawn, looking intently downward, as if deep in thought. Suddenly he will bore into the earth with his sharp bill, and so engrossed does he become in this hunt that he is sometimes captured, all unawares. Caddies on the golf courses frequently succeed in throwing their hats over these mild-mannered birds on such occasions. When a Flicker is thus occupied he is generally after the ants, according to scientists.</p>
+         
+         <p>The Flicker is a riot of rich color, and his good looks, together with his economic value, make it imperative that he be protected. He used to be shot as a game bird. Think of it!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 1, 1919. <title>Omaha Sunday World-Herald</title> 54(35): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00317">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Flowers of the Pasture.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-07-25</date><biblScope>55(43): 6-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Flowers of the Pasture.</head>
+         
+         <p>Walk through the rustic gate of twisted branches down to the great walnut trees whose feathery leaves gently sweep the sky way above. Skirt round the thicket of snowberry, and there right in the midst of them is a spray of white blossoms that bend invitingly toward you, until in response you walk into the leafy copse and reach the unknown flower that grows daintier and more mystical the nearer the approach. One plant of this leaves mother earth in your embrace, the three or four more are left to continue their beauty and their kind.</p>
+         
+         <p>The star shaped white blossoms with fringed edges, and long hairlike stamens, arranged in a loose cluster, are fittingly framed among the glossy leaves of the snowberry, but it seems a pity that more eyes could not enjoy its delicate charm as it just peeps out of the thicket. It proves to belong to the pink family, and is called the Starry Champion by botanists. Small beautifully marked yellow butterflies hovered round it, adding the needed touch of sunny motion.</p>
+         
+         <p>Just a single arm's reach from it rose a stalk which gracefully tipped at the top and all down its long stem bore beautiful blue blossoms, china blue, with a faint tint of lavender, bell shaped. Fully open at the bottom of the flower stalk, partly revealing their coming bloom further up the stem with the pendant buds at the top giving promise of more blossoms. And when again two or three of these more abundant stalks were transplanted to a vase with plenty of water their drooping belles revived and more of the buds daily came forth to greet their delighted possessor Tall Bellflower, of the Campanula or Bellflower family it proved to be - cousin to Venus' Looking Glass, the Harebell and the Bluebell of our childhood and of song and story. It is well worthy of cultivation in the gardens where it is supplanted by less worthy flowers from strange lands.</p>
+         
+         <p>Close beside these pasture beauties grew the Blue Vervain, of the Verbenaceae family, whose close relation to the verbena of the garden with branching arms like a candelabra, the flowers blooming from the foot of the cluster upward, making a long line of purple blossoms that are the special delight of the bumble bee. It is wrongly named blue for the color is a bright purple, and another variety with much smaller blossoms is white. The verbena of the garden is a lovely growth, the flowers larger, and the whole covering the ground with a mat of bright blossoms, while the flower of the field grows tall and stately with its branching stalks, but the tiny flowerets forming the head are very similar.</p>
+         
+         <p>And down among the grasses at the feet of these pasture flowers grew another tiny plant that must be the subject of some future story, for its tiny orchid-like flowers of deepest blue were total strangers to the seekers of the beautiful in lowly surroundings.</p>
+         
+         <p>And this was the result of a ten minute stroll down into pasture land.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 25, 1920. <title>Omaha Sunday World-Herald</title> 55(43): 6-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

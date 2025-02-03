@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00969">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A White Grackle.</title><title level="j">Oologist</title><author>Colby, F.A.</author><date>1899-02-01</date><biblScope>11(2): 48.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A White Grackle.</head>
+         
+         <p>On October 10 or 12, 1893, a farmer named Dean Miller shot a White Grackle on his farm one mile west of here. It was with a flock of grackles that were feeding in a corn field. He shot it and then had a Taxidermist mount it.</p>
+         
+         <p>The bird is pure white without the slightest trace of black, the bill is of a cream color, the feet are white with a grayish tint and the eyes are light yellow with black pupils</p>
+         
+         <p>The bird's structure shows it to be of the Grackle species and in all it is a very handsome specimen.</p>
+         
+         <list type="simple">
+            
+            <item>F.A. Colby,</item>
+            
+            <item>Beatrice, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">February 1899. <title>Oologist</title> 11(2): 48.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

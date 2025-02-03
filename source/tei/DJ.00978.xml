@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00978">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Wild Pigeons in Nebraska.</title><title level="j">Forest and Stream</title><author>W. F. R[ightmire].</author><date>1897-09-25</date><biblScope>49(13): 246. Sandy Griswold, Sporting Editor. October 3, 1897. Omaha Sunday Bee p. 19.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Natural History.</head>
+         
+         <head>Wild Pigeons in Nebraska.</head>
+         
+         <p>Last week, while driving through a grove along the banks of the Nemaha River, in Johnson County, Nebraska, about eight miles from Burr, near Cook, I saw a flock of from seventy-five to a hundred of the wild passenger pigeons, the first seen for twenty years. W. F. R.</p>
+         
+         <cit>
+            
+            <bibl default="NO">W.F. R[ightmire]. September 25, 1897. Forest and Stream 49(13): 246.</bibl>
+         
+         </cit>
+         
+         <p>A flock of some seventy or one hundred wild passenger pigeons were seen in the vicinity of Falls City recently, the first of these almost extinct birds seen in that region for twenty years.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold, Sporting Editor. October 3, 1897. <title>Omaha Sunday Bee</title> p. 19.</bibl>
+         
+         </cit>
+         
+         <p>Near Cook, Johnson County-75 to 100-September, 1897. One can not but believe that these were mourning doves.</p>
+         
+         <cit>
+            
+            <bibl default="NO">R.H. Wolcott. 1902. Record of Nebraska Ornithology. Proceedings of the Nebraska Ornithologist's Union, Third Annual Meeting. Pages 93-105. Item on page 102.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

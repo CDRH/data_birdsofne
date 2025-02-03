@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00313">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The First Winter Tourist [Black-and-white Warbler].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-08-31</date><biblScope>54(48): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The First Winter Tourist.</head>
+         
+         <p>Aside from the health-giving value of a hike in the big outdoors and the inspiriting beauties constantly unfolded by Nature in any season, it is the constant chance of surprise that attracts the birdlover to the woods and fields, whether they be dense with foliage, green with the milk-giving grass of the plains, or coated with ice and swept by swirling snow.</p>
+         
+         <p>Spring and fall are the most attractive to the ornithologist because the migration is in progress then, but that does not mean that surprises cannot be encountered in the middle of the summer or in the most extreme weather of the winter.</p>
+         
+         <p>Last winter, for instance, the woods were invariably full of Tufted Titmouse, a bird seldom seen in this vicinity before -certainly not in such large numbers. Three years ago the snowy woods were clogged with Red Breasted Nuthatches; since then there have been practically none. Three years ago there were many Redpolls during the winter months; since that time, to our knowledge, none has been seen near Omaha. One summer the Bluebirds are plentiful; on another year comparatively scarce. This summer there seem to have been fewer Chewinks than in many seasons.</p>
+         
+         <p>All this merely indicate the ever-changing and delightful variety of bird experience to be gained by weekly hikes in Nature's kingdom.</p>
+         
+         <p>Now, however, there is a new surprise at hand, although the printed authorities tell us that we don't need to be surprised about it.</p>
+         
+         <p>The Black and White Warbler is in our presence, headed south!</p>
+         
+         <p>This bird is a pretty little fellow with all the habits of the Brown Creeper, except that he winters in Mexico, Central and South America.</p>
+         
+         <p>The first winter tourist of the Warbler tribe showed up in Elmwood Park last Sunday and was busily engaged in doctoring the trees in that beautiful reserve. he was in splendid plumage and apparently in excellent health. he is the advance guard of a veritable army of these beauties and useful feathered fellows.</p>
+         
+         <p>Experts tell us that the Black and White Warbler gets as far south as Mexico in August, after spending the summer as far north as central Canada. Some trip for such a tiny chap!</p>
+         
+         <p>You will find him shinning up the trunks of trees, peering into every bark-crevice for harmful bugs and worms.</p>
+         
+         <p>Look for him. Perhaps you may not find him, but have your hike blessed with some discovery equally interesting, or more so.</p>
+         
+         <p>It is an engrossing and life-extending game.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 31, 1919. The First Winter Tourist [Black-and-white Warbler]. <title>Omaha Sunday World-Herald</title> 54(48): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

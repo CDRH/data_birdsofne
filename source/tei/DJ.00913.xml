@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00913">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Fall Travelers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-10-03</date><biblScope>51(1): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Fall Travelers.</head>
+         
+         <p>More interesting, perhaps, to the lay student of bird lore than to the skilled ornithologist are these days of migration, for it is now that the eager and pacific huntsman must delve deep into the russet ravines and scan closely among the falling leaves to find his feathered friends on the eve of their departure.</p>
+         
+         <p>Long e'er this the tiny warblers have flown to the southward on their queer little journey of short spurts and most of the summer sparrows have likewise slipped away among the shadows. The woodlands and parks are quiet now. There is no sound but the rustle of a brilliant leaf fluttering down among the branches once vibrant with the melody of nature's own feathered orchestra. Pause - and you will almost imagine the sifting of the snows that are to come.</p>
+         
+         <p>But the hardier birds are still here, marshaling their forces for a grand swoop into the warmth of Dixie.</p>
+         
+         <p>On the edges of the fields you will come upon huge masses of many varieties of blackbirds - thousands of them - mildly issuing their mysterious orders among themselves, figuratively packing their bags and checking out. Next morning - they have gone!</p>
+         
+         <p>In the ravine there may be hundreds of robins, quiet and mighty different from their spring nature. They, too, are fixing up their affairs for the winter journey. A few of the old timers will remain behind, mayhap, to maintain a northern outpost, but the grand army will go, and may be gone tomorrow.</p>
+         
+         <p>It is lonesome - a mighty lonesome season in the glades and draws. One likes to have company along with him on one of these October hikes, and it is strangely a fact that the songbirds, now silent, appear to have the same feeling, for they, too, seek the company of kind. Even the Chickadees, omnipresent little bravos, will cluster about you by the dozen and follow you through the woods - inquisitive and incessantly loquacious. They are perhaps the only bird in these parts to continue their cheerful chatter among all season and conditions.</p>
+         
+         <p>Since the Missouri valley is the main line of migration from the north, the student is surprised now and then by finding, even at such a late hour, a few stragglers from the tenderer of the bird families. A Red Eyed Vireo, perhaps, or maybe a Warbler, but the latter very rarely. This chance, and the somnolent secrecy of the woods in early October, make bird hunting a charming pastime.</p>
+         
+         <p>There may be a mysterious whine from a tangle of weeds and from that tangle you may flush a gloomy Catbird, who runs, rather than flies, away from you. He likes his summer home, knows he must leave but detests the job. The gentle Bluebird likewise lingers.</p>
+         
+         <p>The Goldfinch, whose lemon and black apparel is rapidly losing its gayety for a dull drab winter suit, twitters about with its dipping, parabolic flight. He is the last of all the birds of this district to bring forth his young from the nest and he stays, with his family, all the year 'round.</p>
+         
+         <p>Out in the rich, riotous carmine of the sumac the husky Towhee adapts his brick-red breast to his surroundings and sticks out the battle until the snow flies. In the tree tops, rapidly losing every vestige of leafy clothing, the Bluejay yells defiance to the northern blasts and resolves to spend the winter here, if he can, while the Flicker, the Hairy and the Downy Woodpeckers look over their preserves for the frigid campaign to come.</p>
+         
+         <p>The Fall Travelers of Birdland are passing through, and not many of the feathered entertainers will be left in a fortnight. It would be well for you to better yourself today with a glance at the caravan. The kaleidoscopic beauties of Indian summer will enhance the charm of bird lore, never fear!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 3, 1915. <title>Omaha Sunday World-Herald</title> 51(1): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

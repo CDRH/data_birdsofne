@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00584">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Fly-Way Shooting.</title><title level="j">Forest and Stream</title><author>C. L. B.</author><date>1881-11-17</date><biblScope>17(16): 309-310.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Fly-Way Shooting.</head>
+         
+         <list type="simple">
+            
+            <item>Lincoln, Neb., Oct. 28.</item>
+            
+            <item>
+               
+               <hi rend="italic">Editor <title>Forest and Stream</title>:</hi>
+            
+            </item>
+         
+         </list>
+         
+         <p>Few notes have appeared in your valuable journal from our promising State on the game question, and a description of a little hunt, occupying three days last week, may head a few of the seekers after fine shooting this way.</p>
+         
+         <p>To begin: Nebraska is a prairie State, and the Plate River runs the entire length of the State from West to East. Not exactly runs either, but scatters over a great deal of country, leaving numerous sand bars in its bed upon which during the spring and fall millions of geese and ducks bask during the day and roost at night, leaving the river twice each day to feed in the fields.</p>
+         
+         <p>A party of five sportsmen-probably no city could furnish an equal number as eager for a hunt-started from Lincoln last week via the B. &amp; M. R.R. in Nebraska for Juniata, 105 miles west, and our railroad friends put us in charge of Conductor Hutchinson who had he been a millionaire, would have let his train run itself and gone too, but with due consideration for his family and pocketbook he kept in command of his train, and every time he passed through the train he would announce to us that he "hoped we would get off at the next station as it made him sick to think of us."</p>
+         
+         <p>Juniata was reached in time for supper, and next morning we very comfortably seated ourselves in a spring wagon headed for the Platte River, sixteen miles away.</p>
+         
+         <p>The ride over was an unusually pleasant one, as "Lord" Hastings, the legal light of our party, had an extremely large and varied assortment of stories to draw from, and he drew, too, amazingly often on account of a number of them concerning persons who had come from the vicinity of "Bath, you know," where our "purveyor" was born.</p>
+         
+         <p>At the Platte we were quartered with friend Foote, a model farmer, and husband and father of as interesting a family as one would meet with in our State. His home-stead is on Elm Island, and drought is never known, consequently he is a wealthy man and abundantly surrounded with comforts of life. His estimable wife soon prepared us a dinner to which we did ample justice.</p>
+         
+         <p>The afternoon was spent in patrolling the river and locating the "fly-ways" of the geese, as they went to and returned from the fields, rounding up at night with twenty-two geese. The next day set in cold and damp, and the geese left the river at daybreak not to return til late at night, as it was as comfortable for them in the fields as in the river.</p>
+         
+         <p>Our blinds were all properly constructed on the bars, and the score for that day did not come up the afternoon previous.</p>
+         
+         <p>The following day, however, promised to be a good "goose day" and the party tallied ninety-two geese as a result of their prediction.</p>
+         
+         <p>The next day we were to leave at noon, so we put in a little more powder and aimed closer, thereby bringing our total up to 261 geese, all of which we left the river with.</p>
+         
+         <p>Our friends at Lincoln were all remembered, and numerous parties immediately organized to follow in our wake, none of which have yet reported.</p>
+         
+         <p>Quail are unusually abundant this fall, and a little later the sport will be grand.</p>
+         
+         <p>Our city would be a fine location for a kennel of Gordons, Laveracks and Irish setters, also spaniels for ducking.</p>
+         
+         <p>C. L. B.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 17, 1881. <title>Forest and Stream</title> 17(16): 309-310.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

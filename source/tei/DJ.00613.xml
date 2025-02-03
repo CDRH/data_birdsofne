@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00613">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Notes from Omaha.</title><title level="j">Proceedings of the Nebraska Ornithologists' Union</title><author>Wallace, J.E.</author><date>1901-10-01</date><biblScope>2: 97.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Notes From Omaha</head>
+         
+         <p>Old Squaw Duck (<hi rend="italic">Clangula hyemalis</hi>). Two specimens of this bird were killed on Cut-off Lake near this city December 8, 1900, by a local sportsman. He had never seen this species before, brought the heads to me to identify, and I have them now in my possession.</p>
+         
+         <p>White-Winged Scoter (<hi rend="italic">Oidenmia deglandi</hi>). I have one of these ducks which was killed on Cut-off Lake, December 8, 1900.</p>
+         
+         <p>Tufted Titmouse (<hi rend="italic">Parus bicolor</hi>). One was killed by L.F. Skow near Florence, October 5, 1900.</p>
+         
+         <p>Evening Grosbeak (<hi rend="italic">Coccothraustes vespertinus</hi>). A specimen was killed by L. Skow near Florence, October 12, 1900. The heads and wings of two were also brought by a local sportsman (?) to R. F. Mullen during the first week of November, 1900.</p>
+         
+         <p>Blue-Gray Gnatcatcher (<hi rend="italic">Polioptila caerulea</hi>). Two nests containing three and four eggs respectively were found near Bellevue in June, 1900. F.H. Shoemaker and I.S. Trostler photographed one of these after the young were hatched.</p>
+         
+         <p>Yellow-throated Vireo (<hi rend="italic">Vireo flavifrons</hi>). R.F. Mullen found a nest and four eggs of this species near Bellevue in June, 1900.</p>
+         
+         <p>Cerulean Warbler (<hi rend="italic">Dendrodoa caerulea</hi>). I found three nests of this species in 1900 near Bellevue. One contained four badly incubated eggs, the second a young bird, the third three slightly incubated eggs.</p>
+         
+         <list type="simple">
+            
+            <item>J.E. Wallace, Omaha.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">October 1901. <title>Proceedings of the Nebraska Ornithologists' Union</title> 2: 97. Proceedings of the second annual meeting.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

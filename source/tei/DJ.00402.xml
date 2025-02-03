@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00402">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Jack Snipe.</title><title level="j">Omaha Sunday World-Herald</title><author>C.P. Kerwin and Sandy Griswold.</author><date>1910-08-28</date><biblScope>45(48): 7-N. Portion of Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <head>Nebraska Jack Snipe</head>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. August 28, 1910. Nebraska jack snipe. <title>Omaha Sunday World-Herald</title> 45(48): 7-N. Portion of Forest, Field and Stream column.</bibl>
+         
+         </cit>
+         
+         <p>Gross, Nebraska, July 26. - To Sandy Griswold, Sporting Editor of the World-Herald: I just read an article in last Sunday's World-Herald about jacksnipe written by a Mr. O'Neil of Custer county and I am surprised that you are not aware of the fact that jacksnipe do breed in this state. I have found many of their nests in the sand hills southwest of O'Neill, in Holt county. In the early 80's, when I was a boy herding cattle there, the nests of jacksnipe, mallard, ducks and teal were quite common. The nest of the jacksnipe is scooped out in the sand where there is very little grass. The nest is about six inches in diameter. The eggs are like those of the plover or small snipe, but very large for a bird so small. The eggs are large at one end and run to a sharp point at the other end. They are speckled like the eggs of a turkey, but there is more specks, and the spots are darker in color, there is always four eggs in the nest. The nest is deep to the center, with the small ends of the eggs turned that way. Take four guinea eggs, speckled, with small ends, scoop a hole in the sand 5 or 6 inches wide and 2 inches deep in center, put the eggs in, with large ends out, and you have a jacksnipe's nest. But the snipe's eggs are much larger than the guinea eggs. They are as large as hen's eggs. If you saw one you would not believe it was the egg of a jacksnipe. I will go out in the sandhills next spring and get you some of the eggs, providing the spring is wet. - C.P. Kerwin.</p>
+         
+         <p>Mr. Kerwin, now that he has settled the jacksnipe breeding grounds in Nebraska, can probably tell us where we can find some wild pigeons, a buffalo or two or a Labrador duck. Jacksnipe eggs as big as chicken's eggs. Whew! How we'd like to get among those jacks. - Sporting Editor.</p>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

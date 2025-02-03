@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00812">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Some Thrushes.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-05-20</date><biblScope>58(34): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Some Thrushes.</head>
+         
+         <p>For some reason or other, best known to the Almighty, there is an unusual plentitude of Thrushes in the residential section of Omaha this year. Large numbers of these beautiful birds are always seen in our woods and parks in this season, but their presence in the highly citified backyards is surprising.</p>
+         
+         <p>Thrushes are Thrushes - but there are many kinds of 'em, and before we launch into this discourse we must say that the Brown Thrasher, better known as the Brown Thrush, is not a Thrush at all, but a member of the Mockingbird Family, along with the Catbird.</p>
+         
+         <p>As for the real Thrushes, the sorts most generally seen here at this time o' year are the Wood Thrush, Olive Backed Thrush and Gray Cheeked Thrush. The Wilson Thrush, Willow Thrush and Hermit Thrush are also detected once in a while. The Wood Thrush is about the only one to nest here regularly.</p>
+         
+         <p>This year, however, there have been a lot of Gray Cheeked Thrushes and Olive Backed Thrushes playing around in the old and new backyards, and many seem to be inclined to flirt - perhaps to nest - which would be still more unusual. The difference between these two birds is so slight to the laity that a description would be merely more confusing. Best look 'em up in some reliable handbook and then use your own judgement.</p>
+         
+         <p>The Wood Thrush is rich rufous on the back with a white breast boldly spotted with black. The Wilson and Willow Thrushes have no spots on their breasts, while the Olive Backed and Gray Cheeked Thrushes are spotted in scattering fashion, high on their breasts. The extremely reddish brown of the Hermit Thrush's tail will identify that beautiful songster.</p>
+         
+         <p>However - this was not to be a treatise, merely an appreciation of the surprisingly large number of Thrushes in our midst this spring. Why not take a little hike today and get acquainted with the beautiful songsters.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 20, 1923. <title>Omaha Sunday World-Herald</title> 58(34): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

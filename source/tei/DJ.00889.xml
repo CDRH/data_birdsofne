@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00889">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Sweetest Note of All [Western Meadowlark].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-03-26</date><biblScope>51(26): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-26">2006-06-26</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sweetest Note of All.</head>
+         
+         <p>To the minds of the many, a meadow lark is a meadow lark, and those who have been raised in Nebraska are likely to be familiar with but one of several sub-species—the so-called Western Meadow Lark. This beautiful songster was discovered near the present site of Omaha way back in the forties by Audubon himself, who was then tramping all over the country on foot, making observations of American wild bird life.</p>
+         
+         <p>Audubon was charmed with the delicious carol of this creature of the meadows, and spoke of it many times in his writings. Most bird lovers and skilled ornithologists agree that the note of the Western Meadow Lark is the sweetest and purest of all.</p>
+         
+         <p>Musicians have been able to record his songs upon paper and many amateurs are able to whistle a fair imitation. Authorities disagree on just what the Western Meadow Lark says from his fence post or from behind his clump of grass. A Nebraska farmer, whose potato crop had been saved from the beetles by the larks, told Dr. Solon R. Towne, president of the Audubon society, that to him the Western Meadow Lark says nothing but,</p>
+         
+         <p>"Whoop la! Potato bug!"</p>
+         
+         <p>Another well known song of this delightful bird appears to be,</p>
+         
+         <p>"My, what a lovely creature!"</p>
+         
+         <p>And still another,</p>
+         
+         <p>"Singing about as usual!"</p>
+         
+         <p>There is a story of the streets that tells of a bemused party who heard some folks talking about the Western Meadow Lark.</p>
+         
+         <p>"Oh, yes!" interrupted the dizzy person, "That's the bird that says 'Better go take the Keeley Cure!'"</p>
+         
+         <p>But no matter what he says, his song is a thing of beauty and a joy forever. These larks appeared in the outskirts of Omaha about two weeks ago and are rapidly increasing in numbers.</p>
+         
+         <p>If you take your Sunday stroll through the country-side today you will doubtless hear the carol that startled Audubon so many years ago, and you will be very fortunate, too, for the songs of the California and Eastern Meadow Larks cannot compare in tone and sweetness with those of the western variety that belong to us of the plains and to us alone.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 26, 1916. Sweetest Note of All [Western Meadowlark]. <title>Omaha Sunday World-Herald</title> 51(26): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

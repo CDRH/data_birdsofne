@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00561">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Snow on the Mountains in Prairie Land.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-08</date><biblScope>55(45): 6-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Snow on the Mountains in Prairie Land.</head>
+         
+         <p>"Snow on the Mountains," it is called, but it does not stay up on the mountains by any means. If you are wandering over Nebraska prairies or along the edges of the woods any time from now until September, and see ahead of you what appears to be great masses of white-blossomed plants, you may be sure you have found a bed of Euphorbia Marginata, or Snow on the Mountain. When you have hastened to it, and found it the handsomer the nearer you get, you will wonder why it has never been domesticated in our ornamental gardens and grounds. Its beautiful green leaves are margined with white and form a whorl around the rather insignificant tiny blossoms that form a head like a great aster. From the center of each of these tiny blossoms as it reaches its ultimate growth is pendent on a delicate stem a seed capsule of the same green, three lobed. The plant grows sometimes three or four feet high, is much branched and lasts for some time with its multitude of blossoms.</p>
+         
+         <p>Another interesting thing that is discovered as one studies the Spurge family to which it belongs is that it is cousin of the gorgeous scarlet Euphorbia that California sends us every Christmas time to make gay our homes. It seems a pity that the white and green and the gorgeous red cousins cannot sometimes be placed side by side in some unique decoration.</p>
+         
+         <p>Another set of cousins to this very interesting family are some curious mats of green and golden brown which grow out in the sandhills, and probably in many other places, forming a dense round beautiful mat that, set in a plate of sand and water on a table, is a delight for days. Inspection shows this tiny sprayey plant to have the same kind of blossoms only very, very small, with the same little pendent seed capsule. Some of these have been found in eastern Nebraska, but not so dense and handsome as where the sand and sun combine to perfect them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 8, 1920. <title>Omaha Sunday World-Herald</title> 55(45): 6-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

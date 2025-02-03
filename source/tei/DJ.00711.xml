@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00711">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Rail Hunting Along the Missouri River in Eastern Omaha].</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1894-09-09</date><biblScope/></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-17"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>[Rail Hunting Along the Missouri River in Eastern Omaha.]</head>
+         
+         <p>Few people are aware that some of the finest rail shooting grounds in this part of the country are almost within the city limits. But it is a fact, and the city sportsmen are having some very fine early fall shooting at these toothsome little birds in the lakes and ponds in the East Omaha bottoms. The marshes are full of them, and a fairly good hunter can bag a half hundred of these birds in a few hours.</p>
+         
+         <p>The species abounding here are the clapper rail or fresh water marsh hen, which is of the subfamily rallinae, and especially of the genus rallus, a water rail or marsh hen. Rails are a small marsh loving, wading bird, related to coots and gallinules. They live in marshes and low, wet places, and make their way through the mazes of reeds and rushes with great ease and celerity, and the body being thin and compressed, and the legs, long and stout. The king rail, or fresh water marsh hen, is R. elegans, and is one of the American game fowl.</p>
+         
+         <p>A number of sportsmen who are aware of the existence of these little water fowl have been making some great bags of them during the past week. At this season of the year they are quite tame, and are rolling in fat. With a small guage gun, and lightly loaded shells, a man can bag a couple of dozen rails inside of two hours and at the same time enjoy some lively sport. The marsh hens are vociferous feeders, and until the sun gets almost at its zenith they are busily engaged in gaining sustenance from around the roots of the cat-tails, flags and the water moss. Their shrill cries and chucklings fill a sportsman with visions of a delicious dinner, and with his waders he carefully makes his way through the rushes to some open place in the marsh and quietly awaits developments. In a few moments several of the bright-eyed, red breasted little fellows are seen cautiously peeping out of the rushes to see what has disturbed them. They grow bolder, and soon several of them are hard at work dipping under the water and around in the moss for food. A good shot presents itself. Bang! goes a No. 12 or 16, and over rolls the pretty little hens, while the others take a short flight, presenting easy marks for the gunner, and he has no trouble in bagging from two to five birds. In a few moments another bunch of birds come out and the sport is continued until the hunter's desires are satisfied, or the birds quit feeding.</p>
+         
+         <p>Last Tuesday the writer enjoyed a forenoon's sport among these birds, and after a couple hours of hard work bagged eighteen of the birds. He was armed with a 22-calibre Ballard rifle, and for a while had the conceit completely taken out of him by missing one bird four times in succession. The fifth shot laid him out, and then it was found that every bullet had grazed the bird, but owing to its deceptive size, none of them had struck a vital place. After getting a mess of the birds, the hunter turned his attention to a big bunch of mud hens in the rushes, and for a time had considerable sport in making these imitation ducks seek shelter from the leaden pellets by diving repeatedly.</p>
+         
+         <p>On Friday morning the writer, who in the meantime had become filled with a craving for another feast of marsh hens, sallied forth with his arsenal again, and not only bagged a baker's dozen of these birds, but killed four fine, fat, yellow-legged snipe, and a half dozen sandpipers. This might be termed pretty fair shooting with a small rifle, and it is as good a bag as many of the "scatter gun" shooters make. Detective Dunn knocked over a fine bag of marsh hens one morning this week, and other sportsmen report good luck on brief hunting expeditions on both sides of the river. It is reported that small ducks are beginning to come in at Honey Creek lake, and some early shooting is being indulged in by the boys on the quiet.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy	Griswold. September 9, 1894. <title>Omaha Sunday Bee</title> p. 19.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

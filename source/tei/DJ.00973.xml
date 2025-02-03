@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00973">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cats and Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-11-14</date><biblScope>51(7): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cats and Birds.</head>
+         
+         <p>While there is absolutely no question that squirrels not only destroy wild bird nests, but likewise eat eggs and kill young birds, it must be admitted that the so-called domestic cat is likewise a grievous offender, as asserted by a recent contributor to the "Public Pulse" column of this newspaper.</p>
+         
+         <p>The situation in regard to the cat is exactly the same as with the squirrel, for in proper numbers neither is objectionable. Given a fair chance, the birds will take care of themselves, but when their enemies are protected and they themselves are not, the songsters have a considerable handicap.</p>
+         
+         <p>Cats are very destructive to bird life, and this is one statement that nobody can question, for even children know that it is the feline instinct to attack and destroy and consume every bird that comes within the reach of the claws.</p>
+         
+         <p>Those that have pet cats in their family would do well to realize that they are responsible for these cats, and that when Tom or Tabby commits a murder, he or she should be indicted just like any other slayer.</p>
+         
+         <p>It is remarkable that cats are not licensed the same as are dogs, for they are not only pets, but pests, when running at large. At this moment there are thousands of absolutely wild cats, not wildcats, hiding during the day in and about Omaha and running loose at night.</p>
+         
+         <p>In the daytime, especially in the outskirts, these cats devote many an hour to preying upon bird life. Therefore they should be under surveillance, even as are the dogs.</p>
+         
+         <p>Those who love the birds ask only that the songsters be given a square deal, and this can never be the case as long as the cats and squirrels are protected while the birds are left to shift for themselves.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 14, 1915. <title>Omaha Sunday World-Herald</title>	51(7): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

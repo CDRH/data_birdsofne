@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00242">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Find the Earliest Wild Flower.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-02-18</date><biblScope>58(21): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Find the Earliest Wild Flower.</head>
+         
+         <p>While the children are to be made the saviors of the flowers by learning to gather them right, and leave always some for Mother Nature to keep growing, so that coming children may have them too, not less should they go to visit the wild flowers often and learn as much as possible about them and their homes. And the children of a larger growth should ardently join them.</p>
+         
+         <p>With the thermometer just a little above zero and the ground hard frozen, it is hard to believe that the spirits of the flowers are even now busy at work down below the frost line in the ground working at their shell covering, getting ready to leave their winter bed and come forth to greet the new world they have never known. But that is the case, and now if every teacher in Omaha or elsewhere who may chance to read this would add to her story of how her pupils can prevent our losing our beautiful wild baby flowers a request that they would watch diligently for the first wild flower that blossoms, and pick just one and bring it to her so that the very earliest wild flower in their particular locality can be determined, it could soon be found which is Nebraska's very own spring flower, the earliest one that smiled up to the sun.</p>
+         
+         <p>Please do that, Children Flower-Saviors, and send word and a flower to the Flower Editor of the World-Herald, that a special spring greeting may be arranged for it and the finders thereof. Begin to look when the first warm days come; you will be astonished to find how anxious the flowers are to make their first spring call.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 18, 1923. <title>Omaha Sunday World-Herald</title> 58(21): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

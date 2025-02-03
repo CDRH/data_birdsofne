@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00724">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Regular Guys Enjoy Wild Duck Banquet.</title><title level="j">Omaha Morning Bee</title><author>Anonymous.</author><date>1913-11-27</date><biblScope>43(139): 7.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>'Regular Guys' Enjoy Wild Duck Banquet</head>
+         
+         <p>Thirty members of the "regular Guy" association of Omaha, as the guest of Jack haskell and Harry Pullman, celebrated the first anniversary of the organization at the Carlton hotel last night with a wild duck dinner.</p>
+         
+         <p>The birds were due to the skill of Joe McDonald and several other "regular guys" with a shotgun and the rest of the banquet to the generosity of Pullman and Haskell.</p>
+         
+         <p>The departure of Demon Rum from Omaha with the anti-saloon league in pursuit, furnished considerable talk for the "guys" after the ducks had been consigned to their last resting place.</p>
+         
+         <p>Jack Haskell was toastmaster.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 27, 1913. <title>Omaha Morning Bee</title> 43(139): 7.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

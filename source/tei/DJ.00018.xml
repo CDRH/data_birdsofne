@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00018">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Among the Wild Fowl.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1890-03-30</date><biblScope>19(279): 1. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Among the Wild Fowl.</head>
+         
+         <p>J. A. McDougal, H. S. Heath, John Robertson of the city waterworks and A. B. Ress, assistant division engineer, spent several days among the wild fowl on the Elkhorn, near Nickerson, last week. They found the birds very plentiful in the adjacent lakes and sloughs, and brought to bag some one hundred and sixty or more, principally redhead and widgeon.</p>
+         
+         <p>The musical "skeap! skeap!" of the jack snipe, Gallinago Wilsoni, is not an unfamiliar sound in the marshes and the low-lands these warm days. The birds evidently rode in on the high winds of Thursday night and will remain here now on till the middle of April, and the gunner with plenty of time should be in clover. There is no more precious game bird than this tawny gallinago and no bird that flies that can furnish a greater amount of sport in a given time.</p>
+         
+         <p>Captain Ray, Henry Homan, W. Bingham and Dr. Galbraith returned from the big marshes out about Clarks one day this week with a fine assortment of geese, Canadas, Hutchins and Snow, redheads, pintails and mallards. The river was breaking up, however, and the floating ice, rising waters and furious winds, made shooting both difficult and unsatisfactory. However, if the birds are in, this quartet of fine shots, under any and all circumstances, are certain to secure a share of them. The same party with the addition of the sporting editor will repeat the expedition this week.</p>
+         
+         <p>Charlie Hoyt, the well known duck and goose killer of Clarks, had a hairbreadth escape from drowning in the raging Platte one day last week. He had gone out early in the morning, and had gotten snugly ensconced behind his blind and was cracking away at the passing Canadas, when the river rose with a rush. The broken ice came down in gorges, and before Hoyt was hardly aware of the danger, the bar upon which he was, was half submerged, his decoys, some sixty in number, swept away and a rushing, roaring avalanche of water and ice on all sides of him. He hesitated but a moment, then holding his gun high over his head, entered the river. The water had risen with frightful rapidity, and was now up to his neck. However, by the exercise of the best judgement, and the aid of his familiarity with the locality, he avoided all dangerous quicksands, and after wading some three quarters of a mile, succeeded in reaching the shore in safety, but completely exhausted. A stranger would have found it impossible to have saved himself.</p>
+         
+         <p>Drs. Bryant and Coulter are at Waterloo, scaring the geese and ducks half out of their wits. However, if Coulter can only get hold of the right kind of a club, there's no doubt but what this pair of Esculapian deciples with a barrel of game. Coulter, you know, has the record of killing more jack rabbits with a club in an hour than any man in this western country ever killed in the same length of time with a gun.</p>
+         
+         <p>The spring shooting is proving to be unprecedently fine. There are more birds, and they are in far better condition than has been known in a long series of years.</p>
+         
+         <p>Geese are reported to be swarming along the Platte at Brady's and Willow islands by the thousands.</p>
+         
+         <p>Several good bags of canvasbacks have been made at Waubuncey and on the Elkhorn.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sporting Editor [Sandy Griswold]. March 30, 1890. <title>Omaha Sunday Bee</title> 19(279): 1. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

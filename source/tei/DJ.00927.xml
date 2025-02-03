@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00927">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Upper Loupe. Details of a Scout up the Loupe of Company N, 2d Cavalry.</title><title level="j">Omaha Weekly Herald</title><author>C.E.</author><date>1872-11-06</date><biblScope>8(5): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Upper Loupe.</head>
+         
+         <head>Details of a Scout up the Loupe of Company N, 2d Cavalry.</head>
+         
+         <list type="simple">
+            
+            <item>Camp Vincent, Neb., Oct 20.</item>
+            
+            <item>To the Editor of the Herald.</item>
+         
+         </list>
+         
+         <p>Having just returned from one more hard and laborious scouting tour up the Loupe country, I will give you some details of the trip and its results.</p>
+         
+         <p>We left our camp, situated on a beautiful valley on the North Loupe, on the 16th of October, about 9 a.m., with a party of forty-five mounted men of M Company, Second United States Cavalry, commanded by Captain Mix, an officer of much experience in the service, and who exhibited unlimited kindness to his men who in return would follow him into the most perilous dangers when they met with such. The troops were accompanied by four wagons well laden with forage, subsistence, etc.; also, an abundance in case of accident by disease or other causes. On Wednesday, the first day, we made about twenty-five miles and went into camp on the river. Early next morning, after a good night's rest and faring sumptuous, we were on the march again, moving with considerable rapidity through the country across the valleys. Now and then a quiet flock of ducks and geese or the flight of prairie chickens became disturbed by a certain shotgun carried by Captain Mix and Lt. Capron of Company C, Ninth United States Infantry, who accompanied the expedition. About 3 p.m. we arrived at the forks of the North Loupe where we picked camp and looked out a fording place across the south branch of the river. A wagon was sent out to bring in the game that the hunting party, which consisted of Little Buckshot, Sergeant Witman, Private McCale, and Morrison, the game director, had killed. About 10 p.m. the party arrived in camp with four large elk and two deer. I was greatly interested in the hunt, more especially that part connected with the fire, frying pan and tenderloin, in which I participated largely. Friday morning breakfast was in readiness quite early and the horses groomed, and everything presented a beautiful appearance and favorable for the day. We crossed the south branch with success by putting eight mules to each wagon and made our way rapidly up the north branch of the Loupe. After a march of twenty-five miles we arrived as a bend in the river which seemed to undermine the bluff and form a perpendicular precipice of considerable height. Here we attempted to cross the river, and damaged one wagon, and were forced to return by recrossing the river and went into camp for the night. Here we renewed our duties to ourselves and horses, smoked our pipes, cracked a few joes, and turned in for repose.</p>
+         
+         <p>Nothing of importance occurred during the day; a few chickens were shot on the wing as they sail between these two branches of the Loupe, which is so sandy and light that chickens seldom light for want of foothold, and there is no need of hair restorative or some other fertilizer to bring production on the soil and mucilage or cement to hold it there when grown.</p>
+         
+         <p>Saturday we were up with the sun and in readiness for action. The hunting party were out as usual. The Captain with a party of twenty-five men left the train with a guard in camp, and proceeded up the river where they found some surveyors encamped, as this country is just undergoing survey. After making six or seven miles beyond this camp and not seeing any of the Indians which the surveyors told us had passed a few days since on a twenty-day permit from the agent of the Pawnees, thus abating all suspicions, the party returned again to camp. A team was sent out for the game that the hunters had killed, and about dark it returned with five elk, and one antelope. Sweet repose was soon the occupation of all except the sentries on post to guard camp.</p>
+         
+         <p>Sunday, early the exciting part of the romance was ended, and the whole party retraced their steps. The country on the north side of North Branch and south side of SOuth Branch has a beautiful soil and quite spacious valleys, but between the two rivers, the quicker the government gets Swedes settled on it the better. From the Forks down it is considerably settled and the country cannot be surpassed. Were it not for the railroad land which is not in market, the country would now present a thriving appearance.</p>
+         
+         <p>We forgot to mention that we found the surface of the country burned to blackness for two days march on our return to camp.</p>
+         
+         <p>Very respectfully, C.E., Co. M, 2d U.S. Cavalry.</p>
+         
+         <cit>
+            
+            <bibl default="NO">November 6, 1872. <title>Omaha Weekly Herald</title> 8(5): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

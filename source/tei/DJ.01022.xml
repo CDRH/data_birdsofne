@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01022">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Out of Season.</title><title level="j">Omaha Daily Herald</title><author>Editor</author><date>1879-02-20</date><biblScope>14(109): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-26"/>
+    <respStmt>
+	<name>Anastasia Smallcomb</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Out of Season.</head>
+
+<head>A Large Quantity of Game Seized in an Omaha Commission House.</head>
+
+<p>Mr. S.B. Hathaway, of the Omaha Sportsmen's Club, filed complaint in Police Court yesterday against Peyeke Brothers, the commission merchants, charging them with being in possession of a large quantity of game which is out of season. The information came to Mr. Hathaway, it is stated, through a member of the Field Sportsmen's Club. The necessary warrant was issued and proceeding with an officer to Peyeke Brothers the game was seized, consisting of five barrels containing 230 prairie chickens, and 126 quails. By the law regarding offences of this kind the game will be divided among the poor of the city. The fine imposed by law upon the parties in possession of such game is $3 per bird, which in the present case would foot up to the handsome little sum of $1,068. Peyeke brothers claim that the barrels were shipped to them by unknown parties and that the contents of the barrels were not known to them until the officer had made the seizure. They state that they will employ an attorney and give the case a hard fight. On the other hand it is stated that Mr. hathaway, in behalf of the Sportsman's Club, of which he is one of the board of managers, will see that the case is thoroughly prosecuted and the responsibility placed where it belongs.</p>
+
+<cit>
+<bibl default="NO">February 20, 1879.  <title>Omaha Daily Herald</title> 14(109): 8.</bibl>
+</cit>
+
+</body>
+</text>
+</TEI.2>

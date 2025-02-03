@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01003">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Woods and Waters. A Weekly Ramble with the Devotees of Rod and Gun.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy, Sporting Editor.</author><date>1896-08-23</date><biblScope>p. 7.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-21"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Woods and Waters.</head>
+         
+         <head>A Weekly Ramble with the Devotees of Rod and Gun.</head>
+         
+         <p>If the Omaha Gun club would only start in now, even at this late day, it could make things decidedly interesting for certain commission men, hotel and restaurant keepers, who are illegally handling prairie chickens. Bring suit against one ot two of the cold storage establishments and the trick is turned. There could be no more effectual way of stopping the unlawful and indiscriminate slaughter of chicken than by the visitation of a good, healthy dose of justice upon these defiant traffickers. Shut off the market and the pot-hunter's vocation is gone. Prohibition of the sale of game and fish in close season is recognized by all practical and experienced individuals and societies engaged in game protection, as an absolute essential. Without shutting down the market sale of game and fish in close season the laws would be, in a large measure, farcical.</p>
+         
+         <p>In one more short week the close season will have expired, and gunners can then sally boldly forth like true sportsmen, instead of like so many sneaks and vandals. The prairie chicken is fast following in the wake of the buffalo and wild pigeon, and will soon have disappeared forever, insofar as Nebraska is concerned. With proper legislation, however, or by the enforcement of the laws already upon the statute books, this grand game bird would have thriven here in plenitude for years to come. But it is useless to extort and beseech, and the passage of new laws would now be like locking the stable door after the horse thief had been there. It is a lamentable state of affairs, and a sad commentary upon the intelligence and wisdom of the men who are supposed to look after and care for the interests of the general people.</p>
+         
+         <p>No bird ever lent such a charm to its surroundings as the chicken to our fair prairies. He has been to these broad plains more than the quail to the cornfield and stubble of the cultivated farm, or the jacksnipe to the oozy marsh. Without this beautiful bird the prairie loses one of its greatest entrancements, and becomes little less than a lonely and untenanted waste. What a thrill that peculiar crowing of the cocks sends through the sportsman's breast when he hears it swelling from the distant ridge in the early spring, before the faint blue of the liverwort begins to beam beside the fading snowdrift in the timber, or the spring beauties light the sombre face of wood and plain. Even the trained gunner gives a start when an old hen goes whirring from out the tall grass at his very feet, and the novice, well he might as well attempt to down a will-o'-the-wisp with an air gun, as to stretch her mottled form upon the yellowing plain. And when the wild fowl bid goodbye to the stripped rice fields and desolate sloughs, and the geese no longer dot the bars in the river, and the blackbirds and the robins have petulantly chirped a last farewell, the chicken are alone left to cheer the weary prairie waste. Forbidding weather has no terror for them, and it is a sight to see them in the evening, in large flocks, or by ones or twos, sweeping over the sear expanse from standing cornfield to roosting grounds; or in the morning, when the hoar frost covers everything, setting with drooping heads on the top of haycock or fence, or within the leafless branches of the low trees. Indeed the future is a dreary picture for the old sportsman's contemplation, for soon the cheerless winter landscape of stretching plain will know its one greatest charm, the prairie chicken, no more. The generations to come may yet hear the sweet call of Bob White as it tinkles over harvest field and meadow; the thrilling "scaipe" of the jack snipe as he zigzags in bewildering flight across the springy bog, the quack of the emerald-headed mallard as he disports in the rice; or the deep-toned honk! ahonk! of the wild goose falling from the sky while on his way to either the distant north or south; but few shall see the prairie chicken save in protected park or zoological garden.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy	Griswold, Sporting Editor. August 23, 1896. <title>Omaha Sunday Bee</title> p. 7.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

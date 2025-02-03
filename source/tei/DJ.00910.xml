@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00910">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">No Sale of Fowl and Fish Now. Traffic in Game Shut off by Passage of Bill.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1907-02-24</date><biblScope>page 10-A.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>No Sale of Fowl and Fish Now</head>
+         
+         <head>Traffic in Game Shut off by Passage of Bill.</head>
+         
+         <p>Word was received Saturday afternoon that Governor Sheldon had signed H.R. 98, which prohibits the sale of all kinds of game birds and fish protected by law. As it bears an emergency clause it will go into effect within three days, and then woe be unto the dealer who offers on his counter any of the forbidden fowl or fish. The law provides a heavy penalty for violation and is very stringent in its terms.</p>
+         
+         <p>The bill was one of a series introduced by the game and fish committees of the two houses and it is the only one of the number that Deputy Game Warden Carter is much interested in. He believes the real reason for the most flagrant violations of the game law is commercialism, shooting for the market. The new law will prevent this by abolishing the market. Hereafter any person with an appetite for prairie chicken, wild ducks or quail will have to go without his favorite dish or go out and shoot the birds himself, unless, of course, he can get on the good side of a liberal sportsman.</p>
+         
+         <p>The bill prohibits the sale of game at any time and makes it unlawful to have any of it in ones possession five days after the close of the open season.</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 24, 1907. <title>Omaha Sunday Bee</title> page 10-A.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

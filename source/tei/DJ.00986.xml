@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00986">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Winter Birds Linger North.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-12-12</date><biblScope>56(10=11): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Winter Birds Linger North.</head>
+         
+         <p>This fine and dandy fall of 1920, with abnormally high December temperatures at present writing, have conspired to keep our woods and fields bereft of the unusual winter birds that often come down from the north to visit with us for four or five months.</p>
+         
+         <p>A year ago they were here in full force, but now there are none.</p>
+         
+         <p>The Red-breasted Nuthatches, Red and White-winged Crossbills, Redpolls and Siskins are as yet absent, and deeply mourned is this fact by Omaha bird-lovers.</p>
+         
+         <p>One great big freeze-up, or maybe a blizzard, will do the business of starting the southward migration from northern Minnesota and the Dakotas, but even the most ardent amateur ornithologist, during these tight times, is likely to look more fondly upon his coal bin than upon the prospect of said migration - and as for us, the said birds may stay up there as long as they wish - at least for this season.</p>
+         
+         <p>It is surprising how few Slate-colored Juncos and Tree Sparrows are to be seen in these parts so far this year. Generally they are to be identified in great conveys in the weed patches along the roads, or in other protected places where there are plenty of seeds for food.</p>
+         
+         <p>Suet holders filled by lovers of winged life are getting a good patronage from White-breasted Nuthatches, Chickadees, Downies and Hairies, and Brown Creepers - but the bird lists of the weekly explorers in the parks and fields are surprisingly brief, thus far.</p>
+         
+         <p>Better times ahead as to the birds, no doubt - which will be worse for the coal bill!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 12, 1920. <title>Omaha Sunday World-Herald</title> 56(10=11): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00337">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game in Central Nebraska.</title><title level="j">Forest and Stream</title><author>Wolfe, W.M. - Shoshone.</author><date>1888-06-14</date><biblScope>30(21): 414.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-06-08"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game in Central Nebraska.</head>
+         
+         <p>No section of the United States is without some group or groups of animal life that make it of especial interest to the sportsman. The Red Desert of Wyoming is the winter haunt of the elk, deer and antelope (<hi rend="italic">Cervus canadensis, C. macrotis, Antilocapra americana</hi>). The great desert of Utah and Nevada belongs for four months every year to <hi rend="italic">C. richardsonii</hi> or <hi rend="italic">C. columbianus</hi>. (Is there any distinction between the two last named species?) After leaving the realm of Cervidœ and Ursidœ, of rifle and hunting knife, it seemed as though sport with rod and gun in any portion of the plain region must be very tame. But as I have lain concealed in thickets of <hi rend="italic">Salix lucida</hi> during the chilling hours before sunrise and have listened to the anserine chorus borne on the south wind from the waters of the Platte, I have found it necessary to change my mind. The wood duck is an occasional visitant of southern Idaho. It, as well as the green-winged teal, is found at intervals in the Sweetwater region of Wyoming. But all the genera and every species of water fowl make the Platte valley in central Nebraska a resting point in the annual migration from Indian Territory and Texas to the cooler climate of the Upper Missouri and of the northern lakes.</p>
+         
+         <p>The swift yet shallow Platte affords little opportunity for the duckboat, but its willow-covered islands and banks form natural blinds of which the most verdant sportsman will not fail to take advantage.</p>
+         
+         <p>As soon as the ice break, geese are here, and they remain until the warm weather of May drives them to their breeding grounds. This year the first flock was observed about the 20th of February. The line of migration is constantly moving westward and the thickly settled portion of the State east of Grand Island receives scarcely half as many geese, brant and ducks as it did ten years ago.</p>
+         
+         <p>From the river to the northern bluffs and upland cornfield is about three miles as the crow flies. The birds leave the river at dawn, flying across the level bottomlands to their feeding grounds back on the rolling prairies, and return about nine o'clock. They make a similar trip late in the afternoon. When there is a strong north wind they fly almost within stone's throw, but on clear, still mornings they are out of rifle range except close to the river. Many hunt them only with rifles and some excellent wing shots are to be found in this section. It is good practice to rest on the river bank and pick off brants on the sand bars from 300 to 500 yds. distant. Such practice is of great use to would-be "crack shots" and does but little injury to the living targets.</p>
+         
+         <p>The white-winged brant makes a shorter stay here than does the goose. It is very abundant during the migrating season. The common gray goose is found in almost as great numbers as the brant. The Canada goose is rare, though three or four individuals are to be seen with each flock of "grays."</p>
+         
+         <p>Ducks are with us all summer, haunting the creeks, sloughs and ponds that empty into the Platte. In former years the mallard was abundant but of late it has almost completely disappeared. Redheads are now plentiful, woodducks and butterballs are not strangers, but of teal, especially of blue-winged teal, I have seen very little.</p>
+         
+         <p>In the manner of songsters the Nebraska of to-day bears no relation to that of five or ten years ago. Each timber claim and small fruit orchard has aided in attracting thrushes, warblers and finches until it needs the pen of a Thoreau, a Burroughs or a Muir to do justice to the chorus that it is now our privilege to hear. Even here where singing birds have been, until within the last five years, almost unknown, there is a call for an Audubon club. Something must be done to protect our visitors or they will be exterminated by ruthless hunters who spare neither lark nor thrush, who know no game law, who will shoot a chicken on her nest. The boys and young men of central Nebraska are certainly in need of some severe lesson that shall teach them to realize the wanton cruelty of which they are constantly guilty.</p>
+         
+         <list type="simple">
+            
+            <item>Shoshone [W.M. Wolfe].</item>
+            
+            <item>Kearney, Neb., April 24.</item>
+         
+         </list>
+         
+         <p>[These are synonyms. The species is now known as <hi rend="italic">Cariacus columbianus</hi>, the Columbian blacktail deer.]</p>
+         
+         <cit>
+            
+            <bibl default="NO">June 14, 1888. <title>Forest and Stream</title> 30(21): 414.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

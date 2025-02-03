@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00999">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Lost Bird Returns to His Haunts of Old.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1919-07-20</date><biblScope>54(42): 13-N. Repeats much of 4 March 1900 column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Lost Bird Returns to His Haunts of Old</head>
+         
+         <head>By Sandy Griswold.</head>
+         
+         <p>Long years have elapsed since the killing of a woodcock in this state has been reported to men, and it was with almost incredulous surprise I heard yesterday from a reliable source that a number of these birds has been seen within the past three weeks down in the low flats below the Parkins sand pits some twenty odd miles from Omaha. These birds, two old pair, and a number of this year's brood, were seen Sunday by some Omaha bass fishermen who pursued and flushed them several times to make sure of their identity.</p>
+         
+         <p>I know that twenty odd years ago these self-same grounds, were about the only refuge left for these birds in this state, and together with Lawyer Bill Simeral, I made several forays in the neighborhood and on one of them we bagged eleven cock, a tremendous big bag for these birds in this state, even that long ago. In the interim, I have visited the same region many times since, but have never been able to flush or see a single woodcock. True on one of our last expeditions down there, fifteen or eighteen years ago, we did discover the "borings" and droppings of the birds about the old spring that used to gush up from among the thick calamus plants at the northern boundaries of the low lands, but by the most assiduous and diligent effort, we were unable to jump a single bird, and Bill said they had gone into the woods during the day for greater security. We knew these "borings" were made by woodcock and not jacksnipe, by their tracks in the soft mud about the spring. The woodcock's tracks are broader, deeper and heavier than those made by the jack.</p>
+         
+         <p>For more than a decade now the woodcock was supposed to have been extinct in Nebraska, but the fact that numbers of them have been seen this summer down in the region above spoken of, show that this is a mistake and yet, I rather think that these birds are stragglers that rode in here on some of our severe spring storms, and they have not been visiting this neighborhood annually at all, and that after they leave again this fall, will be seen no more in this locality.</p>
+         
+         <cit>
+            
+            <bibl default="NO">July 20, 1919. <title>Omaha Sunday World-Herald</title> 54(42): 13-N. Repeats much of a 4 March 1900 column. This portion is not repeated here. The name used with this article was George A. Hoagland, not John Petty. There were also a few trivial deletions of words in this version.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

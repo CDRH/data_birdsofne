@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00378">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Great Sport Down on the Platte.</title><title level="j">Omaha Sunday Bee</title><author>Martin, J.C.</author><date>1894-03-11</date><biblScope>p. 19.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-19"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Great Sport Down on the Platte.</head>
+         
+         <p><hi rend="smallcaps">Clarks</hi>, Neb., March 8.—Sandy Griswold, Sporting Editor of The Bee: The spring shooting has commenced in earnest in this locality. Already several camps are established on the Platte and good bags of game are reported daily. I had the pleasure of visiting a camp within three miles of our village for a day's shooting yesterday. It is conducted by Doc Richardson and "Honk Hoyt," with whom you are no doubt acquainted. They have arranged everything necessary to accommodate, and can furnish good shooting and comfortable quarters to visiting sportsmen. They have leased river privileges for a territory of several miles, have established two large tents and have engaged the services of Rally Terpin, the popular caterer of Clarks. The camp is furnished with beds composed of as fine springs, mattresses, blankets, pillows, etc., as you will find in the average hotel. They furnish everything necessary to sportsmen except guns, wardrobe and a "good eye." Thus far the flight has principally been white front and Canada geese, pintail, teal, mallard and a few red head ducks. For one day's shoot we brought in fifty-eight ducks and seventeen geese. The ice has entirely left the river and the shooting this year will probably be earlier and better than usual. The boys send regards and can assure a good time and plenty of shooting if you can make it convenient to run up for a few days. Some of us expect to go to Central City today to see the live bird match between Reed and Buel. Henry Homan spent the first two days of this week in camp and returned to Omaha with a creditable showing of ducks and geese. (He bought the camp supply.) F.S. Parmalee and party are expected here in a few days. Drs. Galbrith and Peabody have just started for camp with a wagon load of ammunition and blood in their eyes. Yours very respectfully,</p>
+
+<p><hi rend="caps">J. C. Martin</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">J.C. Martin. March 11, 1894. <title>Omaha Sunday Bee</title> p. 19.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

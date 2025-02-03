@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00948">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Water-Pepper.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-09-03</date><biblScope>57(46-49): 6-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Water-Pepper.</head>
+         
+         <p>Dear old Mother Nature has not called in vain this season for aid from all her many forces, and never for this particular section have they responded so freely and brought forth such good results.</p>
+         
+         <p>Scarcely a fruit tree anywhere near large enough to bear of its kind has failed to respond to the abundant rains, the lack of scorching winds and consequent moisture-laden atmosphere with such an abundance of fruit that sometimes the overloaded branches have failed to sustain their burdens. The wind flowers scarcely look natural even to the botanist who knows them well, so much larger are they than usual, and so rapidly have the shrubs and trees shot upward and outward that it is often difficult to make way through the tangle to the spots one loves to visit. As a consequence the ordinary visitor to the woods and prairies whose only mission seems to be to pull up ruthlessly the flowers, hold them in hot hands and when they drop their heads under the torture throw them down to be trodden upon, does not brave the tangle of shrub and vine, grass and hay-fever-producing ragweed, so the blossoms are enabled to fulfill their mission of reproduction another season. But the thorough nature lover, is not overcome by these restrictions and enjoys to the full the greater luxuriance because of the added effort to reach it.</p>
+         
+         <p>Specially luxuriating in the more numerous water spots that the rain brings are the polygonums, otherwise knotweed or smartweed or water-pepper, and a specially striking member of this, the buckwheat family, grown by the side of any stream, or pond, or low bit of ground and bears long pendulous clusters of pink blossoms that retain their color and to an extent their beauty after being transferred to a vase indoors. They might well become a border to the garden pond that is devoted to the water lily, setting off its white blossoms with a fringe of green and pink.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 3, 1922. <title>Omaha Sunday World-Herald</title> 57(46-49): 6-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

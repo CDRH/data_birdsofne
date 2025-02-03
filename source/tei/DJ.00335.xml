@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00335">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game Birds of the Plains.</title><title level="j">Forest and Stream</title><author>Wolfe, W.M. - Shoshone.</author><date>1890-01-16</date><biblScope>33(26): 513-514. Game Bag and Gun.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-10"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game Bag and Gun.</head>
+         
+         <head>Game Birds of the Plains.</head>
+         
+         <p>Last spring, as I reported through the columns of <title>Forest and Stream</title> the arrival and departure of the ducks and geese, I thought that careful observation for the year would reveal the presence of many more species of game birds, especially of the Limicolï, than the average sportsman is accustomed to credit to the recently settled slope that extends from the foothills of Colorado to the Missouri River. All the species named below have been seen be me or carefully studied by those who are perfectly familiar with Coues and Ridgway. My observations commenced on Feb. 25, when the geese put in an appearance, and closed on Dec. 26, when I saw a small flock of teal on a pond near LaSalle, Colorado. The list is as follows.</p>
+         
+         <list type="simple">
+            
+            <item>
+               
+               <hi rend="italic">Anas boschas</hi> Linn.—Mallard.</item>
+            
+            <item>
+               
+               <hi rend="italic">A. discors</hi> Linn.—Blue-winged teal.</item>
+            
+            <item>
+               
+               <hi rend="italic">A. carolinensis</hi> Gmel.—Green-winged teal.</item>
+            
+            <item>
+               
+               <hi rend="italic">A. cyanoptera</hi> Vieill.—Cinnamon teal.</item>
+            
+            <item>
+               
+               <hi rend="italic">A. strepera</hi> Linn.—Gadwall.</item>
+            
+            <item>
+               
+               <hi rend="italic">A. americana</hi> Gmel.—Baldpate, widgeon.</item>
+            
+            <item>
+               
+               <hi rend="italic">Spatula clypeata</hi> Linn.—Shoveler, spoonbill.</item>
+            
+            <item>
+               
+               <hi rend="italic">Dafila acuta</hi> Linn.—Pintail, sprigtail.</item>
+            
+            <item>
+               
+               <hi rend="italic">Aythya americana</hi> Eyt.—Redhead.</item>
+            
+            <item>
+               
+               <hi rend="italic">A. vallisneria</hi> Wils.—Canvasback.</item>
+            
+            <item>
+               
+               <hi rend="italic">A. marila nearctica</hi> Stejn.—Scaup duck.</item>
+            
+            <item>
+               
+               <hi rend="italic">Glaucionetta clangula americana</hi> Bonap.—Golden-eye.</item>
+            
+            <item>
+               
+               <hi rend="italic">Charitonetta albeola</hi> Linn.—Bufflehead, butterball.</item>
+            
+            <item>
+               
+               <hi rend="italic">Histrionicus histrionicus</hi> Linn.—Harlequin duck.</item>
+            
+            <item>
+               
+               <hi rend="italic">Oidemia americana</hi> Sw. and Rich.—American Scoter.</item>
+            
+            <item>
+               
+               <hi rend="italic">Erismatura rubida</hi> Wils.—Ruddy duck.</item>
+            
+            <item>
+               
+               <hi rend="italic">Chen c&#156;rulescens</hi> Linn.—Blue goose.</item>
+            
+            <item>
+               
+               <hi rend="italic">C. hyperborea</hi> Pall.—Black-winged brant, lesser snow goose.</item>
+            
+            <item>
+               
+               <hi rend="italic">Anser albifrons gambeli</hi> Hartl.—White-fronted goose, speckled brant.</item>
+            
+            <item>
+               
+               <hi rend="italic">Branta canadensis</hi> Linn.—Canada goose.</item>
+            
+            <item>
+               
+               <hi rend="italic">B. c. hutchinsii</hi> Sw. and Rich.—Hutchin's goose.</item>
+            
+            <item>
+               
+               <hi rend="italic">Olor buccinator</hi> Rich.—Trumpeter swan.</item>
+            
+            <item>
+               
+               <hi rend="italic">Fulica americana</hi> Gmel.—Coot.</item>
+            
+            <item>
+               
+               <hi rend="italic">Phalaropus lobatus</hi> Linn.—Northern phalarope.</item>
+            
+            <item>
+               
+               <hi rend="italic">P. tricolor</hi> Vieill.—Wilson's phalarope.</item>
+            
+            <item>
+               
+               <hi rend="italic">Recurvirostra americana</hi> Gmel.—Avocet.</item>
+            
+            <item>
+               
+               <hi rend="italic">Gallinago delicata</hi> Ord.—Wilson's snipe, jack snipe.</item>
+            
+            <item>
+               
+               <hi rend="italic">Macrorhamphus scolopaceus</hi> Say.—Long-billed dowitcher.</item>
+            
+            <item>
+               
+               <hi rend="italic">Tringa maculata</hi> Vieill.—Pectoral sandpiper, little snipe.</item>
+            
+            <item>
+               
+               <hi rend="italic">T. minutilla</hi> Vieill.——Least sandpiper.</item>
+            
+            <item>
+               
+               <hi rend="italic">Ereunetes pusillus</hi> Linn.—Semipalmated sandpiper.</item>
+            
+            <item>
+               
+               <hi rend="italic">Calidris arenaria</hi> Linn.—Sanderling.</item>
+            
+            <item>
+               
+               <hi rend="italic">Limosa fedoa</hi> Linn.—Marbled godwit.</item>
+            
+            <item>
+               
+               <hi rend="italic">Totanus melanoleucus</hi> Gmel.—Greater yellowlegs.</item>
+            
+            <item>
+               
+               <hi rend="italic">T. flavipes</hi> Gmel.—Yellowlegs.</item>
+            
+            <item>
+               
+               <hi rend="italic">T. solitarius</hi> Wils.—Solitary sandpiper.</item>
+            
+            <item>
+               
+               <hi rend="italic">Symphemia semipalmata inornato</hi> Brews.—Western willet.</item>
+            
+            <item>
+               
+               <hi rend="italic">Bartramia longicauda</hi> Bechst.—Bartramian sandpiper.</item>
+            
+            <item>
+               
+               <hi rend="italic">Numenius longirostris</hi> Wils.—Long-billed curlew.</item>
+            
+            <item>
+               
+               <hi rend="italic">N. hudsonicus</hi> Lath.—Hudsonian curlew.</item>
+            
+            <item>
+               
+               <hi rend="italic">N. borealis</hi> Forst.—Eskimo curlew.</item>
+            
+            <item>
+               
+               <hi rend="italic">Charadrius squatarola</hi> Linn.—Black-bellied plover.</item>
+            
+            <item>
+               
+               <hi rend="italic">C. dominicus</hi> Müll.—Golden plover.</item>
+            
+            <item>
+               
+               <hi rend="italic">Ægialitis vocifera</hi> Linn.—Kildeer.</item>
+            
+            <item>
+               
+               <hi rend="italic">Æ. montana</hi> Towns.—Mountain plover.</item>
+            
+            <item>
+               
+               <hi rend="italic">Æ. semipalmata</hi> Bonap.—Semipalmated plover.</item>
+            
+            <item>
+               
+               <hi rend="italic">Colinus virginianus</hi> Linn.—Quail.</item>
+            
+            <item>
+               
+               <hi rend="italic">Tympanuchus americanus</hi> Reich.—Prairie chicken.</item>
+            
+            <item>
+               
+               <hi rend="italic">Pedioc&#156;tes phasianellus campestris</hi> Ridg.—Sharp-tailed grouse.</item>
+            
+            <item>
+               
+               <hi rend="italic">Zenaidura macroura</hi> Linn.—Mourning dove.</item>
+         
+         </list>
+         
+         <p>It is not claimed that this list contains all the game birds and allied species of this section, but other species must be rare visitants. The mallard, blue-winged teal and gadwall breed in the lake region of Nebraska. The common teal which I saw was a straggler on the lake near Greeley, Colorado, and the harlequin duck came from the same locality. On these eastern Colorado ponds ducks feed principally on a species of <hi rend="italic">utricularia</hi>. Denver sportsmen report very poor duck shooting this fall, and claim that the flight went east of the State. This accounts for the excellent shooting in Nebraska. The Colorado waters have been visited by more than the usual number of redheads and canvasbacks, but by very few teal and mallards; while in Nebraska the reverse has been true.</p>
+         
+         <p>The goose flight has been very light; so light, in fact, that I think they must all have gone over in the night. One small flock of Canadas made a long stay this fall, but it sailed southward on Dec. 21. This scarcity of geese has been noted throughout the entire region west of the Missouri.</p>
+         
+         <p>Our jacksnipe is a variable quantity. This season he has done remarkably well, but he may disappoint all our hopes for 1890. I have often wondered at the absence of snipe from pools and marshes that seem especially designed for them. It seems as though this soil, sandy and somewhat alkaline, is not a congenial home for the worms upon which the jacksnipe thrive. But let the soil about some pool be cultivated for a year or two, or let cattle frequent the spot and by their droppings change the character of the soil, not only are jacksnipe to be found, but dowitchers, sandpipers, yellowlegs and plovers make it their stamping ground.</p>
+         
+         <p>The sanderling, shot in September, is a very rare visitor. So is the mountain plover, which I obtained in August on the upper Wood River, Nebraska.</p>
+         
+         <p>Sharp-tailed grouse (the prairie variety) are becoming yearly more scarce. Except in very cold weather they do not come into the settled portions of the State. At present they are found in the northern and western counties of the State and in adjacent counties of Dakota and Wyoming. The mourning dove here, as throughout the entire West, is regarded as a game bird. July is the month for it, and from its ubiquitous habits is found not only in the timber but by roadsides, in sunflower patches and wherever a pool or brook affords an opportunity for a bath.</p>
+         
+         <p>I have not mentioned the meadow lark, which here is the principal ingredient of summer pot-pies. I cannot look upon it as a game bird, but it is the target upon which every small boy tries his gun, and it is shot at all seasons of the year. It is an outrage that men who call themselves sportsmen allow this wanton butchery of small birds, but until there is a radical change in public sentiment such a state of affairs cannot be prevented.</p>
+         
+         <p>This naturally leads to a discussion of sportsmen's clubs, and apart from the genial fellowship which they foster, of the practical good which they may effect in the preservation of game. It is a lamentable fact that the West, the far West I mean, is destitute of proper sportsmen's clubs. We have dog clubs that make a specialty of coursing, and gun clubs whose members devote themselves to the trap, but these do not reach the point. Last week I visited Denver, and was surprised to find in so enterprising a city, where every other man is expert with rifle, rod or gun, no organization or club room where the gentlemen, who spend months each year in the finest hunting fields of the world, can meet to recount their adventures and profit by each other's experiences. To find a brother sportsman you must call at his house or office.</p>
+         
+         <p>It is senseless to believe that the wanton destruction of large game can be prevented without the united action of those most interested in its preservation. The leverage must be applied <hi rend="italic">en masse</hi>, and not individually. I fairly boiled at some of the tales of slaughter of elk, deer and sheep, and, though I made allowance for exaggeration, I could not pardon the spirit that lay back of the story. The sentiment prevails that if one man does not kill all the game he can another will, and what the white man cannot corral the red man will destroy, and so the rivalry can end in nothing short of extermination. This begins to read like a tirade, but there are noble exceptions, and they are to-day, if they can become acquainted with each other, willing to unite to enforce legitimate hunting in the Rockies, and I hope that before another new year the initiative will be taken and a new era will have opened in the hunting annals of the West.</p>
+         
+         <list type="simple">
+            
+            <item>Shoshone.</item>
+            
+            <item>Kearney, Neb., Jan. 1.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">January 16, 1890. <title>Forest and Stream</title> 33(26): 513-514.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

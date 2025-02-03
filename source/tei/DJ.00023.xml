@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00023">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Annual Slaughter of the Chicks.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1891-08-02</date><biblScope>21(45): 16. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Annual Slaughter of the Chicks.</head>
+         
+         <p>The prairie chicken crop in this state is said to be larger than for any previous year within the last ten. But this is the same fairy tale told with each recurring summer. Notwithstanding the unprecedented rainfall, however, the birds have enjoyed a most fruitful season of nidification, and all the best known grounds in the north and west are said to be alive with the young broods, many of which are more than half grown and well able to take care of themselves a-wing. It is a sad commentary, however, on the efficacy of Nebraska laws that despite the fact that the open season does not commence for over a month yet, that the young birds are being slaughtered daily in all directions, and by the time the legitimate season does roll round they will have been pretty well exterminated. Old gunners, fond of a day in the draws and stubble and on the hillside over a good dog, offer in extenuation of an indulgence in this unsportsmanlike pursuit, that if they wait for the shooting season to open, that the market and pot hunters will have done their work and the most they can hope for will be a long and arduous tramp with an occasional crack at some hardy old cock, whose wariness alone has spared him from a trip in a refrigerator car. But few gunners deny themselves a day among the chickens before the law is up, and find their excuse in the laxity and inadequacy of our game laws. When it is too late, as has been the case in all the older eastern states, the legislature will awaken to the necessities of the case, and then after the birds are all but extinct, they will lay down a stringent code of rules for their protection and preservation. In the words of the old saying, the stable will be locked and barred after the horse has been stolen.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sporting Editor [Sandy Griswold]. August 2, 1891. <title>Omaha Sunday Bee</title> 21(45): 16. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

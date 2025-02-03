@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00823">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Speaking About Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor.</author><date>1916-05-21</date><biblScope>51(34): 4-E. Editorial on bird editorials in World-Herald.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Speaking About Birds.</head>
+         
+         <head>(York Democrat.)</head>
+         
+         <p>If you are a bird lover you are losing something if you are not reading the "bird editorials" that appear from time to time in the Omaha World-Herald. Much as we like to read the political editorials appearing in that staunch democratic daily and much as we like to read and secure information from the editorial discussions carried on in that great family newspaper, we confess that it is a pleasant change to now and then read about the feathered friends. Whoever it is that writes those bird editorials is a lover of God's great out-of-doors. He has a big heart. He can get more genuine satisfaction out of watching the birds and listening to their songs than any sportsman ever got out of shooting them. His remarkable knowledge of the feathered tribe was not secured from books alone. It was secured through close observation, inspired by a genuine love for them. He writes intimately and in terms easily understood. Reading after him is the next best thing to lying in the thickets and catching sight of the robins, the red-birds, the woodpeckers, the flickers, and all the numerous tribes of feathered friends, the next best thing to their songs and their conversation.</p>
+         
+         <p>We do not know enough about the birds. We have failed to realize what staunch friends they are to man. We need to study them more, and to throw greater protection about them. It may be impudent on our part to offer advice to those skilled in pedagogy, but we are prepared to accept rebuke. Hence we would advise the teachers in the public schools of Nebraska to read the bird editorials in the Omaha World-Herald, and then read them aloud to the pupils.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor. May 21, 1916. Speaking About Birds. <title>Omaha Sunday World-Herald</title>	51(34): 4-E. Reprint of editorial on bird editorials in World-Herald.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

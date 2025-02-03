@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00473">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Killdeer! Killdeer!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-07-21</date><biblScope>53(42): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Killdeer! Killdeer!	</head>
+         
+         <p>Wherever there is a pond or a pool or a rippling stream bordered by pasture you will be pretty sure to hear that queer, high-pitched, plaintive cry - "Killdeer! Killdeer!"</p>
+         
+         <p>This pretty bird with the black collar is one of the commonest of the plover associating with Nebraskans, and it would be well that we realize how much good these feathered creature do.</p>
+         
+         <p>It is interesting as well as instructive to watch them grouse around in the moist pastures, picking up insects and occasionally plant life, in lieu of their daily bread.</p>
+         
+         <p>Still more interesting is it to see them use their camouflage, for a covey of Killdeer can sit motionless in a meadow - far apart - and completely deceive the human eye. Herman the Great never had a thing on the Killdeer in this respect.</p>
+         
+         <p>But when they rise up and wheel about through the skies, singing their one song "Killdeer! Killdeer!" they attract attention immediately - and a close glimpse makes this attention well worth while.</p>
+         
+         <p>It is a regrettable fact that the Killdeer are often shot, being of the plover family, but they are too useful and too loveable to be subjected to such attacks.</p>
+         
+         <p>We commend the Killdeer to you as a bird deserving protection during the few months that he is with us in Nebraska.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 12, 1918. <title>Omaha Sunday World-Herald</title> 53(42): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

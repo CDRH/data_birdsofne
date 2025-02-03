@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00503">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Looking for Nothing [Brown Creeper].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-11-24</date><biblScope>54(8): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Looking for Nothing.</head>
+         
+         <p>When a bird is so small that it can edge itself between bark crevices on the side of a big tree and become completely lost to sight - then the amateur ornithologist finds the real sport in his unappreciated but useful and interesting game.</p>
+         
+         <p>The Brown Creeper is such a bird - a dainty little piece of fluff and energy that comes down to us from the north in the winter and helps clean up our trees - what few may be left by the intelligent "forestry" experts. In passing it may be observed that if Commissioner Falconer continues to wield the axe in Elmwood park, for instance, the Brown Creeper will have to bring his own bark with him - like a dog.</p>
+         
+         <p>At any rate, in the woods you will find the Brown Creeper, if your eyes are good.</p>
+         
+         <p>First you will hear the weakest, wiry little "see-ee-eep!" which tells you that the Creeper is in your immediate vicinity. To find him is the next and biggest job.</p>
+         
+         <p>He must be on the trunk of a tree - going up! He is like a one-way elevator - always going up. But he is so small and shy and unobtrusive that it takes the keenest glance to locate him in his invaluable work of prying larvae and insects from the bark crevices. When he is motionless, the Brown Creeper is practically impossible to see.</p>
+         
+         <p>This is only one of the many interesting winter bird-studies. Go out today and listen for the dainty little "see-ee-eep" and then see if you can find the bird.</p>
+         
+         <p>Also do not forget that now is the time to put up the beef suet scraps for our mid-winter feathered friends.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 24, 1918. Looking for Nothing [Brown Creeper]. <title>Omaha Sunday World-Herald</title> 54(8): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

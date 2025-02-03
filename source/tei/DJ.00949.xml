@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00949">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Waxwings are Drilling.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-04-01</date><biblScope>58(27): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Waxwings are Drilling.</head>
+         
+         <p>There is no more immaculate, polite and well dressed songbird in all our American category than the Waxwing, and it is indeed pleasant to note that he has returned - passing through to the northland for his summer season.</p>
+         
+         <p>Anything said about the Waxwing, however, should be done in the plural - for this bird is always a crowd - or nearly always.</p>
+         
+         <p>Two "makes" of this wonderfully pretty little creature are to be seen in this vicinity - the Cedar Waxwing and the Bohemian Waxwing, the latter being considerably larger than his cousin, but otherwise, generally speaking, about the same in appearance to the layman.</p>
+         
+         <p>Waxwings are the best soldiers of the air, one might say, and must have been schooled by some master mind in the art of drilling. They wheel about in most symmetric fashion while on the wing, and upon alighting in a tree seem to make it a point to face the same way, each as his comrade, and to follow-the-leader in nearly every detail, even to the fluffing of their feathers or the spreading of their wings.</p>
+         
+         <p>Occasionally you may see them all grouped - an a bare tree - an interesting spectacle. One will set forth and fly about in a circle, coming back again to his particular perch. Another will do likewise. Still another - until all have accomplished the evolution. Then they may suddenly take wing as a mobile body of "air troops" and do a lot of stunts en masse. This, indeed, is a treat to the fortunate bird lover who chances to be nigh.</p>
+         
+         <p>Waxwings will sit in a row on a bough overhanging a pool or stream, and take their baths and their drinks, one at a time, in most orderly and courteous manner - each seeming to urge the other "you first, my dear Gaston!"</p>
+         
+         <p>In like manner, during the cherry season, they will pass a fruit from one bill to another, as they sit in a row at their orchard restaurant.</p>
+         
+         <p>The Cedar Waxwings have already been seen in Elmwood park and other rustic spots, and the Bohemian Waxwings are pretty sure to follow.</p>
+         
+         <p>Why not take a bit of an Easter hike this afternoon and see if you can get acquainted with them?</p>
+         
+         <p>They are one of the most beautiful works of God.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 1, 1923. <title>Omaha Sunday World-Herald</title> 58(27): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

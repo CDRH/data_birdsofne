@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00555">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">More About Owls.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-06-26</date><biblScope>56(43=39): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>More About Owls.</head>
+         
+         <p>Those who are identified with amateur ornithology or bird conservation are more than occasionally sought by laymen of kind hearts, who wish to know what to do in certain crises in bird life. Everyone interested in the feathered tribes is ever eager to give all possible information, and thus help in the great and good work.</p>
+         
+         <p>One of the most recurrent quandaries, followed by a stereotyped set of questions, is the furore invariably caused by the presence in some clump of woods of a meek and sleepy owl.</p>
+         
+         <p>Owls excite in the bosoms of other birds a sort of nervousness and irritability that evinces itself in sundry squawks, wails, cries, scratchings, fluttering of wings, and so forth. The demonstration is a good deal like that noted when a cat is skulking in the underbrush. All the birds in the neighborhood hurry to the front to help sound the alarm.</p>
+         
+         <p>Recently it was asked whether it would be all right to shoot an owl that was bothering some birds in a clump of trees in Miller Park. Such shooting, being stiffly against the law, was verboten, and the inquirer was informed, and correctly, we think, that the birds were bothering the owl - and not vice versa.</p>
+         
+         <p>In the daytime the smallest songster can run a big owl all over the premises, with much racket. On the other hand, but few of our owls attempt the lives of smaller birds unless the latter are sick, or it be in the winter with food so scarce that starvation threatens.</p>
+         
+         <p>In this district we have few other specimens than Barn Owls, Screech Owls, Long Eared Owls and Short Eared Owls. These feed chiefly on mice and bugs.</p>
+         
+         <p>Give the owl a chance. He is generally the chasee - not the chaser.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 26, 1921. <title>Omaha Sunday World-Herald</title> 56(43=39): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00573">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">One of Nature's Mysteries.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-02-13</date><biblScope>56(20): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>One of Nature's Mysteries.</head>
+         
+         <p>Every Christmas the national Association of Audubon Societies takes a bird census over the length and breadth of the land. Everywhere, including the territorial possessions, amateur and professional ornithologists go forth on that holy day and keep check of the number and species of birds they may see. This accumulated list is later published in Bird-Lore, the official organ of the Audubons.</p>
+         
+         <p>The January-February issue of Bird-Lore, which is printed bi-monthly, contains the census statistics for Christmas past, and one item will be very interesting to those of Omaha and vicinity who take delight in the study of feathered life in the fields and in the woods.</p>
+         
+         <p>It is specifically stated by many observers that the absence of the Red Breasted Nuthatch is the outstanding feature of the season.</p>
+         
+         <p>This, certainly, has been true among the Omaha woods.</p>
+         
+         <p>Last year there were hundreds of the clever little Red-Breast fellows to give joy to the soul of the harmless hunter - but this winter, as far as we are able to ascertain, not one has been seen.</p>
+         
+         <p>We suspected that the warm and open winter in Nebraska had encouraged them to stay north, where they are residents, but even the northern states give little trace of them.</p>
+         
+         <p>There are no Crossbills nor Redpolls nor Siskins about - but these are noted in the census in different northern sections of the country. Nevertheless, there are scarcely any Red-breasted Nuthatches registered.</p>
+         
+         <p>Where are they?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 13, 1921. <title>Omaha Sunday World-Herald</title> 56(20): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00634">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Omaha Crows Again.</title><title level="j">Oologist</title><author>Trostler, Isador S.</author><date>1892-07-01</date><biblScope>9(7): 182.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-06-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+<change>
+  <date value="2005-06-30"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Omaha Crows Again.</head>
+         
+         <p>In reply to "Coleopterist" (in May <title>Oologist</title>) I will say:</p>
+         
+         <p>1st. That Government reports are not always correct in every particular as has been proven before now. <hi rend="italic">Humanum est errare</hi>.</p>
+         
+         <p>2d. I have examined the stomachs of a number of Crows, and find as I said in the March <title>Oologist</title>, that they contained mostly offal and animal matter, and especially has that been the case with young birds.</p>
+         
+         <p>"Coleopterist says that "the Crow is valuable occasionally as a scavenger." I say and can prove that they are good scavengers at all times, and if he will pay the expenses I will send him unopened stomachs in alcohol so that he can make personal examinations of them.</p>
+         
+         <p>However as I said in my previous article on this subject, the Crow of this vicinity seems to have some different habits from the Crow of parts of Ohio, Indiana and Pennsylvania and very likely their qualities as scavengers differ also.</p>
+         
+         <p>I do not mean to say that the Crow does not do any damage, but only that "He is not as black as he is painted."</p>
+         
+         <list type="simple">
+            
+            <item>Faithfully Yours</item>
+            
+            <item><hi rend="smallcaps">Isador S. Trostler</hi>,</item>
+            
+            <item>Omaha, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">July 1892. <title>Oologist</title> 9(7): 182.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

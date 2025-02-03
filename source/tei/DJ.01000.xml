@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01000">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Woodcock's Song.</title><title level="j">Omaha Republican</title><author>Anonymous.</author><date>1890-03-12</date><biblScope>page 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-04-22"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Woodcock's Song.</head>
+         
+         <p>I have taken considerable pains to watch them at sunset to learn, if possible, if they did have a song or note which I was not sure of before. I am now sure they do have a note; and to my surprise it is a very fine one. I hardly know which of our song birds to compare it with, but think it very much like the catbird's or brown thrasher's. If any one ever took notice of those birds' songs, about the time they end up their song they make a very fine warble or water note, something like a canary, but not quite as fine.</p>
+         
+         <p>I have watched and listened to the woodcock for a number of evenings, and have been much pleased by their queer actions. They begin sharp at sunset and seem to keep it up until daylight. This I suppose accounts for us never starting the cock bird through the day, as it seems to be the cock bird that does the flying and singing by night. His spiral ascent is not as straight up as it has been represented. He will leave the ground and fly in a circle of ten or fifteen acres, making the circle smaller each turn, until he reaches the height of some 200 ft., all the time making a very uneven twitter with both bill and wings. Then, when the descent begins, he begins his warbling, which I must confess, is more than I ever believed of him, although I have watched the birds many times, and his song is very sweet. After reaching the ground; which is always on a smooth place clear of grass or brush, he sits still for a few seconds, then begins to cry spate or skape, I hardly know how to describe it. It is very much like the snipe, only much louder, and it is not strange to hear five or six at a time from the house through the evening and up to midnight, in fact until daylight. Every time he makes the cry spate or skape, just before it he makes a clucking sound, like a man hiccoughing, or something like a cuckoo, only much lower. I watched one last evening, in company with Mr. A. B. Simonds, and it lighted within ten feet of me once, so I had a good chance to note its actions and hear the sound produced before it made its cry.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Anonymous. March 12, 1890. <title>Omaha Republican</title> page 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

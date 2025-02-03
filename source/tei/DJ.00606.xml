@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00606">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The North Loup Valley.</title><title level="j">Forest and Stream</title><author>C. J. D.</author><date>1890-09-11</date><biblScope>35(8): 149.</biblScope></bibl></sourceDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-04-25"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>THE NORTH LOUP VALLEY.</head>
+         
+         <p>NORTH LOUP, Nebraska.—To my eyes, no other valley in the wide West compares with this. It is situated in the central part of Nebraska, and of the three Loup valleys it is the most fertile and beautiful.</p>
+         
+         <p>Picture to yourself a level valley, covered with green pastures and waving fields of corn, dotted with comfortable farm houses; in the middle of the valley a swiftly-running river, 300ft. in width, joined by numerous creeks coming from the low hills on each side; along this river many patches of heavy timber and willow thickets. It has been only eighteen years since the first settler came into this part of the valley, yet now it is pretty well settled up, and the primitive "sod house" has given way to the more substantial frame structure. Most of the farmers have groves of timber, and are also beginning to raise fruit.</p>
+         
+         <p>Game of several kinds is found here. Fish abound in the river and creeks. In the fall and spring ducks and geese by the thousands come into the valley to feed in the cornfields and along the river and creeks. It is no trouble to find them, and many times during a half day's hunt as many as 1,000 geese, and ducks without number, have been seen. Prairie chickens, quail and several varieties of snipe are here in numbers. The season by law opens Sept. 1, but the law is not obeyed, and the young are killed before they can hardly fly. Despite this reckless killing there seems to be as many as ever here. Rabbits are not scarce. There are some jack rabbits, but they are hard to get. Cotton-tails are quite plentiful and easy to kill. Coyotes also are numerous and increasing in numbers. Further up the valley deer and other game is found. Trapping is carried on to some extent, and muskrat and mink are caught in good quantities and beavers are not unknown.</p>
+         
+         <p>Fishing has been good this summer and a great many fish have been caught, some of which were of good size. The principal kinds are catfish, whitefish and bass. Pike are coming in lately some, and a few have been taken. One was recently caught weighing 4lbs. These are mostly found in the river, while in the creeks are small fish of several other varieties. Of those caught in the river, catfish are the largest and most abundant. Some have been caught this summer weighing as high as 4¾lbs., and from that down to 1lb. Whitefish and bass have been taken weighing 2 or 3lbs. All kinds seem to be more plentiful than for several years back. Recently the writer and another fisherman fished by moonlight and caught nearly fifty fish..</p>
+         
+         <p>C. J. D.</p>
+         
+         <cit>
+            
+            <bibl default="NO">September 11, 1890. <title>Forest and Stream</title> 35(8): 149.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

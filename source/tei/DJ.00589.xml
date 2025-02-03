@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00589">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Game Notes.</title><title level="j">Forest and Stream</title><author>J. F. L.</author><date>1885-10-22</date><biblScope>25(13): 246.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-25"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Game Notes.</head>
+         
+         <p>Quail are more plentiful here this season than I have known them for a great many years. I found one nest, near the house, that contained twenty eggs, and every one of them was hatched by the old bird. Another old bird within twenty rods of the first was caught off a nest of twenty eggs. One bird nested in a pile of wood thirty steps from our door and hatched sixteen out of nineteen eggs. Several cats are about the house, too, but didn't find the nest.</p>
+         
+         <p>Prairie chickens hatched well, but "sportsmen" from town have been shooting them ever since the last of July. The deputy sheriff of this county has several times been seen hunting them before they were one-half grown. One member of the gun club of Falls City (and perhaps more) shot chickens before the law was off. They will have to keep it up only a few more years, till prairie chickens will be gone from this part of the country.</p>
+         
+         <p>Some wild geese and sandhill crane were seen going south last week. They do not come down this way as they did ten and fifteen years ago. At that time settlements were not so numerous on the Platte and there was not much feed up there for them, then they came down the Missouri by hundreds.</p>
+         
+         <p>I have not killed a goose since February, 1884, when I bagged three in one day with a .40-90 rifle, with bullets weighing 220 grains. I have been using 370-grain bullets and found the trajectory was so high that it was hard to hit a goose over 150 yards, guessed distance, on a sandbar. I then got a new pair of moulds and got game with the light bullets much oftener than with the heavy ones. I heard geese in the morning on the bar, and started with thirty shells in my belt, and I missed a few shots before I got my first goose of the day. Some of the shots were not more than 200 yards and the geese flew. I then fired for another gang which I saw, and at the third shot killed the one at which I aimed at 345 yards. The next one I aimed at was at 275 yards, at the second shot, and the last one was 300 yards, fourth shot. All the shots were off-hand. I shot some shots flying and several at longer distances, some as far as __0 yards, and shot twice at a duck, and came home without a loaded shell, but feeling well satisfied with my little hunt.</p>
+         
+         <p>J. F. L.<lb/>Salem, Neb.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 22, 1885. <title>Forest and Stream</title> 25(13): 246.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

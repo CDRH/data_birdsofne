@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00670">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mr. and Mrs. Phoebe.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-04-10</date><biblScope>56(28): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mr. and Mrs. Phoebe.</head>
+         
+         <p>Underneath every bridge and overhanging cliff of clay along some creek there will be found today a couple of the happiest birds in the world - and this is no slang expression, either.</p>
+         
+         <p>For these birds will be Mr. and Mrs. Phoebe, and they are already well along with their domestic affairs in the construction of a domicile. The cottage is built of mud and grass and is generally pasted to the girder of some bridge, or laid in a crevice in a creek bank.</p>
+         
+         <p>It is not hard to find the nest of the hardy Phoebe, because he and his wife are quite frank and open in their love affairs and fuss about the place seemingly unconscious of the rest of the world, which they seem perfectly willing to let go by.</p>
+         
+         <p>In fact about every fifteen seconds Mr. Phoebe steps out and pronounces his name with a great deal of "pep," but with the accent on the first syllable, to distinguish himself from the Chickadee and the Wood Pewee.</p>
+         
+         <p>Mr. and Mrs. Phoebe are likable folks and should be appreciated. They are very much opposed to noxious insects and to their best to keep that throng from becoming too plentiful.</p>
+         
+         <p>And as bridge engineers, you can't beat the Phoebe.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 10, 1921. <title>Omaha Sunday World-Herald</title> 56(28): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

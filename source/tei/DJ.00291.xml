@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00291">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Did They Go Back?</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-02</date><biblScope>55(32): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Did They Go Back?</head>
+         
+         <p>By the time this editorial appears in the World-Herald it is very possible that real spring may have arrived. We cannot look ahead very far these days.</p>
+         
+         <p>But up until the latter days of April, the woods and fields have been so soaked with frigid rain, and so caked with unseasonable snow and ice, that the confident migratory birds, coming up from the south as usual, have ceased to be found in their customary haunts.</p>
+         
+         <p>For years and years the Grosbeaks and the Orioles and the various Thrushes, to say nothing of the Warblers, have been common in the parks and meadows and wooded spots in and about Omaha at this date. And yet, as these lines are written, the feathered beauties of the springtime have yet to make themselves known.</p>
+         
+         <p>It is true that some of the Thrushes made their debut a couple of weeks ago - but now they have gone. Even the Myrtle Warblers, hardiest of all their clan, are seen in ones and couplets - instead of in flocks, as before.</p>
+         
+         <p>Can it be that the songbirds of the summer, coming up to the danger line of cold, have wisely stayed away, or returned to their winter habitat?</p>
+         
+         <p>It would seem so to the casual observer, and that is why we are praying for some real spring - for this should be the biggest Bird Week in Nebraska's year - and now look at the darn thing!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 2, 1920. <title>Omaha Sunday World-Herald</title> 55(32): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

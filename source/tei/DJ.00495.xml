@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00495">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Linnaeus' Floral Clock.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-05-06</date><biblScope>58(32): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Linnaeus' Floral Clock.</head>
+         
+         <p>Whoso would know the time of day from the book of nature let him learn from the great father of modern botany, Linnaeus, around whose desk in half circle in his little cottage at Upsala are still ranged "a large number of plants that opened their flowers each at a given time so that they revealed at a glance to the great master the hour of the day."</p>
+         
+         <p>The Daisy, "day's eye," opens its white star to the first beams of the morning sun. The Dandelion, and hour later, shortly after six, opens its golden disk, then closes it as the heat becomes intense. The "Chickweek," that many mistake for the Pimpernel, the latter rare in this country, adventive from England, of which was said by Lord Bacon, a careful observer of nature in all her appearances and changes, "when it expanded fully no rain will disturb the summer day, but if it entirely shuts up, veiling the tiny white flower with its green mantle, let the traveler put on his great-coat and the ploughman with his beast of draught, expect rest from their labour." If the flowers of the Sow-thistle keep open all night, rain will certainly fall next day, say the weather-wise. The stalks of the Dandelion down contract closely together in wet weather, to secure its dispersion only on a dry day. The Morning Glory rises with the sun but closes its blossoms before the sun has risen high. THe Goat's-Beard closes its petals at noon for which reason it is also called John-go-to-bed-at-noon. The Anemone, the buds of which are already appearing, one of nature's barometers, at the approach of rain and at nightfall curls up its petals and goes to sleep.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 6, 1923. <title>Omaha Sunday World-Herald</title> 58(32): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

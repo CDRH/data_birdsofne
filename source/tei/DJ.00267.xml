@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00267">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Eupatorium, or Joe-Pye Weed.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-08-20</date><biblScope>57(44=47): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Eupatorium, or Joe-Pye Weed.</head>
+         
+         <p>If such a handsome flower only had the gift of speech it surely should use it in protest at such a name as Joe-Pye Weed. But, alas, although it can claim its euphonious Latin name because of the king of Pontus, Mithridates Eupator, the latter name meaning "of a noble father," used it as an antidote to the poisons with which his enemies sought to make way with him in the old world, thus taking it under his special protection, while only an Indian man of New England used decoctions of it to cure typhus and other horrors, it seems to be irrevocably doomed to the name of Joe-Pye and to be known only to the botanist by its nobler and pleasanter sounding title.</p>
+         
+         <p>Perhaps, however, it is just as well that its good deeds in mitigating the hardships of colonial times in the new world under the ministrations of the Indian medicine man should label it for the common people. For after all most everyone hearing of it and seeing it for the first time will ask, "Where in the world did it get such an outlandish name?" And then will remember it much better than by its Latin title. And whether Latin or mongrel-Indian in ma,e it spreads its panicled heads of tiny pale lavender blossoms over the denser foliage below and adds a graceful finish to the landscape. If it gives, under the skillful manipulation of the medicine man, past or present, any antidote for human ills so much the better, but it will always add a touch of beauty down in the ravines where the trees shade and protect it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 20, 1922. <title>Omaha Sunday World-Herald</title> 57(44=47): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00445">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Increased Bird Population.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-03-28</date><biblScope>55(26): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Increased Bird Population.</head>
+         
+         <p>As the season of migration comes upon those who are interested in birds are remarking upon the increased number of each species to be seen - all of which is something of a tribute to the Audubon movement.</p>
+         
+         <p>Grown men of toady, who were interested in birds when mere youths, say that there seem to be far more birds in our parks and woods than in Ye Olden Tymes.</p>
+         
+         <p>The reason is very plain. The birds are protected now.</p>
+         
+         <p>Fred Montmorency, general freight agent of the Burlington railroad system west of the Missouri river, was raised in Omaha - was, and still is, an ardent amateur ornithologist.</p>
+         
+         <p>"My boys report more specimens this spring than ever before," he remarked the other day. "Personally, it seems to me that there are more birds in and around Omaha than in the old days. I know why - although I hate to admit it!"</p>
+         
+         <p>Mr. Montmorency then described the difference between the youngsters of today and those of yesterday.</p>
+         
+         <p>"We used to shoot specimens and skin them," he said. "Now the boys - including my boys - shoot the birds with binoculars. We used to hunt nests to rob them for our collections. Now the lads hunt nests to photograph and study and schedule them for the government's census. All this counts - as is proven in the increased bird population."</p>
+         
+         <p>First and foremost in this noble work of preserving and studying bird life are the Boy Scouts. The men of tomorrow are the Scouts of toady, and the birds seem to know that they are becoming safer year by year.</p>
+         
+         <p>The Mourning Doves are among the songsters returning from the south at present. Our laws protect them, now, and these beauties will be seen in larger numbers than ever before.</p>
+         
+         <p>And they should be - game-hogs notwithstanding. Uncle Sam says so.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 28, 1920. <title>Omaha Sunday World-Herald</title> 55(26): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

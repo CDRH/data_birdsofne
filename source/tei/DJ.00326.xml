@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00326">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Friendly Chickadee.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-11-10</date><biblScope>54(6): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Friendly Chickadee.</head>
+         
+         <p>There is nothing new in this editorial, and we warn you of that fact. If you are seeking a novelty, seek it elsewhere. We would talk about the chickadee, as we do most religiously every year. There you are!</p>
+         
+         <p>When you try to take a photograph of this titmouse the chances are that the object will alight upon the camera and look into the lens to see what is going on.</p>
+         
+         <p>When you go out into the woods to study the habits of the black and white critter you are likely to find him standing upon your shoulder and naively chirping his regards.</p>
+         
+         <p>He is useful because he eats insects and hunts for larvae in the crevices of tree bark and he is lovable because he is here all the year around, and cheers us particularly in the blizzardly winter with his "Dee! Dee! Dee! Chickadee-ee-ee-dee! Stir-up! Stir-up! Dee-dee-dee!"</p>
+         
+         <p>It is never too hot in the summer, and never too cold in the winter, for this tiny feathered friend of ours.</p>
+         
+         <p>He is a true American. Any country that is good enough to live in is good enough to fight for - and he stays here to fight.</p>
+         
+         <p>We would like to tell you more about the chickadee, as we have done every season, but our repeated advice is that you go out this day and make his acquaintance on your own hook.</p>
+         
+         <p>He will be glad to see you - especially if you bring a little suet along to stuff into a tree-crotch for him.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 10, 1918. <title>Omaha Sunday World-Herald</title> 54(6): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

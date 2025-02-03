@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00983">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Winged Irish Comedian [Short-eared Owl and Other Useful Owls].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-02-10</date><biblScope>53(19): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Winged Irish Comedian.</head>
+         
+         <p>When all is said, there is no funnier bird than the Owl. He looks funny, and very evidently the Almighty has meant him to be funny, too.</p>
+         
+         <p>There are a great many different brands of Owls, but there are few with which the ordinary bird lover has the opportunity to strike up anything like a speaking acquaintance. The Screech Owl is fairly familiar about Omaha, while the little Barn Owl is occasionally seen. But the Long Eared and the Short Eared Owls are more likely to be found in the woods, with the exception of the Screecher.</p>
+         
+         <p>The Long Eared Owl when in repose in some "evergreen" tree, where he is generally found in daytime, is of the general contour of a fish, with ear-tufts protruding skyward. He is funny enough, too, with his fierce, indignant eyes and piscatorial aspect.</p>
+         
+         <p>But the Short Eared owl—he is the boy!</p>
+         
+         <p>You are likely to flush him almost anywhere while taking your weekly tramp in the woods and fields. He may be sitting high up in some dead tree or camouflaged among the roots of some willow along a ravine. His light, brownish color blends perfectly in such cases, and he knows protective coloration for what it is worth.</p>
+         
+         <p>But his face—oh, dear!</p>
+         
+         <p>He looks like a burlesque Irish comedian and has the impassive smile of the same. You even imagine you can see the fringe of rufous whiskers beneath his underjaw. And when he speaks, which is seldom in the daytime, even when disturbed, his raucous squawk is easily likened to—</p>
+         
+         <p>"Erin g-g-o Braugh-h-h-h!"</p>
+         
+         <p>The Short Eared Owl is a very useful bird and should be protected. It's a certainty that any son of Ireland will over protect his interests after once taking a peep at that "map."</p>
+         
+         <p>Summing up, there is not an Owl to be found about Omaha that is not useful, and therefore all should be protected. The Great Horned Owl and Snowy Owl occasionally seize upon poultry, but they are seldom found here.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 10, 1918. The Winged Irish Comedian [Short-eared Owl and Other Useful Owls]. <title>Omaha Sunday World-Herald</title> 53(19): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

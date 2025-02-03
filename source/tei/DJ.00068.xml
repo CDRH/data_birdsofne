@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00068">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Fatality Along Nebraska Railroads.</title><title level="j">Auk</title><author>Barbour, Edwin H.</author><date>1895-04-01</date><biblScope>12(2): 187.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-18"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Fatality Along Nebraska Railroads (1895) </head>
+         
+         <p>
+            
+            <hi rend="bold">Bird Fatality Along Nebraska Railroads</hi>.—There is a certain bird fatality along railroad lines which is commonly charged to the telegraph wires. Doubtless they are the chief executioners, but not the dark destroyer of all the dead birds along our railroads. In Nebraska more fatality, as I believe, is to he charged to the moving train than to the wires. It is one of the larger States (exceeding in size all New England by 11,000 square miles), and though treeless, save in the cañions and along river courses, it is quite diversified. Still there are large areas of prairie that seem entirely level and unbroken. Here there are no trees, bushes or stones to offer shelter to winter birds. The prairie grasses are very short and give but little protection, and large numbers of misguided birds seek shelter in the lee of the steel rails of railroad tracks.</p>
+         
+         <p>These are almost wholly Horned Larks. As one walks along the track at night they fly up in considerable numbers from their dangerous shelter, especially in severe weather. The Larks are attracted thither as much by the food and the grain dribbled along the way by passing trains as by the protection which the treacherous rails offer. Crouching at night in the shelter of the rails, and stupefied by the noise and light of approaching trains they rise too late, are struck by the flying train, and thrown dead to either side of the track. I have seen them lying thus in scattered bunches of ten or a dozen. Railroad men say it is the work of the train, and such I believe it to be.</p>
+         
+         <p>It is the habit of these Larks to fly low, just skimming the surface of the ground, and it is highly improbable that they came to an untimely end by striking the telegraph wires.—<hi rend="smallcaps">Edwin H. Barbour</hi>, <hi rend="italic">Lincoln, Nebr</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 1895. <title>Auk</title> 12(2): 187.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00967">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Whistle of the Upland Plover.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1893-07-16</date><biblScope>p. 16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-12"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Whistle of the Upland Plover.</head>
+         
+         <p>One of the most glorious shooting seasons of the whole twelvemonth is now upon the gunners of this particular section and latitude. The Bartramian sandpiper, better known to local sportsmen as the upland plover, has arrived, and the broad hay fields and plowed ground will shortly afford most exhilarating sport.</p>
+         
+         <p>According to Audubon this bird is not strictly a plover, but closely allied to that species of game birds. They arrive here in their greatest numbers during the last week of July, breeding from Kansas northward to the British Columbias, and wintering in Texas and the states of Mexico. This section is one of the favorite feeding grounds of the bird, the nutritious nature of our many grass seeds being the feed it most craves and on which it fattens until it becomes almost like a sponge soaked in oil. They often become too fat for tempting table use, and will remain here until Jack Frost first begins to creep among the grass blades, when they levant hastily and almost in a body for the sunny climes of farther south.</p>
+         
+         <p>They are to be found in greatest numbers when here upon the wide upland meadows, or the hillsides covered with short, straggling tufts of bunch grass and seed-bearing weeds of different species. On the wide hay fields along the "old military road" they used to abound in unusual numbers, and are frequently found yet in ample numbers to furnish satisfactory shooting, but are not nearly so plentiful as a few years ago. Many a nice bag have I made in the fields along this legendary old trail, and only last summer Jack Morrison and I killed thirty-eight in an evening's shoot just south of Billy Paxton's beautiful ranch, almost within the city limits. They are never found in rocky or wooded lands, and seldom in low or swampy places. Up in the north part of the state, on the almost measureless pasture lands, this little feathered king loves to haunt on the grassy, sloping hillsides, fallow fields and newly plowed grounds, where it not only finds plenty of farinaceous seeds and the insect food to which it is ravenously partial—the small green grasshopper, worms, tiny snails and the coleopterous flies that infest the weeds and grasses.</p>
+         
+         <p>The upland is a wary bird, and almost always "flushes" at long range, but as they are easily killed, a single No. 8 often doing the work, this renders the sport the more desirous and interesting. They seldom go in flocks, as flocks go, but are often found in large scattered companies, and when jumped do so one by one, each taking a course that suits him best, and after circling a few times, converge into small bunches then scatter again when about to light. When a-wing they give frequent utterance to a peculiarly plaintive whistle something like "tur-whirtle, tur-whirtle," soft and musical to the sportsman's ear. This note has the exasperating quality of sounding always near at hand, when often the bird that utters it is a half mile away. He generally takes a swift little run before arising, and when once upon the wing, sweeps 'round and 'round, always settling down again well out of reach. A wing-tipped upland should be retrieved, immediately, for it is so fleet of foot, that it quickly outstrips pursuit, then squats close behind some clod or tuft, with which its beautifully mottled plumage assimilates to a degree that defies detection. Its wings are sharp-pointed and very lengthy and carry it through the air with incredible speed, and it requires a quick eye and nervy hand to bring them to grass.</p>
+         
+         <p>With the close of the upland plover shooting in August ends strictly the summer shooting; as it is a sort of connecting link between the spring and autumn gunning. Then sportsmen must again sheath their guns until September, when the chickens are ready; after this that most royal and hearty month of the whole year, when the quack of the mallard is heard in the marsh, the whir of the quail in the stubble, the bark of the squirrel in the timber, and the honk of the goose in field and on lake, stream and lagoon.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. July 16, 1893. <title>Omaha Sunday Bee</title> p. 16.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

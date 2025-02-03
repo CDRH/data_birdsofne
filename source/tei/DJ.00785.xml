@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00785">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Shooting Songbirds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-08-24</date><biblScope>54(47): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Shooting Songbirds.</head>
+         
+         <p>It is a very regrettable fact that foreigners have by no means the respect for the value and the aesthetic importance of songbirds that is to be found in the native-born American. This statement is vouched for in the reports of the Department of Agriculture, which is particularly interested in the conservation of the songsters for economic reasons.</p>
+         
+         <p>E.H Forbush, Massachusetts' expert ornithologist holding a state and governmental position to assist in preserving the lives of the useful birds, points out that in certain European countries the shooting and snaring of any sort of winged creature is looked upon with equanimity - being a custom centuries old.</p>
+         
+         <p>In America, however, the laws prohibit the shooting of small birds and songsters, and stiffly regulate the killing of wildfowl, under the present treaty with Great Britain. Therefore, foreign-born inhabitants of this country have a pretty tough time of it becoming "acclimated" to our laws.</p>
+         
+         <p>Sheriff Mike Clark of Douglas county has had so many complaints concerning the shooting of songbirds by members of our foreign colony that he has decided to send out his deputies on Sundays and in the evenings to attempt to put a stop to the practice. In this we think the sheriff has taken a wise but rather hopeless step, since he has by no means enough men to cover the ground.</p>
+         
+         <p>Bird lovers note that wherever a railway work-train is "parked" there is scarcely a bird to be found. The laborers are mostly foreign and are said to shoot anything with feathers on it.</p>
+         
+         <p>Anyway, it is to be hoped that Sheriff Clark can help the small force of deputy game wardens save a few of the Bluebirds and Goldfinches and Brown Thrashers and other beauties of the woods and fields, before the final pot-pie is cooked.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 24, 1919. <title>Omaha Sunday World-Herald</title> 54(47): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

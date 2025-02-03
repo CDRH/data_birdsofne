@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00305">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Females in Feathers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-09-19</date><biblScope>50(51): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Females in Feathers.</head>
+         
+         <p>There should be nothing in this editorial to offend the sweetest of all creations, but is it not a strange fact that a woman uses the feathers of birds to make her more gaudily attractive while the female bird in nature is vastly less glorious than the male?</p>
+         
+         <p>Out in the woods, where one meets nature in its true and wholesome grandeur, it is remarkable that the male songster carries all the fine feathers while his wife must content herself with the dullest of garments. The few exceptions to this rule do not damage the assertion that the human race is the only one in which the fair lady is privileged to wear the spangles.</p>
+         
+         <p>See the splendid Cardinal, the Scarlet Tanager, the Indigo Bunting, the Baltimore Oriole, the Rose Breasted Grosbeak - see a score more of the birds so familiar hereabout in the summertime, and the sparkling plumage is all upon the proud person of the father, while the wife and the little ones are clothed in but an inconsequential, sometimes dirty yellow or pink.</p>
+         
+         <p>Even the Ruby Throated Hummingbird, described by Burroughs and others as "the winged jewel" has for a wife a dainty creation in the dullest of drab.</p>
+         
+         <p>In bird life, however, the proudly bedecked father is a faithful one, and always on the job, ready and present to fight for his folks or to relieve his less beautiful wife upon the nest. In this regard, perhaps he is somewhat different from his human brethren. Mayhap nature has given him his feathery splendor in reward for such fidelity.</p>
+         
+         <p>In this age of equal suffrage agitation might it be possible that American women could learn something from the home life of the birds? Or, upon the other hand, would proud men be willing to wear the gorgeous plumage and attend to family duties as does his feathered example in the woodlands?</p>
+         
+         <p>The feminine certainly gets more than an even break in birdland as far as home life is concerned, but her wardrobe cannot compare with that of her pert and important life partner.</p>
+         
+         <p>Different, perhaps, in human homes!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 19, 1915. <title>Omaha Sunday World-Herald</title> 50(51): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

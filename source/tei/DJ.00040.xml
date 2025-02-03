@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00040">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Autumnal Bag. Game Brought in From the Fall Hunt. The Sides of the Omaha Sportsmen's Club and Their Scores.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1880-10-29</date><biblScope>16(18): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Autumnal Bag.</head>
+         
+         <head>Game Brought in From the Fall Hunt.</head>
+         
+         <head>The Sides of the Omaha Sportsmen's Club and Their Scores.</head>
+         
+         <p>Wednesday was a glorious field day for the members chosen for the fall hunt of the Omaha Sportsmen's club and they improved it well. They were returning home laden with game yesterday and the count at Collins &amp; Petty's last evening made a handsome stowing for both sides, with the victors for Captain Spriggs side.</p>
+         
+         <list type="simple">
+            
+            <item>Total for Sprigg's, ... 917</item>
+            
+            <item>Total for Blake's, ... 317</item>
+         
+         </list>
+         
+         <head>The Club Supper.</head>
+         
+         <p>This taking after-part of the fall hunt comes off to-night at Wirth's.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 29, 1880. <title>Omaha Daily Herald</title> 16(18): 2. The condensed summary of the team member scores, listing only waterfowl and "other" birds is not included.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

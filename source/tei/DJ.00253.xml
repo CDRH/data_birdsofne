@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00253">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Egg Collecting—The Two Classes.</title><title level="j">Oologist</title><author>"Aix Sponsa."</author><date>1891-02-01</date><biblScope>8(2): 34-35.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Egg Collecting—The Two Classes.</head>
+         
+         <p>For convenience in writing this article, I have divided my subject into two classes, viz.: Scientific collecting, and collecting simply for the purpose of having a collection. The former should be allowed, the latter suppressed, and the sooner the better.</p>
+         
+         <p>A great deal of complaint is being made about the destruction of our native birds by killing and by the robbing of their nests, but this complaint is mostly done by those who do not stop to make any distinction between these two classes of collectors.</p>
+         
+         <p>The destruction done in the name of science is not one-half so great as the wanton destruction done by the boys who collect eggs, put them on a string, and pride themselves on having the greatest number of eggs of the robin or catbird.</p>
+         
+         <p>One case comes to my mind while writing, of two boys who, in one day, gathered together 64 eggs of the catbird, and all these were broken by them, not one being kept to grace the cabinet of even a "Great American Egg Hog!"</p>
+         
+         <p>The nests robbed by this class of collectors are mostly those of the small insectivorous birds which nest in our gardens and orchards, the collectors usually lacking that knowledge of birds which enables them to discover any nests except those upon which they stumble by mere chance.</p>
+         
+         <p>In most states there is a law prohibiting the robbing of birds' nests. I think that scientific collectors should be protected, but the other class should be watched closely and punished to the extent of the law for each and every offense.</p>
+         
+         <p>To the "Egg Hog" the bird's egg is nothing, and to him it appears as of no more value than an oval stone, while to the scientific collector it is the most wonderful thing in the world.</p>
+         
+         <p>It makes my blood boil within me to think of the great number of eggs that are taken each year, without the cause of science for the collector to lean on.</p>
+         
+         <p>But, after all the complaint that has been made against the wanton plundering of birds' eggs, is there any way of putting a stop to it?</p>
+         
+         <p>If any of the readers of the <title>Oologist</title> have an opinion on this matter, I would like to hear from them, either personally or through the pages of the <title>Oologist</title>.</p>
+         
+         <list type="simple">
+            
+            <item>"<hi rend="smallcaps">Aix Sponsa</hi>,"</item>
+            
+            <item>Nebraska City.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">February 1891. <title>Oologist</title> 8(2): 34-35.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00277">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Fall Hunt. Captain William Preston's Side Victorious. Semi-Annual Hunt of the Omaha Sportsmen's Club - Where the Hunters Went - The Score 976 to 533 - Grand Supper This Evening.</title><title level="j">Omaha Daily Republican</title><author>Omaha Sportsmen's Club.</author><date>1875-10-15</date><biblScope>18(10): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Fall Hunt.</head>
+         
+         <head>Captain William Preston's Side Victorious.</head>
+         
+         <head>Semi-Annual Hunt of the Omaha Sportsmen's Club - Where the Hunters Went - The Score 976 to 533 - Grand Supper This Evening.</head>
+         
+         <p>The fall hunt of the Omaha Sportsmen's club took place on Wednesday. William Preston and B.E.B. Kennedy were the captains of the contending sides. The side headed by Mr. Preston won the victory, making a count of 976, against 533 for Captain Kennedy and his men.</p>
+         
+         <p>On Captain Preston's side, G.T. Mills and William Preston hunted at Elkhorn, G.A. Hoagland, J.D. Jones, J. Budd, W.H.S. Hughes, Byron Reed and W.J. Hahn, near Missouri valley, Iowa; H.R. Sackett at Crescent City, Iowa; D.C. Sutphen and C.H. Phillips, of Gilmore, near Schuyler; Dr. Coffman, to Calhoun Lake; A. Donahue, Saratoga bottoms. Messrs. Caldwell and Quimby didn't go out.</p>
+         
+         <p>On Captain Kennedy's side, Messrs. B.E.B. Kennedy, Z. Taylor and C. Cranz went to Skelton, Iowa; H.W. Yates to Bartlett, Iowa; the Withnell brothers to Missouri valley; Yankee Hathaway to Calhoun Lake; Judge Lake went to Bellevue, and Phillip Windheim to Elkhorn; Col. E.B. Chandler hunted near Grand Island and sent his game in yesterday by Messrs. Sutphen and Phillips. Messrs. John Petty, D.S. Barriger, J.M. Thurston, T.L. Kimball and J. Van Orman were not out. Mr. Kimball was over in Iowa, where he has gone on a pleasure trip, and it was arranged that he should hunt on Wednesday and send his game here by express, but it did not come in time, and Mr. Kimball was reported as not out.</p>
+         
+         <p>The count was made yesterday afternoon at D.C. Sutphen's store, on Farnam street. The following was the result:</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Capt. Preston's Side.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>William Preston</item>
+                     
+                     <item>G.A. Hoagland</item>
+                     
+                     <item>H.B. Sackett</item>
+                     
+                     <item>G.T. Mills</item>
+                     
+                     <item>C.H. Phillip</item>
+                     
+                     <item>Byron Reed</item>
+                     
+                     <item>J. Budd</item>
+                     
+                     <item>S.H. Quimby</item>
+                     
+                     <item>J.D. Jones</item>
+                     
+                     <item>W.H.S. Hughes</item>
+                     
+                     <item>D.C. Sutphen</item>
+                     
+                     <item>W.J. Hahn</item>
+                     
+                     <item>V.H. Coffman</item>
+                     
+                     <item>A. Donahue</item>
+                     
+                     <item>S.S. Caldwell</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>54</item>
+                     
+                     <item>251</item>
+                     
+                     <item>186</item>
+                     
+                     <item>60</item>
+                     
+                     <item>62</item>
+                     
+                     <item>79</item>
+                     
+                     <item>72</item>
+                     
+                     <item>Not out.</item>
+                     
+                     <item>56</item>
+                     
+                     <item>14</item>
+                     
+                     <item>32</item>
+                     
+                     <item>60</item>
+                     
+                     <item>38</item>
+                     
+                     <item>12</item>
+                     
+                     <item>Not out.</item>
+                     
+                     <item>976</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Capt. Kennedy's Side.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>B.E.B. Kennedy</item>
+                     
+                     <item>John Petty</item>
+                     
+                     <item>Yank Hathaway</item>
+                     
+                     <item>G.B. Lake</item>
+                     
+                     <item>R. Withnell &amp; J. Withnell</item>
+                     
+                     <item>Z. Taylor</item>
+                     
+                     <item>J. Van Orman</item>
+                     
+                     <item>D.S. Barriger</item>
+                     
+                     <item>E.B. Chandler</item>
+                     
+                     <item>P. Windheim</item>
+                     
+                     <item>J.M. Thurston</item>
+                     
+                     <item>H.W. Yates</item>
+                     
+                     <item>T.L. Kimball</item>
+                     
+                     <item>C. Cranz</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>50</item>
+                     
+                     <item>Not out.</item>
+                     
+                     <item>78</item>
+                     
+                     <item>49</item>
+                     
+                     <item>178</item>
+                     
+                     <item>34</item>
+                     
+                     <item>Not out.</item>
+                     
+                     <item>Not out.</item>
+                     
+                     <item>31</item>
+                     
+                     <item>16</item>
+                     
+                     <item>Not out.</item>
+                     
+                     <item>50</item>
+                     
+                     <item>Not out.</item>
+                     
+                     <item>47</item>
+                     
+                     <item>533</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>The losing side will give a grand game supper to the Club at the Grand Central this evening at 8:30 o'clock. Mr.Hughes, the secretary of the Club, desires us to give notice that members of the Club can secure their supper tickets by calling upon him at the First National Bank this afternoon.</p>
+         
+         <head>An Eagle Shot.</head>
+         
+         <p>Mr. Yankee Hathaway was so fortunate as to kill a Golden Eagle, near Calhoun lake, which measured seven feet and two inches from tip to tip. It was the most noticeable item of game that was brought in by any of the sportsmen.</p>
+         
+         <p>Two dusky ducks that were in the game pile attracted general attention on account of their rarity.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 15, 1875. <title>Omaha Daily Republican</title> 18(10): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

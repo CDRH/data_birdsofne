@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00525">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Master of Economy [Cowbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-06-06</date><biblScope>50(36): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Master of Economy.</head>
+         
+         <p>Two very solemn birds, one jet black and the other a bit brownish, flew silently into a pasture near Elmwood park. One of them perched thoughtfully upon the spinal column of a ruminating Jersey cow and the other alighted upon a nearby fence post. The Jersey shifted her cud, sighed patiently, and then dozed once more into dreamland.</p>
+         
+         <p>"See-e-e-e-e?" remarked the jet black party from the bovine's vertebrae.</p>
+         
+         <p>"Chack!" agreed the other harshly from the fence post.</p>
+         
+         <p>For they were cowbirds, you understand, and they had just consummated a piece of deviltry which stamps them as about the strangest of all feathered critters in this country.</p>
+         
+         <p>Over in a nearby bush there burst suddenly forth a most impressive hullabaloo. A pair of yellow warblers - the wild canary of boyhood days - shot back and forth, in and out of their sylvan retreat, most apparently scandalized by some mishap that had befallen them. They proclaimed to all their world that they had been outraged, vilely mistreated. They shrieked for justice - but the Jersey cow and her cowbirds merely smiled. One could almost see them smirk a pitying smile as they listened to the protestations of the warblers.</p>
+         
+         <p>The warblers had cause for complaint - very just cause. Some neighbor had sneaked into their nest during their absence and had there deposited a large, speckled egg. It was too heavy to throw overboard, and it occupied about half of the tiny berth built by the distracted songsters. The warblers, to put it plainly, were up against it.</p>
+         
+         <p>After a considerably protracted council of war they decided to obliterate the objectionable egg by building a flooring above it. This was duly done and the yellow birdlets proceeded to rear a large and enthusiastic family of young warblers to glorify our parks, while the strange, large, speckled egg rotted in the basement.</p>
+         
+         <p>This is no fairy story - it is absolute truth. The cowbird lays its eggs in any nest that can be found handy about the premises and then permits the owners of the aforesaid nest to attend to the maternal and paternal duties appertaining thereto. There is no such thing as a cowbird nest, for the cowbird is the real master of economy and has no faith in the slogan "own you own home."</p>
+         
+         <p>The yellow warblers and some other feathered victims of this lowdown cowbird trick have learned to build flooring over the objectionable egg when it appears, but the cowbird continues to thrive in spite of this fact, which means that cardinals and grosbeaks and dickcissels and many other songsters are forced to raise the deserted youngsters of this mysterious tribe of the meadows.</p>
+         
+         <p>While there is much to be said against the piratical cowbird, he is at least a strange character, and teaches us a strong lesson in practical economy.</p>
+         
+         <p>It is the old story of "let George do it."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 6, 1915. A Master of Economy [Cowbird].	<title>Omaha Sunday World-Herald</title> 50(36): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00279">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Amid Falling Leaves [Bird Reception Committee].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-10-14</date><biblScope>53(2): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Amid Falling Leaves.</head>
+         
+         <p>In the text books they call it "a faint seep."</p>
+         
+         <p>The definition is comprehensive, covers the situation nicely, and will serve to introduce the Brown Creeper to bird lovers who are today enjoying these most delightful of all hours in the Nebraska woods.</p>
+         
+         <p>The "faint seep" of this diminutive, sturdy and lovable little creature of the tree trunks and the air is again heard in the autumn glades and the tiny body again discovered climbing busily up the bark in search of food collected in its crevices during the past sumer. If further proof were needed - this is sufficient that winter is near at hand.</p>
+         
+         <p>With the Slate Colored Junco and the Brown Creeper already arrived, there is little for the amateur ornithologist to do but passively watch the few remaining summer birds disappear, and the equally few remaining feathered fellows of the snow make their appearance.</p>
+         
+         <p>The Brown Creeper, like the Chickadee, is a particularly likeable fellow to have around when the blizzards are howling or the drifts lie deep under foot.He is always to be found, always busy supplying his emergency larder, and always evidencing his optimism and spark with the wiry little squeak that you will soon come to recognize, if you are not already acquainted.</p>
+         
+         <p>When the Red Breasted Nuthatch, the Red Crossbill and the Redpoll return to their winter quarters in these parts, the feathery household for the ensuing six months will be complete.</p>
+         
+         <p>Amid the falling leaves of October it is interesting and beautiful to be on their reception committee, too.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 14, 1917. Amid Falling Leaves [Bird Reception Committee]. <title>Omaha Sunday World-Herald</title> 53(2): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

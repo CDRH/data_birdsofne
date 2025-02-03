@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01008">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Young Birds of Today.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-07-18</date><biblScope>55(42): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Young Birds of Today.</head>
+         
+         <p>If any proof were really needed to show that our birds are necessary to our welfare, a few rambles through the woods and fields today would be sufficient to the truly observant.</p>
+         
+         <p>The young folks of the feathered tribes are at large, and under the tutelage of their skilled fathers and mothers are fast developing in the gentle art of killing bugs and worms.</p>
+         
+         <p>If they did not kill the aforesaid bugs and worms, the latter would proceed to kill every tree and sprig of grain in the country!</p>
+         
+         <p>Maybe not all in one year - but if the birds all loafed on the job, the trees and grain would be as scarce in Nebraska as they were when civilization came, more than half a century ago. Then, if you will note, Nebraska was part of the "Great American Desert."</p>
+         
+         <p>Returning to the original subject, it is interesting in these days to see the parent birds teaching their youngsters how to clout the innocent buglet and to search the damaging wormlet from the vines and leaves.</p>
+         
+         <p>The Orioles of both varieties; the Thrashers, Catbirds, even the Bluebirds - are lugging their prey to the handiest limb or fence-top, whereupon to instruct the youngers in the job of pecking it into edible lengths - and, maybe, telling them how the beneficent deed is done. These birds, no matter of what classification, use peculiar means in giving such instruction, and it is almost impossible to nature-fake in describing the myriad methods.</p>
+         
+         <p>The young birds should be encouraged by keeping the baths full, and preventing stray cats from fussing around in the gardens. Out in the woods the birds are pretty likely to take care of themselves.</p>
+         
+         <p>Young Grosbeaks are now learning how to "bug" your potato plants - and you shouldn't hamper them in their studies.</p>
+         
+         <p>Every young bird should be cared for even more tenderly than the adults - for they will make up the great, aggressive, imperative army of next year, to save the trees and grain of this vast western plains estate!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 18, 1920. <title>Omaha Sunday World-Herald</title> 55(42): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

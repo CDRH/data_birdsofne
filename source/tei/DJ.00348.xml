@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00348">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Genuine First Robin.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-02-27</date><biblScope>56(22): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Genuine First Robin.</head>
+         
+         <p>While there has been a deal of jollying about the First Robin of the season, since the delightful bird of that name stays around all winter in protected places and appears to enjoy himself to the utmost - there is a genuine First Robin, and of him we would sing.</p>
+         
+         <p>The First Robin is the one that first perches in one of your own trees, on your own premises, and announces to the whole surrounding world that you are</p>
+         
+         <p>"CHEAP! CHEAP! CHEAP!"</p>
+         
+         <p>This, we think, is a gentle hunch that you should clean out the bird bath, even if there be ice in it - and fill the same with warm water. On several occasions the First Robins have been seen to peck at the ice in a popular bird bath, as if resenting the laxity of the owner in providing suitable accommodations.</p>
+         
+         <p>When it comes to food, the First Robin - the one that belongs to you - will likely take pretty good care of himself. Food thrown out doesn't allure him much, for he knows of protected sides of ravines where the afternoon sun permits fair hunting of bugs and worms, and, if that spot fails - he can always go back to the underbrush along the river valley and eat to his dear heart's content.</p>
+         
+         <p>God bless the First Robin.</p>
+         
+         <p>The First Robin that graces us with his presence in our own estate!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 27, 1921.  <title>Omaha Sunday World-Herald</title> 56(22): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

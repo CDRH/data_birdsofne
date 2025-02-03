@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00298">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Feathered Salamander [Dickcissel].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-06-29</date><biblScope>54(39): 14-E. A bird editorial. Feathered Salamander column repeats 1 Aug 1926 as Bird-Lore column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Feathered Salamander.</head>
+         
+         <p>As far as we are informed, there is but one American bird whose song can be heard above the roar and rattle of a swiftly moving train, when the receiving end is on the said train.</p>
+         
+         <p>You may be "jazzing" along at sixty or seventy miles an hour in your comfortable Pullman seat, and over the tremendous hum and racket of the steel caravan will come to you, from the little feathered fellow on the telegraph wire outside, the incessant song of hot-weather joy.</p>
+         
+         <p>"Dick! Dick! Dickcissel!"</p>
+         
+         <p>Or, if you prefer another analysis, "Chip! Chip! Chee-chee-chee!"</p>
+         
+         <p>So the Dickcissel has a distinct stunt of his own - something that no other bird can imitate nor rival. Sometimes we think Dick is a bit proud of it, too, for he lines the railway right-of-way clear across the middle-western and plains states in such numbers his song is ever in your ears while you are traveling.</p>
+         
+         <p>The Dickcissel was formerly called the Black-Throated Bunting, and is a very beautiful creature, as well as very useful. He is mostly of a rich yellow hue, with a black throat - but nobody need identify him by his dress, for his song is inimitable. In our experience we never heard any of the mocking birds attempt to imitate the "Chip! Chip! Chee-chee-chee!" of this hot-weather friend.</p>
+         
+         <p>He is really a salamander of the air, too, for he is late in arriving and early in departing, and does his best vocal stunts when you and I are gasping beneath an electric fan. He eats logs of bugs and weed seeds and is a mighty good citizen.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 29, 1919. Feathered Salamander [Dickcissel]. <title>Omaha Sunday World-Herald</title> 54(39): 14-E. A bird editorial. Feathered Salamander column repeats 1 Aug 1926 as Bird-Lore column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

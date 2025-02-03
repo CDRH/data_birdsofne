@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00062">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bird Bath.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-06-22</date><biblScope>54(38): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bird Bath.</head>
+         
+         <p>Every summer, about this time, we preach the same sermon - put out water for the birds!</p>
+         
+         <p>If you are opulent enough to purchase a cement ornamental bath it is well, but if not an ordinary shallow pan with a brick in the middle of it will suffice.</p>
+         
+         <p>Why the brick?</p>
+         
+         <p>That is easy.</p>
+         
+         <p>The water should be about an inch over the surface of the said brick, so that the birds can stand upon it while bathing. The feathered folk are generally very scary about their footing while entering a bath, and that is why the cement variety is the best. If the pan is a wide and shallow affair bank one side of it with clean sand, just like the shore of a lake, so that the songsters may wade out to the depth they like and enjoy themselves.</p>
+         
+         <p>Above all things, keep the pan or bird bath out in the open lawn, where the birds can see the sneaking cats that inevitably make such a prospect their hunting grounds. If possible, elevate the bath so that the feathered bathers can have a good look at the surrounding territory.</p>
+         
+         <p>Clean the bath every morning and fill it with fresh water. In a short time you will be surprised at the visitors you will see in your natatorium.</p>
+         
+         <p>In one bird bath in Dundee twenty-one different species of birds were seen in one day - and in a very thickly settled community, too.</p>
+         
+         <p>You like your bath when the weather is hot - why not accommodate the birds?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 22, 1919. <title>Omaha Sunday World-Herald</title> 54(38): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01014">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game.</title><title level="j">Omaha Daily Herald</title><author/><date>1867-05-07</date><biblScope>2(189): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-25"/>
+    <respStmt>
+	<name>Anastasia Smallcomb</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game.</head>
+
+<p>Game. - We are under many obligations to the Sportsman's Club of Omaha for a large consignment of fine, plump, fat, good looking "Esquimaux Curlew." This present reminds us of the advance of the sniping season when snipe, curlew, &amp;c., fall before the clacking of the enthusiastic sportsmen's shot-guns; while we cannot but with the liveliest gratitude, consider their remembrance of newspaper folk, whose duties preclude the possibility of practising the healthful sport of the field.</p>
+
+<cit>
+<bibl default="NO">May 7, 1867. <title>Omaha Daily Herald</title> 2(189): 3.</bibl>
+</cit>
+
+</body>
+</text>
+</TEI.2>

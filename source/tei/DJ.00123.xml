@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00123">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bountiful Corn.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-11-28</date><biblScope>56(9): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bountiful Corn.</head>
+         
+         <p>"First the blade, then the ear, after that the full corn in the ear." The scripture prophecy fulfilled and in greater abundance than ever before in Nebraska or the middle west.</p>
+         
+         <p>From the black earth came first the long rows of tiny green leaves that sprang upward and widened out until great waving armies of rustling leaves stood like countless rows of sentries presenting arms. When the soft evening twilight and the still darker midnight brooded over them they rustled and crackled with the expansion that like magic soon made of them many great forests, into which one, wandering, might be lost. Then they put forth the tiny ear, green and hidden by the sword-like leaves. It, too, grew and grew, magically, changed its coat to a dainty tan, finally parted the folds of it and forth came an ear of golden color containing many rows of dented teeth imbedded in the white cob that held them close together. The husbandman had sowed and plowed and now he comes forth to reap.</p>
+         
+         <p>They who ride over the countless prairies that hold all these forests will find still there the stalks and leaves of tan, but nearby will be long rows of pointed mounds made of the golden ears that the husbandman has gathered. The corn-bins are full to overflowing, and there is no place for the surplus but on Mother Earth. Scarcely a farm house that does not have these tokens of what nature is giving to her children. And she, regardless of price or value, pours out her stores while her children, greedy for gain, grasping from their brothers, make vain their labors.</p>
+         
+         <p>When will her children learn the lesson that nature has been so patiently teaching for ages, and give every one of their brethren a proper share?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 28, 1920. <title>Omaha Sunday World-Herald</title> 56(9): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

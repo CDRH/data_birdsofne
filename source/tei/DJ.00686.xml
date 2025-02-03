@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00686">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Just Practicing [Blue Jay].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-08-21</date><biblScope>56(47): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Just Practicing.</head>
+         
+         <p>He was a wee bit Bluejay with a ridiculously scrawny neck and very sad eyes, for he hadn't been out of his nest very long, and had good reason for being sad.</p>
+         
+         <p>His former home was in the branches above him, but his parents and also his brothers and sisters, had scattered about the Elmwood underbrush and left him to shift for himself. And he certainly was shifting.</p>
+         
+         <p>having no tail to speak of or balance with, it was natural that he should shift, and the plaintive way in which he attempted to hide himself and still maintain enough equilibrium to prevent a nose dive into the creek below would have been funny were it not so intensely serious - to him.</p>
+         
+         <p>This Bluejay had a growing topknot and other signs of the order, and his colors were beginning to fly, also - but as for means of locomotion and aviation he was nearly ruined. When he tried to leap a yawning chasm of almost six inches, the effort brought from his palpitating heart a squawk that would have moved a heart of flint. He made it all right - but was a complete physical and nervous wreck for a long time.</p>
+         
+         <p>Never was there a more pathetic look of appeal for a mother's kindly aid than that which glistened in those baby-bird eyes. The same look is seen in human babies when they are first left alone in the middle of the living room floor with the insinuating instructions to "come to mama - there's a dear!"</p>
+         
+         <p>All this is merely to sketch the fun that may be had today in the woods or meadows, watching young or half-grown birds trying to master the manly and womanly arts and sciences of their tribes.</p>
+         
+         <p>Bluebirds, Red Headed Woodpeckers and Barn Swallows offer the best comedy.</p>
+         
+         <p>Why not get fun, fresh air, exercise and some amateur ornithology all in one grand swoop today?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 21, 1921. Just Practicing [Blue Jay]. <title>Omaha Sunday World-Herald</title> 56(47): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

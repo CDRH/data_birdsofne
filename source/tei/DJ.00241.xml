@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00241">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Dying Birds. They Have Frozen, Strayed, or Flown Away. Suffering Among the Feathered Tribes, Which is Said to Have Been Unprecedented - The Cold Less Fatal Than the Famine.</title><title level="j">Omaha Weekly Herald</title><author>Editor.</author><date>1881-02-18</date><biblScope>16(20): 6.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Dying Birds.</head>
+         
+         <head>They Have Frozen, Strayed, or Flown Away.</head>
+         
+         <head>Suffering Among the Feathered Tribes, Which is Said to have Been Unprecedented - The Cold less Fatal Than the Famine.</head>
+         
+         <p>This has been a hard winter on the birds. Old ornithologists think the winged denizens of the air and the feathered paddlers of the streams have suffered more this season from the rigors of cod than ever before in half a century. Fortunately, nature has kindly given them sources of protection besides the migratory instinct. Thus the cold has been less fatal than the scarcity of food by which it was accompanied, a scarcity made all the worse by the long duration of the snow and the reign of ice, since the two great classes of winter birds belonging to this latitude find sustenance either on the ground or by the shores of streams. As the abundant harvest of nuts from the trees last fall was construed as a bountiful provision for the squirrels and other small animals of the woods during the impending winter of unusual severity, so the added plumpness, the accumulation of adipose tissue in the feathered family for warmth and to supply the wastes of the system, was looked upon as a harbinger of long continued cold. Although sudden changes of temperature make great demands upon their vivacity, the paramount question in the life of a bird is the question of food. Thousands of birds have died of starvation in this state since the beginning of the year. Spared from the slaughter of the sportsman's gun, some of the finest winter birds in which the power of flight is weakest, and the love of location strong, have fallen victims before the biting blasts and long continued snows. The very conditions which kept the sportsmen away caused their death. In general it may be said that the extremity of the cold has driven the bulk of the winter birds of this region further south and of the Spartan bands remaining thousands have died from want of food. Farmers find them in every field and their downy corpses are found embalmed in the ice of almost every stream.</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 18, 1881. <title>Omaha Weekly Tribune</title> 16(20): 6.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

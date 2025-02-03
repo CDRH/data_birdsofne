@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00813">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Some of Our Winter Birds.</title><title level="j">Osprey</title><author>Carriker, M.A., Jr.</author><date>1899-03-01</date><biblScope>3(7): 104-105.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-07-05">2006-07-05</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Some of Our Winter Birds</head>
+         
+         <head>By M.A. Carriker, Jr., Nebraska City, Neb.</head>
+         
+         <p>One sunny afternoon in early February while strolling through a strip of woodland bordering on a small creek, I was more impressed than ever before with the number and variety of birds, large and small, which remain here to face the rigors of our Nebraska winters.</p>
+         
+         <p>Along the outskirts of timber, and among the dead weeds and tangled grasses of dry ravines, several species of Northern Sparrows and the Slate-colored Junco (Junco hiemalis) may be seen flitting about in their restless manner from weed to weed in search of seeds while clinging to a naked weed-stalk the cheerful little Chickadee (Parus atricapillus), or the stoical Downy Woodpecker (Dryobates pubescens) beats a lively tattoo in his search for the little grubs which he knows are hidden within.</p>
+         
+         <p>While I cross an open field I most likely send a flock of Horned Larks, which have been feeding there, whirling away on their peculiar, undulating flight, to drop suddenly on the crest of the next hill, where they resume their interrupted search for their noonday meal.</p>
+         
+         <p>Passing on, I start through a patch of thick hazel brush, when just in front of me suddenly appear several flashes of brilliant scarlet, and as suddenly they are gone. Silently I watch the place where they disappeared, and soon I see a pair of beautiful Cardinals (Cardinalis cardinalis) stealing away among the bushes in their peculiar manner.</p>
+         
+         <p>Pushing my way through the brush, I come suddenly upon a flock of eight or ten Robins (Merula migratoria) scratching among the leaves in an open place. With a chorus of startled twitterings they are swiftly on the wing and away.</p>
+         
+         <p>Entering the woods, a loud and vigorous rapping attracts my attention. Advancing stealthily in its direction, I all but surprise a large male Hairy Woodpecker (Dryobates villosus) digging in a decayed limb of a wild cherry tree; then, with one startled glance in my direction, he takes to wing and his beautiful black and white-barred wings and scarlet nape are soon lost to sight among the trees.</p>
+         
+         <p>Coming to a hollow tree, I explore for a stray Opossum, which may have taken up its abode there. As I bend over to examine the entrance in search of the tell-tale hairs which it always leaves, something drops from above and goes past my face with a suddenness that sends me sprawling on the ground from fright. Looking up for the cause of my downfall, I see a Flicker (Colaptes auratus) flying away with a speed that shows I am not the only one frightened. While picking myself up, a pair of the ever present and insolent Blue Jays (Cyanocitta cristata) give vent to their feelings of delight over my mishap in loud notes of "dew-ay, dew-ay! dew-ay! "</p>
+         
+         <p>Passing into heavier timber, I flush a Barred Owl (Syrnium nebulosum) from his retreat in a vine-covered tree, and before he has gone a hundred yards a flock of Crows, which had, no doubt, been hunting him, pounce down upon him with exultant caws, happy that they can make life miserable for something for a short time.</p>
+         
+         <p>On arriving at the top of a hill, panting from the hard climb, a magnificent Buteo borealis rises from below and sails upward, circling majestically above me till satisfied as to my identity, then dropping over the next hill to join its mate.</p>
+         
+         <p>At last I come to the object of my trip. On the side of the hill above me stands a large cottonwood tree, with a huge, unshapely nest resting in one of its forks. Approaching closer, a round object, with two projecting horns, rises from the nest, and the next moment a huge mottled bird sails noiselessly away. After adjusting my climbers, I slowly ascend the huge trunk, and at last, nearly out of breath, I reach the nest. I can hardly get above it, it is so bulky, but at last I succeed and am amply rewarded for my toil by what I see. Resting in their bed of grass and feathers are three fresh eggs of the Great Horned Owl (Bubo virginianus)—an unusually large set. While I carefully pack them in my box, the female, now joined by the male, sit at a safe distance and watch me, both chuckling in their demoniacal manner, but not attempting to molest me. Descending, I hasten to my waiting horse and drive home, well pleased with my afternoon's outing.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 1899. <title>Osprey</title> 3(7): 104-105.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

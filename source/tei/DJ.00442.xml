@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00442">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Hurried Hordes.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-09-18</date><biblScope>37(15)=56(51): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Hurried Hordes.</head>
+         
+         <p>From the north there are passing, by day and by night, vast hordes of Warblers and migrant Sparrows that wave to us little more than a brief recognition. The autumn in the Canadas and in Minnesota is colder than usual, and these long-flyers are making their journeys toward climatical safety by long trips and short jumps, according to their capacity.</p>
+         
+         <p>For the migrants are just like airplanes of the human brood; they have so much speed and so much cruising range under certain weather conditions.</p>
+         
+         <p>The Warbles are the first to go through, and the Black and White variety was noted a month ago. Now are coming the rest of the pack, including the Black Throated Blue Warbler, the Blackpoll - and, oh, so many others of the vast family. The Myrtle Warbler, hardiest of all, will come last, and has often been seen here when there was snow on the ground.</p>
+         
+         <p>As for the Sparrows, the White-Throat has been seen, and the Song Sparrow is fairly common. The White-crowned, Lincoln and Harris Sparrows should be identified by the time these observations are printed, and still later will come the Tree Sparrow to spend the winter with us.</p>
+         
+         <p>Those who love birds, and who know what value there is in a weekly hike through the woods and fields, will appreciate the present opportunity of checking up the fall migration, now in progress. There is no telling what may be seen in these woods and fields, ornithologically speaking.</p>
+         
+         <p>The best way to get an idea of the vastness of this study is to take a tramp through the glades and meadows on this particular day.</p>
+         
+         <p>In the youngster's language - let's go!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 18, 1921. <title>Omaha Sunday World-Herald</title> 37(15)=56(51): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

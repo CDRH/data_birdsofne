@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00895">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Teacher! Teacher! [Ovenbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-05-25</date><biblScope>54(34): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Teacher! Teacher!</head>
+         
+         <p>For some reason best known to Mother Nature, there seems to be a considerable increase in the number of Ovenbirds about these parts as compared with previous seasons. This makes it interesting for amateur bird students, as the species referred to is rather difficult to find.</p>
+         
+         <p>The Ovenbird is sometimes called the Golden Crowned Thrush, and nests in this vicinity every spring. But this fact is not particularly encouraging, because the person who finds said nest should have a great deal of success in plucking a needle out of the celebrated haystack.</p>
+         
+         <p>It is because of the shape of its home that the Ovenbird has received its name. The structure is like a tiny oven, made of grass and cleverly hidden on the ground in the deepest woodland. About the only way to find one of these ovens is to flush the brooding bird from the nest and carefully mark the spot.</p>
+         
+         <p>But the song of the Ovenbird is especially interesting, because it says, just as distinctly as can be:</p>
+         
+         <p>"Teacher! Teacher! Teacher!"</p>
+         
+         <p>Very timid and retiring in its disposition, the bird generally flies before one can get close enough for a careful inspection. The best way to locate and study Mr. Ovenbird is to identify its song, get as close as possible, and then standing perfectly still - do a job of watchful waiting.</p>
+         
+         <p>There are many ovenbirds in the Fontenelle Forest Reserve at Child's Point, and several seem to be preparing to nest in Elmwood park, which is unusual.</p>
+         
+         <p>Better take a little hike through one of these two places today and try your luck with "teacher!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 25, 1919. Teacher! Teacher! [Ovenbird]. <title>Omaha Sunday World-Herald</title> 54(34): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00038">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">An August Display.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-08-28</date><biblScope>56(48): 4-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>An August Display.</head>
+         
+         <p>The Sunflowers and the Thistles are making the prairies gorgeous and the butterflies, bees and all their kind, are adding to the display as they gather the nectar from the thousands of blossoms with graceful motion, their many-hued wings and their power to fly from one blossom to another intensifying the effect.</p>
+         
+         <p>Cousins they are, members of the great Compositae which comprises, it is said, one-ninth of all the flower kingdom; they are very different but a good foil for each other. Of the sixty species of the sunflower known to science all are North American. It was formerly thought to be a native of Mexico and Peru by the Spanish conquerors who found it used there as a mystic and sacred symbol. In the temples, the handmaidens wore upon their breasts plates of gold beaten into the likeness of the sunflower. But it was later found that the plant was cultivated on the shores of Lake Huron where it had been brought from the plains of the Mississippi by the Indians and used, the stalk for a textile fiber, its leaves a fodder, its flowers a yellow dye and its seeds for food and hair-oil. Discovered in these uses by the early settlers, they were not slow to send seeds home to Europe.</p>
+         
+         <p>Not so with the thistle. From European lands, the emigrants brought its seeds to the western continent and now for many a year, while still largely called the Scotch thistle, one of over twenty varieties, it is thoroughly Americanized as far westward as Nebraska, the botanies say, and the last part of the statement all Nebraskans who ever observe plant life can substantiate.</p>
+         
+         <p>It is, however, the emblem of the Scotch nation for the reason, as the story goes, that when the Danes invaded Scotland they stole a silent night march upon the Scottish camp by marching barefoot. But a Dane stepped on a thistle in the darkness and his sudden sharp cry aroused the Scots and saved them and their country. Hence the emblem. Russia, however, if we have it right, has no such love for its thistle which has come by some means to us, and while a beautiful appearing plant in its youth, and to some extent a good feed, broadens out into a dense, round ball-like mass that, when its growth is done, parts from its stalk at the base and spreads its seeds by rolling over the ground in Nebraska breezes, and becoming a pest, typical, perhaps, of the present condition of the Russian but not desirable.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 28, 1921. <title>Omaha Sunday World-Herald</title> 56(48): 4-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

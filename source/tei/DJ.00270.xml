@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00270">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Evils of Spring Shooting].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-06-04</date><biblScope>34(247): 19. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>[Evils of Spring Shooting.]</head>
+         
+         <p>More than ever this spring have our local sportsmen been convinced of the evils of spring shooting by the almost total absence of jacksnipe under the most favorable conditions that have been known here in a decade. For many years thoughtful men have protested against the pernicious practice of shooting in the springtime, a custom so particularly improvident that it seems unnecessary to prevent an argument against it. While I have always known of the disastrous results of the gun's destructive work in the spring. I have never advocated its abolishment without it could be made universal and I fear that can never be. What is the use in our refraining from the sport here in Nebraska if they continue it in the states on all sides of us?</p>
+         
+         <p>With the annual recurrence of the northern migration of water fowl and waders, reports come in and are published, without comment or condemnation, on my part anyway, for the reason above stated, of the great bags made of geese, duck, plover, yellowlegs and erstwhile snipe. There can be no argument advanced in the favor of this practice but the one I have stated, or as Frank Forester said years and years ago, without spring shooting there would be no shooting from midwinter till fall, unless we except that which should not be-summer chicken shooting. For no such reason would any right-minded man think of shooting quail that had survived the rigors of winter, nor the dove, when he is summoning his sweetheart to the trysting place by mournful cooing, nor the returning upland plover, when he woos his mate in the spring twilight.</p>
+         
+         <p>Yet, why not these as well as the migrant fowl, the yellow-leg or jack, on their way to breeding grounds, or in some instances, even arrived there. Why inveigh against the market shooters when the sportsmen are doing their utmost to destroy the birds before their eggs are laid?</p>
+         
+         <p>Let our charity begin at home in giving these wanderers safe conduct through our country in their northward journey. let us, like nature, take on gentler moods in these spring and summer days, or if we would still be killing and making a noise in the world there are fish and clay pigeons, and a clear conscience withal. Then, in jocund autumn, when the replenished hordes come down from the north, we may enjoy a full feast of good things, yet tempering zest with moderation, so that those who come after us may not find the meager welcome of an empty board.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. June 4, 1899. <title>Omaha Sunday World-Herald</title> 34(247): 19. Forest Field and Stream.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00723">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Red Wing.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-06-06</date><biblScope>55(36): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Red Wing.</head>
+         
+         <p>There are so many birds in this wonderful state of Nebraska, and so many of them are so superlatively beautiful and interesting, that the layman is likely to pick out more than a dozen feathered friends and pronounce each better than the last - all in one day's hike through the woods and fields.</p>
+         
+         <p>The Cardinal tops them all, let us say. No - the Scarlet Tanager! "What about the Baltimore Oriole?" inquires another. THe Redstart, The Rose Breasted Grosbeak, the Indigo Bunting - and thence through a considerably long list.</p>
+         
+         <p>But what about that highly unique critter called the Red WInged Blackbird who visits us in veritable swarms during the summer, and is said to make excellent pie - two barrels from the gun of a hungry hunter in an autumn cornfield being sufficient to please the palate of the farmer immensely?</p>
+         
+         <p>We deplore this last paragraph, because the farmer should remember that while the Red Wing eats a lot of grain, he also eats a lot of worms and things that destroy the grain - and scientists say that he earns his life's happiness.</p>
+         
+         <p>Anyway, the Red Wing is interesting, especially at present, during the nesting season. His "Oh-Ka-Lee!" is heard over the swampy, grassy fields, and the weird shrieks that he and his wife emit when their nest is threatened are eerie in the extreme.</p>
+         
+         <p>Find one of these nests today, if you can, and hear the Red Wings talk to you. They very nearly speak English - and certainly gesture with their wings as successfully as any poilu that lives.</p>
+         
+         <p>The Red Wing is a good bird - particularly good to look at and to listen to.</p>
+         
+         <p>Poor grammar, that,! - But no poorer than is used by this Blackbird when you approach his home!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 6, 1920. The Red Wing. <title>Omaha Sunday World-Herald</title> 55(36): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

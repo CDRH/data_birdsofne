@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00725">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Remarks on Prof. Kumlien's Correction.</title><title level="j">Osprey</title><author>Trostler, Isador S.</author><date>1897-06-02</date><biblScope>1(10): 138.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-15">2006-06-15</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Correspondence.</head>
+         
+         <head>Remarks on Prof. Kumlien's Correction.</head>
+         
+         <list type="simple">
+            
+            <item>To the Editor of <title>The Osprey</title>:</item>
+         
+         </list>
+         
+         <p>Referring to Prof. Kumlien's article, "A Correction of a Frequent Misstatement," in the May <title>Osprey</title>, I desire to say that I have found the Yellow-headed Black-bird nesting in wild rice (or water oats) in Cut-off Lake, near this city; in Big Lake, Pottowatomia County, Iowa; and in the sandhill (alkali) Lakes of Cherry County, Nebraska, and Lugenbeel County, South Dakota. In the latter locality this species nests in immense numbers and almost exclusively in the wild rice.</p>
+         
+         <list type="simple">
+            
+            <item>Isador S.Trostler,</item>
+            
+            <item>Omaha, Neb., June 2, 1897.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">1897. <title>Osprey</title> 1: 138.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

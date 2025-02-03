@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00594">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Prairie Chickens.</title><title level="j">Forest and Stream</title><author>Gris [Sandy Griswold].</author><date>1890-07-17</date><biblScope>34(26): 512.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-09"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Prairie Chickens.</head>
+         
+         <p>Omaha, Neb., July 11.—The various gun clubs of this city have concluded to call a special joint meeting to ascertain whether it is not possible to devise some ways and means of preventing the wholesale illegal killing of prairie chickens this season, and it is high time this very work was accomplished. The time will shortly arrive when the pot and market hunters will shoulder their blunderbusses and sally forth to the slaughter, and there is no time to be lost if anything is to be done toward the protection of this season's crop of birds. From all parts of this State and the Dakotas comes the report of an unprecedented hatch, and that the prospects are excellent for the biggest chicken crop in fifteen years. The young birds are now out and nearly half grown, and in the bountiful stubble will be but a few weeks longer in reaching their most delicious condition. The theories for the abnormal hatch this season are both numerous and reasonable. Last winter was one of the mildest periods experienced in these States for years, and the birds left over have been undisturbed in their nesting. This spring, to be sure, there was an excessive rainfall, but it had been preceded by such a long, continued drought that the earth was simply one immeasurable sponge, and the water was absorbed speedily, and inundations and overflows were rare.</p>
+         
+         <p>This summer more birds are seen in their accustomed haunts than for many, many years. Even in localities where the birds had been almost exterminated they are now to be found in satisfactory numbers. The localities in question last season were so barren that there was no inducement for the market-hunter to visit them, and the few birds that were left were almost totally unmolested, and this summer every old hen is clucking proudly through the long yellow grass with her fifteen or twenty bright-eyed children. What glorious sport would await the legitimate sportsmen now if effective means could be adopted for checking the market-hunter. Delightful September and golden October would be months of incomparable sport afield, if there was only some way of preventing the devastation of our prairies before the legal season opens. I have grave doubts, however, of anything material being accomplished.</p>
+         
+         <p>The Legislature is seemingly indifferent as to the fate of both our game and fish. So thoroughly indifferent was this body at their last session that they had not the briefest time for the consideration of a code of excellent game laws drafted by the well-known Judge Kennedy and the Omaha Gun Club, and forwarded to the very members whom it was thought would make a robust interest in the matter. Persistency may win, however, and action on the part of the sportsmen's clubs cannot be too prompt or too decisive. Last season as early as the middle of this month half-grown prairie chickens were being served regularly at our leading hotels, and they were being transported from the State, in refrigerator cars by the thousand dozen. It is a certainty that there will be a speedy resumption of this order of things, and in a few years more, at the present rate of destruction, prairie chicken and grouse will be no more a welcome slight along our prairie highways.</p>
+         
+         <p>Last fall I indulged in a three weeks' outing in the northwestern part of the State, and at no less than five different points on the B. &amp; M. road did I visit the rendezvous of Eastern market-hunters, who have built permanent shipping establishments, with refrigerative annexes and shipping departments, and carry on their unlawful business regularly all the year round openly and defiantly. These shippers not only employ all the farmers' boys they can roundabout the country, but they bring in expert shots from the East, whom they pay a regular salary for their work in the field. Now is not this a sad commentary upon the laws of a great and progressive State like Nebraska; isn't it an unqualified disgrace and an outrage, and does it not call for a loud protest from every true sportsman in the State, and a vigorous remonstrance from all our lovers of nature? I think so.</p>
+         
+         <p>Woodduck and some mallard are breeding at Honeycreek Lake this season. Just north of this charming ellipse of water is a long reach of low-lying, boggy meadow and woodland, where the birds have secreted their nests. Young squirrels, particularly fox squirrels, are reported in exceeding plentifulness in the timbered bottoms along the Missouri River, six or eight miles below the city. Young squirrels are supposed to be at their best when the alderberry is in bloom, and as this bush is now in the height of its flowering, it is time to go a gunning. And what sport it is, a day's squirreling in the odorous woods.</p>
+         
+         <p>Gris.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. July 17, 1890. <title>Forest and Stream</title> 34(26): 512.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

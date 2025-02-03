@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00074">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Life As Asset of a City, Told Realty. Dr. Towne Says Birds and Trees Live Side by Side and Scores Their Enemies. Will Not Condemn Squirrel. Cats and Boys With Slingshots Birds' Enemies.</title><title level="j">Omaha Sunday World-Herald</title><author>Towne, Solon R.</author><date>1915-04-18</date><biblScope>50(29): 9-E.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Life As Asset of a City, Told Realty</head>
+         
+         <head>Dr. Towne Says Birds and Trees Live Side by Side and Scores Their Enemies.</head>
+         
+         <head>Will Not Condemn Squirrel. Cats and Boys With Slingshots Birds' Enemies.</head>
+         
+         <p>"The bird is necessary to the tree, the tree is necessary to the bird; they must live side by side," declared Dr. S.R. Towne to the Real Estate exchange last week, speaking upon "Bird Life as an Asset to the City."</p>
+         
+         <p>"I do not wonder," added Dr. Towne, "that the Druids worshipped the trees or that my friend, Hugh McIntosh, long editor of the Nebraska Farmer, said we ought to be tree worshippers."</p>
+         
+         <p>Without unsparing denunciation of squirrels as enemies of birds, yet Towne laid it down as a rule that where there are plenty of squirrels birds are few. While the bluejay s a planter of oaks, the squirrel is also. Squirrels planted the shagbark hickory trees that cover a slope at Child's Point. The bluejay does other birds harm, no doubt. The average cat eats fifty birds a year, the country over, and is one of the bird's greatest enemies. Another enemy is the boy with a slingshot.</p>
+         
+         <p>Dr. Towne told of the protection given trees by the woodpecker in winter, by the warbler, vireo, oriole, cuckoo, thrasher and the killing off of insects that destroy grain, by other birds that often split their crops, overfilling them with bugs and caterpillars. he told of the tree nests imported by Fred J. Adams from Thuringia, and erected at Thirty-ninth and Pacific streets to protect the grove of locust trees. Even the Cooper and sharpneck hawks, the only two kinds that take many chickens, do more good than harm. The other hawks kill off moles, mice and mosquitoes.</p>
+         
+         <p>Dr. Towne condemned the hunters who killed off a covey of quail near Elmwood park, and the wanton hunters who shoot hawks. He urged getting children interested in bird life and tree life as vacation approaches, and told of the many birds that can be counted and classified in the parks and at Child's Point.</p>
+         
+         <p>Concluding Dr. Towne related simply but with poetic feeling the story of a mother robin, one wing broken by a boy with a slingshot, who was helped to feed her helpless chick in its nest by climbing a ladder, and of the father robin, who rose to the emergency and spread his wings over the chick during a hail storm. He was given a round of applause and a vote of thanks.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Solon R. Towne. April 18, 1915. <title>Omaha Sunday World-Herald</title> 50(29): 9-E.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

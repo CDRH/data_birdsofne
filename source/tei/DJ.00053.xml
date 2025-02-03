@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00053">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">"In the Beginning, God -"</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-04-01</date><biblScope>58(27): 12-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>"In the Beginning, God -"</head>
+         
+         <p>Invisible forces are beginning to stir the seeds and buds, and "proud-pied April, dressed in all his trim, hath put a spirit of youth in everything."</p>
+         
+         <p>No one has doubted that spring would come. At Easter we expect to see life renew itself. Our confidence that vital forces will clothe the grass, the flowers and the trees with raiment appropriate to their kind is never shaken.</p>
+         
+         <p>Already we observe the effects of the primal spirit moving over the face of the earth. In this periodical outgushing of life the gateways of the mind, the avenues of thought and all the doors of sense are crowded with traffic.</p>
+         
+         <p>Who that views the festal procession of spring can penetrate the veil of the visible and explain the miracle by which the verdure is revived? Nor can anyone hasten the vernal blossoms; neither can he bind the spring or the winds it brings.</p>
+         
+         <p>Perhaps it is not for us to explain how God clothes the grass and transforms melancholy fields into places of joy and beauty. it is enough to hear the text that nature renders, to enjoy the warm smile of the sun and to breathe the balmy air. We may never know why the robins sing or what fills the heart of man with eternal hope.</p>
+         
+         <p>Just to live now and be caught in the outpouring of the great unseen something - life's invisible power - is a cup full, pressed down and running over.</p>
+         
+         <p>How could we fail to renew our youth if we were moving with the great unseen cause of life, of love and hope?</p>
+         
+         <p>"If God so clothe the grass of the field, which today is, and tomorrow is cast into the oven, shall he not much more clothe you, O ye of little faith?"</p>
+         
+         <p>This is a great season in that it brings us to the land of beginning again. Those persons who can tune in with the infinite may find all the real things made new again. But the recreation must come from within. Considering the lilies of the field we are led to believe that their glory is not in raiment that can be put on and off. It is the glory that is the lily.</p>
+         
+         <p>So the eternal and invisible forces that rejuvenate humanity work in us and through us. It is an unseen something that stirs us to put on the real clothing of Easter.</p>
+         
+         <p>And that something in the souls of men is faith, hope and love - just beams in the darkness. May they grow from more to more.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 1, 1923. <title>Omaha Sunday World-Herald</title> 58(27): 12-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

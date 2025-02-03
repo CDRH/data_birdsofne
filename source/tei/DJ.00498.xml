@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00498">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Live Birds for Ladies' Hats.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor.</author><date>1899-07-30</date><biblScope>34(303): 18. An editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-22-06">2006-22-06</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Live Birds for Ladies' Hats.</head>
+         
+         <p>Since the Audubon society and public sentiment have decreed that stuffed birds are not appropriate ornaments for civilized woman, Washington girls of the smart set have taken to live birds. Live birds are far more interesting, they say, and the plumage of some of the birds that were too large to go on hats is far more brilliant than that of the small ones.</p>
+         
+         <p>To properly carry out this fashion it is necessary to have a variety of birds of gay plumage which are well trained. The parrot is best adapted to the purpose and is most used. The extensive importation of young Cuban parrots has made it possible to get an excellent specimen for from $4 to $10. These emerald birds are generally the nucleus for whatever collection is made. They are tamer than other birds and are less inclined to struggle for freedom. For this reason it is better to start with a parrot rather than with a wilder bird. He seems perfectly satisfied to clutch the T shaped handle of the parasol, which serves as his perch, his yellow crest bobbing rhythmically up and down, as if he were trying to save himself a headache, while his mistress, with easy grace, carries the closed parasol with the handle up. If he be well trained he will need nothing to hold him.</p>
+         
+         <p>Of course the birds and the frock worn should have agreement in color. One of the women who was first to introduce the fad only appears with her parrot when dressed in black, with which is combined the brightest green—a green which exactly matches the green of the bird's plumage. For a costume in which red is the predominant color she has a splendid red bird, whose perch is a slender baton of wood about ten inches long. This slight rod is held about as is a closed fan. A delicate chain of silver aluminum around the ankle secures the bird. This is hardly necessary, however, as the bird has learned its duties perfectly. Four birds are now being trained for the same purpose.</p>
+         
+         <p>A prominent Washington dealer in birds said:</p>
+         
+         <p>"I have observed the fashion, although it is very recent. Going down Seventeenth street I saw a woman in a carriage with wo paroquets. I made up my mind then that while I did not think the idea is destined for much popularity, it is not well to be unmindful of such things. If there is any call for them I shall be ready to supply the demand."</p>
+         
+         <p>The same young man, who thoroughly up to date and alive to the new things gave his best girl a white rabbit some few weeks ago, recently presented her with a beautiful well trained parrot and a green parasol with an especially made handle. But the girls who know of the gift are puzzled to determine whether it is only a thoughtful, clever present, or a deep, Machiavellian scheme of his to discover what they say about him.</p>
+         
+         <p>With the latter possibility in mind, they teach the parrot to say, "Charlie is a bright boy" and other non-committal phrases. So when Charlie goes to interview Polly alone he will probably be disappointed in the result.</p>
+         
+         <p>The custom will encounter difficulties in some states if it gets beyond the parrot stage. There are stringent laws to many states which prohibit the keeping of certain birds of the forest captive. The parrot is safe from them, however, and we may expect to see fair maidens stalking about like Robinson Crusoe with his famous bird.</p>
+         
+         <p>"I think it's awfully silly," said one young woman, "to use a parasol just as a perch. The parasol part of it is no good at all to one. You have to keep it closed, with the handle part uppermost all the time. But I suppose that the effect intended is that while you were out walking a beautiful bird, attracted by your good looks, came out of the sky somewhere, and that you had to improvise a perch for it."</p>
+         
+         <p>This fancy is in no way akin to falconry, but we may soon hear of "hoods" and "eagles."</p>
+         
+         <cit>
+            
+            <bibl default="NO">World-Herald Editor. July 30, 1899. <title>Omaha Sunday World-Herald</title> 34(303): 18. An editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00761">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Scotch Harebells and American Bellflowers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-08-06</date><biblScope>57(42=45): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Scotch Harebells and American Bellflowers.</head>
+         
+         <p>The Bellflowers are blossoming here and among them the Harebell, or Blue Bells of Scotland, but, alas! this particular variety seeks a higher altitude than the eastern part of Nebraska affords but is found in War Bonnet canyon, and around the buttes in the western part. That section also has the Bedstraw Bellflower, that forms a mat on the ground covered with its blossoms. The Tall Bellflower only is to be found in the eastern part of the state, on the edges of steep bluffs or among the undergrowth in the woods. It makes up in height, perhaps, for the size of its blossom, which is a beautiful blue, and opens in numbers up the tall spike, each blossom imbedded in fringy awl-shaped leaflets. Probably the Harebell has been slowly traveling from Scotland for many years to reach us, so the botanists name it Campanula Petiolate, but the Tall Bellflower is Campanula Americana, so named because it seems to be native of the western continent. Campanula, diminutive for Campano, a bell, has some thirty or more brothers and sisters and about 250 cousins or more distant family branches, among them Lobelia Cardinalis, or Cardinal Flower, with its brilliant scarlet blossoms.</p>
+         
+         <p>As the blossoming period of the Bellflowers is from July to September it can be found for some time yet and being perennial it is well worth finding and cultivating by seed or root.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 6, 1922. <title>Omaha Sunday World-Herald</title> 57(42=45): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00642">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Outdoor Sport at Cutoff Lake—Gunners and Fishing Parties].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1901-04-14</date><biblScope>36(196): 18.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-20">2006-06-20</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream.</head>
+         
+         <p>The straggling woods out along the Elkhorn are astir today with more life than they were a week ago, and there is less chill in the south wind. The squirrels are busy and noisy and the robins are thronging everywhere, singing their sweet but homely songs of spring, while the sapsuckers pipe their tiny trumpets in full orchestra and the jays are more clamorous than ever, practicing, probably, the allurements of the mating season. The air is filled with a more subtle scent, which you can trace to no source, unless it be the swelling buds, the gurgling waters and steaming earth. Warmer shines the sun and warmer blows the wind from southern seas and southern lands. The tawny earth is tinging with green and the sky is full of fleecy flocks of clouds. And this is spring.</p>
+         
+         <p>A.J. Scott, the colored gentleman, whose eagle eye keeps watch and ward at the Merchants hotel during the nocturnal hours, together with that Rembrandt sportsman, yclept Jim Hieronymous, were out on Cut-off lake Tuesday and made the banner bag of mudhens for the spring of 1901. They brought in 41, and nicely "brilled." A.J. says they beat canvasback a block.</p>
+         
+         <p>There is more real outdoor sport out at Cut-Off lake to the square foot than is to be found about any similar body of water in the world, and even yet, a comparatively few of the citizens of Omaha know its sources of enjoyment. And yet there are hundreds of sportsmen and pleasure seekers who resort there, even at this early day in the spring, and a half day on its classic shores is a treat incomparable. I was out there Wednesday together with T.J. Foley and Tom Davis and we were pleasantly occupied from the moment we landed at Snowball's Lake club house until we left for the city again.</p>
+         
+         <p>There was something like a score of gunners out on the lake in boats chasing the great straggling flocks of mud hens that infest the waters from the wreck of the old pontoon bridge to its southern estuary way round below Tom Anderson's cosy hunter's and fisherman's inn on the east shore. During the hour we watched them we saw at least 100 of these queer birds tumbled from their peculiar, clumsy flight into the waters, Cockeye Ezekiel being the best shot on the lake. He brought in a nice bunch of the birds, one of which Billy Burnabee, the silver tongued warbler of the lake, to convince us that we could not distinguish a coot from a mallard, dressed and served for us, and while it was gotten up with the skill of a French chef it did not convince us and the songster was stuck for the Val Blatz.</p>
+         
+         <p>Aside from the shooters there were fishermen, frog catchers and pleasure seekers in flotillas of sail and row boats dotting the waters everywhere, and the scene was as lively, picturesque and interesting as one could well imagine. During our peregrinations up and down the willow-lined shores, we stopped for a short time at the cottage of Charlie Frager, hunter, fisherman and trapper, looked at his dogs—and he has got the best in the world, both bird dogs and ducking dogs—his ferrets, boats, decoys and general paraphernalia, and were much interested with what we saw. Frager is the best posted fisherman on the lake, a capital shot, good boatman and a general all round representative of Cut-Off lake's unique citizenship.</p>
+         
+         <p>Down at Anderson's we found a half dozen different fishing parties, for even as early as it is in the season, the croppie fishing is quite good, and even the bass are beginning to take the lure. Anderson has everything in the angling line that is to be desired, from a big reservoir of live minnows, to a pile of rods and poles and tackle of all kinds as high as a house. While we were at his place one lucky angler came in with nine fine croppies and three black bass, one weighing nearly three pounds. In a few more days, as soon as the warming sun and winds make a trifle more impression on the waters of the lake, the fishing will be great.</p>
+         
+         <p>With the dun sky, the lapping waters, the fields of greening reeds ad flags, the catkined willows, budding maples, springing grass, gurgling blackbirds, chirping robins, shifting mudhens, croaking and cackling batrachia, shooters and fishermen, busy carpenters, hammering and sawing away on the big ice houses, rambling pleasure hunters and a thousand and one other concomitants peculiar to the place, make Cut-Off lake a veritable microcosm in itself these lovely spring days. Go out and take a look for yourself you will be well repaid.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. April 14, 1901. [Outdoor Sport at Cutoff Lake—Gunners and Fishing Parties]. <title>Omaha Sunday World-Herald</title> 36(196): 18. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

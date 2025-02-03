@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00478">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">"Lady Slippers."</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-30</date><biblScope>55(36): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>"Lady Slippers." </head>
+         
+         <list type="simple">
+            
+            <item>"Rushes tilting their burnished spears,</item>
+            
+            <item>These are her courtly cavaliers.</item>
+            
+            <item>Heart of my heart, we forswear the rose;</item>
+            
+            <item>We have been where the lady slipper grows."</item>
+         
+         </list>
+         
+         <p>They were down in the very depths of one of those lovely ravines that the real lover of nature may find up Florence way; none so beautiful had they ever discovered before although they had spent many a day exploring them. The young girl leader of the trio suddenly gave a cry of delight and threw herself down among the ferns and moss and clasped a bunch of yellow blossoms.</p>
+         
+         <p>"Moccasin Flowers, lady slippers," she cried exultingly. "We have looked for them everywhere and this is the first I have ever found. Oh, aren't they beautiful! Look at the yellow and the brown mottlings; and such a graceful stem with its more graceful leaves. I cannot leave them all here. I must take one or two home to show to father and mother," and she carefully worked her hands down into the soft, spongy mould, the rich earth that unnumbered leaves had contributed to make, and lifted out two of them, carefully, with enough of their life-giving soil to keep them in its nest warm and growing.</p>
+         
+         <p>"I will leave one here to begin another family, I hope it will not miss its mates." And she wrapped their earth encircled roots in some of the soft waxed paper that had enclosed the lunch, wrapped more round the stems, lad them in the basket, and then, as the darkness was coming, the three reluctantly climbed out of the fragrant glen, and carried their precious burden to new homes where now, having been planted at the foot of some trees as nearly as possible like those of their native habitat, they are still waving their pendulous blossoms half hidden among the plants and ferns that have been making a bed for them for several years. They have not wilted and are still blossoming.</p>
+         
+         <p>Some of these dainty orchids are probably hiding in the deep moist glens all the way up and down the river, where the sun does not blight their tender flowers. But they are not very abundant, and only the real lover of the woodsy places, where ferns are so thick and so abundant this cool rainy season that one cannot tread without sorrowfully crushing them down, can find them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 30, 1920. <title>Omaha Sunday World-Herald</title> 55(36): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

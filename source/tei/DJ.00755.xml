@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00755">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Save the Wild Flowers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-04-11</date><biblScope>55(29): 12-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Save the Wild Flowers.</head>
+         
+         <p>There are buttons and buttons - many different kinds - they came early and will doubtless stay late. We wear them for a little of everything - candidates for office, conventions, church work, drives for money to aid unfortunates - advertising purposes of nearly all kinds, but there is a button not as yet worn in Omaha, but if worn would go a long ways toward making for happiness of many people.</p>
+         
+         <p>Reference is made to a button which might read, "Don't Pick," with a picture of a flower of some kind underneath the printed words. And thereby hangs a tale.</p>
+         
+         <p>Out in the public parks, along the roadsides, in the valleys and on the hillsides - over the prairies - each summer come flowers divine; flowers in their natural state - flowers that are more beautiful to the eye of many men, women and children than those grown in conservatories, private or public.</p>
+         
+         <p>And, sorry to state, these flowers are ruthlessly picked, day in and day out, by our people, for no other purpose than the pleasure they derive from gathering them.</p>
+         
+         <p>But there is another side to the story. Aside from those who pick flowers indiscriminately there is a considerable following - a majority following - who love best to see the flowers blossoming in their splendid glory, and who make many trips on foot and in the automobile just to see the wild flowers in bloom. Once gathered the beauty of the wild flower is gone, in most cases. Why not let them blossom, that they may be enjoyed by tens of thousands, instead of picking them for the pleasure of a very few.</p>
+         
+         <p>And now the button. "Don't Pick" would save millions of flowers in a year. Why not someone start the innovation? Now is the time - flower will soon be here.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 11, 1920. <title>Omaha Sunday World-Herald</title> 55(29): 12-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

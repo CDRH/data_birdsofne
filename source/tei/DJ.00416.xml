@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00416">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hunters, Attention!</title><title level="j">Merna Record</title><author>Fenner &amp; Co.</author><date>1890-10-16</date><biblScope>4(48): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hunters, Attention!</head>
+         
+         <p>We will buy your game if in good marketable condition, and pay the highest market price, or sell it on commission for you, and get you quick returns. All birds must be drawn immediately on being killed in warm weather, to prevent spoiling in transit. We quote prices today, per dozen: Prairie Chickens, $2.00 to $2.25; Quail, $1.00; Snipe, 50c; Ducks, mixed lots, $1.00 to $2.00.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Fenner &amp; Co. October 16, 1890. <title>Merna Record</title> 4(48): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

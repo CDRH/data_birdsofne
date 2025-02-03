@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00467">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Joys of the Hunt [Bird Hikes and Bobolink].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-07-09</date><biblScope>51(41): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Joys of the Hunt.</head>
+         
+         <p>More than occasionally it has been pointed out that the peaceful and conservative study of wild bird life contains more real joy than the most successful killing expedition that ever happened.</p>
+         
+         <p>The sportsmanlike hunting of certain game birds within season, as sanctioned by the government and approved by even the most ardent Audubons, cannot be found fault with, but the persons who seek the songsters and the other wild creatures of the air, know a still greater pleasure, they believe, in perfecting that acquaintanceship.</p>
+         
+         <p>They enjoy this friendly intercourse mostly because the feathered folks enjoy it also. No bird is afraid of a human except when the human plainly demonstrates hostility. The songsters are tender hearted and crave companionship even as humans.</p>
+         
+         <p>But the real joy of the hunt, as conducted by the ever increasing throng of bird lovers, lies in its uncertainty and the never ending series of surprises which come to light during such investigations. Those who make a weekly practice of tramping through the fields of woodland or parks will find in their notebooks at least one interesting discovery on each occasion. Nature is mighty bountiful to her admirers.</p>
+         
+         <p>Now then—for instance!</p>
+         
+         <p>The Audubon Society of Omaha has but one or two records of Bobolinks being seen near or in the city. The bobolinks—splendid black and white fellows of the open fields, with a touch of yellow in their collar and a most beauteous song delivered very often while on the wing, and ending with a mellow whistle. You of western and central part of Nebraska know these delightful creatures very well—but in Omaha they are as scarce as Cowbird nests.</p>
+         
+         <p>This season, and for the first time as far as bird history reports, Bobolinks are actually nesting and rearing their Bobolinklets along the very boundaries of the metropolis. This was discovered last Sunday—just a week ago and the game of bird hunting should increase in interest because of the discovery. The pretty fellows and their ladies have made their homes along Center street less than a mile west of Concordia Park. This information is deemed important enough to have been transmitted to the eastern authorities at New York and Washington.</p>
+         
+         <p>Because he eats rice in the south and other grains in the north, Mister Bobolink is not very popular with some farmers, who fail to realize that this songster also works havoc among the insects infesting the fields.</p>
+         
+         <p>You should really take a little hike today and see what new "stuff" you can find.</p>
+         
+         <p>Myriad mysteries of Birdland have never been solved.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 9, 1916. Joys of the Hunt [Bird Hikes and Bobolink]. <title>Omaha Sunday World-Herald</title> 51(41): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

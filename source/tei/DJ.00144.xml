@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00144">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Catalogue of Nebraska Birds Arranged According to the Check List of the American Ornithological Union.</title><title level="j"/><author>Taylor, W. Edgar.</author><date>1888-01-01</date><biblScope>Annual Report of the Nebraska State Board of Agriculture for 1887. Pg. 111-118.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>State Board of Agriculture</head>
+         
+         <head>A Catalogue of Nebraska Birds Arranged According to the Check List of the American Ornithological Union.</head>
+         
+         <head>W. Edgar Taylor, State Normal, Peru, Nebraska.</head>
+         
+         <p>The only published notes on the birds of Nebraska we have been able to find are Baird's notes in "Birds of North America," and "Locust Feeding Birds," by Dr. Samuel Aughey. The first was published when this country was a thinly settled territory, and the notes, which were made previous to 1857, make but little mention of the numbers, migrations, and general habits of the birds.</p>
+         
+         <p>The second publication, published in (1877) was not intended to give much more than the natural food of the avi fauna; some species being mentioned which the author states were no found in the state, while many known to have existed in the state were not named.</p>
+         
+         <p>Knowing the facts as stated, the writer has made a provisional list of the birds of the state, in the hopes of encouraging others to assist in a more provisional list of the birds of our native birds. In making this list he has not confined his notes to observations made by himself, which observations have been comparatively meager, but by using every reliable source of information, both published and unpublished, has aimed rather to make a temporary list arranged and revised according to check list of the American Ornithological Union, as corrected by Robert Ridgway in his Manual of North American Birds, published in 1887.</p>
+         
+         <p>In publishing this list we cheerfully acknowledge assistance received from the authorities already named; also to the Normal Science Society, for use of their records and collection as made by Messrs. C.J. Pierson, George Coleman, and others, and to many of the students of the State Normal living in different portions of the state. Dr. L.E. Hicks kindly allowed us the privilege of examining the collection of birds in the museum of the State University, but owing to circumstances over which we had no control, we have not examined this collection as carefully as we would like. However, we will say that a more careful study of this collection would show as inhabiting the state several species given as probable in our list.</p>
+         
+         <p>The writer has observed the following classification:</p>
+         
+         <list type="simple">
+            
+            <item>1. Constant residents species, some portion of which remain with us through the year.</item>
+            
+            <item>2. Summer residents, greater or less numbers of which spend the summer in the state and breed.</item>
+            
+            <item>3. Winter residents, species which spend at least part of the winter with us.</item>
+            
+            <item>4. Migratory, those birds which pass and repass through the state in spring and autumn.</item>
+            
+            <item>5. Other species are mentioned as Wandering, Occasional Visitants, or as Stragglers.</item>
+         
+         </list>
+         
+         <p>The species and varieties are numbered consecutively, the numbers in parentheses [or brackets] referring to the check list of the American Ornithological Union, 1868.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Podicipidae. Grebes.</hi>
+         
+         </head>
+         
+         <p>1 (3), Colymbus Auritus, Linn. Horned Grebe. Migratory; rare.</p>
+         
+         <p>2 (4), C. Nigriocollis californicus, Heerm. American Eared Grebe. Migratory; abundant. Arrive in May and September. May breed in Western Nebraska.</p>
+         
+         <p>3 (6), Podilymbus Podiceps, Linn. Pied-billed Grebe. Migratory; rare.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Urinatoridae. Loons.</hi>
+         
+         </head>
+         
+         <p>4 (7), Urinator Imber, Gunn. Loon. Migratory; common. Arrive the first of April and in September or October.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Laridae. Gulls and Terns.</hi>
+         
+         </head>
+         
+         <p>5 (36), Stercorarius Pomarinus, Temm. Pomarine Jaeger. Migratory; very rare. Aughey.</p>
+         
+         <p>6 (47), Larus Marinus, Linn. Great Black-backed Gull. One specimen shot in the Missouri in May, 1871. Aughey.</p>
+         
+         <p>7 (51), a, L. Argentatus Smithsonianus, Coues. American Herring Gull. Common during spring migration. Arrive about the first of May, and sometimes stay until first of July.</p>
+         
+         <p>8 (54), L. Delawarensis, Ord. Ring-billed Gull. Migratory; common. Arrive from May till July.</p>
+         
+         <p>9 (59), L. Franklinii, Sw. &amp; Rich. Franklin's Gull. Migratory; abundant. Arrival in April, May, September, and October.</p>
+         
+         <p>10 (69), Sterna Forsteri, Nutt. Forster's Tern. Migratory; rare. Arrive about the first of May.</p>
+         
+         <p>11 (70), S. Hirundo, Linn. Common Tern. Migratory; rare. Arrive about the first of May.</p>
+         
+         <p>12 (71), S. Paradisae, Brunn. Arctic Tern. Dr. Aughey mentions seeing a few of these Terns in Dixon County in May 1866.</p>
+         
+         <p>13 (74), S. Antillarum, Less. Least Tern. Migratory; abundant. Summer resident; not uncommon. Arrive about the first of May.</p>
+         
+         <p>14 (77), Hydrochelidon Nigra Surinamensis, Gmel. Black Tern. Migratory; common. Summer resident; rare. Arrive about the first of May and October.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Phalacrocoracidae. Cormorants.</hi>
+         
+         </head>
+         
+         <p>15 (120), Phalacrocorax Cilophus, Sw. &amp; Rich. Double-crested Cormorant, P. Perhaps passing through the state in April and November.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Pelecanidae. Pelicans.</hi>
+         
+         </head>
+         
+         <p>16 (125), Pelecanus Erythrorhynchos, Gmel. American White Pelican. Migratory; abundant. Arrive in April, May, and in October and November.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Anatidae. Ducks, Geese and Swan.</hi>
+         
+         </head>
+         
+         <p>17 (129), Merganser Americanus, Cass. American Merganser. Migratory; rare. Arrive about the last of April or first of May.</p>
+         
+         <p>18 (130), M. Serrator, Linn. Red-breasted Merganser. Winter resident; rare.</p>
+         
+         <p>19 (131), Lophodytes Cucullatus, Linn. Hooded Merganser. Winter resident; somewhat common, Resident; rare.</p>
+         
+         <p>20 (132), Anas Boschas, Linn. Mallard. Migratory; abundant. Resident; common.</p>
+         
+         <p>21 (133), A. Obscura, Gmel. Black Duck. Migratory; common. Arrive the last of March or first of April.</p>
+         
+         <p>22 (135), A. Strepera, Linn. Gadwall. Migratory; common. Probably breeds in Nebraska.</p>
+         
+         <p>23 (137), A. Americana, Gmel. Baldpate. Migratory; common. Arrive the last of March or first of April.</p>
+         
+         <p>24 (139), A. Carolinensis, Gmel. Green-winged Teal. Migratory; abundant. Arrive in April and September.</p>
+         
+         <p>25 (140), A. Discors, Linn. Blue-winged Teal. Migratory; abundant. Summer resident; rare. Arrive in May.</p>
+         
+         <p>26 (142), Spatula Clypeata, Linn. Shoveller. Migratory; sometimes common. Arrive about the first of April. A few may breed in the state.</p>
+         
+         <p>27 (143), Dafila Acuta, Linn. Pintail. Migratory; abundant. Arrive in March and the first of April.</p>
+         
+         <p>28 (144), Aix Sponsa, Linn. Wood Duck.Summer resident; common. Arrive the first of April and stay till October.</p>
+         
+         <p>29 (146), Aythya Americana, Eyt. Redhead. Migratory; common. Arrival in April, May, September, and October.</p>
+         
+         <p>30 (147), A. Vallisneria, Will. Canvas-back. Migratory; sometimes abundant.</p>
+         
+         <p>31 (148), A. Marilla Nearctica, Stejn. American Scaup Duck. Probably migratory; rare.</p>
+         
+         <p>32 (149), A. Affinis, Eyt. Lesser Scaup Duck. Migratory; common. Arrive in April.</p>
+         
+         <p>33 (150), A. Collaris, Donov. Ring-necked Duck, P. Probably migratory; and not uncommon.</p>
+         
+         <p>34 (151), Glacionetta Clangula Americana, Bonap. American Golden-eye. Migratory; common. Arrive in April and May.</p>
+         
+         <p>35 (153), Charitonetta Albeola, Linn. Buffle-head. Migratory; common.</p>
+         
+         <p>36 (167), Erismatura Rubida, Wills. Ruddy Duck. Migratory; common. Arrive in May and October.</p>
+         
+         <p>37 (--), Chen Caerulescens, Linn. Blue Goose. Migratory in fall; common. Winter resident; rare. Arrive October the 1st, and leave about the middle of December.</p>
+         
+         <p>38 (169), C. Hyperborea, Pall. Lesser Snow Goose. Migratory; abundant. Arrive in April and in October.</p>
+         
+         <p>39 (171a), Anser Albifrons, Hartl. American White-fronted Goose. Migratory; common. Arrive about the first of March.</p>
+         
+         <p>40 (172), Branta Canadensis, Linn. Canada Goose. Migratory; somewhat common. Summer residents; rare. Arrive in May and October.</p>
+         
+         <p>41 (172a), B. Canadensis Hutchinsii, Sw. &amp; Rich. Hutchin's Goose. Migratory; abundant. Arrives in April.</p>
+         
+         <p>42 (180), Olor Columbianus, Ord. Whistling Swan. Probably migratory; rare. See A.O.U. check list.</p>
+         
+         <p>43 (181), O. Buccinnator, Rich. Trumpeter Swan. Migratory; rare. Arrives in April and October.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Ardeidae. Herons, Bitterns, etc.</hi>
+         
+         </head>
+         
+         <p>44 (190), Botaurus Lentiginosus, Montag. American Bittern. Summer resident; common. Arrives in April and leaves in October.</p>
+         
+         <p>45 (194), Ardea Herodias Linn. Great Blue Heron. Migratory; sometimes common. More abundant in the fall than spring.</p>
+         
+         <p>46 (196), A. Egretta Gmel. American Egret. I saw a single specimen of this bird on the Nemaha Richardson county in May, 1873, Aughey.</p>
+         
+         <p>47 (197), A. Candidissina Gmel. Snowy Heron. I met with it only twice; in Otoe and Richardson counties, Aughey.</p>
+         
+         <p>A. Coerulea, Linn. Little Blue Heron, P. Probably not an uncommon summer resident.</p>
+         
+         <p>48 (201), A. Virescens Linn. Green Heron. Probably not an uncommon summer resident.</p>
+         
+         <p>49 (203), Nycticorax Violaceus, Linn. Yellow-crowned Night Heron, P. Probably a rare summer resident.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Gruidae. Cranes.</hi>
+         
+         </head>
+         
+         <p>50 (204), Grus Americana, Linn. Whooping Crane. Migratory; somewhat common.</p>
+         
+         <p>51 (205), G. Mexicana, Mull. Sandhill Crane. Migratory; abundant. Arrive in March and in the fall.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Rallidae. Rails, Gallinules and Coots.</hi>
+         
+         </head>
+         
+         <p>52 (208), Rallus Elegans, Aud. King Rail. Aughey mentions seeing this bird in southern Nebraska. His record dates from may till October. Probably breeds in the state.</p>
+         
+         <p>53 (212), R. Virginianus Linn. Virginia Rail. Migratory; abundant. May breed in the state.</p>
+         
+         <p>54 (214), Porzana Carolina, Linn. Sora. Have seen this bird but once, September, 1869, Aughey.</p>
+         
+         <p>55 (216), P. Jamaicensis, Gmel. Black Rail. Summer resident; rare.</p>
+         
+         <p>56 (219), Gallinula Galeata, Licht. Florida Gallinule. One was sent to me from Beatrice in September, 1872, Aughey.</p>
+         
+         <p>57 (221), Fulica Americana Gmel. American Coot. Migratory; abundant. Found in the state from the first of May till the last of September.</p>
+         
+         <p>58 (224), Phalaropus Tricolor, Vieill. Wilson's Phalarope. Migratory; common. Found in the state from last of April till September.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Recurvirostridae. Avocets and Stilts.</hi>
+         
+         </head>
+         
+         <p>59 (225), Recurvirostra Americana, Gmel. American Avocet. Migratory; abundant. Summer resident; rare.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Scolopacidae. Snipes, Sandpipers, etc.</hi>
+         
+         </head>
+         
+         <p>60 (228), Philohela Minor, Gmel. American Woodcock. Migratory; somewhat common. Summer resident; rare.</p>
+         
+         <p>61 (230), Gallinago Delicata, Ord. Wilson's Snipe. Migratory; abundant. Arrives in April, September, and October.</p>
+         
+         <p>62 (231), Macrorhamphus Griseus, Gmel. Dowitcher. Migratory; abundant. Arrives in May, September and October.</p>
+         
+         <p>63 (232), M. Scolopaceous, Say. Long-billed Dowitcher. Migratory; somewhat rare. Has been found in April.</p>
+         
+         <p>64 (234), Tringa Canutus, Linn. Knot. Migratory; rare. Has been seen in October.</p>
+         
+         <p>65 (239), T. Maculata, Vieill. Pectoral Sandpiper. Migratory; rare. The records of the Normal Science Society show its arrival as early as April 12th.</p>
+         
+         <p>66 (240), T. Fuscicollis, Vieill. White-rumped Sandpiper. Migratory; rare.</p>
+         
+         <p>67 (241), T. Bairdii, Coues. Baird's Sandpiper. Migratory; common. Arrive in May and October.</p>
+         
+         <p>68 (242), T. Binutilla, Vieill. Least Sandpiper. Migratory; abundant. Arrive in April, September, and October.</p>
+         
+         <p>69 (246), Ereunetes Pusillus, Linn. Semipalmated Sandpiper. Migratory; abundant. Arrive about the first of May.</p>
+         
+         <p>70 (249), Limosa Fedoa, Linn. Marbled Godwit. Migratory; abundant. Summer resident; common. Arrives in May and September.</p>
+         
+         <p>71 (251), L. Haemastica, Linn. Hudsonian Godwit, P. Probably occasionally found in May.</p>
+         
+         <p>72 (254), Totanus Melanoleucus, Gmel. Greater Yellow-legs. Migratory; common. Arrives in April, May, September, and October.</p>
+         
+         <p>73 (255), T. Flavipes, Gmel. Yellow-legs. Migratory; abundant. Arrives in April, September, and October.</p>
+         
+         <p>74 (256), T. Solitarius, Wils. Solitary Sandpiper. Migratory; abundant. Arrives in April.</p>
+         
+         <p>75 (258), Symphemia Semipalmata, Gmel. Willet, P. Probably not uncommon in Nebraska.</p>
+         
+         <p>76 (261), Bartramia Longicauda, Bechst. Bartramian Sandpiper. Migratory; abundant. Summer resident; common. Arrives in May and September.</p>
+         
+         <p>77 (262), Tryngites Subruficollis, Vieill. Buff-breasted Sandpiper. Migratory; rare. Arrives in May and September.</p>
+         
+         <p>78 (263), Actitis Macularia, Linn. Spotted Sandpiper. Migratory; common. Summer resident; probably rare. Arrives in May and September.</p>
+         
+         <p>79 (264), Numenius Longirostris, Wils. Long-billed Curlew. Migratory; common. Summer resident; rare. Arrives in April and September.</p>
+         
+         <p>80 (265), N. Hudsonicus, Lath. Hudsonian Curlew. Have seen it but twice and obtained no specimens, Aughey.</p>
+         
+         <p>81 (266), N. Borealis, Forst. Eskimo Curlew. Migratory; abundant. Arrive in April, May, and October.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Charadriidae. Plovers.</hi>
+         
+         </head>
+         
+         <p>82 (270), Charadrius Squatarola, Linn. Black-bellied Plover. Migratory; rare.</p>
+         
+         <p>83 (272), C. Dominicus, Mull. American Golden Plover. Migratory; abundant. Arrives in April, May, September, and October.</p>
+         
+         <p>84 (273), Aegialitis Vocifera, Linn. Killdeer. Summer resident; abundant. Arrives in March and leaves in September.</p>
+         
+         <p>85 (274), A. Semipalmata, Bonap. Semipalmated Plover. Migratory; common. Arrive in May and September.</p>
+         
+         <p>86 (277), A. Melodia Circumcincta, Ridgw. Belted Piping Plover. Migratory; common. Summer resident; occasional. Arrives in May and September.</p>
+         
+         <p>87 (281), A. Montana, Towns. Mountain Plover. Migratory; abundant in Western Nebraska. Summer resident, common. Arrives in May and September.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Tetraonidae. Grouse, Partridges, etc.</hi>
+         
+         </head>
+         
+         <p>88 (289), Colinus Virginianus, Linn. Bob-white. Resident; common.</p>
+         
+         <p>89 (297b), Dendragapus Obscurus Richardsonii, Say. Richardson's Grouse. Baird mentions ten specimens collected in western Nebraska in the month of August.</p>
+         
+         <p>90 (300), Bonasa Umbellus, Linn. Ruffed Grouse. Aughey mentions one specimen as seen in south east Nebraska. Probably may be found in the western part of the state.</p>
+         
+         <p>91 (305), Tympanuchus Americanus, Reich. Prairie Hen. Resident; abundant in the western part of the state, but somewhat rare in Eastern Nebraska.</p>
+         
+         <p>92 (308), Pedioecetes Phasianellus Campestris, Ridgw. Prairie Sharp-tailed Grouse. Resident, formerly abundant; becoming rare.</p>
+         
+         <p>93 (309), Centrocercus Urophasianus, Bonap. Sage Grouse. An occasional resident in Western Nebraska. </p>
+         
+         <p>94 (310), Meleagris Gallopavo, Linn. Wild Turkey. Formerly an abundant resident, but rapidly disappearing.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Columbidae. Pigeons.</hi>
+         
+         </head>
+         
+         <p>95 (315), Ectopistes Migratorius, Linn. Passenger Pigeon. Summer resident; irregular. Arrives in May and leaves in September.</p>
+         
+         <p>96 (316), Zenaidura Macroura, Linn. Mourning Dove. Summer resident; abundant. Arrives in April and leaves in September.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Cathartidae. American Vultures.</hi>
+         
+         </head>
+         
+         <p>97 (325), Cathartes Aura, Linn. Turkey Vulture. Summer resident; common. Arrive in April and leave in September.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Falconidae. Vultures, Falcons, Hawks, Eagles, etc.</hi>
+         
+         </head>
+         
+         <p>98 (327), Elanoides Forficatus, Linn. Swallow-tailed Kite. Summer resident; common. Arrive in May and leave in September.</p>
+         
+         <p>99 (331), Circus Hudsonius, Linn. Marsh Hawk. Summer resident; common. May remain in the state during the winter.</p>
+         
+         <p>100 (332), Accipiter Velox, Wils. Sharp-shinned Hawk. Migratory; common. May breed in northern Nebraska.</p>
+         
+         <p>101 (333), Accipiter Cooperi, Bonap. Cooper's Hawk. Resident; common.</p>
+         
+         <p>102 (334), Accipiter Atricapillus, Wils. American Goshawk. Aughey mentions dissecting a specimen in August, 1867.</p>
+         
+         <p>103 (337), Buteo Borealis, Gmel. Red-tailed Hawk. Found in the summer and fall, and may remain all winter.</p>
+         
+         <p>104 (337b), Buteo Borealis Calurus, Cass. Western Red-tail. Baird mentions two specimens taken in August, 1857.</p>
+         
+         <p>105 (338). B. Harlani, Aud. Harlan's Hawk. The records of the Normal Science Society show two specimens killed in April.</p>
+         
+         <p>106 (339), B. Lineatus, Gmel. Red-shouldered Hawk. Probably a common resident.</p>
+         
+         <p>107 (342), B. Swainsoni, Bonap. Swainson's Hawk. A common summer resident and may remain in the state during the winter.</p>
+         
+         <p>108 (343), Buteo Latissimus, Wils. Broad-winged Hawk. Rather common during the fall along the bluffs of the Missouri.</p>
+         
+         <p>109 (347a), Archibuteo Lagopus Sancti-Johannis, Gmel. American Rough-legged hawk. The only specimen that I have examined was sent to me from Beatrice in September, 1876. Aughey.</p>
+         
+         <p>110 (348), A. Ferrugineus, Licht. Ferruginous Rough-leg. Resident; rare.</p>
+         
+         <p>111 (349), Aquila Chrysaetos, Linn. Golden Eagle. Resident; rare.</p>
+         
+         <p>112 (352), Haliaeetus Leucocephalus, Linn. Bald Eagle. Resident; somewhat common.</p>
+         
+         <p>113 (355), Falco Mexicanus, Schleg. Prairie Falco. Has been seen in the state in the summer and fall.</p>
+         
+         <p>114 (356), Falco Peregrinus Anatum, Bonap. Duck Hawk. Not uncommon in the spring and fall.</p>
+         
+         <p>115 (357), Falco Columbarius, Linn. Pigeon Hawk. Abundant during spring and fall.</p>
+         
+         <p>116 (358), F. Richardsonii, Ridgw. Richardson's Merlin. Resident; common.</p>
+         
+         <p>117 (360), F. Sparverius, Linn. American Sparrow Hawk. Abundant during spring, summer, and fall, and probably during the winter.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Strigidae. Barn Owls.</hi>
+         
+         </head>
+         
+         <p>118 (365). Strix Pratincola, Bonap. American Barn Owl. An occasional summer resident.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Bubonidae. Horned Owls, etc.</hi>
+         
+         </head>
+         
+         <p>119 (366), Asio Wilsonianus, Less. American Long-eared Owl. Occasionally found in summer and fall.</p>
+         
+         <p>120 (367), A. Accipitrinus, Pall. Short-eared Owl. Resident; rare.</p>
+         
+         <p>121 (368), Syrnium Nebulosum, Forst. Barred Owl. Rarely seen in the state, but may be a constant resident.</p>
+         
+         <p>122 (373), Megascops Asio, Linn. Screech Owl. Resident; abundant.</p>
+         
+         <p>123 (375), Bubo Virginianus, Gmel. Great Horned Owl. Not uncommon during the spring, summer and fall, and probably remains during the winter.</p>
+         
+         <p>124 (376), Nyctea Nyctea, Linn. Snowy Owl. A common winter visitant.</p>
+         
+         <p>125 (378), Speotyto Cunicularia Hypogaea, Bonap. Burrowing Owl. Abundant during spring, summer, and fall, and probably remains during the winter.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Psittacidae.</hi>
+         
+         </head>
+         
+         <p>126 (382), Conurus Carolinensis, Linn. Carolina Paroquet. Formerly abundant, even in eastern Nebraska. Now rare, if found in the state.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Cuculidae. Cuckoos, Anis, etc.</hi>
+         
+         </head>
+         
+         <p>127 (387), Coccyzus Americanus, Linn. Yellow-billed Cuckoo. Summer resident; arrives in May and leaves in September.</p>
+         
+         <p>128 (388), C. Rrythrophthalmus, Wils. Black-billed Cuckoo. Summer resident, somewhat rare. Arrives in May and leaves in September.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Alcedinidae. Kingfishers.</hi>
+         
+         </head>
+         
+         <p>129 (390), Ceryle Alcyon, Linn. Belted Kingfisher. A very common summer resident.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Picidae. Woodpeckers.</hi>
+         
+         </head>
+         
+         <p>130 (393), Dryobates Villosus, Linn. Hairy Woodpecker. Resident, common.</p>
+         
+         <p>131 (393c), D. Villosus Harrisii, Aud. Harris' Woodpecker. Given by Baird as taken in Nebraska.</p>
+         
+         <p>132 (394), D. Pubescens, Linn. Downy Woodpecker. Common during spring, summer, and fall; probably a constant resident.</p>
+         
+         <p>133 (402), Sphyrapicus Varius, Linn. Yellow-bellied Sapsucker. Common during spring, summer, and fall.</p>
+         
+         <p>134 (406), Melanerpes Erythrocephalus, Linn. Red-headed Woodpecker. Common during spring, summer and fall.</p>
+         
+         <p>135 (408), M. Torquatus, Wills. Lewis' Woodpecker. Given by Baird as taken in August and March.</p>
+         
+         <p>136 (409), M. Carolinus, Linn. Red-bellied Woodpecker. Resident; not uncommon.</p>
+         
+         <p>137 (412), Colaptes Auratus, Linn. Flicker. Abundant during spring, summer, and fall, and probably a constant resident.</p>
+         
+         <p>138 (413), C. Cafer, Gmel. Red-shafted Flicker. Found in the summer and late fall.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Caprimulgidae. Goat-suckers, etc.</hi>
+         
+         </head>
+         
+         <p>139 (417), Autrostomus Vociferus, Wils. Whip-poor-will. Summer resident; not uncommon.</p>
+         
+         <p>140 (418), Phalaenoptilus Nuttalli, Aud. Poor-will. Summer resident; common.</p>
+         
+         <p>141 (420), Chordeiles Virginianus, Gmel. Nighthawk. Summer resident; common. Arrives in May and in September.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Micropodidae. Swifts.</hi>
+         
+         </head>
+         
+         <p>142 (423), Chaetura Pelagica, Linn. Chimney Swift. Summer resident; common. Arrive in May.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Trochilidae. Hummingbirds.</hi>
+         
+         </head>
+         
+         <p>143 (428), Trochilus Colubris, Linn. Ruby-throated Humming-bird. Summer resident; common.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Tyrannidae. Tyrant Flycatchers.</hi>
+         
+         </head>
+         
+         <p>144 (444), Tyrannus Tyrannus, Linn. Kingbird. Summer resident; abundant. Arrive in April and May; leave in September.</p>
+         
+         <p>145 (447), T. Verticalis Say. Arkansas Kingbird. Summer resident, common. Arrives in May.</p>
+         
+         <p>146 (452), Myrarchus Crinitus, Linn. Crested Flycatcher. Summer resident; common.</p>
+         
+         <p>147 (456), Sayornis Phoebe, Lath. Phoebe. Summer resident, common.</p>
+         
+         <p>148 (457), S. Saya, Bonap. Say's Phoebe. Abundant in western Nebraska, where it breeds.</p>
+         
+         <p>149 (459), Contopus Borealis, Swains. Olive-sided Flycatcher. Summer resident; rare.</p>
+         
+         <p>150 (461), C. Virens, Linn. Wood Pewee. Summer Resident; common.</p>
+         
+         <p>151 (462), C. Richardsonii Swains. Western Wood Pewee. Given by Bayard and Aughey as a summer resident in the western part of the state.</p>
+         
+         <p>152 (463), Empidonax Flaviventris, Baird. Yellow-bellied Flycatcher. Given by Aughey as breeding in eastern Nebraska.</p>
+         
+         <p>153 (467a), E. Pusillus Trailli, Aud. Traill's Flycatcher. Migratory; rare. Has been seen in the western part of the state in August.</p>
+         
+         <p>154 (467), E. Minimus, Baird. Least Flycatcher. Migratory; common. Summer resident; occasional. Arrive in May.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Alaudidae. Larks.</hi>
+         
+         </head>
+         
+         <p>155 (474), Otocoris Alpestries, Linn. Horned Lark, P. A winter resident in Kansas and Dakota, and probably Nebraska.</p>
+         
+         <p>156 (474b), O. Alpestris Practicola, Hensh. Prairie Horned Lark. Common; probably a resident.</p>
+         
+         <p>157 (474c), O. Alpestris Arenicola, Hensh. Desert Horned Lark. Resident; common.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Corvidae. Crows, Jays, Magpies, etc.</hi>
+         
+         </head>
+         
+         <p>158 [475], Pica Hudsonica, Sab. American Magpie. Fall and winter visitant; somewhat rare. Summer resident upon authority of Dr. L.E. Hicks.</p>
+         
+         <p>159 [477], Cyanocitta Cristata, Linn. Blue Jay. Resident; abundant.</p>
+         
+         <p>160 [486], Corvus Corax Sinuatus, Wagl. American Raven. Resident; formerly abundant but at present rare.</p>
+         
+         <p>161 [487], C. Cryptoleucus Couch. White-necked Raven. Only saw this bird once in Nebraska, Aughey.</p>
+         
+         <p>162 [488], C. Americanus, Aud. American Crow. Extremely abundant in all eastern Nebraska; resident.</p>
+         
+         <p>163 [491], Picicorvus Columbianus, Wils. Clarke's Nutcracker. Only found in the western part of the state, Aughey.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Icteridae. Blackbirds, Orioles, etc.</hi>
+         
+         </head>
+         
+         <p>164 [494], Dolichonyx Oryzivorus, Linn. Bobolink. Summer resident; abundant. Arrives in May.</p>
+         
+         <p>165 [495], Molothrus Ater, Bodd. Cowbird. Summer resident; common. Arrive in May, and leave in October.</p>
+         
+         <p>166 [497], Xanthocephalus Xanthocephalus, Bonap. Yellow-headed Blackbird. Summer resident; common. Migratory; abundant. Arrive the last of April and leave in September.</p>
+         
+         <p>167 [498], Agelaius Phoeniceus, Linn. Red-winged Blackbird. Summer resident; common; probably most common during migrations.</p>
+         
+         <p>168 [501], Sturnella Magna, Linn. Meadowlark. Resident; common.</p>
+         
+         <p>169 [501b], S. Magna Neglecta, Aud. Western Meadowlark. Resident; abundant.</p>
+         
+         <p>170 [506], Icterus Spurius, Linn. Orchard Oriole. Summer resident; abundant. The records of the Normal Science Society show its arrival, April 30th.</p>
+         
+         <p>171 [507], I. Galbula, Linn. Baltimore Oriole. Summer resident; abundant. Arrive in April and May.</p>
+         
+         <p>172 [508], I. Bullocki, Swains. Bullock's Oriole. Summer resident; common. Found mostly in the western part of the state.</p>
+         
+         <p>173 [509], Scolecophagus Carolinus, Mull. Rusty Blackbird. Found in early spring and in September and October. Probably remains in the state during the winter.</p>
+         
+         <p>174 [510], S. Cyanocephalus, Wagl. Brewer's Blackbird. Migratory, common. Summer resident; not uncommon. Arrives in April and leaves in September.</p>
+         
+         <p>175 [511b], Quiscalus Quiscula Aeneus, Ridgw. Bronzed Grackle. Summer resident; common. Probably remains in the state during the winter.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Fringillidae. Finches, Sparrows, etc.</hi>
+         
+         </head>
+         
+         <p>176 [514], Coccothraustes Vespertina, Coop. Evening Grosbeak. Migratory; rare. Aughey says: "I have met with it a few times in winter."</p>
+         
+         <p>177 [515], Pinicola Enucleator Canadensis, Cab. Pine Grosbeak. Winter resident; rare. has been found as early as November and late as February.</p>
+         
+         <p>178 [517], Carpodacus Purpureus, Gmel. Purple Finch. Has been found in the state in May and October.</p>
+         
+         <p>179 [521], Loxia Curvirostra Minor, Brehm. American Crossbill. Entered upon authority of Baird.</p>
+         
+         <p>180 [522], L. Leucoptera, Gmel. White-winged Crossbill. Entered upon authority of Baird.</p>
+         
+         <p>181 [524], Leucosticte Tephrocotis, Swains. Gray-crowned Leucosticte. This bird is frequently seen in Nebraska, but rarely in summer, Aughey.</p>
+         
+         <p>182 [528], Acanthis Linaria, Linn. Redpoll. Winter resident; rare. Has been seen as early as November and late as February.</p>
+         
+         <p>183 [529], Spinus Tristis, Linn. American Goldfinch. Summer resident; common. Has been seen as early as May and as late as September. May occasionally spend the winter.</p>
+         
+         <p>184 [533], S. Pinus, Wils. Pine Siskin. In December, 1887, two specimens were collected by members of the zoology class. Has been found in the state as early as September.</p>
+         
+         <p>185 [434], Plectrophenax Nivalis, Linn. Snowflake. Winter resident; common. has been seen in November and February.</p>
+         
+         <p>186 [536], Calcarius Lapponicus, Linn. Lapland Longspur. Mentioned by Dr. Aughey as common in November. Probably found also in March and April.</p>
+         
+         <p>187 [537], C. Pictus, Swains. Smith's Longspur, P. Probably migratory; passing through this state in April and October.</p>
+         
+         <p>188 [538], C. Ornatus, Towns. Chestnut-collared Longspur. Summer resident; common. Arrives in May.</p>
+         
+         <p>189 [539], Rhynchophanes McCownii, Lawr. McCown's Longspur. Summer resident; rare. Has been seen in the state as late as September.</p>
+         
+         <p>190 [540], Poccaetes Gramineus, Gmel. Vesper Sparrow. Summer resident; common. Probably arrives in April and has been seen as late as September.</p>
+         
+         <p>191 [542a], Ammodramus Sandwichensis Savanna, Wils. Savanna Sparrow. Migratory; common. Arrives in April, May and September.</p>
+         
+         <p>192 [545], A. Bairdii, Aud. Baird's Sparrow. One specimen mentioned by Baird as collected at Ft. Union, Nebraska.</p>
+         
+         <p>193 [546], A. Savannarum Passerinus, Wils. Grasshopper Sparrow. Summer resident; abundant.</p>
+         
+         <p>194 [547], A. Henslowii, Aud. Henslow's Sparrow. Summer resident; rare. Has been found in the state as late as September.</p>
+         
+         <p>195 [662], Chondestes Grammacus, Say. Lark Sparrow. Summer resident; abundant. Arrives in May and is found as late as September.</p>
+         
+         <p>196 [553], Zonotrichia Querula, Nutt. Harris' Sparrow. Common. Have frequently seen the young in the north-eastern part of the state, Aughey.</p>
+         
+         <p>197 [554], Z. Leucophrys, Forst. White-crowned Sparrow. Migratory; common. Summer resident; rare. Arrives in May and September.</p>
+         
+         <p>198 [556], Z. Gambeli, Nutt. Gambel's Sparrow. baird mentions two specimens taken in 1856, but the A.O.U. check list confines this species to the Pacific coast regions.</p>
+         
+         <p>199 [558], Z. Albicollis, Gmel. White-throated Sparrow. Migratory; abundant. Arrives in May, September, and October.</p>
+         
+         <p>200 [559], Spizella Monticola, Gmel. Tree Sparrow. Winter resident; abundant. Aughey says: "A few breed here."</p>
+         
+         <p>201 [559a], S. Monticola Ochracea, Brewst. Western Tree Sparrow. Possibly may be found in Nebraska. Mentioned in A.O.U. check list as "east to Dakota and Western Kansas."</p>
+         
+         <p>202 [560], S. Socialis, Wils. Chipping Sparrow. Abundant during spring and fall, and probably breeds in the state.</p>
+         
+         <p>203 [561], S. Pallida, Swains. Clay-colored Sparrow. Migratory; common. Summer resident; occasional. Arrives in May and October.</p>
+         
+         <p>204 [563], S. Pusilla, Wils. Field Sparrow. Summer resident; common. Arrives as early as the last of April and has been found as late as September.</p>
+         
+         <p>205 [567], Junco Hyemalis, Linn. Slate-colored Junco. Winter resident; abundant. Arrives as early as September, and leaves in April. Aughey says; "A few are found here the whole year."</p>
+         
+         <p>2-6 [567a], J. Hyemalis Oregonus, Towns. Oregon Junco. Baird mentions two specimens taken in October. Probably a rare winter resident in the western part of the state.</p>
+         
+         <p>207 [581], Melospiza Fasciata, Gmel. Song Sparrow. Summer resident; common. Arrives in April and May, and found as late as September. Probably a winter resident in some parts of the state.</p>
+         
+         <p>208 [583], M. Lincolni, Aud. Lincoln's Sparrow. Migratory; abundant. Arrives in April, May, September, and October.</p>
+         
+         <p>209 [584], M. Georgiana, Lath. Swamp Sparrow, One specimen mentioned by Baird.</p>
+         
+         <p>210 [585], Passerella Iliaca, Merr. Fox Sparrow. One specimen mentioned in the records of the Normal Science Society.</p>
+         
+         <p>211 [587], Pipilo Erythrophthalmus, Linn. Towhee. Migratory; abundant. Summer resident; somewhat rare. Arrives in march and April; may occasionally spend the winter in the state.</p>
+         
+         <p>212 [588], P. Maculatus Arcticus, Swains. Arctic Towhee. Baird mentions eighteen specimens collected in western Nebraska; ten in May, four in summer, and three the last of September.</p>
+         
+         <p>213 [590], P. Chlorurus, Towns. Green-tailed Towhee. Baird mentions several taken in August in extreme western Nebraska.</p>
+         
+         <p>214 [503], Cardinalis Cardinalis, Linn. Cardinal. Resident; common.</p>
+         
+         <p>215 [595], Habia Ludoviciana, Linn. Rose-breasted Grosbeak. Summer resident; common. Arrives in April and May.</p>
+         
+         <p>216 [596], H. Melanocephala, Swains. Black-headed Grosbeak. Summer resident; rare. Arrives in May and has been found as late as September.</p>
+         
+         <p>217 [597], Guiraca Caerulea, Linn. Blue Grosbeak. Summer resident; rare. Has been seen as late as September.</p>
+         
+         <p>218 [598], Passerina Cyanca, Linn. Indigo Bunting. Summer resident; common. Arrives in May.</p>
+         
+         <p>219 [599], P. Amoena, Say. Lazuli Bunting. Summer resident; rare.</p>
+         
+         <p>220 [604], Spiza Americana, Gmel. Dickcissel. Summer resident; abundant. Found as late as September.</p>
+         
+         <p>221 [605], Calamospiza Melanocorys, Stejn. Lark Bunting. Summer resident; common. Probably arrives in May.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Tanagridae. Tanagers.</hi>
+         
+         </head>
+         
+         <p>222 [607], Piranga Ludoviciana, Wils. Louisiana Tanager. Baird mentions five specimens collected in western Nebraska in August and September.</p>
+         
+         <p>223 [608], P. Erpthromeias, Vieill. Scarlet Tanager. Summer resident; somewhat rare. Arrives in May.</p>
+         
+         <p>224 [610], P. Rubra, Linn. Summer Tanager. Summer resident; rare. Arrives in May.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Hirundinidae. Swallows.</hi>
+         
+         </head>
+         
+         <p>225 [611], Progne Subis Linn. Purple Martin. Summer resident; common. Arrives in May.</p>
+         
+         <p>226 [612], Petrochelidon Lunifrous, Say. Cliff Swallow. Summer resident. Arrive in May.</p>
+         
+         <p>227 [613], Chelidon Erythrogaster, Bodd. Barn Swallow. Summer resident; common. Arrives in May.</p>
+         
+         <p>228 [614], Tachycineta Bicolor, Vieill. Tree Swallow. Summer resident; rare. Arrives in April.</p>
+         
+         <p>229 [615], T. Thalassina, Swains. Violet-green Swallow. Mentioned by both Baird and Aughey as taken in the summer season in western Nebraska.</p>
+         
+         <p>230 [616], Clivicola Riparia, Linn. Bank Swallow. Summer resident; common.</p>
+         
+         <p>231 [617], Stelgidopteryx Serripennis, Aud. Rough-winged Swallow. Summer resident; common.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Ampelidae. Waxwings.</hi>
+         
+         </head>
+         
+         <p>232 [618], Ampelis Garrulus, Linn. Bohemian Waxwing. Winter resident. have seen it but twice in the state, Aughey.</p>
+         
+         <p>233 [619], A. Cedorum, Vieill. Cedar Waxwing. An irregular resident; generally common.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Laniidae. Shrikes.</hi>
+         
+         </head>
+         
+         <p>234 [621], Lanius Borealis, Vieill. Northern Shrike. Winter resident; common. Arrives in September and probably leave in March.</p>
+         
+         <p>235 [622a], L. Ludovicianus Excubitorides, Swains. White-rumped Shrike. Summer resident; abundant. Arrive in April and found as late as September.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Vireonidae. Vireos.</hi>
+         
+         </head>
+         
+         <p>236 [624], Vireo Olivaceus, Linn. Red-eyed Vireo. Summer resident; abundant. Probably arrives in May.</p>
+         
+         <p>237 [627], V. Glivus, Vieill. Warbling Vireo. Summer resident; common. Arrives in May.</p>
+         
+         <p>238 [628], V. Flavifrons, Vieill. Yellow-throated Vireo. Summer resident. Aughey says "somewhat abundant in south-east Nebraska, but rare north of the Platte."</p>
+         
+         <p>239 [629], V. Solitarius, Wils. Blue-headed Vireo. Summer resident; rare. Arrives in May.</p>
+         
+         <p>240 [631], V. Noveboracensis, Gmel. White-eyed Vireo. Occasionally met with in Nebraska, Aughey. Probably a summer resident.</p>
+         
+         <p>241 [633], V. Bellii, Aud. Bell's Vireo. Summer resident; rare.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Mniotillidae. Wood-Warblers.</hi>
+         
+         </head>
+         
+         <p>242 [636], Mniotilta Varia, Linn. Black and White Warbler. Summer resident; common. Arrives in April and May.</p>
+         
+         <p>243 [637], Protonotaria Citrea, Bodd. Prothonotary Warbler. Summer resident; somewhat rare.</p>
+         
+         <p>244 [639], Helmitherus Vermivorus, Gmel. Worm-eating Warbler. Aughey mentions seeing this bird a few times in south-east Nebraska.</p>
+         
+         <p>245 [641], Helminthophila Pinus, Linn. Blue-winged Warbler. Mentioned by Dr. Aughey as seen a few times in south-east Nebraska.</p>
+         
+         <p>246 [642], H. Chrysoptera, Linn. Golden-winged Warbler. Given by AUghey as occasionally seen in Nebraska.</p>
+         
+         <p>247 [644], H. Virginiae, Baird. Virginia's Warbler. have seen one specimen of this bird, Aughey.</p>
+         
+         <p>248 [645], H. Ruficapilla, Wils. Nashville Warbler. Summer resident; rare. Arrives in May. Probably common during migration.</p>
+         
+         <p>249 [646], H. Celata, Say. Orange-crowned Warbler. One specimen mentioned in the records of the Normal Science Society.</p>
+         
+         <p>250 [647], H. Peregrina, Wils. Tennessee Warbler. Migratory; common. Arrive in May.</p>
+         
+         <p>251 [648], Compsothlypis Americana, Linn. Parula Warbler. Migratory; common. Arrive in April and May. Aughey mentions seeing their young "soon after leaving their nests,"</p>
+         
+         <p>252 [652], Dendroica Aestiva, Gmel. Yellow Warbler. Summer resident; abundant. Arrives in May.</p>
+         
+         <p>253 [654], D. Caerulescens, Gmel. Black-throated Blue Warbler. Is present in spring and fall during its migrations, Aughey.</p>
+         
+         <p>254 [655], D. Coronata, Linn. Myrtle Warbler. Migratory; common. Arrives in April and May.</p>
+         
+         <p>255 [656], D. Auduboni, Towns. Audubon's Warbler. One specimen mentioned by Baird as found in the western part of the state.</p>
+         
+         <p>256 [657], D. Maculosa, Gmel. Magnolia Warbler. Migratory; rare. Arrive the first of May.</p>
+         
+         <p>257 [658], D. Caerulea, Wils. Cerulean Warbler. Summer resident; common.</p>
+         
+         <p>258 [659], D. Pensylvanica, Linn. Chestnut-sided Warbler. Migratory; common. Arrives the last of April and in September.</p>
+         
+         <p>259 [660], D. Castanae, Wils. Bay-breasted Warbler. Occasionally met with in eastern Nebraska, Aughey.</p>
+         
+         <p>260 [661], D. Striata, Forst. Black-poll warbler. Migratory; common. Arrives in May.</p>
+         
+         <p>261 [662], D. Blackburniae, Gmel. Blackburnian Warbler. Migratory; rare.</p>
+         
+         <p>262 [663a], D. Dominica Albilora, Baird. Sycamore Warbler. Migratory; rare. May breed in the state.</p>
+         
+         <p>263 [667], D. Virens, Gmel. Black-throated Green Warbler. Migratory; rare. has been seen in June.</p>
+         
+         <p>264 [671], D. Vigorsii, Aud. Pine Warbler. Migratory; rare. Arrives in April and September.</p>
+         
+         <p>265 [672], D. Palmarum, Gmel. Palm Warbler. Migratory; abundant. Arrives in April, May, September, and October.</p>
+         
+         <p>266 [673], D. Discolor, Vieill. Prairie Warbler. Summer resident; common.</p>
+         
+         <p>267 [674], Seiurus Aurocapillus, Linn. Oven-bird. Summer resident; common. Arrives in May.</p>
+         
+         <p>268 [675], S. Noveboracensis, Gmel. Water Thrush. Migratory; rare. Probably arrives in May.</p>
+         
+         <p>269 [676], S. Motacilia, Vieill. Louisiana Water Thrush. Have seen this bird in south-east Nebraska, Aughey. Probably summer resident.</p>
+         
+         <p>270 [677], Geothlypis Formosa, Wils. Kentucky Warbler. Summer resident; common. Probably arrive in May.</p>
+         
+         <p>271 [679], G. Philadelphia, Wils. Mourning Warbler. Found in eastern Nebraska, and breeds in the south-eastern part of the state, Aughey.</p>
+         
+         <p>272 [680], G. Macgillivrayi, Aud. Macgillivray's Warbler. Both Baird and Aughey mention this species as seen in extreme western Nebraska in the month of August.</p>
+         
+         <p>273 [681a], G. Trichas Occidentalis, Brewst. Western Yellow-throat. Summer resident; abundant. Arrives in April and has been seen as late as September.</p>
+         
+         <p>274 [683], Icteria Virens, Linn. Yellow-breasted Chat. Summer resident; abundant. Arrives in May.</p>
+         
+         <p>275 [683a], I. Virens Longicauda, Lawr. Long-tailed Chat. Summer resident; common. Arrives in May, and has been seen in September.</p>
+         
+         <p>276 [684], Sylvania Mitrata, Gmel. Hooded Warbler. Summer resident; probably not uncommon. Arrives in May, and has been seen as late as September.</p>
+         
+         <p>277 [685], S. Pusilla, Wils. Wilson's Warbler. Migratory; rare. Arrives in May. Baird and Aughey each mention this bird as seen in August.</p>
+         
+         <p>278 [686], S. Canadensis, Linn. Canadian Warbler. Migratory; rare. Arrive in May.</p>
+         
+         <p>279 [687], Sciophaga Ruticilla, Linn. American Redstart. Summer resident; common. Arrive in May.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Motacillidae. Wagtails.</hi>
+         
+         </head>
+         
+         <p>280 [697], Authus Pensilvanicus, Lath. American Pipit. Migratory; rare. Arrive in May and September.</p>
+         
+         <p>281 [700], A. Spragueii, Aud. Sprague's Pipit. One specimen mentioned by Baird.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Troglodytidae. Wrens, Thrashers, etc.</hi>
+         
+         </head>
+         
+         <p>282 [702], Oroscoptes Montanus, Towns. Sage Thrasher. Mentioned by Baird as collected in extreme western Nebraska.</p>
+         
+         <p>283 [703], Mimus Polyglottos, Linn. Mockingbird. Summer resident; formerly rare, but becoming common.</p>
+         
+         <p>284 [704], Galeoscoptes Carolinensis, Linn. Catbird. Summer resident; abundant. Arrive in April and May.</p>
+         
+         <p>285 [705], Harporhynchus Rufus, Linn. Brown Thrasher. Summer resident; abundant. Arrives in April and remains till October.</p>
+         
+         <p>286 [715], Salpinctes Obsoletus, Say. Rock Wren. Summer resident; common.</p>
+         
+         <p>287 [718], Thryothorus Ludovicanus, Lath. Carolina Wren. Only saw it once in Nebraska, Aughey.</p>
+         
+         <p>288 [719b], T. Bewickii Bairdi, Salv. &amp; Godm. Baird's Wren. Aughey speaks of finding a nest of T. Bewickii, which were probably T. Bewickii Bairdi.</p>
+         
+         <p>289 [721a], T. Aedon Parkmanii, Aud. Parkman's Wren. Summer resident; abundant.</p>
+         
+         <p>290 [722], T. Hiemalis, Vieill. Winter Wren. Winter resident; rare. Aughey mentions examining one specimen in June.</p>
+         
+         <p>291 [724], Cistothorus Stellaris, Licht. Short-billed Marsh Wren. Summer resident; rare. Probably arrives in May.</p>
+         
+         <p>292 [725], C. Palustris, Wils. Long-billed Marsh Wren. Summer resident; rare. Arrives in May.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Certhiidae. Creepers.</hi>
+         
+         </head>
+         
+         <p>293 [726], Certhia Familiaris Americana, Bonap. Brown Creeper. Found a nest of this bird in a knot hole near Dakota City, June, 1865, Aughey.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Paridae. Nuthatches and Tits.</hi>
+         
+         </head>
+         
+         <p>294 [727], Sitta Carolinensis, Lath. White-breasted Nuthatch. Recorded by the Normal Science Society as "resident; common."</p>
+         
+         <p>295 [727a], S. Carolinensis Aculeata, Cass. Slender-billed Nuthatch. Frequently met with in eastern Nebraska, Aughey.</p>
+         
+         <p>296 [728], S. Canadensis, Linn. Red-breasted Nuthatch. Somewhat rare; has been seen in June and September.</p>
+         
+         <p>297 [730], S. Pygmaea Vig. Pygmy Nuthatch. Aughey mentions seeing this bird on the Niobrara.</p>
+         
+         <p>298 [731], Parus Bicolor, Linn. Tufted Titmouse. Common in May and June. Probably a constant resident.</p>
+         
+         <p>299 [735], P. Atricapillus, Linn. Chickadee. Resident; common.</p>
+         
+         <p>300 [735a], P. Atricapillus Septentrionnalis, Harris. Long-tailed Chickadee. Resident; common.</p>
+         
+         <p>301 [738], P. Gambeli, Ridgw. Mountain Chickadee. Mentioned by baird as collected in August.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Sylviidae. Warblers, Kinglets, Gnatcatchers.</hi>
+         
+         </head>
+         
+         <p>302 [748], Regulus Satrapa, Licht. Golden-crowned Kinglet. Abundant during some years in northern Nebraska, Aughey.</p>
+         
+         <p>303 [749], R. Calendula, Linn. Ruby-crowned Kinglet. Migratory; rare. Arrive in April and May.</p>
+         
+         <head>
+            
+            <hi rend="italic">Family Turdidae. Thrushes, Solitaires, Stonechats, Bluebirds, etc.</hi>
+         
+         </head>
+         
+         <p>305 [754], Myadestes Townsendii, Aud. Townsend's Solitaire. Aughey mentions seeing one specimen on the Niobrara in August.</p>
+         
+         <p>306 [755], Turdus Mustelinus, Gmel. Wood Thrush. Summer resident; abundant. Arrives the first of May, and has been found as late as October.</p>
+         
+         <p>307 [756], T. Fuscescens, Steph. Wilson's Thrush. Migratory; rare. Arrive the first of May.</p>
+         
+         <p>308 [757], T. Aliciae, Baird. Gray-cheeked Thrush. Migratory; rare. Arrive in May.</p>
+         
+         <p>309 [758a], T. Ustulatus Swainsonii, Cab. Olive-backed Thrush. Migratory; common. Arrive in May.</p>
+         
+         <p>310 [759b], T. Aonalaschke Pallasil, Cab. Hermit Thrush. Have seen a few of this species in eastern Nebraska, Aughey.</p>
+         
+         <p>311 [761], Merula Migratoria, Linn. American Robin. Resident; abundant.</p>
+         
+         <p>312 [766], Sialia Sialis, Linn. Bluebird. Resident; abundant.</p>
+         
+         <p>313 [767], S. Mexicana, Swains. Western Bluebird. Mentioned by Dr. Aughey as seen once on the Niobrara.</p>
+         
+         <p>314 [768], S. Arctica, Swains. Mountain Bluebird. Mentioned by both Baird and Aughey as seen in western Nebraska.</p>
+         
+         <cit>
+            
+            <bibl default="NO">1888. <title>Annual Report of the Nebraska State Board of Agriculture for 1887</title> Pages 111-118.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

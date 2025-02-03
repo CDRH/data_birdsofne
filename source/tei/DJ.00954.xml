@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00954">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Welcome Comedian [Red-headed Woodpecker].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-05-15</date><biblScope>56(38=33): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Welcome Comedian.</head>
+         
+         <p>While birds seem to come to us directly from the Omnipotent, more directly so than almost any other manifestation of nature, it is refreshing to see that these feathered pals of human kind, floating down from the skies in their migration, often bring plenty of comedy along with their beauty and their song.</p>
+         
+         <p>There is nothing a great deal funnier than the Red Headed Woodpecker, who has lately arrived from the south to spend the summer with us, and whom we revere as the Fred Stone of the telephone poles.</p>
+         
+         <p>Mr. Stone is almost as musical as a Red Headed Woodpecker, certainly as agile, but by no means as beautiful.</p>
+         
+         <p>For a really pretty fellow, this ornithological specimen labors under a great handicap, for his raucous squawks and squeaks and chucklings, even while most ardently in love, are painfully lacking in melody and remind one considerably of a coal heaver singing "Oh Promise Me" to a vestal virgin in some immaculate cathedral.</p>
+         
+         <p>But the Red-Head is certainly funny enough to make up for his other deficiencies.</p>
+         
+         <p>To see him cock his scarlet "bean" around the other side of a pole and watch the approach of an intruder, only to retreat hastily and take another look around the other side, a bit higher or lower in elevation, is calculated to get a laugh from anyone.</p>
+         
+         <p>And when he sails up into the air and grabs some luscious but unfortunate bug for his hungry maw, and plants him upon the top of that pole with a squawk indicating complete satisfaction - the picture is complete.</p>
+         
+         <p>For Mr. Red-Head, holding his meal down with both feet, surveys him and the surrounding world and heavens with a joy that we seldom experience, perhaps, and yawps out a couple of guttural croaks of pleasure, before hammering his prey into the proper size for consumption.</p>
+         
+         <p>The Red Headed Woodpecker, scientifically speaking is one of our most useful birds, although he formerly raised the dickens with windmills before farmers began to build them of steel.</p>
+         
+         <p>He's a gay cavalier of the skies, and his quizzical humor and acrobatics mark him as a born star of the ornithological musical comedy.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 15, 1921. A Welcome Comedian [Red-headed Woodpecker]. <title>Omaha Sunday World-Herald</title> 56(38=33): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

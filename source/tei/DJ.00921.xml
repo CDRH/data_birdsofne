@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00921">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Tufted Treat [Tufted Titmouse].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-04-21</date><biblScope>53(29): 4-E. A bird editorial on first Titmouse in Omaha.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Tufted Treat.</head>
+         
+         <p>There have been surgeons who have thrown ecstatic fits of rapture upon securing a patient with some rare disease, even if said disease be most likely fatal. Such scientific convulsions come to your bird fan when he finds a feather specimen or which he had been looking anon.</p>
+         
+         <p>It has been known that the Tufted Titmouse is more than occasionally found in Nebraska; that he is common - in the books - but when an amateur ornithologist actually meets such a critter face to face, he is likely to experience the same thrill as that of the surgeon mentioned before.</p>
+         
+         <p>But little larger than a Chickadee and of a good deal the same appearance except that he wears a distinct topknot, the Tufted Titmouse is worth the effort of finding him.</p>
+         
+         <p>He flutters around in the tree-tops or bush-tops like his more common cousin, and his most familiar call is "Pe-to! Pe-to!"</p>
+         
+         <p>The Tufted Titmouse appeared in Elmwood park last Sunday for the first time in the recorded history of Omaha bird-dom, and it is more than possible that he remains there, for there is no reason why he should leave.</p>
+         
+         <p>It is such pleasant surprises that makes the game of bird hunting worth the trouble.</p>
+         
+         <p>The Myrtle Warblers, with their glistening yellow rump, appeared in this park on the same Sunday - a bit ahead of schedule - and it is very plain that the treasures of the feathered world are soon to be revealed in the entirety that always graces gentle Springtime.</p>
+         
+         <p>See if you can find the Tufted Titmouse. It will be a treat.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. April 21, 1918. <title>Omaha Sunday World-Herald</title> 53(29): 4-E.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

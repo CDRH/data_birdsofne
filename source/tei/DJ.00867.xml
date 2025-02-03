@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00867">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Squeaky Wagonwheel [Morning Birds and Kingbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-06-04</date><biblScope>51(36): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Squeaky Wagonwheel.</head>
+         
+         <p>During these summer months there are many folks who awaken from their slumber very early in the morning, especially if sleeping upon outside porches, where the rosy dawn penetrates and coaxes one from dreamland.</p>
+         
+         <p>It is at this time, in the gray of a blossoming day, that one may best hear and appreciate the multitude of birds that inhabit the residence district of Omaha, and the remarkable variety of songs, calls and cusswords which emanate from them. So, if you are brought into consciousness some morning when the trees and houses and horizon are mere ghosts in a film of opalescent mist, shut your eyes and listen to your feathered friends who have set the clock ahead by several hours.</p>
+         
+         <p>You will hear the merry, bubbling lilt of the Wren; the cheerily cheerup of the Robin; the plaintive murmur of the winsome Bluebird; the vast repertoire of the Brown Thrasher; the high-pitched rapid melody of the Yellow Warbler and the clear whistle of the Baltimore Oriole. Perhaps the oft-repeated chant of the Dickcissel and the hot, ascending trill of the Field Sparrow will add to the volume of the orchestra as it tunes up. It is a wonderful melody.</p>
+         
+         <p>Then, with some surprise and perhaps annoyance you hear a wagon coming down a nearby street, and maybe you utter imprecations upon the owner of that wagon for not greasing his wheels. Each revolution seems to fairly set your teeth on edge—yet the wagon apparently fails to move.</p>
+         
+         <p>"Thsee—creak! Thsee—creak! Thsee—creak!"</p>
+         
+         <p>You are wide awake now, waiting for that wagon to pass—which it doesn't. That is not remarkable, for it is not a wagon at all.</p>
+         
+         <p>It is the Kingbird, out skirmishing for his breakfast and that of his family of youngsters in the treetop nest nearby. He is a flycatcher with dark olive gray back and wings, white underparts and tail-tips and a concealed red crown. His squeaky battlecry is heard for a long way and is remarkably like the squeak of an illy lubricated wagonwheel.</p>
+         
+         <p>The Kingbird is a very useful and pugnacious customer, it being no uncommon sight to see a single bird of this tribe chasing a whole flock of squawking crows, or even some of the smaller kinds of hawks. When his dominion is questioned or placed in jeopardy [two words missing] is practically no flying demon that the Kingbird will not tackle, with his wagonwheel shriek of rage.</p>
+         
+         <p>Sometimes called the Beemartin, the Kingbird is falsely accused of being objectionable to bee farmers. It is claimed that he subsists largely upon honey bees, which is not the case. Expert ornithologists prove that the Kingbird catches only the drones, which are of no value.</p>
+         
+         <p>It is interesting to listen to the Kingbird, then see him swoop through the air to capture some invisible insect and to watch him when in anger, pursuing feathered objectionables twice his size or in seemingly overwhelming numbers.</p>
+         
+         <p>Let an investigation of this peppery chap be a part of your hike today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 4, 1916. The Squeaky Wagonwheel [Morning Birds and Kingbird]. <title>Omaha Sunday World-Herald</title> 51(36): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

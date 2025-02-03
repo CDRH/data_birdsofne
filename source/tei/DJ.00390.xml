@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00390">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Two Hardy Fellows [Kinglets].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-11-26</date><biblScope>52(9): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Two Hardy Fellows.</head>
+         
+         <p>While most of us folks are going around with too much clothing packed on our backs and shivering with the ante-winter blasts, a twittering in the treetops divulges the presence of a couple of tiny songsters whose diminutive bodies seem to glow with health and good cheer, just in the summer time.</p>
+         
+         <p>These two hardy brothers, the Golden Crowned and Ruby Crowned Kinglets, are truly delightful little fellows, but those who are acquainted with them in the spring could scarcely believe that they would remain while the mercury prowls around in the basement of the thermometer. But they do.</p>
+         
+         <p>While not plentiful in the winter time, the Kinglets are more than occasional, and are still to be found in the Omaha parks and outlying woods. They are generally in the bushes and trees along some creek and their merry little twitter will immediately attract one's attention. Last year they were found here on Christmas Day, and their carol was not the least cheerful of that holiday season.</p>
+         
+         <p>The Kinglets are no bigger than the Brown Creeper, but as their names indicate, have Golden or Ruby crowns upon their heads. nature did well in giving them this coronet, for they are truly royal little songsters and do much to make one forget the retail price of coal and other objectionable features of the winter months.</p>
+         
+         <p>See if you can find a pair of them today. They will make you glad you tried.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 26, 1916. Two Hardy Fellows [Kinglets]. <title>Omaha Sunday World-Herald</title> 52(9): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

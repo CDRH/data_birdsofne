@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00121">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A White Rattlesnake.</title><title level="j">Forest and Stream</title><author>Phillips, W.S. (El Comancho).</author><date>1893-10-14</date><biblScope>41(15): 316. Natural History section. Bird notes only transcribed.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Natural History</head>
+         
+         <head>A White Rattlesnake</head>
+         
+         <p>All the birds except bluejays have left this section for the south. A few meadow larks still remain, and a few woodpeckers, including the golden and the "sapsucker," both of which remain here all winter in company with the robins and some of the titmouse family. Of late years I notice numerous specimens of different species which were almost entirely unknown ten years ago, among them the butcher bird, Virginia rail, woodcock and bobolink. <hi rend="smallcaps">El Comancho</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">W.S. Phillips. October 14, 1893. <title>Forest and Stream</title> 41(15): 316. Bird notes only transcribed.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00243">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Earliest Wooing [Horned Larks].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-01-26</date><biblScope>54(17): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Earliest Wooing.</head>
+         
+         <p>Out in the plowed fields and moist pastures where a winter sun was making brave attempts to coax forth a wisp of verdure - and succeeding, too, in sheltered spots - the Horned Larks were twittering and flirting last week.</p>
+         
+         <p>At this writing the weather is still abnormally warm for this stage, and the aforesaid flirtation is still in progress.</p>
+         
+         <p>The Horned Lark has been previously secured honorable mention in these columns, being a very industrious destroyer of noxious insects and weed seeds, with very little to his discredit in the matter of an occasional diet of small grain. He is a dapper little fellow, and pretty, too - and weathers the severest storms of the frigid months. Wherever he can find an open field not entirely covered with snow, he can get along. He inhabits Nebraska all the year 'round and nests in these parts.</p>
+         
+         <p>It is of his nesting that we would speak, for with his mate he opens up his little home earlier than any other of our birds.</p>
+         
+         <p>In the middle of March, in many instances, the eggs are laid in a crevice, tiny gully or depression in the ground, thinly lined with grass. To find these nests is next to impossible.</p>
+         
+         <p>But the plot of this story is that the unusually warm weather of January has apparently fooled the Horned Larks, for they are now - or were as late as the middle of the week - busily engaged in the gentle art of wooing.</p>
+         
+         <p>Bluebirds and robins are being reported in the sheltered districts along the river bottom, however, and so the larks are not alone in their misapprehension. The Robins will get along all right, but the Bluebirds and Horned Larks are in for a bad time of it if they think the winter is over.</p>
+         
+         <p>But Mr. and Mrs. Lark have but a month or so to wait, so let us watch and appreciate their diligence.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 26, 1919. The Earliest Wooing [Horned Larks]. <title>Omaha Sunday World-Herald</title> 54(17): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

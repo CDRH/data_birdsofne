@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00854">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Spring Procession.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-04-08</date><biblScope>58(28): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Spring Procession.</head>
+         
+         <p>The lilacs head the list f the garden flowers with their great leaf and flower buds just ready to burst. The Fleur de Lis are a close second, their broad, spear-like leaves seemingly lengthening almost visibly since the snow liberated them from their white blanket. Then come the rose bushes, growing green in stalk and pink-tipped in bud which in a day or two will show, unfolding, exquisitely pale green three-parted leaves, and others of rugosa brown. Forth above the leaf stalks where they join the main stem is even now visible another tiny bud that soon will be a blossom. From the earth round the shrubs are already peeping other bulbous stems of tulip and narcissus, dainty lilies of the valley, jonquils and the innumerable other blossoms that would so much rather answer to the wooing of the sunbeams outdoors than stay in the artificial air of the house.</p>
+         
+         <p>And down in the woods where the buckrush has caught the autumn leaves and made a snug, warm nest with a roof of the tree trunk, the dandelions are sending up tender bunches of leaves and perhaps, if one should find a very sheltered spot where the chill north wind is entirely kept out, there might be a tiny bud just nestling in the leaves. And in the same nest might be found the first leaves of Dutchman's Breeches, and a just upspringing furled frond of a fern.</p>
+         
+         <p>The great brown pods of the lucky bean, laying on the moist ground have swelled and split open and the mossy coating has grown green and is surrounding the hard brown bean seed that soon, with repeated rains and the stirring of the earth, will sink beneath it and send forth a wonderful tiny tree that will grow and grow and grow, and sometime will become the beautiful honey locust that will scent the air with the sweetness of its racemes of white blossoms.</p>
+         
+         <p>Every hour the covering of the earth is changing from brown and gray to green.</p>
+         
+         <p>Spring is here.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 8, 1923. <title>Omaha Sunday World-Herald</title> 58(28): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00080">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Nest Study.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-03-12</date><biblScope>51(24): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Nest Study.</head>
+         
+         <p>For very apparent reasons, this is the proper time for the bird student to get busy and learn something about bird nests. At present the former homes of the songsters are exceedingly easy to find and it will do no harm to investigate their construction to your heart's content. Six weeks from now, when the foliage and grass begins to appear, anyone who would bother the nest of any bird—always excepting the justly celebrated Plymouth Rock and English sparrow—should be shot at daybreak, sunset, midnight or any other convenient time.</p>
+         
+         <p>Perhaps it would be going a bit strong to shoot the culprit, but he should at least be given life in jail and then shoot him if he fails to serve it out. For there is nothing as wasteful and cruel and Un-American as the taking of either birds or their eggs for specimens, unless by ornithologists with enough degrees attached to their names to make 'em look like so many thermometers.</p>
+         
+         <p>So do your investigation work now, when it will not break up any bird homes but merely the abandoned and storm-beaten nests. You will find that there is something intensely human about birds in the matter of their home building. While the lowly and vulgar English sparrow is content to live in lowly tenements, wallowing in filth, disorder and inter-family jangles, the splendid Baltimore Oriole sways aloft in his fairylike cradle suspended from the tip of some long and gracefully drooping limb.</p>
+         
+         <p>You will discover the forgotten nests of Chickadees and Bluebirds and Wrens in the hollow limbs or stumps, while in the shrubbery there appears the dainty cottage of the Red Eyed Vireo hanging below the tiny fork made by two tiny branches. And there, also, are the neat little Yellow Warbler and Chipping Sparrow nests, and occasionally that of a Goldfinch, although the nest of the latter, with that of the Dickcissel, is most likely to be located in the weeds or thistles, a few feet from the ground.</p>
+         
+         <p>If you make a comparatively careful study of these forgotten nests during your next few hikes, you will have a great treat in store when the summer birds arrive, and begin to mate and to build their new homes. Then is the time to bring out your old opera glasses, a good pipe or a box of candy, according to your sex, and watch the busy little songsters on the job.</p>
+         
+         <p>If you don't belong to the Audubon society when you start out, the chances are you will, shortly after your return.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 12, 1916. <title>Omaha Sunday World-Herald</title> 51(24): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

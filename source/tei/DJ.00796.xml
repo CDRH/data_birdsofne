@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00796">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Sling-Shot.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-04-14</date><biblScope>53(28): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sling-Shot.</head>
+         
+         <p>The whole world is aflame with war, and the consequence of this fact is manifested daily. We see it everywhere and everyway, but very notably in the trend of thought among our people. As. Mr. Thomas C. Byrne, chairman of the Liberty Loan committee, paradoxically exclaimed the other evening - </p>
+         
+         <p>"Anyone who can think normally these days is crazy!"</p>
+         
+         <p>It would be easy to step right into a war editorial, with this to go on, but at present we are thinking and speaking of the birds.</p>
+         
+         <p>Men, women and children today are measuring everything by caliber, platoons, divisions, tonnage and the like! The war has made us warriors - domestic and active.</p>
+         
+         <p>It would scarcely be surprising is a housewife ordered from her grocer "twenty rounds of asparagus", or from her butcher "beef rations for five." This might even be extended to some "44 cal. summerwurst" and a "regiment of strawberries."</p>
+         
+         <p>We are thinking today in the language of blood and carnage, and it is not surprising that the youngster's first request is for a rifle, or an air-gun - or for anything to shoot with.</p>
+         
+         <p>Wise parents block this craving, this disease that permeates the envelope of atmosphere around the entire world today. But others, more indulgent, permit their sons to prowl the woods and field with guns. Still others, denying this, compromise by permitting their kiddies to use the sling-shot.</p>
+         
+         <p>Bad business!</p>
+         
+         <p>When a small boy has a gun or a sling-shot he is going to shoot something - and something alive, if possible. To this rule there are few exceptions. And when a boy starts out alone with his weapon, the birds are sure to be his victims.</p>
+         
+         <p>First it will be English sparrows - but soon, when this prey tires, the Robins and Bluebirds and Meadowlarks will be his marks! You cannot deny it - for it is boyish human nature!</p>
+         
+         <p>The birds are very necessary to save our crops, now so sorely needed to win the war. Teach the children that there is other fun besides shooting.</p>
+         
+         <p>In this you will be serving Uncle Sam, who already sponsors this assertion.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 14, 1918. <title>Omaha Sunday World-Herald</title> 53(28): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

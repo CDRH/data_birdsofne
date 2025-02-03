@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00914">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Tree Doctors.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-08-22</date><biblScope>50(47): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Tree Doctors.</head>
+         
+         <p>Scientific persons have discovered a treatment for diseased trees and are peddling the same broadcast over the country. The purveyors of these remedies term themselves "tree doctors," which, of course, they are.</p>
+         
+         <p>The tree doctor is a great boon to large cities in the middle west, where trees did not grow until human beings tackled the job of forcing them to do so. Under unnatural conditions it is not surprising that many of these trees have failed to prosper without artificial help. Hence the "tree doctor."</p>
+         
+         <p>Out in the great big fields of nature it is harder for a tree to die than it is for one to live when shoved into the ground before some modern city house. The tree surgeons have realized that artificial help must be found, and have thus developed an entirely new profession.</p>
+         
+         <p>But why do the trees in the big outdoors, in the fields set apart for them by the Almighty, have so little trouble in developing? Why are they not beset by bores and other insects - beset in such a thorough manner as to eventually kill them?</p>
+         
+         <p>There is but one answer - and that is the birds.</p>
+         
+         <p>There are perhaps a dozen birds in Nebraska who have been acting as tree doctors since time began, and it is to the everlasting disgrace of the country that one of these surgeons - the Northern Flicker - is often regarded as a game bird and legitimate prey of the hunters.</p>
+         
+         <p>Take a tree that is infested with the "bores" - insects which develop into worms beneath the bark of certain trees and which generally, under artificial circumstances, succeed in killing the growth completely - take such a tree and turn loose a gang of Flickers upon the same, and the tree is saved! No human tree surgeon with his pot of antiseptic and mammoth syringe loaded with caustic need apply. The birds will easily do for nothing what the professional tree surgeon will only do for a large financial reward.</p>
+         
+         <p>Among nature's own tree doctors are the Northern Flicker, Hairy Woodpecker, Downy Woodpecker, Red-headed Woodpecker, White Breasted Nuthatch, Brown Creeper and Chickadee. There are many others in this state of Nebraska, but these are the more prominent of the group. They eke out their livelihood by pecking harmful insects and worms from beneath the barks of trees, and they are always on the job.</p>
+         
+         <p>So it becomes apparent that the more trees we have the less chance there is for any of them being killed by vermin. More trees - more birds! More birds - less vermin! Less vermin - less tree-deaths.</p>
+         
+         <p>He who shoots and kills a flicker is probably killing a tree with the same shell. And he who kills a Nebraska tree is certainly attempting to kill Nebraska - as any scientific agriculturist will readily agree.</p>
+         
+         <p>And let this become still more appreciated - that the more protection accorded the birds, the more protection is accorded the trees, and thereby the whole state.</p>
+         
+         <p>Any time a sportsman feels inclined to shoot a woodpecker or any of the kin, let him include the human tree surgeon, for the former does the work better and for nothing, while the doctor who wears pants will only serve you for dollars.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 22, 1915. <title>Omaha Sunday World-Herald</title> 50(47): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

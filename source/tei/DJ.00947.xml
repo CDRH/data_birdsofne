@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00947">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Warblers Returning.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-04-20</date><biblScope>54(28=29): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Warblers Returning.</head>
+         
+         <p>We very much suspect that this same editorial, in substance, had appeared in this newspaper on this particular Sunday for the past four years. This, however, does not discourage us. In fact we glory in the opportunity of once more chronicling the return of the Warblers.</p>
+         
+         <p>These birds, the most interesting class in ornithology because so little is known of them, winter as far south as the equator and make the immense migration as far as the arctic circle every spring - returning in the fall. Their passage through Nebraska is generally from the latter part of April to the middle of May, with the height of the flight about the first week of next month.</p>
+         
+         <p>But there is one "brand" of Warbler that makes its appearance earlier than the rest, being a hardy little feathered creature, and beautiful, withal.</p>
+         
+         <p>The Myrtle Warbler, with the brilliant spot of yellow on his rump, is now in our parks and woods, in large numbers and easy of identification. His peculiar little trill, something like that of the Yellow Warbler, will warn you of his presence, while he spot of yellow on his rump is a certain and positive identification.</p>
+         
+         <p>Now is the time to hike if you like the feathered gentry, for they are now commencing to spring their spring surprises.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 20, 1919. <title>Omaha Sunday World-Herald</title> 54(28=29): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

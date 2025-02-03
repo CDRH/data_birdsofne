@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00961">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Where the Scent is Sweet.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-08</date><biblScope>55(45): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Where the Scent is Sweet.</head>
+         
+         <p>During this summer-resort weather of ours, with plenty of rain and sun and cool nights, the woods have assumed a delightful mixture of spring and autumn aroma. The birds seem to have taken up the joy of the situation, as every little while you may hear them burst into their love-song, generally rendered only in April or May.</p>
+         
+         <p>In the city there is a different odor - that of noisome alleys and graft and police scandal! There is nothing for the nose to look forward to except abuse. Why not take your nose for an outing once in a while?</p>
+         
+         <p>The earthy perfume that comes from fertile woodlands in the shade of towering trees, and the sweetness of the moss along the ravines couple well with the "Chee-chee! Hurry-it-up! Chee-chee!" of the Indigo Bunting up there somewhere, or the "Pew-a-wee-ee" of the Wood Pewee as it perches upon a dead branch over some ravine - planted for some luckless flying insect.</p>
+         
+         <p>It is the odor of the woods that attracts one to them, nowadays, and the lover of the outdoors who doesn't take full advantage of this wonderful summer is surely in a condition to warrant investigation.</p>
+         
+         <p>Although beautiful and comfortable thus far, the summer is traveling fast - and there are but a few weeks left before the birds begin their departure. The Dickcissels leave in August, it must be remembered, and many other of the hot-weather favorites are inclined to proceed southward in early September.</p>
+         
+         <p>Try the scent and scenery of your woods today! It will repay you, many-fold.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 8, 1920. <title>Omaha Sunday World-Herald</title> 55(45): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

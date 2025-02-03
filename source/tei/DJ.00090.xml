@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00090">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds.</title><title level="j">Omaha Daily Republican</title><author>Editorial.</author><date>1875-06-02</date><biblScope>17(314): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds.</head>
+         
+         <p>Bryant, in his grand poem, says "Go forth and list to nature's teachings." Sunday was a day to spend in the woods, away from the dusty streets, to find repose and rest and peace beneath the shade, and listen to the music of the birds, which have increased in number of late years so largely. The president of the Horticultural Society, in his address just issued, says, after a chapter on entomology:</p>
+         
+         <p>"And here I want to say a word in favor of the birds: It is a noticeable fact that as the birds decrease, the insect world advances in numbers. nature, if left to herself, establishes a balance among her creatures, that is, she produces no more of one species than is kept in check by another. If man interferes with the working of this law, disastrous results are sure to follow.</p>
+         
+         <p>If he destroys the birds, the insects increase and destroy his crops. Like the human family, there are, among birds, some bad ones, who destroy our fruits, rob our vineyards, and murder the smaller insect eating species; but these should not condemn the rest.</p>
+         
+         <p>I have noticed during the past two years there has been an increase of birds as groves of timber are planted. More woodpeckers, seeking for insects under dead bark, robins hunting for worms in the garden; king-birds seeking winged game, and then industrious house bird, the wren which will destroy its own weight of insects daily.</p>
+         
+         <p>I trust every farmer in the state will imitate the example of a member of this society, Judge Mason, of Nebraska City, is putting bird boxes in his orchard. They cost but little, and aside from the insects destroyed, the home surroundings are made joyous with music.</p>
+         
+         <p>
+            
+            <list type="simple">
+               
+               <item>"Birds of a hundred hues of aviary stock,</item>
+               
+               <item>And music, which poor caged things can never hope to mock,</item>
+               
+               <item>Through all the glorious valleys ring</item>
+               
+               <item> </item>
+               
+               <item>Soon as the golden day comes flashing o'er the hills,</item>
+               
+               <item>Burst forth from tree, and bush, and spray, ten thousand chants and trills;</item>
+               
+               <item>And till the evening sky is gray, their joy the valley fills.</item>
+            
+            </list>
+         
+         </p>
+         
+         <p>I care not who the man is who has commenced life on the prairie bare of trees, but will enjoy the music of birds in groves of his own planting. God has planted in his very soul a capability of enjoyment from nature's own resources."</p>
+         
+         <p>Prof. Aughey writes Mr. Allan: "Thanks for your remarks about the birds in your excellent essay. A few days ago I was botanising on Oak Creek and found a Swallow which some God-for-saken wretch had shot a short time previous; I opened its stomach and counted the remains of twenty-seven (27) grasshoppers and any amount of other matter which was evidently ground insects."</p>
+         
+         <p>We think our people have not as yet realized the importance and value of the state association of sportsmen about to be formed. Its importance to agricultural interests, or to home surroundings. The most important object they have is to protect insect eating birds and see that the laws are enforced which will ensure their preservation. Measures are on foot to form a state society which can be of great value to the state.</p>
+         
+         <cit>
+            
+            <bibl default="NO">June 2, 1875. <title>Omaha Daily Republican</title> 17(314): 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

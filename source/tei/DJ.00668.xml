@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00668">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Pheasants Will Be Added to Nebraska Game Birds.</title><title level="j">Omaha Sunday Bee</title><author>Special.</author><date>1922-09-24</date><biblScope>52(15): 3-A. Includes a picture.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Pheasants Will Be Added to Nebraska Game Birds.</head>
+         
+         <p>Lincoln, Sept. 19. - (Special). - This is a picture of Game Warden Koster and a helper crating Chinese pheasants prepatatory for distribution over Nebraska with a view of making these birds as abundant in years to come as prairie chickens.</p>
+         
+         <p>"If the real sportsmen in Nebraska will see that everyone becomes a real sport and helps us in protecting these birds in the next few years we will have some mighty fine hunting," Koster says. "The pheasant is a game bird, full of pep, and it will be fun to hunt them. They are reputed to rival a prairie chicken in eating qualities.</p>
+         
+         <p>Koster intends to distribute more birds this fall and sportsmen living near streams, timber and grain, three requisites for pheasant life, who wants pheasants for propagation purposes should notify Koster so arrangements can be made for shipping them.</p>
+         
+         <p>To protect these birds from "poor sports" the state has placed a fine of $100 for crippling, pursuing or shooting them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Special. September 24, 1922. <title>Omaha Sunday Bee</title> 52(15): 3-A. Includes a picture.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00328">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">From Farmers of Custer Precinct.</title><title level="j">Neligh Republican</title><author>Farmers.</author><date>1885-07-22</date><biblScope>6(41): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-25"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>From Farmers of Custer Precinct.</head>
+         
+         <p>"Snipe" hunting is getting to be a nuisance. Last Sunday morning seemed like a Fourth of July. A year ago this business was carried on and no one seemed to notice it. Now gentlemen (?) wait until the "snipe" are grown. Last Sunday morning two buggies loaded with men and dogs came upon our premises and commenced their fun of shooting. If we should go into Neligh and take what did not belong to us there would be a fuss, we would be arrested and fined. Still those same men will come out here, ride all over our farms, shoot chickens for the fun of it and think it is all right. We don't think it is all right and are going to see if there is a law to prevent killing those young birds and disturbing the peace on Sunday. Hereafter we are going to try and maintain our rights and the first man seen shooting chickens on Sunday, or any other day, before the law expires, will suffer the penalty of the law.</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="smallcaps">Farmers</hi>.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">July 22, 1885. From Farmers of Custer Precinct. <title>Neligh Republican</title> 6(41): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

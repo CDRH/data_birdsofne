@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00665">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">One Persistent Song [Warbling Vireo].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-07-27</date><biblScope>54(43): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>One Persistent Song.</head>
+         
+         <p>As we have said before, on several occasions, mid-summer is a poor time to study the songs of birds, for they are generally busy with their domestic duties of raising families, and have little of the exuberance given them in the springtime by Dan Cupid.</p>
+         
+         <p>But there is one feathered beauty that seems to stick on the job with great persistency, and the name is Warbling Vireo.</p>
+         
+         <p>It would appear, from personal observation, that this delightful little creature sings all the time - before, during and after brooding. The song is easily identified, although the Vireo itself is very hard to see, making its home and playgrounds in the tops of trees, where the foliage is thick.</p>
+         
+         <p>The song is a rapid succession of notes that fairly roll from the creature's throat, something like that of the House Wren, but ending with a sudden snap, like the cracking of a whip.</p>
+         
+         <p>This Warbling Vireo is a mighty useful little fellow, and lives exclusively on bugs and worms detrimental to tree and plant life. Since he is so far in the air, and he and his wife are fairly well protected from the agencies calculated to diminish his numbers - and he thus does right well.</p>
+         
+         <p>It is easy to recommend the Warbling Vireo to the attention of our readers, especially our tribe of bird lovers - and would urge all to make an earnest effort to get this chap "under the glass" and take a good look at him.</p>
+         
+         <p>This, however, will be "some job."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 27, 1919. One Persistent Song [Warbling Vireo]. <title>Omaha Sunday World-Herald</title> 54(43): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

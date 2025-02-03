@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00200">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">And the Crossbills, Too!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-11-09</date><biblScope>55(8=6): 14-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>And the Crossbills, Too!</head>
+         
+         <p>It has remained for a Boy Scout to give us the information that the Red Crossbills are back, maybe for the winter, and that they were seen by him in Elmwood park, in large numbers, last Sunday afternoon.</p>
+         
+         <p>Coming from any other source we might be a little skeptical, but the Boy Scouts not only tell the truth, but also assure themselves as to the facts before attempting to put out bulletins of this sort. Elmo Adams, the Scout who located the Crossbills in Elmwood park, has his Bird Study Merit Badge, and we know that he knows what he is talking about in that line.</p>
+         
+         <p>So the Crossbills are back!</p>
+         
+         <p>Already we have seen the Redpoll and the Red Breasted Nuthatch, so all that remains for us to locate in order to prognosticate a perfect ornithological winter is the Siskin, and the Tufted Titmouse.</p>
+         
+         <p>The latter, according to Mr. Myron Learned, who has a rugged country place north of Florence, has already been identified there, so we may hope for more of the species in our parks. As for the Siskins, or Pine Finches, as they are sometimes called, colder weather will probably bring 'em along.</p>
+         
+         <p>But the advent of the Red Crossbill, beautiful feathered fellows with scissor-beaks used in prying open seedpots in the conifers - it is indeed a joy to know that they have visited us again. But a few specimens were identified last winter, while they were plentiful the year before. They are pretty, interesting and useful.</p>
+         
+         <p>Look for them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 9, 1919. And the Crossbills, Too! <title>Omaha Sunday World-Herald</title> 55(8=6): 14-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

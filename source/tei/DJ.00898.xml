@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00898">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Teeter-tail [Spotted Sandpiper].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-10-08</date><biblScope>52(2): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Teeter-tail.</head>
+         
+         <p>Birds have individuality - plenty of it. They seem to think and act in tribes - each tribe having its own peculiarities of thought and action. In the matter of dress they are a good deal like humans - the more gorgeously caprisoned songsters being found in the treetops or flowering bushes, and the duller colored fellows in the low underbrush or upon the ground. The only difference in dress between humans and wild birds is that in the first case the females wear the brightly colored feathers, while in the latter it is the male who is "all dolled up."</p>
+         
+         <p>But it is the peculiarity of action of a certain wild bird that these lines are written - so here goes.</p>
+         
+         <p>Did you ever see, standing at the very edge of stream or lake, a silent little feathered critter who seems every moment to be losing his balance - to be imminently in danger of toppling over into the water like some tipsy fisherman?</p>
+         
+         <p>If you have not noted such a bird you are no huntsman - yet one does not have to be a huntsman to be acquainted with little Teeter-tail - for he is to be found very close to Omaha, along the streams and ponds in the more sequestered districts.</p>
+         
+         <p>Teeter-Tail has wonderfully long legs for such a comparatively small bird, which is a good thing for him in his daily endeavor of wading about close to shore in search of the minute water bugs and creatures of the sort which are upon his daily menu.</p>
+         
+         <p>His real name is Spotted Sandpiper, yet Teeter-Tail, the monicker by which his arch enemies know him is much more descriptive.</p>
+         
+         <p>One of his peculiarities of habit lies in the fact that he will stand in exactly the same place, on the same little island, at the waters' edge, all day and every day for weeks on end. If you see him there once, you are pretty sure to find him there again, as often as you pay him a visit, unless he be molested.</p>
+         
+         <p>Teeter-tail is a dully colored, yet pretty bird, with the exception of his legs, which remind one a whole lot of Charlotte Greenwood, the musical comedy star. His bill, like most bills these days, is very long, but he uses it to good advantage, being a big help to society in general because of his great appetite for bugs of certain sorts.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 8, 1916. Teeter-tail [Spotted Sandpiper]. <title>Omaha Sunday World-Herald</title> 52(2): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

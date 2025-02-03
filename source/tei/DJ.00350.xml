@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00350">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Getting Away From the War [Dame Nature's Realm of Woods and Fields].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-11-25</date><biblScope>53(8): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Getting Away From the War.</head>
+         
+         <p>Those who have to stay at home and writhe on the anxious seat whilst Uncle Sam wrestles with the tremendous problem now in his hands; those who see their erstwhile comrades so nobly wearing the khaki that stamps them patriots with no further questions asked; those of the gentler sex who cannot be called to the colors in this crisis - all of these have reason to crave at least a moment now and then away from the strain of the struggle.</p>
+         
+         <p>No such relief is to be found in the city or town, for the war is on every lip. Happily, however, such respite exists in Dame Nature's realm, which lies close at hand.</p>
+         
+         <p>There is scarcely a street car line operating in Omaha one ned of which does not rest in close touch with the silent depths of the autumns woods or the russet fields which stretch across to some peaceful fairyland where the crisp, frosty air and odor of fallen leaves and drooping grasses is balm enough for the perturbed urban spirit.</p>
+         
+         <p>No martial music nor martial talk will you find there, but only the rugged solace of nature making ready for the snow. Small, four-footed folk will spring from cover in the copse or crash among the brittle twigs of the treetops. And there will be birds - many hardy feathered friends doing their winter duty by mankind, to greet you.</p>
+         
+         <p>Funny, fat, feathered fellows - what do they know or care of war? Yet in their feverish activity in securing and laying away food for the frigid season to come, they are helping Uncle Sam more than they know; are assuring a better crop of grain next summer, and a better yield of fruit; are helping feed the soldiers we are sending to the trenches to defeat the most diabolical ambition in history!</p>
+         
+         <p>See and try to appreciate these birds today. Try to learn from their diligence your duty to see that they are protected in this and in every other season. For as the warblers and other songsters of the spring and summer destroy the worms and insects which would aid the kaiser by killing the crops, so do these hardier birds of today do a similar work by consuming weed seeds in the fields and larvae in the tree bark.</p>
+         
+         <p>They are doing their bit in this war, but will not speak to you about it during your visit. You will be left free to forget everything except that here there is peace and contentment, as was intended in God's first plan.</p>
+         
+         <p>In these woods and fields there is to be found rest and renewed courage for the struggles ahead. If you do not seek this sweet forgetfulness you will do yourself, and perhaps your country, an injustice.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 25, 1917. Getting Away From the War [Dame Nature's Realm of Woods and Fields]. <title>Omaha Sunday World-Herald</title> 53(8): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

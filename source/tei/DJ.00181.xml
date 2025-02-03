@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00181">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Club Hunt. Was Held Monday and the Losers set up an Oyster Supper.</title><title level="j">Valentine Democrat</title><author>Robert Good, editor and publisher.</author><date>1896-12-12</date><biblScope>11(48): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Club Hunt.</head>
+         
+         <head>Was Held Monday and the Losers set up an Oyster Supper.</head>
+         
+         <p>In honor of Jas. Ryan, of Wilmington, Delaware, a sportsman who has been in Valentine for the past ten days enjoying the shooting to be found in this locality, our local sportsmen organized a club hunt Sunday. W.E. Haley and A.T. White were the captains and to assist them they chose the following men:</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">White</cell>
+               
+               <cell role="data" cols="1" rows="1">Haley</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Jas Ryan</cell>
+               
+               <cell role="data" cols="1" rows="1">C.R. Watson</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Frank Reece</cell>
+               
+               <cell role="data" cols="1" rows="1">T. Yearnshaw</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Henry Hoenig</cell>
+               
+               <cell role="data" cols="1" rows="1">W. Hilsinger</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Will Donoher</cell>
+               
+               <cell role="data" cols="1" rows="1">M.V. Nicholson</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">C.H. Thompson</cell>
+               
+               <cell role="data" cols="1" rows="1">W.S. Jackson</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Robert Good</cell>
+               
+               <cell role="data" cols="1" rows="1">J.H. Yeast</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Chas. Sparks</cell>
+               
+               <cell role="data" cols="1" rows="1">Fritz Keck</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">H. Hilsinger</cell>
+               
+               <cell role="data" cols="1" rows="1">Ed Clarke</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Chas. Sherman</cell>
+               
+               <cell role="data" cols="1" rows="1">Dr. Nicholson</cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>Points for all kinds of game were decided upon and ranged from 200 for an antelope down to 3 for an owl, and that owl caused lots of trouble and incidentally, merriment. Snow birds and prairie dogs were not placed on the list, or Haley's men might have made a few more points. The prize for the winners was an oyster supper at The Donoher, to be paid for by the losers.</p>
+         
+         <p>The parties left town Sunday morning, seven of Haley's men and one of White's going north with the hounds and the rest going other directions with guns alone. Time was called in Watson's drug store at 6 o'clock that evening and White was found to have won by a few points. Then Val Nicholson made his bow before the
+calcium lights with a measly old owl which he proudly said belonged to Haley and him, he having shot it all by himself while out with the hounds. Nobody cared for the owl, but objections were made to giving Haley all those points, because they would change the result. The owl was finally divided, by order of Referee Sherman,
+White getting an eighth, and everything was owl right. Score: White 67 1/8; Haley 66 7/8.</p>
+         
+         <p>The supper was given at The Donoher at 10 o'clock Monday night and was a spread such as can be put up only at that hostelry. Everybody ate and drank and enjoyed himself, and many were the jests passed about the tables, and everybody voted Mr. Ryan a good fellow and wished he would stay here all winter.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Robert Good, editor and publisher. December 12, 1896. <title>Valentine Democrat</title> 11(48): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

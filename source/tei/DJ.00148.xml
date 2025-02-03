@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00148">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Don't Use Caustic Potash!</title><title level="j">Oologist</title><author>Trostler, Isador S.</author><date>1899-05-01</date><biblScope>16(5): 81.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Don't Use Caustic Potash!</head>
+         
+         <p>"One of the Crank's" advice to beginners in the last <title>Oologist</title>, contains many good hints, but when he recommends the use of caustic potash for badly incubated eggs, he leads me to believe that he must be a "back number crank."</p>
+         
+         <p>Caustic potash (or soda) is out of date for <title>Oologist</title>s' use and has been replaced by <hi rend="italic">pancreatin</hi>, which is a much better article in many ways. Pancreatin besides softening the embryo quicker and more thoroughly, does not injure the shell of an egg, a very important point.</p>
+         
+         <p>For use, dissolve one drachm "3,000 pancreatin" in one ounce of rain or softwater.</p>
+         
+         <p>A medicine dropper makes a handy syringe to introduce it into the egg.</p>
+         
+         <p>All <hi rend="italic">skin must be cut away</hi> from the edge of blow-hole, which need not be much larger than for fresh eggs, unless incubation is nearly complete, and after blowing out all the liquid, fill the egg with the pancreatin solution. Place eggs in a warm place and you can blow them out clean in from two hours to two days, according to size of egg, incubation and amount of heat applied.</p>
+         
+         <p>Large eggs, almost ready to hatch, usually have to be treated two or three times at intervals of twelve or twenty-four hours. I have blown three-fourths incubated Chickadees' eggs two hours after applying the ferment, by placing the ears upon the shelf of a kitchen range where the temperature was ° or over.</p>
+         
+         <p>I would most respectfully suggest, that "One of the Cranks" try the pancreatin method and I'll wager he will never use the caustic potash again.</p>
+         
+         <list type="simple">
+            
+            <item>Isador S. Trostler,</item>
+            
+            <item>Omaha, Nebraska.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">May 1899. <title>Oologist</title> 15(5): 81.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

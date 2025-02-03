@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00869">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">States Sportsmen. The Twelfth Annual Convention and Tournament of the Nimrods of the State of Nebraska. The Association Expresses Itself as Decidedly in Favor of the Abolition of Spring Shooting.</title><title level="j">Omaha Republican</title><author>Anonymous.</author><date>1886-06-09</date><biblScope>page 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-06-13"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>States Sportsmen.</head>
+         
+         <head>The Twelfth Annual Convention and Tournament of the Nimrods of the State of Nebraska.</head>
+         
+         <head>The Association Expresses Itself as Decidedly in Favor of the Abolition of Spring Shooting.</head>
+         
+         <p>The first session of the Twelfth annual convention of the Nebraska Sportsmen's association was held last evening at Custer Post hall on Douglas street. Some twenty delegates were present at the meeting and were called to order at 8:30 by W.H.S. Hughes, president of the state association. In behalf of the Omaha Sportsman's club he welcomed the delegates, and the convention then proceeded to business by the election of a committee on credentials composed of C.E. Bardwell, Judge J.B. Barnes and Gen. Geo. S. Smith. The roll of members was called and after a consultation over the credentials the committee reported the following delegates present and entitled to seats in the convention: Tekamah Sportsmen's club, C.E. Bardwell, J.F. Beard, Geo. E. Atwater, A.T. White and W.R. Fitch; Omaha Sportsmen's Club, B.E.B. Kennedy, W.M. Krug, D.C. Sutphen, H.H. Bushman and Dr. J.H. Peabody.</p>
+         
+         <p>The secretary, Geo. Kay, reported that delegates from the Plattsmouth, Kearney, Colfax, Fremont, Lincoln, Nebraska City, Blair, Norfolk, Osceola, Central City, Silsbee, Otoe, Madison and Nemaha clubs had not yet reported, though many were expected on Wednesday.</p>
+         
+         <p>Applications for membership from the Wahoo Shooting club, Hastings Game and Gun club, South Omaha Gun club and Omaha Gun club were read, and on motion these clubs were admitted to membership with the following delegates: Omaha, T.H. Cotter, Geo. S. Smith, Jeff W. Bedford, Edward Leeder, W.H.S. Hughes; South Omaha, Warren Bright, F.W. Snyder, John Zeller, F. Haerman and Geo. Kleffners; Hastings, C.A. Gardner and C.F. Taylor; Wahoo, absent.</p>
+         
+         <p>A committee consisting of Messrs. Bardwell, Kay and Smith was appointed to report upon the question of re-organizing under the laws of the National Sportsmen's association.</p>
+         
+         <p>The subject of the game laws came up for discussion, and upon this question Mr. B.E.B. Kennedy said that a state law ought to be enacted abolishing spring shooting in order to preserve game. Unless the laws are changed game will entirely disappear from this vicinity and sportsmen will have to go a long distance away from home in search of game. The speaker also advocated the repeal of the law relating to chickens and quails. Under the present law the chicken season opens the first of September, while under the previous law it opened August 15th. The quail season opens now on the 1st of October, while formerly it opened on the 1st of September.</p>
+         
+         <p>Judge Barnes also spoke in favor of the abolition of spring shooting and concurrent remarks were made by C.A. Gardner, of Hastings, and C.E. Bardwell, of Tekamah. Gen. Smith spoke in favor of spring shooting on the ground that a law to abolish it would be inoperative and that shooting in the spring was much better than at any other time. To this Mr. Kennedy replied giving as very cogent reasons for the abolition of spring shooting the fact that a duck and other game are poor in the spring and consequently unwholesome, and that on account of that being the breeding season the killing of one means the killing of a whole brood. A further discussion of the subject ensued, and the matter was finally referred to a committee consisting of one from each club represented in the convention, with instruction to urge upon the legislature the enactment of the required laws. A resolution was also adopted inviting the co-operation of the local sportsmen's clubs in the state in the matter. The meeting then adjourned until this evening at 8:30.</p>
+         
+         <cit>
+            
+            <bibl default="NO">June 9, 1886. <title>Omaha Daily Republican</title> page 1. State tournament results not included.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

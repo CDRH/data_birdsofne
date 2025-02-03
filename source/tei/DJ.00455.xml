@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00455">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Insectivorous Birds.</title><title level="j">Nebraska Farmer</title><author>Editor, Nebraska Farmer.</author><date>1878-07-01</date><biblScope>7(2): ?. July 1878.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Insectivorous Birds.</head>
+         
+         <p>No one who has long been a resident of Nebraska has failed to note the increased number of insectivorous birds that yearly make their appearance among us, contributing so much to our happiness and prosperity. The reasons for their increase in numbers are apparent: First, we are no longer a desert, but a cultivated garden where insects thrive, and where there are insects are there will be found the blue-bird, the robin, the lark, and the wren, as well as the prairie chicken and the quail. Second, the young trees that are planted by the industry of our farmers and others, afford, each year, more shade and shelter than the preceding year. Third, the cultivation of an enlarged area each year, together with a little wholesome legislation, has prevented the wholesale burning of the dead prairie grasses-the natural hiding and nesting places of the many little birds that hover over the prairie, from flower to flower, and from twig to twig. These little songsters do much to rid our forests, fields, and orchards of destructive bugs, worms, etc., and their presence here should be encouraged; to this end we suggest that each one take the trouble to put up a few boxes for them to build in. Don't go to the trouble nor expense of making fancy looking bird boxes, but put up more of them and cheaper ones. Utilize all the small boxes that come your way-cigar boxes, soap boxes, starch boxes, etc.; and best of all save the cans-the empty oyster cans, the fruit cans, and fasten them to the trees, to the house, barn, granary, or anywhere, so that they are raised from the ground. An old boot, or an old shoe, nailed up so as to attract the attention of the birds, and to protect the inmates from the weather, will soon be filled with a nest of chirping, twittering, insect loving birds. Birds are not particular about what their nesting-places are made of so that they are comfortable and secure. The robin and wren may not inhabit these places, but the blue bird-the most energetic worker in the insect field-will always be on hand in sufficient numbers to fill your boxes, cans, and old boots with their young.</p>
+         
+         <cit>
+            
+            <bibl default="NO">July 1878. <title>Nebraska Farmer</title> 7(2): ?.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

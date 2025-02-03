@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00431">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska Waters [Hunting Long-billed Curlew and Upland Plover at Hackberry Lake].</title><title level="j">Forest and Stream</title><author>Griswold, Sandy.</author><date>1903-08-22</date><biblScope>61(8): 148-149.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska Waters.</head>
+         
+         <p>George Giacomni, one of our wealthy young sportsmen, is encamped with a party of Eastern friends up on Hackberry Lake in Cherry county, near the famous ducking grounds of E. Stilwell. They are having great sport with the bass in Hackberry, and the best kind of sicklebilled curlew and upland plover. I am indebted to Mr. Giacomni for a half a dozen young curlew, and when I say that they beat young chicken a block I am expressing it mildly. By the way, this sand hills lake country is one of the greatest breeding grounds for sicklebilled curlew there is in the country, and in any part of it throughout the month of August the shooting on the young birds is unsurpassed. This year the crop is proving a big one. The opposite, however is the case with the uplands. Since the first day I was afield with the Barrister and we bagged seventeen, I have been out a number of times and found the birds exceedingly scarce.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. August 22, 1903. Nebraska Waters [Hunting Long-billed Curlew and Upland Plover]. <title>Forest and Stream</title> 61(8): 148.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

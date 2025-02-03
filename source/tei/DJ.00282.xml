@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00282">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Fall Wild Fowl Season.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1891-12-06</date><biblScope>21(172): 15. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-04-25"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+ 
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sports of Early Winter.</head>
+         
+         <head>The Fall Wild Fowl Season.</head>
+         
+         <p>Practically the fall wild fowl shooting for 1891 is over, yet there will be tolerable sport with the Canadas for a month yet along the bars of the Platte and the Missouri, and an occasional crack at an old mallard may be had. But the grand army of ducks have winged their way to sunnier climes. A cursory review of the season shows that it has been an unusually good one, despite the fact that no very tremendous bags were made by any particular set of hunters, that of Messrs. Dickey, McFarland, Williams and Gregg, who went up into South Dakota early in October, being the best. In a week' s shooting this quartette hung up something like 2,000 mallards, with a sprinkling of canvas back, teal, widgeon, red head and blue bills. With more water the season would have certainly been an unprecedented one, as such an abundance of feed was never known on the lakes and streams and rivers and marshes of this and the surrounding states. There were but few hunting parties that made excursions to any of the well known shooting grounds who came back empty handed, and the veriest tyro in the sport was enabled to knock over his ten or a dozen ducks a day. As was predicted, owning to the plentifulness of feed, and other favorable conditions, the ducks came in uncommonly early, the first issue of mallards, widgeon, pintail and redhead coming down from the north as early as the 25th of September, while the teal were disporting themselves and waxing fat on the reedy shallows even as early as two weeks previous to this date. For teal, both blue and green wing, a better season was never known, and all through the month of October they were slain by the barrel about Whiting, Waubuncey, Missouri Valley and along the Platte and the Loup and their tributary streams, and when it is said that these little beauties are the morsels of the whole wild fowl family, not excepting even the vaunted canvasback and the corn fed mallard, the delight of the local gunner can readily be imagined. And mallards, too, were exceedingly plentiful, and in most tempting form, but the flight of the other big ducks, notably the canvasback and the redhead, was extremely limited, not in such an extent, however, as to render the season conspicuous from others, because it is a well established fact that these birds seldom stop over here in any very considerable numbers in their fall flight. The spring time is the season for the canvasback and his rival, the redhead; at any rate for these mid-country waters. Everything taken into consideration, however, the season has been one of unusual profit and enjoyment, and he would be a churlish sportsman, indeed, who could find grounds for complaint.</p>
+         
+         <p>The fall flight of geese has been nothing to excite enthusiasm, although the conditions, with the exception of water, were just as good as they were for the ducks, and this leads to the opinion that the days of great goose shooting for this section of the country are rapidly on the wane, and but a few years more will be required to make a shot at an old honker an event in a day's outing. Just now the birds are more plentiful than they have been any time during the season, and some tolerably good consignments were received last week from along the Platte. In the spring the geese are more plentiful, but not half so desirable for the table.</p>
+         
+         <p>The jack snipe shooting has been spasmodic, and at no time more than "fair to middlin'." For a few days there was pretty good shooting on the lowlands east of Missouri Valley, and for a week or more at Bancroft it was great. But these were only isolated cases, for on the majority of the best local grounds, the birds were never plentiful, a scarcity of moisture being the only explanation to offer for their absence. Of the sandpiper family, from the July visit of the upland plover down to the first real cold snap, there was any abundance, and it was no trick at all to go forth and return with a good kill of golden backs, the greater and lesser yellowlegs, or any of the smaller varieties of these delicate morceaux.</p>
+         
+         <p>From this on to the freeze-up sportsmen must be content with an occasional foray through the stubble for quail, or a ramble through the brown woods for squirrels, for there is little further chance for shooting on the lakes or in the marshes until the tempered winds of March again loosen their icy fetters.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sporting Editor [Sandy Griswold]. December 6, 1891. <title>Omaha Sunday Bee</title> 21(172): 15. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

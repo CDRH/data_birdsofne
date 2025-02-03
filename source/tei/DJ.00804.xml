@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00804">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Snowy Owl.</title><title level="j">Forest and Stream</title><author>Wolfe, W.M. (Shoshone).</author><date>1890-01-16</date><biblScope>33(26): 511.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-11"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Snowy Owl.</head>
+         
+         <list type="simple">
+            
+            <item>
+               
+               <hi rend="italic">Editor <title>Forest and Stream</title>
+               
+               </hi>:</item>
+         
+         </list>
+         
+         <p>Mr. L. S. Foster's inquiries concerning the snowy owl (<hi rend="italic">Nyctea nyctea</hi>) come very opportunely. The southern flight of these birds during the past two weeks has been remarkable, only exceeded by the great migration of '76-77. At present the snowy owl is to be found in great numbers between the Platte and Loup rivers in Buffalo and Dawson counties, Nebraska. A Kearney taxidermist has received nine specimens within the past week. These will average 24 in. in length, with 17 in. wings. There have been all shades, from the heavily mottled female to the immaculate male, two specimens being without spot or bar. A marked peculiarity was their emaciated condition, the entire digestive apparatus being in some cases empty. One specimen that I examined contained shreds of gopher hair. The great body of owls arrived about eight days before the recent cold wave, and their advent is a sure precursor of low temperature.</p>
+         
+         <list type="simple">
+            
+            <item>Shoshone.</item>
+            
+            <item>Kearney, Neb., Jan. 1.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">W.M. Wolfe. January 16, 1890. <title>Forest and Stream</title> 33(26): 511.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

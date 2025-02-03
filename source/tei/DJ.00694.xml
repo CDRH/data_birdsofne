@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00694">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Be Prepared.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-01-23</date><biblScope>56(16=17): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Be Prepared.</head>
+         
+         <p>This has nothing to do with Boy Scouts, as the title might suggest, but concerns a group of birds that certainly emulate the example of the trained youngsters who use "Be Prepared" as their watchword.</p>
+         
+         <p>So far this winter we have had little weather to bother the seasonable birds a great deal. There has been no heavy snow, no blizzard, no sleet lasting long enough to cover the songsters' food supply, and no temperatures low enough to put the feathered hustlers to a real test. In any of the instances named it would be expected that the birds would be diligently saving up and hoarding supplies to tide them over, even as the Arctic explorer makes caches along his line of march, anticipating need of them on his retreat.</p>
+         
+         <p>But in spite of the comparatively mild weather thus far, the Nuthatches, Chickadees and even the Brown Creepers are hoarding suet placed for them by amateur ornithologists, as well as "planting" nature's "chow," secured from bark crevices, in carefully hidden cracks and holes in the trees of their habitat.</p>
+         
+         <p>This is thrift with a vengeance, but may mean that we have some hard weather to come and that the birds have advance information.</p>
+         
+         <p>Be that as it may, the fact remains that this crew of "preparedness" birds are emptying every suet holder as fast as it is filled and are chirping for more.</p>
+         
+         <p>And they do not eat it immediately, either, as observers can testify.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 23, 1921. <title>Omaha Sunday World-Herald</title> 56(16=17): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

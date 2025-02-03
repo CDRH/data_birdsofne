@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00316">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Flock of Bald Eagles. A Bunch of Fifty of These National Birds Seen Near Walker's Island.</title><title level="j">Omaha Weekly Herald</title><author>Maber, Nick.</author><date>1883-04-06</date><biblScope>18(27): 2. From the Sioux City Journal. Also in the Omaha Daily Republican April 6th.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+
+<revisionDesc>
+<change>
+  <date value="2005-08-01"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Flock of Bald Eagles.</head>
+         
+         <head>A Bunch of Fifty of These National Birds Seen Near Walker's Island.</head>
+         
+         <list type="simple">
+            
+            <item>Sioux City Journal.</item>
+         
+         </list>
+         
+         <p>A flock of eagles is believed to be a rare thing, but that is just what Nick Maber, ex-sheriff of Dakota county, and R.L. Ward, foreman for Davis &amp; Wann of this city, saw on Friday afternoon. The two gentlemen were returning from Jackson to this city, coming by the island road. When about four miles out from Covington, in Col. Orr's timber in Brushy bend, they saw on the trees ahead of them what they at first supposed was a flock of turkeys. Coming nearer they saw that the birds were not turkeys but eagles, bald eagles, too. As they came close most of them flew off toward the north, and were hid by the timber. But six remained. Among these six was one which Mr. Ward said looked like Old Abe, the Wisconsin war eagle. This one craned his neck as the two men passed directly under the tree where he sat. The men halloed, but neither this white-headed veteran nor any of the six flew off. Mr. Ward says that there were fully fifty eagles in this flock. Their plumage was not all alike, some being gray-headed and others with white heads. Both gentlemen are confident that there is no mistake about the identity of the birds. They were not fish-hawks nor buzzards, but bald eagles, that they saw.</p>
+         
+         <p>D.H. Talbot, who has made something of a study of the habits of birds, is now making a collection of owls and hawks. He says that the only owls and hawks found hereabouts at this season of the year are the Arctic species. These Arctic birds have come in much greater numbers and ranged further south during the past winter than usual. He accounts for this on the theory that the cold weather north has been much more severe than common, and that the cold was not local, but came clear through from the extreme north. Two years ago last winter, when the cold at this city and in this section was more intense than during the past winter, there were very few Arctic birds seen hereabouts. Mr. Talbot when he visited the labrador coast last year was told there that the winter of two years ago was one of the mildest on record. It is probable then that the cold of two years ago was only local, and did not extend clear to the pole, and drive the Arctic birds south, as during the past winter.</p>
+         
+         <p>The cold weather alone does not drive the Arctic birds south. The crows, prairie chicken and quail, that in mild winters stay with us, go south when the weather is as severe as last winter. It is possible that these bald eagle had been south to winter, and so happened to come back in a body.</p>
+         
+         <p>The bald eagle is not entirely the noble bird that he is pictured by the poets. Truth compels the statement that he is by birth and practice a thief, and his principal source of support the fish-hawk, which bird he robs remorselessly. He will catch rabbits and other small game when he cannot find a fish-hawk to rob, and when on the tramp and hard up will eat carrion. The bald eagle, it may be mentioned in this connection, is the bird of our country.</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 6, 1883.<title>Omaha Weekly Herald</title> 18(27): 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

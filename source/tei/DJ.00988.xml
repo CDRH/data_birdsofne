@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00988">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Winter Bird Features [Bird Study and Hiking].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-01-11</date><biblScope>55(15): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Winter Bird Features.</head>
+         
+         <p>As the weeks of wintertime roll by, and we start in on the three long months that preface the opening of spring, the lovers of birds and the lovers of the hike find more and more to interest them.</p>
+         
+         <p>Some winters, to the amateur worshipper at the shrine of the Great Outdoors, prove comparatively dull and uninteresting. Hiking, in itself, is never thus, for the mere joy of the tramp through the crystal woods and glistening fields, and the zip of the freezing air as it cuts into your lowered face only to feel the overpowering resistance of health against it, sends one along, mile after mile, and homeward and healthward and dinnerward, rejoicing!</p>
+         
+         <p>But among the hikers, thanks to certain propaganda, there are many who look for more than scenery and health. They look for birds - and in this pilgrimage find the latter and the two former.</p>
+         
+         <p>This winter has been rich in novelties for the hiker searching for visitors of the feathered tribes. The low temperature and unceasing snow has brought to us many strangers. More than that, it has left us many of our fellows of the summer.</p>
+         
+         <p>Let the scoffer look for himself before he attempts to chide us when we say that in the thickets along the river bottoms near Carter lake are today a great many robins, a few bluebirds, and at least one or two Chewinks!</p>
+         
+         <p>Goldfinches are there, also, in their winter plumage, in which they are scarcely distinguishable from some sort of sparrow. Bluejays are common - not only on the bottoms, but in many of the upland parks. And in the latter woods will be found still more interesting visitors from the far north of the far west.</p>
+         
+         <p>There are Townsend Solitaires in Elmwood Park; and very probably in most of the other parks of this character. This bird is of the Thrush family and its home is in the mountains, where it nests among the rocks and jutting underbrush. It is about the size and color of the Catbird with some of the combined characteristics of the Phoebe and Shrike, in that it likes to perch on some prominent upstanding branch, twirk its tail, and then dash off as if in pursuit of an insect, returning to its former perch. It pursues other birds most vigorously, like the Shrike. See if you can find the Solitaire, for he is interesting.</p>
+         
+         <p>The Red-Bellied Woodpecker, Red-Breasted Nuthatch, Siskin, Redpoll, Red Crossbill, White-winged Crossbill - all these and many other delightful winter birds are here. Why not study them?</p>
+         
+         <p>Hiking is life-giving - and bird study makes hiking the more enjoyable.</p>
+         
+         <p>Try both today - it will increase your meat and grocery bill.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 11, 1920. Winter Bird Features [Bird Study and Hiking]. <title>Omaha Sunday World-Herald</title> 55(15): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

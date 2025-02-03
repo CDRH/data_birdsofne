@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00460">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Jacks Have Gone.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1895-05-05</date><biblScope>p. 19.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-02"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <figure entity="JacksHaveGoneSketch">
+            
+            <figDesc>Snipe Shooting—The Jacks Have Gone hunter dog and game.</figDesc>
+         
+         </figure>
+         
+         <head>The Jacks Have Gone.</head>
+         
+         <p>It is now safe to say that the spring shooting is practically over and the hammerless, so far as sport afield is concerned, can be oiled up and stored away until late in the summer, when the upland plover come in. The main body of wild fowl has been gone for weeks and the last of the jacks have departed within the last week, and no more will we hear his thrilling "skeap!" until the golden days of October once more break upon the world.</p>
+         
+         <p>Jacksnipe are indisputably the greatest game bird that flies, and there is no sport in the field that equals what he is capable of furnishing.</p>
+         
+         <p>How the sportsman's heart swells with anticipation as for the first time in the budding spring he places his rubbered foot on his favored snipe grounds, and he starts in among the tussocks, forcing his way through tangles of ambitious sprouts, herbs and plants, ferns and mosses, over lichened logs, through thickets of yellow tendrilled willows and red-dyed maple springs and creeping vines. The whole landscape aflutter with animation and exhilaration.</p>
+         
+         <p>A wandering breeze sways the naked reeds; a robin sings his blithesome roundelay from the topmost twig of yon tall cottonwood; the black bird chirps merrily in this copse and that, and a jay scolds his mate in a near clump of maples; the crow caws in the distant wood; the hawk winnows his graceful shape far above, and a garter snake, with provident speed, makes its sinuous way into a crypt of dead flags from under your ponderous foot. In fact the whole scene is one bewildering to the eye and revivifying to the fancy.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. May 5, 1895. <title>Omaha Sunday Bee</title> p. 19.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

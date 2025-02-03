@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00652">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Free Park Music.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-03-28</date><biblScope>50(26): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Free Park Music.</head>
+         
+         <p>Four or five cities, among them Cleveland, Ohio, which are not troubled with wet and dry feuds or national politics, are co-operating with the high schools in bird culture. The students in the manual training department make bird houses of different kinds suitable to the various species of birds, and the park department places them in the public parks. It is expected that this plan will, in a year or two, make the parks a song land, filled with birds.</p>
+         
+         <p>A few cities are undertaking to mind their own business, to look after their streets, parks, schools, housing for the people, obtaining pure water at low cost, getting light and heat and transportation at reasonable rates, educating the children, providing for relaxation and recreation, fresh air, good schools and such things as that, leaving state and national affairs severely alone, attending to them at the proper time and wholly excluding them from city campaigns.</p>
+         
+         <p>This bird movement in several cities will likely have a lasting benefit. If the city employs a hundred thousand insect destroyers, they will pay for their keep in that employment and furnish music in the parks free. In Cleveland the movement is spreading from the parks to private residence sections, some of the citizens asking the high school students to make them bird houses also, but the ornithologists tell them that they cannot get their bird music entirely free. Forester Buddy has furnished them with a list of shrubs and vines which they must plant to furnish food for birds, as they do not live wholly upon insects. It is a sort of city government that all will approve, and there is a trend toward it all over the United States.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 28, 1915. <title>Omaha Sunday World-Herald</title> 50(26): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+
+
+      </body>
+   
+   </text>
+
+</TEI.2>

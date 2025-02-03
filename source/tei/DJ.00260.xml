@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00260">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Enemies of the Weeds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-09-14</date><biblScope>54(50): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Enemies of the Weeds.</head>
+         
+         <p>At this particular season, with every weed in full bloom or rapidly going to seed to propagate millions of other cute little weeds next spring, the thoughtful person is likely to consider that something should be done to prevent this multiplication.</p>
+         
+         <p>Something is really being done - by Dame nature herself, and that is why the Department of Agriculture is so anxious to have us help preserve our bird life.</p>
+         
+         <p>Even at this early date the Goldfinch and a number of different sparrows are on the job, busily engaged in eating the weed-seed along the roadside and in the carelessly cultivated fields. To enumerate all the birds who thus support themselves and protect the human granary would be an irksome effort - but this salvaging is going on just the same.</p>
+         
+         <p>Still, it is in the fall and winter that we will see the birds at their best among the weeds.</p>
+         
+         <p>Then will come the Tree Sparrow and the Slate Colored Junco to remain during all the frigid months, and to industriously labor among the pods during that time. The Goldfinch, too, in his winter plumage, will remain on the job, and the Downy Woodpecker will give more than occasional assistance.</p>
+         
+         <p>Chickadees, also, are ravenous in their attacks upon weed seeds, and when the Red Crossbills and Redpolls come down for their "bit," then the farmer is indeed well cared for.</p>
+         
+         <p>Protection for the birds is so important that everyone should be interested. It is stated by experts that not a tree could live nor a field produce its fair quota of food, without the songster.</p>
+         
+         <p>Remember that fact when you take your Sabbath hike today!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 14, 1919. <title>Omaha Sunday World-Herald</title> 54(50): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00474">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Kindergarten for Adults.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-04-04</date><biblScope>55(28): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Kindergarten for Adults.</head>
+         
+         <p>For nearly six years the World-Herald has printed each Sunday an editorial concerning our native birds, their life and habits, their benefit to us, and the additional and health giving benefits derived from outdoor hiking in pursuit of this study. We have printed these editorials for two reasons: First, to protect the birds, and second, to protect the physical and mental machinery of common mortals likely to be obsessed by business.</p>
+         
+         <p>If in these six years we have had something to say each Sabbath about birds or bird life, we might have had an individual essay on about 312 different species known to Nebraska, and yet leave 158 kinds of feathered critters unaccounted for.</p>
+         
+         <p>There are at least 470 different birds identified in the state of Nebraska each year, which tends to make the delightful amateur game of bird study the more delightful - since the very best score ever made by Nebraska ornithologists' in one day is considerably less than 100. Nebraska ranks third in the number of different birds identified, only California and Texas being ahead.</p>
+         
+         <p>But never mind the birds - what about the folks who study them?</p>
+         
+         <p>There is no doctor, we believe, but will cheerfully "okeh" the Sunday hike as a near-panacea for a great many of the human ills. But a hike merely for the hiking is often a difficult proposition, especially if made a solo affair. Two men, two women, or a man and a woman, can hike successfully without many boresome moments - but the fellow who tramps alone must have something to do besides ruminate. So the study of birds, or trees, or plants, is pretty sure to relieve the situation - especially the study of birds.</p>
+         
+         <p>For in the amateur study of birds the tyro may amuse himself even though he "beat it" all alone. And you would be surprised to know the number of big business men who add years to their lives in just this way. And also add years to the lives of the birds, also; who, in turn, add to our crop of grain and fruits by battling the noxious insects and piratical worms.</p>
+         
+         <p>Spring is here, with its sparkling opportunity of bird study. Why not go out today on foot - be you rich or poor - and watch for the many migrants and summer residents in their feathered coats now arriving in season?</p>
+         
+         <p>You will walk a dozen miles without knowing it - and thus help yourself a dozen years!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 4, 1920.  <title>Omaha Sunday World-Herald</title> 55(28): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

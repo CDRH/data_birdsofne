@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00222">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Disappointed Grosbeak.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-07-15</date><biblScope>52(42): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Disappointed Grosbeak.</head>
+         
+         <p>He came one morning, with the glorious rose of his breast fairly sparkling in the sunshine and the black and white of his fashionable rainment setting off this adornment as a priceless ruby, perfectly mounted.</p>
+         
+         <p>It was a modest city garden that he chose for his hunting grounds this day, and there were potatoes in it, which he noted with approval, being of a Hooveresque turn of mind and in favor of conservation. The potatoes themselves did not interest him gastronomically, but he doubtless reasoned that office gardeners in palm beaches were not likely to seriously impair their health in modern methods of cultivation, and that his old friend, the Potato Bug, would be there in force.</p>
+         
+         <p>After surveying the promising prospect in something the manner that we inspect a comprehensive menu, this Rose Breasted Grosbeak swooped daintily down and began his foray. Diligently he prowled that potato patch - diligently and painstakingly and with unswerving attention to business. Up one row and down another he hopped and flew, and finally swooped to a fence post and swore. If ever so beautiful a bird creature swore, this one did - and vehemently.</p>
+         
+         <p>"Well, may I be blistered if this don't beat all-get-out!" he fumed, partly to himself. "Not a single, bloody, yellow-backed, striped son of a sea cook in sight! What do you know about that!"</p>
+         
+         <p>He had something to blaspheme about, too, for potato bugs are strangely scarce game in these parts this year, and potato bugs are the Grosbeak's favorite dish. Many a crop of spuds have been saved from these pests by this splendid bird - a fact which should interest Nebraskans, now that this has blossomed out as a potato state.</p>
+         
+         <p>But this particular Grosbeak ripped around awhile and then decided that if he couldn't have potato bugs he would try some other delicacy in season, and all day long he worked in that garden; he only knows how many thousand insects he removed from this citizen's ripening crop, if he kept count, which is doubtful. And in the evening he offered thanks with that deep-throated, melodious warble which completely defies all human instruments, and flew away, his gun over his shoulder, so to speak.</p>
+         
+         <p>Anyone who hasn't the proper appreciation of birds' service to mankind would do well to spend a few hours in a garden at this season. He should count the number of bugs and worms and things that these feathered foragers consume in a brief space of time, and then wish he had that many dollars so he could retire and have a private car and a winter home in southern California and live happily ever after.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 15, 1917. <title>Omaha Sunday World-Herald</title> 52(42): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

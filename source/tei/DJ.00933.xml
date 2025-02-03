@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00933">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Valley Wild Bird Club is Pushing Conservation Under Guidance of Miss Mutz.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1916-05-28</date><biblScope>51(35): 4-E. Includes a picture of the teacher and the class of students.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Valley Wild Bird Club is Pushing Conservation Under Guidance of Miss Mutz.</head>
+         
+         <p>Wild bird conservation is taken a hold on the heartstrings of citizens of Nebraska - both old and young - during the past few months as never before. The agitation, that had its inception with the Audubon society, has gradually spread out until practically every farm, hamlet, village, town and city in the whole state has awakened to the necessity of preserving the lives of wild birds, if Nebraska proposes to continue to be known as the bird paradise of the middle west.</p>
+         
+         <p>During the winter months, all over the state, boys, and older ones, put in their spare time making bird houses. The teachers in the schools talked bird homes, and the boys on the farms took to the idea. The result is that the Nebraska birds have more and better homes than they have ever known. And in these homes, scattered all over the state, the birds are now nesting and rearing their young.</p>
+         
+         <p>Down at Valley, Neb., there has been organized the Valley Bird club, which work was inaugurated by Miss Dorothy Hope Mutz, teacher of the third and fourth grades. When the club was organized she drew up a constitution and set of rules, which govern the work of the members. The regulations are:</p>
+         
+         <head>What Members Promise.</head>
+         
+         <p>We, the following promise: First. To protect all useful birds. Second. To encourage birds to nest in Valley, by providing food in bad weather and by making at least one bird house and placing it in a convenient place for the birds. Third. To feed the winter birds that stay. Fourth. To aid them in building nests by putting out bits of string, feathers, etc.</p>
+         
+         <p>The agreement was signed by Miss Mutz and the following pupils of the Valley public school: Willard Kretlow, Ray Andersen, Ruth Brown, Earl H. Weekly, Lila Smith, Dorothy Butcher, Margaret Moon, Winifred McDermoth, Evelyn Erway, Margaret Kennedy, hazel Ferree, Esther Dorthea Bloomquist, Dorothy Webb, Marie Samson Hildreth Eddy, Bussel Stiese, John Honthorn, Nellie Saunders, Kenneth Beach, Bernie McDermott, Margaret Samson, Charles O'Brien, O'Neal Haynes, Wilber Kretlow, Hugh Maler, Harrel Maguire, Glenn Timmons, Paul Shotwell.</p>
+         
+         <p>Miss Mutz is alive with the work and is seeing to it that all the club members fulfill their obligations. In addition she has given the ma short course in bird life so that now nearly all the of the members can name the different birds they see and are familiar with their wild call. By taking up the bird study Miss Mutz has established a friendship among her pupils that will last. They now prefer to spend the time in the morning for opening exercises in studying birds rather than to have their teacher read to them.</p>
+         
+         <p>Accompanying this article is a picture of a part of the pupils of the Valley Bird club who are posing with the bird homes they made since joining the club, and which are now doing duty in treetops and on buildings in the pretty little city of Valley, where wild bird conservation was practically unknown until Miss Mutz took the work up with her pupils. There is also show a picture of the official head of the Valley Bird club.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 28, 1916. <title>Omaha Sunday World-Herald</title> 51(35): 4-E. Includes a picture of the teacher and the class of students.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

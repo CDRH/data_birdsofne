@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00119">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Blue Jay.</title><title level="j">Oologist</title><author>Hershey, H.E.</author><date>1890-02-01</date><biblScope>7(2): 29.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-10"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Blue Jay.</head>
+         
+         <p>As one walks along through the woods on a summer day, he will invariably hear the well-known, but harsh cry of the Blue Jay; this bird is very abundant in almost all parts of the United States; they are somewhat gregarious in their feeding, but unusually solitary in their nesting habits; the nest of the Blue Jay is a very bulky affair, composed of twigs and an occasional rag; they always line their nest with string and fine roots; they lay from four to six eggs of a dull green color, spotted all over with blotches of olive-green. The only fault I have to find with this bird is its natural propensity for nest robbing. Most farmers consider this bird as a great nuisance, but in my estimation this is a mistaken idea, for the reason that the Blue Jay destroys innumerable insects that would otherwise eat up the crops. The Blue Jay is very pugnacious, often fighting with birds a great deal larger than itself. The Blue Jay is often confined in cages and I have heard that they can be learned to talk, but I have never heard one myself. I have noticed that the Blue Jay, in finding material for its nest, breaks dead twigs from the trees instead of picking them up from the ground. The majority of the Blue Jays pass the winter in the same vicinity as they do the breeding season.</p>
+         
+         <p>H.E. Hershey,
+<lb/>Otoe Co., Neb.</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 1890. <title>Oologist</title> 7(2): 29.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

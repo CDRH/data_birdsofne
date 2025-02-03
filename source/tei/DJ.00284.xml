@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00284">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Farewell to Fine Feathers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-09-01</date><biblScope>53(48): 3-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Farewell to Fine Feathers.</head>
+         
+         <p>How quickly the summer comes and goes!</p>
+         
+         <p>It was only yesterday, it would seem, that the summer songsters arrived, and now many of them have gone to their southern haunts, to spend a long winter where the coal bills cannot harass them and where there will be no snow to shovel.</p>
+         
+         <p>To the bird-lover only is this quick and silent departure noticeable, and to him because he expects the exodus and is looking for it.</p>
+         
+         <p>The Dickcissel and the Indigo Bunting and the Maryland Yellowthroat have left, except in isolated and unusual instances, and are probably making their way toward the equator by easy stages.</p>
+         
+         <p>Yellow Warblers and the Orioles are also becoming hard to find, although the searcher may locate individual specimens if he be fortunate. The coming of fall is still further indicated by the mobilization of Robins and Bluebirds, who will yet be seen for many weeks, but who strangely congregate as if preparing for their journey.</p>
+         
+         <p>With the diminishing of the bird list secured by the trained observer, there comes at this time of year some added features to replace the lost beauties.</p>
+         
+         <p>For instance, the Goldfinches are nesting!</p>
+         
+         <p>It is a very peculiar fact that the Goldfinch, which stays with us all the year 'round, is the last bird to breed and nest - and its domestic affairs are today just "getting good."</p>
+         
+         <p>The Field Sparrow, too, which begins to breed and nest in the early spring, continues such gentle occupation until the autumn months, and thus helps drive dull care from the heart of the bird-lover.</p>
+         
+         <p>But the fine feathers are steadily disappearing, day by day, and presently you will find Indian summer upon you, with its migration of sparrows and warblers to the southward. Prepare for those priceless days!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 1, 1918. <title>Omaha Sunday World-Herald</title> 53(48): 3-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

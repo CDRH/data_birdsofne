@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00063">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Bird Bill Re-committed. It Will Probably be Defeated by Delays.</title><title level="j">Omaha Daily Herald</title><author>Herald editor.</author><date>1877-02-02</date><biblScope>12(96): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Bird Bill Re-committed.</head>
+         
+         <head>It Will Probably be Defeated by Delays.</head>
+         
+         <head/>
+         
+         <list type="simple">
+            
+            <item>Special Correspondent to the herald:</item>
+         
+         </list>
+         
+         <p>Lincoln, Neb., February 1, 1877.-There was the liveliest kind of a debate yesterday over Crawford's bill, the first introduced in the session-to</p>
+         
+         <head>Protect Birds</head>
+         
+         <p>from relentless destruction. The champions of this eminently wise measure were Crawford, North, Ferguson, Crans, Brown, Bryant, Birkhanser, Holt, Pepoon and Dawes. Chapman favored the bill in a somewhat curious kind of a way, not at all satisfactory to its other friends. He argued for an exemption for snipe from protection, on the ground that they were her only a short time in the spring of the year, and said they were of no service in destroying injurious insects, as they always remain in the vicinity of marshy ground, and added that there were only about 200 snipe in the entire State. In replying Birkhanser made a good point on Chapman by saying that is there were but 200 snipes in Nebraska, humanity required that these birds should be included in the provisions of the bill, in order that sportsmen should not run their legs off hunting them up. Pepoon came out strong for the bill, making some forcible remarks. In fact, Pepoon is one of the strong members of the Senate. he is not a handsome, showy man, as some of the rest of us are, but he is the personification of good sense. If those Pawnee county people are alive to their best interests, they will give Pepoon a permanent situation as a law-maker.</p>
+         
+         <p>Crawford said that is was admitted by members of the committee who favored the killing of birds that it cost the sportsmen at least one dollar for every bird killed. if that be true then, as a means of procuring food, it s too expensive, and if the innocent birds are killed for sport, then it is a crime and it ought to be punished. It seemed to him that at a time when insects are destroying the crops to such an extent in several States and Territories as to bring starvation upon the inhabitants, it is the duty of every good citizen to condemn the folly, weakness, and wickedness of those who shoot down the destroyers of these insects, which are causing such terrible devastation.</p>
+         
+         <p>After much discussion the bill was finally recommitted to the committee. It may become a law, but at the present writing the prospect is discouraging, especially as the situation is becoming somewhat complicated by reason of numerous petitions sent in on the subject by sportsmen's clubs. These petitions set forth that during the summer and autumn seasons these birds do not need any special protection, but that it is during the season of the year when the earth and foods are covered with snow that a law should be enforced preventing the use of traps, snares, nets, and other wholesale means of slaughter for market. The petition recommends that the season when grouse and quail may be killed extend from August 15th to December 1st, instead of August 1st to January 1st, as it now stands. The birds have attained sufficient size by August 15th to protect themselves from all fair means of sport, and the sporting season has closed itself as least as early as December 1st, after which time the birds willingly fall into traps and snares in search of food, and may be needlessly killed in unlimited numbers.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Herald editor. February 2, 1877. <title>Omaha Daily Herald</title> 12(96): 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

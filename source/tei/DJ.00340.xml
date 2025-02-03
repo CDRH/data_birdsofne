@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00340">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Game Laws and the Sportsman].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-12-31</date><biblScope>35(92): 18. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>[Game Laws and the Sportsman.]</head>
+         
+         <p>A Custer county sportsman writes to know whether our game laws cannot be revised in such a way that will make them effective, and my answer is that I hardly think so. They have been revised and lacerated at every session of the legislature since I have been a resident of the state, a period of fourteen years, and they are worse and more ineffective today than they have ever been. To make our game laws efficient, according to my way of thinking, they must be brief and simple, and not only intelligible as to their purport, but definite as to their application. They should be so demarcated as not to conflict with each other in any given section, to in contiguous sections, to which they are intended to apply, and thereby confuse the law-abiding, or afford opportunity of evasion to the evil disposed. In districts of wide extent, where the fauna are the same as in Nebraska, Kansas, Iowa and Dakota, and the breeding seasons nearly synchronous, and climatic conditions similar, it is desirable and necessary to have the laws identical and uniform, and this is the ultimate object which the sportsmen best informed upon the subject of game protection are striving to pursue.</p>
+         
+         <p>There is one thing certain, I can freely advise my Custer county friend that unless we do get such uniform legislation in the near future the time will come when we will have to go to killing English sparrows for game. Fashion has played havoc with most all of our song birds, such as the lark, robin, bluebird, bobolink, blue jay and blackbird. The market hunter is rapidly driving the remnant of the grouse family to the last cover, Specimens of big game are being placed in private preserves to prevent their total extinction, and our lakes and rivers within easy reach of civilization are kept stocked with fish only by artificial means, and the strong arm of the law backed up with the closest sort of vigilance. You and I have seen the prairie chicken all but exterminated on Nebraska's broad plains, and it will not require five years longer to thoroughly complete their extirpation. As is well known I am a devout believer in game protection, and that there should be more stringent laws until, at least, sportsmanship shall have reached a higher level. I believe there should be no traffic in game. Not that I would deprive any one of the right to use it, but because this would close the most extensive channel through which game interests are passing into nonentity. And at last I am forced to take stock in private preserves. Not that I would like to see privileges placed in the hands of a few, but because this system will give more protection to our game during the breeding seasons and insure its perpetuation. My interest in the wild life of the woods and fields is a heritage from my grand old father, who now sleeps in Forest Rose cemetery, in far away Ohio. I can look back to my early urchin days and see myself wading in Fetter's Run, with other boys, catching minnows in our straw hats, and picking the sweet flag buds along the shore, and I well remember what an interest I took in the blackbirds we frightened from their reedy nests, and how I would watch them as they sat swinging and chirping on some nearby cattail until we had moved on down the little stream, when they would flutter back to their speckled eggs. I still have my affection for the birds, but not I see the English sparrow age rapidly approaching, and again I sound the alarm.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy	Griswold. December 31, 1899. <title>Omaha Sunday World-Herald</title> 35(92): 18. Forest Field and Stream.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

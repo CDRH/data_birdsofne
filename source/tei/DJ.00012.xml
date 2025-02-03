@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00012">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The American Skylark Nesting [Horned Lark of West Omaha Fields].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-03-17</date><biblScope>53(24): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The American Skylark Nesting.</head>
+         
+         <p>While it is not generally known except among the "bird bugs", American boasts a near-counterpart of the famous English Skylark, albeit not so brilliant in its song.</p>
+         
+         <p>The American Horned Lark, absurdly common in our fields and prairies, has the pretty trick of climbing far into the heavens, singing as it flies, and hanging there in the zenith showering the earth below with its shrill, piping melody.</p>
+         
+         <p>Then, its song completed, the Lark closes its wings and drops like stone to within a few yards of the ground when it gently volplanes to some little protuberance on the surface, where it may continue its vocal program.</p>
+         
+         <p>The Horned Lark is of interest now because it is nesting. You will think it surprising, perhaps, but these dainty little creatures are among the hardiest of our feathered friends, and spend the whole winter with us, as well as the summer. And in the middle of bleak March they mate and begin housekeeping operations.</p>
+         
+         <p>The nest is but a sparsely lined cup laid on the bare surface of the ground, generally in a tiny gully, but so excellent is the camouflage protecting this homely abode that fortunate indeed is the bird student able to find it.</p>
+         
+         <p>One of the most engrossing sports of the bird lover is hunting the Horned Lark's nest.</p>
+         
+         <p>It would please you to try it today, or next Sunday, perhaps - in some open field at the outskirts of the city.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 17, 1918. The American Skylark Nesting [Horned Lark of West Omaha Fields]. <title>Omaha Sunday World-Herald</title> 53(24): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

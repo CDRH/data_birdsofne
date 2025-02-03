@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00382">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Gun Club Banquet. A Royal Spread and a Challenge to Hunt Next Year.</title><title level="j">Omaha Daily World</title><author>[Woodbridge, Sans.].</author><date>1886-10-25</date><biblScope>2(54): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-06-13"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Gun Club Banquet.</head>
+         
+         <head>A Royal Spread and a Challenge to Hunt Next Year.</head>
+         
+         <p>A white crane with wings spread and glistening in the gaslight like satin, was suspended from the ceiling, luxuriant palms and ferns stood beneath it, and bordered with smilax and flowers, a table set in the form of a square, and heaped with punch bowls and glittering silver and crystal were seen in the dining hall of the Millard on Saturday night. The event was the second annual banquet of the Omaha Gun club. The winning eight sportsmen in the fall hunt, headed by their captain, Dr. Worley, the losing eight with their chief, Mr. J.J. Hardin, were both there, and it was difficult to tell which was the most pleased with the banquet. Besides the members there were numbers of guests, and several members of the old Omaha Sportsmen's club.</p>
+         
+         <p>President Bedford was master of ceremonies, and at the word the feasters fell to with a gusto that is possessed only by those who earn appetite and enjoy the reward of the chase. Little Neck clams, terrapin soup, crabs, venison, goose, squirrel, snipe, duck, prairie chuck, grouse, wines and Roman punch and all the features of dessert and fruits that go to make a royal banquet, were served. President Bedford, Dr. Peabody, General Smith, who was the hero of the big score, Hon. B.E.B. Kennedy, Dr. Hyde, Dr. Worley, J.J. Hardin, E.A. O'Brien, E.C. Snyder, "Yankee" Hathaway and J.R. Clarkson, were the speakers, and it was midnight when the party broke up. Each carried with him as a souvenir the exquisite menu card, which Mr. Cotter of the committee had gotten up. Those present were: H.A. Worley, John K. Stout, F.S. Parmalee, George E. Kay, H.B. Kennedy, George S. Smith, T.H. Cotter, Sam Usher, G.S. Mills, J.W. Holmes, J.A. Penrose, C.B. Lane, Goodley F. Brucker, Eugene Finger, Ed. Leeder, Gus Ichen, John Field, Jeff. W. Bedford, J.J. Hardin, of the Gun club. The Hon. B.E.B. Kennedy, Dr. J.H. Peabody, S.B. Hathaway, C.H. Briggs, R.H. Walker, O.H. Gordon, C.J. Williams, J.H. Griflin, W.S. Wing, Henry Greisedrieck of St. Louis; John Hoye, Col. C.M. Terrell, J.J. Burns, Walter Phelps, D.F. Lane, C.W. Strock, Wm. Krug, C.C. Williams, Dr. H.W. Hyde, John S. Prince, John Campbell, C.I. Capron, R.M. Withnell, J.R. Clarkson, G.H. High of Sidney, Charles Balbach, Capt. M. Farrell, Wm. Blood, Herald; E.A. O'Brien, Bee; E.C. Snyder, Republican, and the World representative.</p>
+         
+         <p>Capt. Hardin challenged Capt. Worley to shoot next year, each to have the same team, and this was accepted.</p>
+         
+         <cit>
+            
+            <bibl default="NO">[Sans Woodbridge]. October 25, 1886. <title>Omaha Daily World</title> 2(54): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

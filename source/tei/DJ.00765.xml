@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00765">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Ice-sealed Bird Food.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-02-08</date><biblScope>55(19): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Ice-sealed Bird Food.</head>
+         
+         <p>No better nor more forcible argument in favor of the feeding of our winter birds has been made in some time than that advanced by Nature itself last Monday night.</p>
+         
+         <p>On this evening, and continuing through Tuesday forenoon, there was a downpour of rain in a temperature low enough to freeze it into a glare of ice over everything it touched. For humans it was an inconvenience, well tempered with comedy - but for the birds of the woods and fields it was a tragedy!</p>
+         
+         <p>Winter birds in the vicinity of Omaha, of which there are possibly twenty-five varieties sure of identification, subsist almost entirely on the very food that was encased in the armor of ice. The woodpeckers, nuthatches, creepers and the like "frisk" the bark crevices, while the seed-eaters rely upon the pods and stalks and droppings - which also were covered.</p>
+         
+         <p>So the birds were sorely put to it to secure their daily bread.</p>
+         
+         <p>At this time the suet baskets and strips of bacon rind placed in wooded parks and along the timber-land lining the nearby creeks and small rivers, made the work of the Audubon Society and the Boy Scouts well worth while.</p>
+         
+         <p>Not only did the birds in these districts keep themselves alive by these feeding stations during the crisis and until the ice had melted, but the vast amount of such food they had taken and "cached" in various hidden nooks, came to be priceless in birddom.</p>
+         
+         <p>Had it not been for the Audubons and the Scouts, many wild winter birds must surely have died - and every wild bird that passes away means that much economic loss to the United States of America, in support of which the reader may secure plenty of corroborative evidence from the Department of Agriculture.</p>
+         
+         <p>Feed the birds - for they feed you!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 8, 1920. <title>Omaha Sunday World-Herald</title> 55(19): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

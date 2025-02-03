@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00218">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Description of the Breeding Plumage of Chadbourne's Field Sparrow (Spizella arenacea), With Evidence of its Specific Distinctness.</title><title level="j">Auk</title><author>Merriam, C. Hart.</author><date>1888-10-01</date><biblScope>5: 402-403.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-06-08"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Description of the Breeding Plumage of Chadbourne's Field Sparrow (<hi rend="italic">Spizella arenacea</hi>), With Evidence of its Specific Distinctness.</head>
+         
+         <head>C. Hart Merriam.</head>
+         
+         <p>Two years ago Dr. Arthur P. Chadbourne described* (*<title>Auk</title>, III, April, 1886, 248) a new <hi rend="italic">Spizella</hi> from southern Texas. His description was based on specimens in winter plumage, from which he assumed the newform to be merely a subspecies of <hi rend="italic">Spizella pusilla</hi>. Mr. Ridgway redescribed the bird in his new "Manual of North American Birds," but was no better off for material, all of his specimens being in fall or winter plumage (though not so stated in the Manual). Mr. Vernon Bailey has recently sent me an adult male <hi rend="italic">Spizella</hi> in breeding plumage from Fort Pierre, Dakota, which proves to be widely different from any known species of the genus. It is appreciably larger than <hi rend="italic">S. pusilla</hi> and its entire head and nape are clear ash-gray, with but a faint wash of rusty over the sides of the crown. Comparison with specimens of <hi rend="italic">arenacea</hi> in the collection of the United States National Museum leads to the belief that the present specimen represents the previously unknown breeding plumage of that bird. It is so totally unlike <hi rend="italic">Spizella pusila</hi> or any other known species of the genus that it cannot for a moment be regarded as only subspecifically separable. At first glance the bird looks like an overgrown specimen of <hi rend="italic">Spizella atrigularis</hi> of the second year, excepting that the colors are everywhere lighter and clearer.</p>
+         
+         <p>Description of specimen.—(No. 113,893, U. S. Nat. Mus.) Head and neck all around clear grayish ash, paler below, nearly white under the chin; sides of crown faintly washed with rusty; no rusty spot on side of breast, nor huffy suffusion anywhere on breast; interscapulars pale, the rusty being confined mostly to the scapulars; outer edges of wing feathers whitish; wing-bars barely distinguishable; otherwise much as in the fall specimens from Texas described by Dr. Chadbourne.</p>
+         
+         <p>
+            
+            <hi rend="italic">
+Measurements</hi>.*—Culmen from base, 10 mm.; culmen from nostril, 7 mm.; wing, 68 mm.; tail, 67 mm.</p>
+         
+         <p>
+            
+            <hi rend="italic">Remarks</hi>.—Two additional specimens, also both males, collected at Valentine, Nebraska. June 21, 1888, agree with the above in all respects, except that there is little more rusty on the sides of the crown and interscapular.</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Catal. No.</hi>
+                  
+                  <lb/>
+                  
+                  <hi rend="center">U.S. Nat. Mus.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Sex.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Locality.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Date.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Wing.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Tail.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Culmen from actual base.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Culmen from nostril.</hi>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">113,893</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Male</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Ft. Pierre, Dak.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">May 29, 1888.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">68</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">67</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">10</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">7</hi>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">113,894</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Male</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Valentine, Neb.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">June 21, 1888.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">68</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">68.5</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">9.5</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">7</hi>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">——</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Male</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">Valentine, Neb.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">June 21, 1888.</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">65</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center"> </hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">10</hi>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="center">7</hi>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>* The wing measurement is taken with dividers, the primaries in their natural position, <hi rend="italic">i. e</hi>., not straightened. The tail measurement is taken with dividers, and is made from the point of insertion of the two middle tail feathers to the tip of the longest feather.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 1888. <title>Auk</title> 5: 402-403.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00995">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Winter Wren.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-12-17</date><biblScope>52(12): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Winter Wren.</head>
+         
+         <p>Years and years ago our forefathers landed upon the present new England coast - some of 'em at any rate - and they endured a good many winters which very nearly froze and starved them out of existence. They put up a game and winning fight, but the suffering of those first winters, so the scientists say, has left a good many of us with an inherent horror of the frigid months. This dislike is felt to a greater or lesser degree by a large percentage of Americans, while spring and summer are regarded as the gay seasons by nearly everybody.</p>
+         
+         <p>All this merely as a prologue to a bird sermon.</p>
+         
+         <p>If there is any one songbird thoroughly known and enthusiastically adored by all, it is the Jenny Wren, or House Wren, of the summer months.</p>
+         
+         <p>The soul-stirring melody which pours forth from the throat of this tiny creature is well-nigh as familiar to all as the raucous squawk of the English sparrow, and its delightfully companionable eagerness to nest close to some human habitation and in some artificial dwelling we may erect for it, has made the House Wren one of the most popular of the feathered folk in this country.</p>
+         
+         <p>Weeks and weeks ago the Jenny Wrens left these parts for the warm southland, and took with them a great measure of cheerfulness and well expressed joy of living. The zero weather has come around - there is snow upon the fields and the summer birds are but glorious memories.</p>
+         
+         <p>Now, however, to encourage us in our wait for the springtime, the Gods have given us the pert little brother of Jenny - the Winter Wren!</p>
+         
+         <p>Oh, yes - there is such a bird - and he is right here in Omaha, and Nebraska, too!</p>
+         
+         <p>He is about the same size as the House Wren, but his tail is still shorter and points straight up to the zenith. he is ruddier in color, but his habits are about the same, for he lurks in the brush heaps and shrubbery along ravines and creek beds, busily scratching around for food like some tiny little winged mouse. Although he hasn't the rich, heartfelt warble of the Jenny, he has a neat little chirp that will attract you, and remind you of the summer to come.</p>
+         
+         <p>It is good to have the counterpart of Miss Jenny with us in the wintertime - and everyone should try to find Mr. and Mrs. Winter Wren during the next few weeks. They are not numerous - but they are here.</p>
+         
+         <p>God bless the Winter Wren!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 17, 1916.  <title>Omaha Sunday World-Herald</title> 52(12): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

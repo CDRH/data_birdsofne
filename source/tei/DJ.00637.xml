@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00637">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">"The Omaha Sportsman's Club." The First Day in the Field.</title><title level="j">Nebraska Tri-Weekly Republican</title><author>Anonymous.</author><date>1863-03-30</date><biblScope>5(76): 2. Published at Omaha City.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>"The Omaha Sportsman's Club." The First Day in the Field.</head>
+         
+         <p>This spirited little association was organized but last week and is composed of the right material for field and kindred sports as the result of their first day in the field, given below, will testify.</p>
+         
+         <p>At present it numbers fifteen members, as follows:</p>
+         
+         <p>D. Clifford Smith, President; Geo. B. Lake, Secretary; H.P. Sackett, O.P. Ingalls, R.F. Fletcher, B.F. Smith, Geo. W. Crowell, George T. Hoagland, D.C. Sutphen, W.J. Kennedy, Edward F. Tennery, John W. Campbell, Stephen Ullery, Peter Windheim and B.E.B. Kennedy, the mention of whose names are sufficient to guarantee its integrity of purpose and certainty of success. We admire the spirit and zeal with which it is gotten up, and more especially do we admire the geese and other fowls that occasionally find their way to our humble table.</p>
+         
+         <p>On Monday last a grand hunt was decided upon in which all the members should take part. Accordingly Messrs. R.F. Fletcher and William J. Kennedy, were appointed Captains, who were to choose alternately from the Club, their men for the action, and Wednesday, to end with a game supper to be furnished at the expense of the losing party.</p>
+         
+         <p>Fourteen members reported for duty, and at early dawn could have been seen the contestants with gun in hand and "pouch on side," wending their way to the accustomed haunts of beasts and birds. Day closed, followed with the return of the hunters, with slow and heavy tread, unlike the elastic step of morn, each bearing the trophies of the day and proudly laying them at his Captain's feet.</p>
+         
+         <p>It would be invidious to particularize the individual results, but suffice it to say, that Captain Fletcher's was the winning side, making a count of 179 against 91. That our readers may understand the result and appreciate the enormous Pile" of game we will state that the "score" or count is graduated to that the common duck counts one making the result of the figures about equal to 270 common duck or nearly 20 to each man.</p>
+         
+         <p>We heartily congratulate the members of this young club in this grand exhibition, of their sporting qualities and hope they may always be attended with equal success.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 30, 1863. <title>Nebraska Tri-Weekly Republican</title> 5(76): 2. Published at Omaha City.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

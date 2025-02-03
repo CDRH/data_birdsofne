@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00753">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Save the Birds.</title><title level="j">Omaha Daily Herald</title><author>Pearl, China.</author><date>1877-01-23</date><biblScope>12(72): 2. From the Fremont Herald.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Save the Birds.</head>
+         
+         <list type="simple">
+            
+            <item>To the Editor of The Fremont Herald.</item>
+         
+         </list>
+         
+         <p>It seems to me to be the duty just now, not only of the press, but of every thinking man who values the future welfare and prosperity of his State, to press this question upon the consideration of the people's representatives now in session at Lincoln.</p>
+         
+         <p>There is no dispute that the grasshopper question is of vital importance to the great Northwest. Neither is there any doubt, but there can be much accomplished in a direct fight with the enemy. But it is evually[sic.] true that it involves an outlay of cash, and labor, which is both expensive and difficult of attainment, and there yet remains a doubt that when all is done which can be done in this direction, it is not only temporary, and must be repeated every year for an unknown period, but scientific men all over the nation, even in remote States not in apparent danger, who have given the subject a careful and lifelong attention, are calling the attention of the legislatures to a remedy which not only has the merit of being permanent, but absolutely costless; viz: stop killing all kinds of insect-eating birds. Yet it is of a common thing to hear men, wise in their own conceit, ridicule the idea of a few birds having any perceptible effect on these clouds of grasshopper, and also contend that the prairie chickens, if not killed would be more destructive than the grasshoppers. Let us for a moment give this question a candid examination. First, what is the natural effect of settlement and civilization upon birds? In most new countries before settlement birds are scarce. Why? Because 1st, the carnivora are more numerous; 2d, food is not as plenty. In the earlier settlement of a country there is uniformly a rapid increase of birds, for just the reason named; hawks, wolves, wild-cats, mink and other carnivora are destroyed. Cultivation largely increases the food supply. As population increases the class of idlers becomes represented, and in a few years hunting for fun brings down the birds to the anti-settlement standing. Any man who has witnessed the settlement of a new country will corroborate this statement.</p>
+         
+         <p>Take the prairie chicken as an example. So closely have they kept apace with the advance of settlement that they are generally believed to be a native of the prairies. On the contrary, they are a native of the Atlantic coast, a sedge bird of the rice swamps; in fact they could not exist a single winter on the prairies without the grain fields and stubbles. It is a well known fact that in the first dozen years of the settlement of every prairie State these birds have increased immensely, and just as well known that there comes a time afterward when they are hunted and trapped almost out of existence. I do not make the assertion, but simply inquire if an instance can be named in any given locality during this period when the prairie chickens and quail were plenty that there was any notable injury to crops by any indigenous insect?</p>
+         
+         <p>The grasshopper of course cannot be included because it might migrate from some very distant region. Two facts are indisputable: First, that nature if let alone will keep up the balance of life, and second, that if let alone small birds will greatly increase after the settlement of a country.</p>
+         
+         <p>The only questions which remain are first, is this cause sufficient to sensibly reduce injurious insects and especially grasshoppers? and second, will the birds themselves do as much damage as the insects they destroy? Entomologists by actual count have established facts like these: The English sparrow, a small bird, will devour 300 insects in two hours in the morning and 1000 during the day. A mother robin will carry to her young a worm every three minutes during the entire day. Audubon says he estimated a flight of pigeons in the west at 3,000,000,000. Each square mile in a settled country ought to carry at least 500 insect eating birds. Will some of these doubters please figure up in the light of these facts how many grasshoppers a family of 20 quails will destroy from May 1st to October 1st? It is just as certain as that two and two are four that one family of 20 quails will take care of every hopper that will breed on any 100 acres with a good margin left for chintz bugs, etc. The birds can do it and the only question left which has any point to it is, will they pay for keeping? The prairie chicken is the one which injures grain more than all the others, and until they are two-thirds grown they never touch grain, and in literal fact they eat very little grain until the ground is covered with snow and they are forced into the corn fields. While it is admitted that the prairie chicken is the most injurious of any to the farmer, every cent's worth of grain they eat is worth a dollar to the farmer in the long run, and besides the grain they eat is mainly from the field of the shiftless man who leaves his corn in the field all winter. It is to be hoped that there is a good sprinkling of educated and thoughtful farmers in the present legislature.</p>
+         
+         <list type="simple">
+            
+            <item>China Pearl.</item>
+            
+            <item>Hooper, January 17, 1877.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">China Pearl. January 23, 1877. <title>Omaha Daily Herald</title> 12(72): 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

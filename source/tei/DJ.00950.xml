@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00950">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Waxwings [Migratory Songsters at Elmwood Park].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-04-16</date><biblScope>51(29): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-26">2006-06-26</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Waxwings.</head>
+         
+         <p>These are the days for your real sport in the woods, for the migrating songsters are already upon their way north for the nesting season and you have the most delightful and uncertain possibilities of new discoveries.</p>
+         
+         <p>Reams of heavy, scientific stuff have been written concerning the true reason of migration among birds, but one of the most plausible is the theory attendant upon the descent of the ice-cap from the north pole, thousands of centuries ago. It is said that the pole was once a tropic, and that there the songsters, brightly colored and sweet voiced, made their homes. Then came the change in the world's affairs, the ice-cap formed and descended and the birds were forced south toward the equator.</p>
+         
+         <p>Now, under the circumstances as we see them, these songbirds still have the instinct to breed as near the north pole as possible. They go only as far south as they have to, and return as early as possible. One of the prettiest of all conceptions is that of the homesick Bluebird, who longs for his old home in the north and who often returns to it long before the weather warrants his migration. Bluebirds often are reported in January and many of these beautiful lives are lost through their yearning for the country their ancestors called home.</p>
+         
+         <p>But as to the surprises to be recorded almost every day in these few weeks, surprises calculated to delight the roamer of the woods and parks, the arrival last Tuesday of a vast flock of Cedar Waxwings is a typical feature of interest.</p>
+         
+         <p>The Cedar Waxwing nests in the latitude of northern Minnesota and is sometimes known as the Cedar Bird or the Cherry Bird—for he is passionately fond of cherries, as his best friends will not deny. But he is a pretty little fellow of buff and brown, with a delightful topknot to identify him from afar. His song is a simple serpentine hiss, which has wonderful carrying power, and he gets the name of waxwing because the tip of each wing-feather bears a little tuft that seems some sort of wax.</p>
+         
+         <p>Over seventy of these Cedar Waxwings were found in the topmost limbs of a tall dead tree in Elmwood park Tuesday. They were engaged in a sort of drill. For a minute or two they would all face south, hissing enthusiastically. Then, at an unobserved order, the whole flock would turn right-about and face north. Then they would face east—or west and these maneuvers would be kept up for some time. Occasionally one of the flock would flutter into the air, lop the loop a couple of times, and then return, his topknot crisp with pride at his achievement. Presently the whole flock would emulate his example in the air. It was a splendid performance.</p>
+         
+         <p>These Waxwings may be seen in Omaha's parks and woods for a week or two, and are worth the trouble of hunting for them. But they are not the only migrators to arrive these days, for the outlaw Cowbirds are here, black and silent in the fields, awaiting some other bird to build a nest in which Mrs. Cowbird may deposit her eggs—for this strange bird builds no nest of its own.</p>
+         
+         <p>The time is ripe for you to partake of the hidden joys of the fields and forests—for it is a time that comes but twice a year—in the spring and in the fall.</p>
+         
+         <p>These are love-days for the birds and they are so intensely human in their mating and brooding that we can all learn something by a bit of observance.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 16, 1916. Waxwings [Migratory Songsters at Elmwood Park]. <title>Omaha Sunday World-Herald</title> 51(29): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

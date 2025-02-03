@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00376">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Great Gobs of Grackles.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-10-07</date><biblScope>53(1): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Great Gobs of Grackles.</head>
+         
+         <p>In the early morning, when Old Sol is just beginning to paint things pink and the clink of the milkman's bottles is heard in the land, there arises in the skies the queerest, jangling, squeaking, squawking rumpus that ever puzzled a human ear.</p>
+         
+         <p>Half awake, your tired business man and his equally tired family merely dive deeper into the pillows and promptly forget it, but the person who has learned to enjoy that king of all harmless sports - bird study - pops out to have a look.</p>
+         
+         <p>If he is fortunate he is likely to be well rewarded these mornings, for the Bronzed Grackles are mobilizing for their southward jaunt, and when they get together they add up into "some" Grackles.</p>
+         
+         <p>Where they all come from, nobody can say - but they most certainly agree on a meeting point, for it would be silly to assert that as many of these Crow Blackbirds as can be seen in flocks these days ever spent the summer within ten miles of Omaha.</p>
+         
+         <p>Thousands of them is conservative. Tens of thousands is more like it - but not exaggeration.</p>
+         
+         <p>They tear back and forth across the heavens in mighty hosts - practicing for their long journey, it would seem - and getting in trim for it. The glowing morning clouds are hidden by their throng.</p>
+         
+         <p>Probably a peep at these wondrous conventions is not to fall to everyone, but a trip on foot through the outlying woods today is likely to put you in the neighborhood of this huge army, and the spectacle is worth while.</p>
+         
+         <p>The Bronzed Grackle is a beautiful bird - his name suggesting something of the burnish of his back and breast, and mingled in his clan may generally be found a large number of the splendid Redwing Blackbirds, with whom you are doubtless acquainted.</p>
+         
+         <p>This feature is but one of the many the Nebraska autumn brings to delight the amateur bird students. Better get into the game.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 7, 1917. <title>Omaha Sunday World-Herald</title> 53(1): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

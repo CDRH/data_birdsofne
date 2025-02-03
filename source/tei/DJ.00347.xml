@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00347">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Geese, Ducks, Plover, Snipe and Prairie-chickens Brought into the City].</title><title level="j">Omaha Daily Herald</title><author>Anonymous.</author><date>1868-10-18</date><biblScope>4(16): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Geese, Ducks, Plover, Snipe and Prairie-chickens Brought into Omaha (October 1868) </head>
+         
+         <p>Wild geese, wild ducks, blue winged teal, green-winged teal, plover, snipe and prairie-chickens are brought into the city by our sportsmen in great numbers. The hunters inform us that they never knew game of all kinds to be so plenty as it is now in the vicinity of Omaha.</p>
+         
+         <cit>
+            
+            <bibl default="NO"> Sunday Morning, Oct. 18, 1868. [Geese, Ducks, Plover, Snipe and Prairie-chickens Brought into the City.] <title>Omaha Daily Herald</title> 4(16): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

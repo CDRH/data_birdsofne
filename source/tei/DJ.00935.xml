@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00935">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Very Sensible Bird [Ovenbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-06-24</date><biblScope>52(39): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Very Sensible Bird.</head>
+         
+         <p>If you don't mind ruthless frightfulness on the part of the Missouri Valley mosquito squadron now infesting our most delightful wooded spots, you might try a jaunt through the Fontenelle Reserve or the forests north of Florence today, and make yourself acquainted with a very sensible bird.</p>
+         
+         <p>He is the Golden Crowned Thrush, better known as the Ovenbird, and has a well earned reputation as being a favorite often heard but seldom seen. The man who sees an Ovenbird is likely to have a reputation among amateur ornithologists such as is borne by the sea-faring party who is constantly sighting sea-serpents.</p>
+         
+         <p>For the Ovenbird is of a modest and retiring disposition - very. He attends to his affairs in the deepest clumps of undergrowth in dark ravines, as a general thing, and doesn't mix very much with his more demonstrative neighbors.</p>
+         
+         <p>His name is secured from the shape of his nest, which is built of grasses on the ground, a fair imitation of a miniature oven. During this season the shape of this nest isn't the only way in which it resembles an oven, either. Admiral Peary wouldn't feel a bit at home in those deep-cut ravines, where no cooling breeze can filter.</p>
+         
+         <p>But the Ovenbird shows his wisdom by constantly seeking knowledge. His cry is "Teacher! Teacher! Teacher!" with the accent on the last syllable. It is a call never mistaken after once heard.</p>
+         
+         <p>Fontenelle Reserve is well populated with Ovenbirds. They will be glad to see you, albeit you will be lucky if you succeed in seeing them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 24, 1917. A Very Sensible Bird [Ovenbird]. <title>Omaha Sunday World-Herald</title> 52(39): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

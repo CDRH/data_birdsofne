@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00351">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Getting Away With It [Cowbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-06-04</date><biblScope>57(33=36): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Getting Away With It.</head>
+         
+         <p>In these days of indeterminate sentences, pardons and paroles, it is refreshing of a Sabbath to toddle forth into the greenwood glades and the brisk-swept fields where the kine nibble an immaculate existence from about our very footprints. Surely one may feel that nothing of the murky or underhanded is to be found in such sweet surrounding. These sparkling heavens would forbid it.</p>
+         
+         <p>But there is a jet bird with his drab mate feeding about these clustered cows, and even perching upon their backs, between meals.</p>
+         
+         <p>"Jack! Jack! See-ee-ee!"</p>
+         
+         <p>This liberal presentation of the unmusical remarks of the Cowbird is sufficient for this case - as the Cowbird is essentially a business bird, and apparently acquainted with modern slang, for he saves his "jack" by the very simple manner of spending nothing for rent, household equipment, upkeep or other overheads.</p>
+         
+         <p>Classified as a useful bird, we doubt whether Cowbird and his wife are so regarded by other feathered folks, as Mrs. Cowbird is the only American small bird that lays her eggs in other birds' nests and then forgets about 'em.</p>
+         
+         <p>The burly young Cowbirdlets, upon hatching, often smother or crowd out the little Yellow Warblers or other juveniles of other tribes, while these outraged parents, in turn, battle with the hated Cowbird eggs by building over them, or forsaking the nests they have thus polluted.</p>
+         
+         <p>But the Cowbird is getting away with it, and should feel perfectly at home in its lawlessness, for humans nowadays have plenty of unwelcome guests wished upon them.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 4, 1922. Getting Away With It [Cowbird]. <title>Omaha Sunday World-Herald</title> 57(33=36): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

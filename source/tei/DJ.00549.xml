@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00549">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Missouri River Duck Notes.</title><title level="j">Osprey</title><author>Trostler, Isador S.</author><date>1899-05-01</date><biblScope>3(9): 131.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-07-05">2006-07-05</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Missouri River Duck Notes.</head>
+         
+         <head>By Isador S. Trostler, Omaha, Neb.</head>
+         
+         <p>The following is compiled from field notes which cover a period of twelve years' observation in the vicinity of Omaha, Nebraska. The dates given are earliest and latest dates when the species were observed.</p>
+         
+         <p>Mallard (<hi rend="italic">Anas boscas</hi>). An abundant migrant (and not uncommon summer resident in Nebraska). Arrives in spring Mar. 1 to April 20; departing southward Sep. 20 to Nov. 10. In very mild seasons numbers of these ducks are seen on the Platte River flats in midwinter. Many are killed along the Missouri, Elkhorn and Blue rivers, and adjoining lakes, sloughs and swamps.</p>
+         
+         <p>Black Duck (<hi rend="italic">Anas obscura</hi>). A common migrant, usually in company with Mallards, arriving and departing about the same time. Known to sportsmen as Dusky Duck and Black Mallard.</p>
+         
+         <p>Gadwall (<hi rend="italic">Chaulelasmus streperus</hi>). A common migrant, and possibly a rare summer resident. Arrives Mar. 20 to April 20. Returns southward in latter part of September and October.</p>
+         
+         <p>Baldpate (<hi rend="italic">Mareca americana</hi>). A common migrant. Arrives in spring Mar. 16, and stays to April 20; and returning southward is found from Sep. 15 to Nov. 10. Baldpates are not usually seen in flocks, but are found with Mallards, and in pairs or two's. They are often seen upon the prairies and in corn or wheat fields in autumn, and are almost always in good condition. Known to sportsmen as American Widgeons, and killed in large numbers.</p>
+         
+         <p>Green-winged Teal (<hi rend="italic">Nettium carolinense</hi>). A common migrant, Mar. 20 to April 20, returning in September and early October. large numbers are killed by local sportsmen.</p>
+         
+         <p>Blue-winged Teal (<hi rend="italic">Querquedula discors</hi>). An abundant migrant and not uncommon summer resident and breeder. Arrives about the same time as, or a little later than, the preceding species. Breeds in latter part of June. I found sets of 7, 9 and 11 eggs, incubation advanced in N.W. Nebraska, June 22-30, 1895. Returns southward in latter part of September and early October. Large numbers killed by sportsmen and market hunters.</p>
+         
+         <p>Cinnamon Teal (<hi rend="italic">Querquedula cyanoptera</hi>). A somewhat rare migrant. Seen in company of Blue-winged Teal during migrations.</p>
+         
+         <p>Shoveler (<hi rend="italic">Spatula clypeata</hi>). A common migrant; a few remain to breed. March 15 to April 10. Breeds June 1 to 20. Returns southward in late September and October. Easily decoyed and killed in large numbers. Known to sportsmen as Spoonbill.</p>
+         
+         <p>Pintail (<hi rend="italic">Dafila acuta</hi>). An abundant migrant. This is the first Duck to arrive in spring, usually coming in with the early rains and sleet storms, Feb. 22 to mar. 20; returning in fall Sep. 25 to Nov. 1. Known to sportsmen as Sprigtail. Easily decoyed and killed in immense numbers for sport and the market.</p>
+         
+         <p>Wood Duck (<hi rend="italic">Aex sponsa</hi>). A fairly common migrant and not rare as a summer resident in vicinity of timbered lakes and streams. Mar. 25 to April 15. Breeds in June and is seen in pairs and trios all summer. Departs for south Oct. 1 to 20; usually all gone before Oct. 15. Known to sportsmen as Summer Duck.</p>
+         
+         <p>Redhead (<hi rend="italic">Aethyia americana</hi>). An abundant migrant in spring, but not nearly so common in fall. Arrives (usually in large flocks) Mar. 12 to May 10. Latest seen October 12. A few Redheads probably breed in the northern part of this State.</p>
+         
+         <p>Canvasback (<hi rend="italic">Aethyia vallisneria</hi>). An irregular migrant, being seen in abundance some years and quite scarce in others. A few breed in the northern part of this State. Arrives Feb. 24 to Apr. 20; breeds June 1 to 20, and returns southward in latter part of September and October. Killed in large numbers by sportsmen and market hunters.</p>
+         
+         <p>American Scaup (<hi rend="italic">Fuligula marila</hi>). A common migrant, following shortly after the Baldpates in spring, Mar. 20 to Apr. 20, returning in fall Sept. 15 to Nov. 10. Known to sportsmen as Blue-bill, and killed in large numbers.</p>
+         
+         <p>Lesser Scaup (<hi rend="italic">Fuligula affinis</hi>). A common migrant. Seen about the same time as the preceding species in spring and autumn. Known as Lesser Blue-bill.</p>
+         
+         <p>Ring-necked Duck (<hi rend="italic">Fuligula collaris</hi>). Not uncommon as a migrant, arriving about same as preceding species, Mar. 20 to Apr. 20 and Sept. 15 to Nov. 10, but not so numerous.</p>
+         
+         <p>American Golden-eye (<hi rend="italic">Clangula clangula americana</hi>). Somewhat common as a migrant, arriving Mar. 20 to may 15. I have never observed this Duck in the autumnal flights, but they probably return southward early. Known to sportsmen as Whistler and Whistle-wings, and killed in considerable numbers on Missouri River.</p>
+         
+         <p>Barrow's Golden-eye (<hi rend="italic">Clangula islandica</hi>). A somewhat rare migrant, arriving with and seen in company of the American Golden-eye.</p>
+         
+         <p>Buffle-head (<hi rend="italic">Charitonetta albeola</hi>). A not uncommon migrant, arriving Mar. 15 to 30 and oct. 1 to 30. Known to sportsmen by many names, such as Dumpy, Dumpling, Butterball, etc.</p>
+         
+         <p>Harlequin Duck (<hi rend="italic">Histrionicus histrionicus</hi>). This beautiful little Duck is a rare migrant. I know of but three being killed in this vicinity, viz: Two on the Missouri River Sept. 16, 1893, and one Sept. 19, 1895, at Florence Lake, near Omaha.</p>
+         
+         <p>Ruddy Duck (<hi rend="italic">Erismatura jamaicensis</hi>). An irregular migrant. This Duck is the most irregular of all that occur in this vicinity. Some years they are abundant and in other years none are seen. They arrive late, May 1 to 20, and return Oct. 1 to 15.</p>
+         
+         <cit>
+            
+            <bibl default="NO">May 1899. <title>Osprey</title> 3(9): 131.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

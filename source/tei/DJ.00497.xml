@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00497">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Little Yellow-Rump [Warbler].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-11-07</date><biblScope>51(6): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Little Yellow-Rump.</head>
+         
+         <p>With Old Man Winter hovering about the premises and threatening to pounce upon the woodland tangles and brown stretches of fertile fields at any moment, it is indeed remarkable that so many birds have remained in this district so long. Perhaps they are a good deal like humans in that respect, or Indian summer has been about the only summer Omaha has enjoyed in 1915.</p>
+         
+         <p>Down in the jungles around East Omaha there have been identified within the past week such feathered critters as the Phoebe and the Cowbird, both supposed to have departed many weeks ago. This must indeed be proof that the birds, at least equally as astute as humans, do not regulate their migration by the calendar, but rather by the temperature and general weather conditions.</p>
+         
+         <p>But there is one busy little songster who has made himself more than apparent in the parks and copses about Omaha, appearing in great flocks several weeks ago and remaining in smaller numbers even until today. He is migrating, but is taking his time about it. The Nebraska autumn seems to suit him immensely.</p>
+         
+         <p>The Myrtle Warbler, known more generally some years ago as the Yellow-rumped Warbler, has recently endeared himself extremely in the hearts of Omaha bird lovers, not because he is a stranger, but because he has visited with us so long.</p>
+         
+         <p>Little Yellow-rump, as his name implies, may be readily identified by the "dandelion patch" low on his back, which mark shines forth in the sunlight as if Dame nature herself had desired that everyone become acquainted with this, one of her darlingest works.</p>
+         
+         <p>This interesting little visitor is considerable traveler, for he builds his nest in Canada and winters south of the United States. During migration he takes his time in his travels, as has been evidenced hereabouts of late, and when he likes a climate he sticks to it to the bitter end.</p>
+         
+         <p>A good deal like almost any sparrow in general color, at least from a long-distance inspection, the Myrtle Warbler, upon closer inspection, is really beautiful. He has yellow patches on his crown, sides and rump, with large white spots on his outer tail feather. Mrs. Myrtle Warbler, as is the seemingly unjust situation in all bird life, is duller and less attractive in her garb.</p>
+         
+         <p>Is it not wonderful that these little warblers, no bigger than a mouse, perhaps, can so adapt themselves to conditions of all kinds? If needs be they might fly from Omaha to Galveston in a day, according to some of the ornithologists - yet here is Little Yellow Rump dapperly enjoying what we enjoy - a Nebraska Indian summer!</p>
+         
+         <p>By rights he should be further south - but he knows a good thing when he sees it - and no Omahan will question his judgment. Might it not be well for you to take a walk today and see if you can make his acquaintance?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 7, 1915. Little Yellow-Rump [Warbler]. <title>Omaha Sunday World-Herald</title> 51(6): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

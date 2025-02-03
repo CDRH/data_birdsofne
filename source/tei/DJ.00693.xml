@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00693">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Prairie Chickens in the Sixties.</title><title level="j">Forest and Stream</title><author>Fuller, D.E.</author><date>1894-09-29</date><biblScope>43(13): 267.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-02"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Prairie Chickens in the Sixties.</head>
+         
+         <p>Away back in 1865 I lived in what I called the chicken paradise, near the confluence of the Platt and Elkhorn rivers in Nebraska. A magnificent valley ten miles wide stretches away in the distance; and clumps of willows and box elders border the low sandy banks of the little lakes, which dot here and there the beautiful landscape. I lived about midway between the two streams on a farm, five miles from neighbors. Prairie chickens had lived and flourished here for ages, undisturbed, save by a few hunters, the freighter and emigrants on the old military road which ran hard by.</p>
+         
+         <p>Long rows of sunflowers lined this road, producing rich nutritious seed by the bushel, on which the chickens thrived and grew fat. However, they soon learned that corn was sweeter than sunflower seed, and exactly filled a long felt want in the chicken's craw. The way they went for that corn was a surprise even to the Indians, who visited me quite often. A friendly old buck sagely remarked to me one day, as he pointed to the corn field, "Heap corn, heap chickum, pretty soon him eat white man's corn all up. Chickum heap fat"</p>
+         
+         <p>As soon as the corn was ripe, at the first streak of dawn, a few early birds could be seen headed for the field, then as dawn developed into daylight, the air was full, and a wild rush of wings could be heard coming from every point of the compass, till they must have numbered thousands. And what a noisy lot they were, holding a regular jubilee over the wonderful discovery they had made, and taking full possession under the right of squatter sovereignty. How they did squawk and chatter about it. The din was incessant. With the rustle of the dry leaves as they chased each other about in their play, the stripping and picking of the dry shucks, the thumping of their wings on the stalks in rising up and lighting again, they frequently deceived men, and I ran out expecting to find a herd of 500 or more Texas steers ranging in the field.</p>
+         
+         <p>It was really becoming a serious matter with me, as corn was a ready sale at my door to freighters and emigrants at 50 cents a bushel. It began to look as if the old Indian had formed a correct estimate of their number and the capacity of the Nebraska chicken for storing away corn. He was a Pawnee and had learned to talk English of the soldiers at the fort. He and his squaw stopped one day to get watermelons, of which they are very fond, and I had them in such abundance I was hauling them out by the load for my cows. "Ugh!" he grunted. "Bad chickum, heap too much chickum."</p>
+         
+         <p>At that moment a flock came sailing past. As quick as a flash he let fly two arrows, one after the other, and two chickens fell fluttering to the ground. The squaw shuffled after them, brought them back, and squatting down before the fire on which their coffee was boiling, she proceeded to roast them after having picked a portion of the largest feathers off. They ate all of the flesh and "innards;" nothing remained but a few bones. Patting his stomach, the Indian said, "No like chickum much; chickum bad; buffalo heap good."</p>
+         
+         <p>This then explained why the birds were so numerous; the Indians only killed them when out of other meat. I spent the greater part of my time hunting and endeavoring to drive them out of the field. When I fired they would rise with a roar like distant thunder, only to circle around and alight again just out of reach of my gun. Dan Parmalee, the crack shot of the state at the time, came out with two of his friends from Omaha, and slew them by the hundreds until I could get men to shuck my corn in order to save it.</p>
+         
+         <p>As other game became scarce, the demand became greater for chickens in market, and the pot-hunters and trappers wiped nearly all of them out of existence. Today they are a rare bird in that locality.</p>
+         
+         <p><hi rend="smallcaps">D.E. Fuller</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">September 29, 1894. <title>Forest and Stream</title> 43(13): 267.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

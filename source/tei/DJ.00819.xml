@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00819">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Southward Bound.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-09-02</date><biblScope>52(49): 6-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Southward Bound.</head>
+         
+         <p>With the first of September and the month's promise of corn, carnivals and carmine sumach, come the first of the winged transients from the north, bound for the sunshine and everlasting song of the south.</p>
+         
+         <p>The dainty Redstarts, heading the myriad warblers on their migration, have already arrived, and the flash of their glorious little fan-shaped wings are illuminating the woods. It is true that a few Redstarts nest here, but there are many which prefer a more northernly clime, so the arrival of the transients is worth chronicling.</p>
+         
+         <p>Beautiful young Redstarts! not yet old enough to boast the rich red or the deep orange highlights of their elders, but dainty as black-and-gold thistledown in the shadows of the forest! In the spring they will be with us again, for a while, and in the months intervening will have taken upon themselves the richer garb of the full-grown.</p>
+         
+         <p>These splendid creatures of the air are but the first of many, many warblers soon to pass through eastern Nebraska, and it will well repay any lover of nature to be ready to welcome them.</p>
+         
+         <p>The autumn is not far distant, and with it an entirely new citizenship in the russet glades and fields.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 2, 1917. <title>Omaha Sunday World-Herald</title> 52(49): 6-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

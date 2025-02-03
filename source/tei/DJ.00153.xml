@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00153">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">In Charlie's Mind's Eye.</title><title level="j">Omaha Sunday Bee</title><author>C. J. B.</author><date>1893-07-02</date><biblScope>p. 16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-12"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>In Charlie's Mind's Eye.</head>
+         
+         <p>Neligh, Neb., June 28.—To the Sporting Editor of <hi rend="smallcaps">The Bee</hi>: There is a splendid crop of prairie chickens growing up now, and unless something unforeseen occurs from now on we will have exceptional sport this fall. The country was full of old birds this spring, more than there has been for several years, and everything has been favorable to nesting. No late prairie fires, no heavy rain or hail storms to break up the nests or kill the young chicks which are now just commencing to run around lively in the grass. Quail also wintered well and from all along the brush and timber on the river bottom and in every bunch of brush and timber claim on the upland the pleasant call of bob white to his mate is heard. The little brown beauties are getting very plentiful here, and last fall the shooting was as good on them as I ever had in Iowa and it will be as good, if not better, this fall. Present prospects are therefore good for many a pleasant day afield with dog and gun. Come on up when the season is ripe and I will wipe your eye.</p>
+         
+         <p>"Can't do it," did you say?</p>
+         
+         <p>Well, I'll show you if you will give me a chance.</p>
+         
+         <p>Come out from among the brick walls and close air of the city and with me follow the dogs for a few days and the sporting columns of <hi rend="smallcaps">The Bee</hi> will contain even more ginger, if that is possible, than is their wont.</p>
+         
+         <p>Oh, I can see them now in my mind's eye, as they go circling and quartering the ground. Along the hillside at a breakneck gallop that they never seem weary of, down into the draw they go. Look at that! Yes, old Sport's got them.</p>
+         
+         <p>Well, who would have thought a man of Sandy Griswold's age would pile out of a wagon like that for anything but a runaway. But the blood of a man who has ever learned to love the sport of the field never grows cold, eh, Sandy.</p>
+         
+         <p>In the entire crowd the dog alone seems to be free from excitement. He might as well be stone for any move he makes. Now we are up behind him. Slowly he draws up to the birds, his muscles become rigid, his nose twitches nervously, as he snuffs the clear morning air. Those delicate nerves have told him beyond a question that the birds are in front of him, hiding in the grass.</p>
+         
+         <p>Up goes one, but let it go, that's the old hen. Suddenly the air is filled with birds, and bang! bang! bang! bang! I told you I would wipe your eye!</p>
+         
+         <p>Well, wouldn't a scene like that put new life into any man who has learned to look for it in the woods and fields? The scene can be repeated again and again, except possibly I couldn't wipe your eye every time.</p>
+         
+         <p>I will let you know when the proper time comes and then you can give the high five game at Bandle's a rest.</p>
+
+	<p>C. J. B.</p>
+         
+         <cit>
+            
+            <bibl default="NO">C. J. B. July 2, 1893. <title>Omaha Sunday Bee</title> p. 16.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00159">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Cheerful Flicker.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-02-03</date><biblScope>53(18): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Cheerful Flicker.</head>
+         
+         <p>When it has been below zero, or near it, for two months, and the general contour of the weather curve interspersed with sundry and divers blizzards, snow, et al. - the bird student encounters real trouble.</p>
+         
+         <p>In the first place, it is not pleasant in the woods when one has to carry around fifty pounds of clothing to preserve life, and in the second place there is a limit even to the good nature of the birds. The feathered friends of winter in such cases display human-like temper, pack their duds and depart for a warm spot.</p>
+         
+         <p>The warm spot is probably some heavily covered hollow where the winds and snows do not penetrate as bitterly as in such parks as Elmwood - but the birds certainly leave said park under such conditions, as fully evidenced in the past month.</p>
+         
+         <p>Local bird lovers whose testimony is beyond question, report that in recent weeks the flutter of a feather in Elmwood park is an event of consequence. Last Sunday two of these amateur ornithologists saw but two birds in that big -reserve - one Slate Colored Junco and one Northern Flicker.</p>
+         
+         <p>It is of the Flicker - this one particular Yellowhammer - that we would speak.</p>
+         
+         <p>Great big, good natured, humorous old chap, he seems almost out-of-place plastered there against a suet-basket, enjoying the food cached for him by humans!</p>
+         
+         <p>His creaky, pump-handle sort of song sounds strangely foreign to zero weather, although he is often seen in winter in heavily timbered sections. The merry wink of his roguish eye, and the impertinent cock of his head yet reminds us of the summertime.</p>
+         
+         <p>To have such a friend with us in these frigid times is certainly worth the slight effort of providing suet.</p>
+         
+         <p>He warms a frozen soul.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 3, 1918.  <title>Omaha Sunday World-Herald</title> 53(18): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

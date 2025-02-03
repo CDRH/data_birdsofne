@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00998">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Robt. Wolcott on the Dove; Plea for an Open Season.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy and Robert H. Wolcott.</author><date>1919-06-15</date><biblScope>54(37): 13-W.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Robt. Wolcott on the Dove; Plea for an Open Season</head>
+         
+         <p>A neat and attractive thirty-two-page pamphlet on Nebraska's game resources and their conservation, by Robert H. Wolcott, head of the department of zoology at the University of Nebraska, has found its way to my desk. The subject matter is well handled and is highly interesting and instructive, with numerous photos of our game birds, animals and fishes. We were particularly pleased with what Mr. Wolcott had to so pertinently say in connection without common turtle dove, espousing as he does, clearly and cleanly and sensibly, an open season on this delicious little game bird, a boon now denied the sportsmen. In part, Mr. Wolcott says:</p>
+         
+         <p>"the law with reference to the dove illustrates the tendency to go from one extreme to another; for from an open season which permitted the bird to be shot during its breeding season we went to a law which does not permit it to be shot at all. Personally, we believe neither extreme justified. The dove owes its protection largely to the efforts of sentimentalists to whom the word "dove" has a peculiar significance, though it is applied to a great number and variety of birds in various parts of the world. However, the dove is properly a game bird because (1) it is of sufficient size and its flesh is of fine quantity, (2) it exists in sufficient numbers to repay the hunting, (3) it flies with such speed that to secure it on the wing taxes to the highest degree the skill of the hunter and (4) if hunted it quickly becomes so wary that the utilization of every resource is necessary to get within range of it. The establishment of an open season is justified by (1) its abundance, (2) the remote danger of its extermination, (3) its probable quick recovery of numbers if they should be depleted by hunting and (4) the fact that while it should be considered a beneficial bird, it does not perform a service of such value as to outweigh its value as a game bird. It owes its numbers and its probable immunity from extermination, in spite of the fact that it lays only two eggs in a setting, to the fact that it often makes its home in close proximity to human habitations, thereby gaining immunity from its natural enemies, while owning to its nesting in trees it is not so often destroyed by cats as are ground nesters. It has two or three broods in a year. Practically all our other game birds nest on the ground, and thus sitting birds' eggs and young are more exposed to the attacks of enemies as well as in danger from the effects of cold and dampness. The argument for an open season on the dove is far stronger than that for one on the quail, and even better than that for one on the prairie chicken in most parts of the state, as both of these are of greater value to the farmer and far more liable to be exterminated. The opening of a season on the dove would compensate sportsmen in a way for the closing of seasons on so many other game birds."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold and Robert H. Wolcott. Jun 15, 1919. <title>Omaha Sunday World-Herald</title> 54(37): 13-W.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

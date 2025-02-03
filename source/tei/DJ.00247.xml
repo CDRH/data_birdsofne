@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00247">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Early Nesting of Bubo Virginianus.</title><title level="j">Oologist</title><author>Oologist Editor.</author><date>1891-02-01</date><biblScope>8(2): 31.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Early Nesting of Bubo Virginianus.</head>
+         
+         <p>H.E. Hershey of Nebraska City, Neb., thinks he is entitled to a medal for taking a set of two eggs of the Gt. Horned Owl, on Jan. 17th, but as C.B. Vandycook reports a set of three on Jan. 10th, "ten days along," we hardly think it would be fair to send him one.</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 1891. <title>Oologist</title> 8(2): 31.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

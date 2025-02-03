@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00151">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Changes in Nebraska.</title><title level="j">Forest and Stream</title><author>Allison, T.S.</author><date>1892-12-29</date><biblScope>39(25): 556.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-06-30"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>CHANGES IN NEBRASKA.</head>
+         
+         <p>Dawes County, Neb.—Northwest Nebraska is not usually a very inviting field to the sportsman. Six or seven years ago there was game here in abundance. Deer and antelope in goodly numbers roamed the pine-clad hills and pastured in the unbroken prairies, while now and then a huge-antlered elk could be seen browsing in the valley or standing with head erect on the steep hillside. At that time, too, grouse, the pin-tailed variety, were here in countless numbers. I think I can say without warping the truth that I have seen single flocks of these savory birds that contained upwards of 1,000. They were almost as tame as the common domestic fowl and the settlers killed them by thousands. In fact this was the chief source of subsistence to many a poor homesteader during the winter of 1885 and '86. It was fried grouse for breakfast, broiled grouse for dinner and grouse cold for supper, day after day for months. To give some idea of the tameness of the grouse here then it will only be necessary to tell how a vast number were slaughtered. The hunter, armed with a 22 breechloading rifle, would walk boldly up to within a few yards of the tree on which a flock of these birds had settled and there stand and shoot until a dozen or more had fallen dead to the ground before their companions would take flight. I have known fifteen to be killed in this way from a single standpoint.</p>
+         
+         <p>It is usually too dry here for waterfowl, but the past season was uncommonly wet, and in consequence large ponds and lakes were formed in various places throughout the country, which induced a good many cranes, geese, ducks and snipe to sojourn a while with us on their way South.</p>
+         
+         <p>For a few days after our heaviest rains great flocks of curlew visited the stubble and pasture fields and feasted on big plump grasshoppers.</p>
+         
+         <p>Six years ago there was not a quail in northwestern Nebraska, but some gentlemen at Long Pine, about 150 miles east of here, had a few shipped in and turned loose; and they have increased and scattered abroad over all this part of the State. Last fall I saw several coveys of from 10 to 20 young birds. I think they will do well here, for our winters are generally mild, and there is an abundance of food and shelter.</p>
+         
+         <p>The place seemed more civilized and homelike when these cheerful little rustlers appeared on the scene and began to pipe in the bright June mornings those old familiar words, "Bob White," I had loved to hear since early boyhood.</p>
+         
+         <p>Song birds are a great deal more numerous here now than a few years ago. During the summer of 1885 I think I saw but two robins and one thrush, although I kept on the lookout for my feathered friends. But now the fields and groves are endeared by the low sweet notes of the robin and the mild joyous melody of the thrush from April to October.</p>
+         
+         <p>Last year a good many robins and meadow larks wintered here; the former kept close to the timber and brush, but the latter, during stormy weather, sought the barn yard or straw pile for feed and shelter.</p>
+         
+         <p>There is a marked difference in the song of the meadow lark here from that of the East; it is more shrill and harsh and has several variations. Perhaps the climate is responsible for the change.</p>
+         
+         <p><hi rend="smallcaps">T.S. Allison</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">December 29, 1892. <title>Forest and Stream</title> 39(25): 556.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00987">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Winter Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-12-22</date><biblScope>54(12): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Winter Birds.</head>
+         
+         <p>As a writer in the current issue of Bird-Lore, the official organ of the National Audubon Societies, so wisely points out, there are thousands of American people who do not realize that bird study continues through the winter months.</p>
+         
+         <p>They forget, or, perhaps, do not know, that there are many birds that stay in the northern states through all the bitterest of the blizzards and zero weather, and do so by preference.</p>
+         
+         <p>They are likely to think, observes this writer, that the birds thus remaining are unfortunate in some respect, being unable to "make their get-away," and are to be pitied.</p>
+         
+         <p>There is nothing prettier in any of our seasons than the woods in winter, and although Omaha has had little of the old-fashioned variety, the deep snow and burrowing mercury have no terrors for a large number of our feathered friends who love the "zero hour."</p>
+         
+         <p>A list of the birds which may be seen all winter in our rustic parks - (what have been left of them by the axe brigades) - and in our woods, will include the Tree Sparrow, Chickadee, White-Breasted and Red-Breasted Nuthatches, Downy and Hairy Woodpeckers, Brown Creeper, Slate Colored Junco, Goldfinch, several varieties of Owls, Cardinal, often the Robin, sometimes the Chewink and always the Crows and Hawks, soaring above.</p>
+         
+         <p>This is but a partial list, but indicates the pleasure of bird study in the winter, especially when food-baskets, filled with beef suet, are placed in protected places.</p>
+         
+         <p>The weather is never too cold for the birds - and should not be too cold for the bird student!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 22, 1918. <title>Omaha Sunday World-Herald</title> 54(12): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

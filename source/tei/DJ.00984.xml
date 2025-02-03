@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00984">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Our Bird Farmers.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-12-29</date><biblScope>54(13): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Our Bird Farmers.</head>
+         
+         <p>All summer long the bluejay was busy planting trees, for that is his big job, despite his many shortcomings. He carries acorns and hickory nuts and other tree seeds about in the air in an aimless sort of way, dropping them when alarmed, or apparently when the spirit moves him. He is the greatest tree planter in all birddom.</p>
+         
+         <p>During the winter months the scores of different woodpeckers, finches, sparrows, warblers and other pretty friends of the human race were on their imperative job. They consumed billions of worms, insects, flies and other enemies of vegetation, and then retired to the southland.</p>
+         
+         <p>Now have come the second shift - for the birds seem to work a good deal like our fire department.</p>
+         
+         <p>This shift includes the winter farmers.</p>
+         
+         <p>We might speak of the nuthatches and creepers and downy and hairy woodpeckers, the chickadees and the tufted titmice, all of which spend every daylight hour in protecting our trees, but since many of these are also the farmers' friends, they should be classified also with the tree sparrow, goldfinch and junco.</p>
+         
+         <p>The tree sparrows and juncos, particularly, are only here in the winter, and they spend that frigid season in consuming trainloads of noxious weed seeds that would otherwise make the farmer cuss the day that he was born! The goldfinch appears in flocks during the "zero hours" and also does great work. There are many other winter workers for the tiller of the soil, but you bird lovers had best identify them for yourselves.</p>
+         
+         <p>The rabbit hunter, trampling through the snow without results for his game bag, and who is tempted to shoot at anything moving, should remember that if he kills one of these birds he is taking a bushel or two of grain from some farmer's net output next year.</p>
+         
+         <p>These birds are the winter farmers - and let us not forget that fact.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 29, 1918. <title>Omaha Sunday World-Herald</title> 54(13): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00851">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Spring Hunt. The Result of the Count of Game at D.C. Sutphen's Store Yesterday.</title><title level="j">Omaha Daily Republican</title><author>Omaha Sportsmen's Club.</author><date>1877-04-15</date><biblScope>19(252): 4. Similar report April 15, 1877. Omaha Daily Herald 12(157): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Spring Hunt.</head>
+         
+         <head>The Result of the Count of Game at D.C. Sutphen's Store Yesterday.</head>
+         
+         <p>The annual spring hunt of the Omaha Sportsmen's club took place on Friday, "man against man," the losers paying $3 each into the treasury of the club. Game was not plentiful, and the count was not as large as on previous similar occasions.</p>
+         
+         <p>The game was counted yesterday afternoon at the store of D.C. Sutphen, the result being, in detail, as follows:</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="bold">Capt. Kennedy's Side.</hi>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">M.W. Kennedy.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Mallard</item>
+                     
+                     <item>Gadwall</item>
+                     
+                     <item>Widgeon</item>
+                     
+                     <item>Wood duck</item>
+                     
+                     <item>Ruddy duck</item>
+                     
+                     <item>Scaup</item>
+                     
+                     <item>Green-wing teal</item>
+                     
+                     <item>Shoveler</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Kildee</item>
+                     
+                     <item>Hawk</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>6</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>6</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>6</item>
+                     
+                     <item>2</item>
+                     
+                     <item>6</item>
+                     
+                     <item>34</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">John Petty.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>4</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>4</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>6</item>
+                     
+                     <item>2</item>
+                     
+                     <item>3</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Hutchins geese</item>
+                     
+                     <item>White-front geese</item>
+                     
+                     <item>Mallard</item>
+                     
+                     <item>Canvas-backs</item>
+                     
+                     <item>Red head</item>
+                     
+                     <item>Widgeon</item>
+                     
+                     <item>Pintail</item>
+                     
+                     <item>Scaup</item>
+                     
+                     <item>Green-wing teal</item>
+                     
+                     <item>Blue-wing teal</item>
+                     
+                     <item>Ruddy duck</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Hawk</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>32</item>
+                     
+                     <item>16</item>
+                     
+                     <item>3</item>
+                     
+                     <item>10</item>
+                     
+                     <item>2</item>
+                     
+                     <item>8</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>6</item>
+                     
+                     <item>2</item>
+                     
+                     <item>6</item>
+                     
+                     <item>4</item>
+                     
+                     <item>5</item>
+                     
+                     <item>96</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Wm. Preston.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>4</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Mallards</item>
+                     
+                     <item>Gadwall</item>
+                     
+                     <item>Green-wing teal</item>
+                     
+                     <item>Jack-snipe</item>
+                     
+                     <item>Yellow-leg</item>
+                     
+                     <item>Owl</item>
+                     
+                     <item>Hawk</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>9</item>
+                     
+                     <item>4</item>
+                     
+                     <item>1</item>
+                     
+                     <item>8</item>
+                     
+                     <item>1</item>
+                     
+                     <item>5</item>
+                     
+                     <item>5</item>
+                     
+                     <item>33</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">J. Budd.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>8</item>
+                     
+                     <item>4</item>
+                     
+                     <item>4</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Hawk</item>
+                     
+                     <item>Owl</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Golden plover</item>
+                     
+                     <item>Sandpipers</item>
+                     
+                     <item>Killdee</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>5</item>
+                     
+                     <item>5</item>
+                     
+                     <item>16</item>
+                     
+                     <item>4</item>
+                     
+                     <item>4</item>
+                     
+                     <item>1</item>
+                     
+                     <item>35</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">W.H.S. Hughes.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Hutchins goose</item>
+                     
+                     <item>Sickle-bill curlew</item>
+                     
+                     <item>Widgeon</item>
+                     
+                     <item>Gadwall</item>
+                     
+                     <item>Green-wing teal</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>8</item>
+                     
+                     <item>5</item>
+                     
+                     <item>4</item>
+                     
+                     <item>2</item>
+                     
+                     <item>3</item>
+                     
+                     <item>22</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">J.H. Peabody.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Buffle-head</item>
+                     
+                     <item>Blue-wing teal</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Killdee</item>
+                     
+                     <item>Rabbit</item>
+                     
+                     <item>Owl</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>4</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>5</item>
+                     
+                     <item>14</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Z. Taylor.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                     
+                     <item>3</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Ruddy duck</item>
+                     
+                     <item>Green-wing teal</item>
+                     
+                     <item>Shovelers</item>
+                     
+                     <item>Killdee</item>
+                     
+                     <item>Hawk</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>2</item>
+                     
+                     <item>3</item>
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                     
+                     <item>5</item>
+                     
+                     <item>14</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">J.M. Thurston.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>2</item>
+                     
+                     <item>3</item>
+                     
+                     <item>2</item>
+                     
+                     <item>23</item>
+                     
+                     <item>4</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Mallard</item>
+                     
+                     <item>Scaup</item>
+                     
+                     <item>Widgeon</item>
+                     
+                     <item>Pintail</item>
+                     
+                     <item>Wood duck</item>
+                     
+                     <item>Ruddy duck</item>
+                     
+                     <item>Buffle-head</item>
+                     
+                     <item>Shovellers</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Killdee</item>
+                     
+                     <item>Yellow leg</item>
+                     
+                     <item>Sandpiper</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>3</item>
+                     
+                     <item>3</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>4</item>
+                     
+                     <item>3</item>
+                     
+                     <item>2</item>
+                     
+                     <item>46</item>
+                     
+                     <item>4</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>73</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <hi rend="bold">Capt. Furay's Side.</hi>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">J.B. Furay.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Gadwall</item>
+                     
+                     <item>Blue-wing teal</item>
+                     
+                     <item>Buffle head</item>
+                     
+                     <item>Wood duck</item>
+                     
+                     <item>Killdee</item>
+                     
+                     <item>Wilson snipe</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>2</item>
+                     
+                     <item>9</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">S.B. Hathaway.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>2</item>
+                     
+                     <item>3</item>
+                     
+                     <item>14</item>
+                     
+                     <item>1</item>
+                     
+                     <item>4</item>
+                     
+                     <item>3</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Hutchins geese</item>
+                     
+                     <item>Gadwall</item>
+                     
+                     <item>Pin-tail</item>
+                     
+                     <item>Widgeon</item>
+                     
+                     <item>Teal</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Yellowshank</item>
+                     
+                     <item>Killdee</item>
+                     
+                     <item>Sandpipers</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>16</item>
+                     
+                     <item>4</item>
+                     
+                     <item>4</item>
+                     
+                     <item>4</item>
+                     
+                     <item>3</item>
+                     
+                     <item>28</item>
+                     
+                     <item>1</item>
+                     
+                     <item>4</item>
+                     
+                     <item>3</item>
+                     
+                     <item>67</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">B.E.B. Kennedy.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>19</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Mallard</item>
+                     
+                     <item>Blue-wing teal</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Kildee</item>
+                     
+                     <item>Hawk</item>
+                     
+                     <item>Owl</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>3</item>
+                     
+                     <item>1</item>
+                     
+                     <item>38</item>
+                     
+                     <item>2</item>
+                     
+                     <item>5</item>
+                     
+                     <item>5</item>
+                     
+                     <item>54</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">John Withnell.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>2</item>
+                     
+                     <item>15</item>
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Red-head duck</item>
+                     
+                     <item>Gadwall</item>
+                     
+                     <item>Scaup</item>
+                     
+                     <item>Sickle-bill curlew</item>
+                     
+                     <item>Wilson snipe</item>
+                     
+                     <item>Yellowshank</item>
+                     
+                     <item>Killdee</item>
+                     
+                     <item>Sandpipers</item>
+                     
+                     <item>Hawk</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>4</item>
+                     
+                     <item>2</item>
+                     
+                     <item>1</item>
+                     
+                     <item>10</item>
+                     
+                     <item>30</item>
+                     
+                     <item>1</item>
+                     
+                     <item>3</item>
+                     
+                     <item>2</item>
+                     
+                     <item>5</item>
+                     
+                     <item>58</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">F. Windheim.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Owl</item>
+                     
+                     <item>Hawk</item>
+                     
+                     <item>Scaup</item>
+                     
+                     <item>Shoveler</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>5</item>
+                     
+                     <item>5</item>
+                     
+                     <item>1</item>
+                     
+                     <item>1</item>
+                     
+                     <item>12</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Recapitulation.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Capt. M.W. Kennedy</item>
+                     
+                     <item>John W. Petty</item>
+                     
+                     <item>Wm. Preston</item>
+                     
+                     <item>George T. Mills</item>
+                     
+                     <item>J. Budd</item>
+                     
+                     <item>W.H.S. Hughes</item>
+                     
+                     <item>Z. Taylor</item>
+                     
+                     <item>A.S. Patrick</item>
+                     
+                     <item>J.H. Peabody</item>
+                     
+                     <item>J.M. Thurston</item>
+                     
+                     <item>Byron Reed</item>
+                     
+                     <item>V.H. Coffman</item>
+                     
+                     <item>Ed. Johnston</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>34</item>
+                     
+                     <item>96</item>
+                     
+                     <item>33</item>
+                     
+                     <item> </item>
+                     
+                     <item>35</item>
+                     
+                     <item>22</item>
+                     
+                     <item>14</item>
+                     
+                     <item> </item>
+                     
+                     <item>14</item>
+                     
+                     <item>73</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item>321</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>Capt. J.B. Furay</item>
+                     
+                     <item>S.B. Hathaway</item>
+                     
+                     <item>B.E.B. Kennedy</item>
+                     
+                     <item>George B. Lake</item>
+                     
+                     <item>E.B. Chandler</item>
+                     
+                     <item>John Withnell</item>
+                     
+                     <item>T.L. Kimball</item>
+                     
+                     <item>D.S. Barriger</item>
+                     
+                     <item>P. Windheim</item>
+                     
+                     <item>J. Van Orman</item>
+                     
+                     <item>H.W. Yates</item>
+                     
+                     <item>W.J. Hahn</item>
+                     
+                     <item>A. Donaghue</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>9</item>
+                     
+                     <item>67</item>
+                     
+                     <item>54</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item>58</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item>12</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item>200</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <cit>
+            
+            <bibl default="NO">April 15, 1877. Omaha Daily Republican 19(252): 4. Similar report April 15, 1877. <title>Omaha Daily Herald</title> 12(157): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

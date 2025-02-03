@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00197">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Cowardly Hawk.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1915-10-24</date><biblScope>51(4): 4-N. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Cowardly Hawk.</head>
+         
+         <p>There is no more abused and wrongfully persecuted wildbird than the hawk, taking him in a general way, for there are scores of different varieties of hawks and the person who claims to know them all is contracting a large job.</p>
+         
+         <p>Nearly everyone, especially the farmer and poultry raiser, believes that hawks are ferocious, fearless and destructive pirates of the air, who sieze upon everything that wiggles and are likely to kidnap the kids from their cradles if you don't watch out.</p>
+         
+         <p>There are a couple of hawks that are really of a carnivorous frame of mind, and who dote upon chicken and fowl of the ilk, but these are rare, especially in Nebraska.</p>
+         
+         <p>The man who named the chicken hawk should be sued for slander, as this passive and amiable variety doesn't indulge in poultry once a year, spending most of his time in destroying harmful insect life which infests our fields and farms.</p>
+         
+         <p>Nevertheless, when a hawk is seen aviating around the premises, the farmer's figurative tom-tom is beaten and the firelock is taken from the rack. Could the sharpshooter only realize that this same hawk is probably saving him scores of dollars each year by cleaning his alfalfa field of gophers and moles, or by slaughtering the bugs and beetles which work ruination upon his garden.</p>
+         
+         <p>While the hired man is slinking down the hedgerow with his shotgun trying to bag an innocent chicken hawk, the rats and skunks are doubtless taking advantage of this diversion by walking off with a tender pullet or so.</p>
+         
+         <p>The hawk is a coward, with a couple of exceptions admitted above. At any rate he is a valuable citizen and Uncle Sam himself is doing his best to make the American farmer appreciate that fact.</p>
+         
+         <p>As for the ferocity and bravery of the hawks common in Nebraska - this is a positive myth.</p>
+         
+         <p>Only last Sunday, in the blue sky over Elmwood park, was noted an immense hawk, probably of the more passive family but certainly huge enough in size to make the apprehensive farmer shudder, ignominiously pursued and routed by a burly and onery crow.</p>
+         
+         <p>This crow just made life miserable for the hawk, whose wild yells for mercy could occasionally be heard above the triumphant caws of the crow. The hawk, with his talons and sharp beak, could have rent the crow asunder in a jiffy, but his cowardice prevented such an issue. He just simply put a figurative tail between his legs and "beat it."</p>
+         
+         <p>As a matter of progression, let it be noted, only a few weeks ago one might have seen the diminutive but pugnacious Kingbird chasing half a dozen crows out of sight over the horizon. Thus, as you might figure the relative strength of football teams upon comparing scores, the Kingbird is a mightier creature of the air than is the hawk. And yet nobody thinks of grabbing a gun when a Kingbird comes around!</p>
+         
+         <p>It would be well for all farmers and raisers of poultry to ask the department of agriculture for information concerning Hawks, for these birds should be cherished, and not killed.</p>
+         
+         <p>Statistics will prove this statement, so, why not take a look?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 24, 1915. <title>Omaha Sunday World-Herald</title> 51(4): 4-N. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00772">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Sequel to a Duck Hunt. One Hunter Unintentionally Perforates Another With Shot.</title><title level="j">Omaha World-Herald</title><author>Editor.</author><date>1890-10-18</date><biblScope>26(18): 5.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-04-25"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sequel to a Duck Hunt.</head>
+         
+         <head>One Hunter Unintentionally Perforates Another With Shot.</head>
+         
+         <p>George C. Knudsen, who lives at Twentieth and Martha streets, and George Dickmann were duck hunting yesterday at Lake Manawa. About 2 o'clock in the afternoon they were on opposite sides of a narrow creek, on either side of which was a thick growth of brush and willows. Knudsen could hear Dickmann making his way through the brush, but the latter was not aware that Knudsen was close by. Presently Dickmann saw a flock of ducks rising from the water and fired at them. He succeeded in killing one of them, but at the same time a part of the load passed on and entered the body of Knudsen. Some shot struck him in the face, some in the chest and abdomen and some in the legs. His friend was soon by his side, but, fortunately, he was not seriously wounded. He felt only a sharp smarting where each shot entered and was so free from pain that he enjoyed the sport of emptying his own gun into a rabbit shortly after he and his companion started for home, which they immediately did. They walked to Council Bluffs, and, taking the motor, came over to Omaha. Knudsen went home and then proceeded to the police station to have himself examined. Dr. Gapen found that none of the shot had penetrated sufficiently deep to cause apprehension, and thought that the lead would all come to the surface on suppuration. Knudsen was sent to St. Joseph's hospital.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 18, 1890. <title>Omaha Morning World-Herald</title> 26(18): 5.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00915">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Treetop Twitterings.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-04-02</date><biblScope>51(27): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-26">2006-06-26</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Treetop Twitterings.</head>
+         
+         <p>In the spring, according to a perfectly good poet, the young men are inclined to slight other matters in preference to affairs of the heart. In this they are not alone, for the birds are already mating and are carolling of their love with all the pent-up enthusiasm that has been developing in their bosoms during the long, tedious winter.</p>
+         
+         <p>The birds generally seek the tree-tops from which to announce their engagements, while the young people don't do that—they use the daily press. You could scarcely expect a dapper young social favorite to climb into the topmost branches of some giant tree and sing for six or seven hours at a stretch every day from the moment his sweetheart accepts his ring until their new home is completed. In the first place the lady likes to do the announcing in our life, while in birddom the prospective bridegroom assumes that privilege.</p>
+         
+         <p>Out in the woods today you will find the air full of vague twitterings—soft, sweet and affectionate. They will come from the stilly underbrush almost ready to burst forth in green, or from the budding branches aloft, or from the thick weeds patches and tangles. Occasionally there will ring through the grove the ecstatic love-whistle of the cardinal - clear and pure as the sweetest wedding bell that ever toiled. The tender murmur of the bluebird incessantly bespeaks a new romance in his beautiful life and the piping shrill of the phoebe prophesies another cozy nest beneath some rustic bridge and a broods of little phoebes pretty soon. Boisterously the robin shouts his affection and good will abroad, his brick-red breast swelling with pride in the conquest he has made.</p>
+         
+         <p>It is in these treetop twitterings and deep-throated melodies that the songbird tell of their passion, and this is a wonderful study in itself. Most of the feathered lovers seem to start their song near the ground and flutter swiftly from branch to branch as their ecstasy increases until finally they are at the very pinnacle of joy and of the tree—warbling for all they are worth.</p>
+         
+         <p>Migratory birds coming up from the south, and, pausing on their way to nesting grounds up yonder, seem to join the enthusiasm of the spring-time as if it were a wedding procession to the church.</p>
+         
+         <p>Little golden-crowned kinglets, daintiest of the early migrators, are here today in large numbers, and their sweet little twitter of adoration is a genuine treat. There are ruby-crowned kinglets, too, a sort of cousin of the first perhaps, and these two birds are well entitled to your consideration if you take a tramp through the outlying parks today.</p>
+         
+         <p>April is the most interesting of all months to the bird lover, for it is than that our winter songsters begin to depart and the summer visitors and transients mostly arrive. In May come the warblers—but April brings most of those who will stay with us for five months more.</p>
+         
+         <p>If you fail to grasp this opportunity for a bully good time, the fault is your own.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 2, 1916. Treetop Twitterings. <title>Omaha Sunday World-Herald</title> 51(27): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

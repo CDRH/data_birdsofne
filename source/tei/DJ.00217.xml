@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00217">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Departed Prairie Chicken - The Quail.</title><title level="j">Omaha Weekly Herald</title><author>White, "Bob" [pseud.].</author><date>1882-03-31</date><biblScope>17(26): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2005-08-08"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Departed Prairie Chicken-The Quail.</head>
+         
+         <p>Mr. "Bob" White makes quick answer to a recent Herald question in regard to the causes that have led to the practical extermination from this part of the country of one of the most beautiful and useful of our native birds. "Bob" makes out a case against the bird-trappers that is even worse that that which could be readily made out against the knights of the shot-gun. Without dealing with the motive that led our sportsmen to procure the enactment of laws to prevent and punish bird-murder with the trap, we are free to say that those laws were good laws as far as they went. If they had been made to apply to the gun-powder trap for the slaughter of the prairie chicken our prairies would have been alive with them to-day. But with the shot-gun plying its murderous vocation three months in the year with the skill of our sportsmen in the use of modern inventions for slaying these beautiful birds, the protection which the law gave them is the protection as results show, of destruction and death. The fact is, in other words, that the prairie chicken in much of eastern Nebraska is already little more than a tradition in our scanty ornithology, and our sportsmen now go hundreds of miles to the westward when they wish to enjoy the sport of killing what remains of them on our western borders.</p>
+         
+         <p>The quail is in much the same state of extermination as the prairie chicken, and from the same causes. He will soon disappear entirely from these, his native haunts, and yet he is one of the most useful and beautiful of birds. The passion for killing them is deeply planted in the human nature that we all represent. Game laws can not prevent or alter the havoc that is made of them from various motives; they only change the method of it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">"Bob" White. March 31, 1882. <title>Omaha Weekly Herald</title> 17(26): 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

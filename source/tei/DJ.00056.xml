@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00056">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Belling the Cat.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-06-25</date><biblScope>57(36=39): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Belling the Cat.</head>
+         
+         <p>While it is an unfortunate but indisputable fact that the domestic cat is a lifelong enemy of birds, it is also true that the birds are equipped by nature with certain means of preventing the sleek feline from killing more than her miserable share of the feathered beauties. In justice to the cats it must be said that they cannot help it - being born that way - but they are foes of birdlife, just the same.</p>
+         
+         <p>Birds know it. The Audubon Societies do not have to educate birds on ways and means of dealing with their bitterest enemies, and the training of cats to abstain from birds has proven a somewhat useless endeavor. So, it would seem, since so many of us like both birds and cats, it is up to the former to protect themselves.</p>
+         
+         <p>They do it chiefly by a splendid alarm system. The Minute Men of our earlier revolutionary days never had a thing on the birds when it comes to giving the alarm and staying on the job as long as does the aforesaid obnoxious pussyfoot.</p>
+         
+         <p>No sooner does a hunting cat arrive in a bird colony than the air is simply filled with all manner of raucous squawks, shrill chirps and eager twitterings. Robins, Wrens, Thrashers, Catbirds, Bluejays, Yellow Warblers - all of 'em - even the otherwise near-worthless English Sparrow - gather about to "point" that cat just as clearly as setter points a bird.</p>
+         
+         <p>It makes no difference how long the cat remains - she cannot hide herself from that accusing wild strain of complaint and warning. The birds know just how close they can get and still evade danger, and we very much fear that their bird-language at times is positively profane.</p>
+         
+         <p>This is interesting study, too. If you cannot, or do not wish to get rid of bird killing cats about your place - just watch the birds do their share of that imperative work.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 25, 1922. <title>Omaha Sunday World-Herald</title> 57(36=39): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

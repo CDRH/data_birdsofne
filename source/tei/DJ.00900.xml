@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00900">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">On the Wire [Telegraph Line Bird Lore].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-07-02</date><biblScope>51(40): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>On the Wire.</head>
+         
+         <p>It is a mighty interesting thing, when one is taking his weekly hike through the countryside, to study the personality of an ordinary and lowly telegraph wire.</p>
+         
+         <p>You would find some difficulty, perhaps, in discovering as unattractive and humdrum and commonplace a piece of business as a telegraph wire, and yet, if you ponder for a moment, and likewise keep your eyes open, you will discover that it has features of supreme interest. Conan Doyle has nothing to do with this editorial, either. Sherlock Holmes is not being revived.</p>
+         
+         <p>In the winter, when draped with hoar frost or sleet, these wires assume a most potential beauty and gracefulness—qualities which they do without during the summer. But no matter what the season, through these tiny strands of steel or copper are flowing the greatest businesses of the world, and the news thereof.</p>
+         
+         <p>But that has nothing to do with the attractiveness of the telegraph wire to the person who is tramping in search of bird lore. To him the wire generally bears a subtle and growing charm, for it is thereupon that hundreds of songsters alight to properly survey the surrounding landscape and to loose, with proper enthusiasm, their vast repertoire of melody.</p>
+         
+         <p>It is no uncommon thing these days, as you will find if you chance a hike this morning, to find the wires fairly loaded with birds. Often the Barn Swallows, beautiful creatures with their red breasts and dark, forked tails, will have a dozen families of young perched thereupon that they may be fed more easily. The Swallows swoop swiftly across the fields, catching insects upon the wing and tossing them into their infants' open mouths without even throwing on brakes.</p>
+         
+         <p>The Dickcissel, champion long distance chanter of the world, nearly always chooses the wire as a vantage point from which to sing his "Chip, chip, chee, chee, chee!"—even into the night.</p>
+         
+         <p>Besides the many other varieties which one may note merely by following a line of telegraph wire, there is the Indigo Bunting, one of the smallest and prettiest of all our summer songsters.</p>
+         
+         <p>The Indigo has a cheerful warble that seems to leave him almost breathless, so completely does he throw his soul into the endeavor, and he will delight your eye with his brilliant blue body which shines out above all his verdant surroundings. His dull, yellowish little mate seems to fairly worship her husband, for you will usually find her in the underbrush below the wire, apparently listening in speechless admiration to her brave helpmeet's vocal exercises.</p>
+         
+         <p>Those who would rather motor than walk can easily add a great deal of enjoyment to their ride by keeping an eye upon the miles of wire that rush past them along the roadside.</p>
+         
+         <p>For the birds seem to like the parade immensely and but seldom are frightened away.</p>
+         
+         <p>As long as one is outdoors, the birds are there to be seen and enjoyed.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 2, 1916. On the Wire [Telegraph Line Bird Lore]. <title>Omaha Sunday World-Herald</title> 51(40): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

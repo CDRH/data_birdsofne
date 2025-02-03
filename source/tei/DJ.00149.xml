@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00149">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cerulean [Warblers].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-05-12</date><biblScope>53(32): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cerulean.</head>
+         
+         <p>Today - this very minute - is the prime opportunity for the Nebraska bird lover to watch the migration of the Warblers and the many other small migratory folk of the feathered wings.</p>
+         
+         <p>The first two weeks of May are the best for such observation, and it would be well for those previously not interested in birds to seize this chance to see more wonders than they dreamed existed in the Valley.</p>
+         
+         <p>In their migration the Warblers present as wonderful a picture as can be found on any natural history stage. Their type is but little known to the casual observer, but at this period they are everywhere, generally in the tree-tops - and therefore difficult to identify. This difficulty makes the game even the more interesting.</p>
+         
+         <p>In America there are nearly fifty different varieties of Warblers, and of this number perhaps a score are passing through Omaha and vicinity today. The only resident Warbler - staying here all summer - is the Yellow Warbler, which is very common. The Redstart, which also stays, is classified as a Warbler, but hasn't the name. There are a few others in the same fix, but the most engrossing study is that of those who go through, and who can only be seen in a few short weeks.</p>
+         
+         <p>One in particular we would consider.</p>
+         
+         <p>He is imperceptible against the clear blue spring-time sky for the reason that his upper parts are of Cerulean Blue - from which he gets his name - Cerulean Warbler.</p>
+         
+         <p>Plentiful in no one locality, this dainty little bird is sure to be seen in the Omaha woodland - and has already been seen this year, for that matter. Twittering about in the treetops, he is practically invisible, and only when he flits to some bush or twig below the skyline may he be easily recognized.</p>
+         
+         <p>A sky-blue bird scarcely bigger than your thumb, industriously destroying insect life in the treetops - that is the Cerulean Warbler.</p>
+         
+         <p>If you cannot find him today, you will be sure to find many others of his tribe, so, armed with a pair of glasses and a good Bird Guide, take advantage of the best bird study opportunity of the whole year!</p>
+         
+         <p>Go out into the woods today!</p>
+         
+         <p>The Warblers await you!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 12, 1918. Cerulean [Warblers].	<title>Omaha Sunday World-Herald</title> 53(32): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00400">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hide and Seek [Warbling Vireo].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-05-07</date><biblScope>57(29=32): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hide and Seek.</head>
+         
+         <p>Somewhere in the treetops, hidden by the rapidly thickening foliage, is a wee little soul of a bird from whose inspired throat bubbles a miniature fountain of melody; a murmuring line of rounded notes ending with an emphatic snap, as if to say "and that's THAT!"</p>
+         
+         <p>Generally, as we say, this Warbling Vireo is so high in the tree and so surrounded by buds and leaves, that he is very hard to find, but perseverance in bird study is always rewarded, and you should therefore stick to the job until you have your field glasses on this delightful and valuable feathered creature.</p>
+         
+         <p>There are many Vireos in the ornithological calendar, and about half a dozen that may be seen here, but one of the most lovable is this, the Warbling. His song is far the sweetest of them all, and the green mystery that surrounds him adds to the joy of studying him and his habits.</p>
+         
+         <p>Like the other Vireos, he subsists almost entirely on insects and worms damaging to trees and foliage, but he find plenty of time to tell of his joy in the world and the sky. The Red-eyed Vireo, they say, gives us a note or two after every worm, but we suspect that the Warbler takes several gulps between remarks, for his song is much longer.</p>
+         
+         <p>Stop, look and listen for the somewhat Wren-like warble - although sweeter - high in the tree tops, and that queer little snap on the end of the melody.</p>
+         
+         <p>It is the Warbling Vireo - and he is with us now.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 7, 1922. Hide and Seek [Warbling Vireo]. <title>Omaha Sunday World-Herald</title> 57(29=32): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00849">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Spring Goose and Duck Hunting on the Platte].</title><title level="j">Omaha Sunday Bee</title><author>Parmalee, F.S.</author><date>1895-03-31</date><biblScope>p. 11.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Spring Goose and Duck Hunting on the Platte </head>
+         
+         <p>Clarks, Neb., March 27.—To the Sporting Editor of The Bee: More sportsmen have for the first time have been disappointed in their spring shooting of ducks and geese this year than ever before. Not a single good "kill" has been made on the Platte in this vicinity during the spring flight this year and already the birds have entirely deserted the Platte. Colonel Richmond, Captain Hoyt and other local sportsmen made extensive preparations as early as March 1 to entertain visiting hunters and slaughter the wild fowl on their usual favorite roosts on the Platte. No feed in the fields and no water in the creeks and canyons, together with the fact that the river was early lined with tents and dotted over with blinds, caused the wild fowl to move on to better and more peaceful feeding grounds. The reception of the goose or duck unfortunate enough to bend its flight along the course of the historic Platte might well be compared to that tendered the federal gunboats when they dried to run by the batteries at Vicksburg. Ten camps, equipped with about twenty-five blinds, were located on the Platte within eight miles, traveling east from Clarks, so that you will readily understand that it would be indeed a weary and thirsty fowl that would dare venture to rest on the bars or sip of the waters of the Platte in that vicinity. Of course some of the campers were out for fun and recreation and the shooting was only the nominal object. One party of five I observed occupying one blind, in which they had a large jug, which I suppose contained their ammunition, and they were enjoying a social game of cards, occasionally dropping a poor hand to take a shot at some sky-scraping goose or more frequently at the jug.</p>
+         
+         <p>A quart flask was found by Joe Wells, near Columbus, containing the following message:</p>
+         
+         <p>ON THE PLATTE RIVER, East of Clarks, March 22, 1895.—To the finder of this letter: I am alone, abandoned on a sandbar in the Platte, surrounded by three feet of swift running water, which glides over ten feet of quick sand. I wish that I had one of Sandy Griswold's articles on the beauties of nature, as they are presented during a spring shoot. The sky some way fails to reveal the beauties he so vividly represents and the cloud formations have been overlooked; the cry of the alarmed wild fowl is not properly adjusted to the music of the wind and wave. Already I feel the exhilarating and elevating influence of my surroundings, in every joint and sinew. Sandy, I have been victimized by your poetic imagination. Yet, perhaps, if I had at hand one of those articles it might deceive me again and reconcile me to my sad fate. Nature is beautiful in her place, but hereafter she can have her place, and I'll take Goodie Brucker's for mine. Before I start out again for a goose hunt, should I escape alive this time, I will take a little proper training, by pushing a loaded hand cart across the Sahara. Save my life my replenishing this flask!!</p>
+         
+         <p>Drop it into the north channel of the Platte from the Clarks bridge. Don't drop it in until after dark, I shall look out for it. Put a floater on it. Hopefully,</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="caps">F.S. Parmalee</hi>.</item>
+         
+         </list>
+         
+         <p>All the camps, with the exception of COlonel Richmond's, have broken up.</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="caps">Jack M</hi>.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">March 31, 1895. [Spring Goose and Duck Hunting on the Platte.] <title>Omaha Sunday Bee</title> p. 11.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

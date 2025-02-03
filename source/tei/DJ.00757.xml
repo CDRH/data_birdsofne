@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00757">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Sawbills in the Sandhills.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1910-09-25</date><biblScope>45(52): 2-S.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Sawbills in the Sandhills.</head>
+         
+         <p>Lena, Neb., Sept. 19.-To Sandy Griswold, Sporting Editor of the World-Herald: Have had two pairs of strange ducks about the slough north of my place all summer. They nested and brought up their broods here, and we have been puzzled to know what they were, as we have never seen their like here before. A neighbor of mine named Haskins, says they are sawbills. Please describe this kind of duck, if there is such a kind, in next Sunday's World-Herald.-Gus Smith.</p>
+         
+         <p>From what Mr. Haskins says, would say your birds were merganzers, and all the merganzers, or as they are often called, "fish ducks," are sawbills. They may be distinguished from all others of the Anatidae by their narrow and round (not flattened) bills, always provided with sharp, backward directed, tooth-like lamellae. Except for their bills they are like the sea ducks. They are birds of handsome plumage, always with a crest, which in the male may be enormously enlarged and very striking, as in the hooded merganzer, or very puffy, with brilliant iridescence, as in the goosander. The merganzers feed almost altogether on small fish, which they capture by diving, and as a consequence their flesh is not at all desirable. Our species are widely distributed over America.-Sport Ed.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Gus Smith and Sandy Griswold.	September 25, 1910. <title>Omaha Sunday World-Herald</title> 45(52): 2-S.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

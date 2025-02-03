@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00331">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Game. Annual Fall Hunt of the Omaha Sportsmen's Club. An Excellent Day's Shooting.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1874-10-29</date><biblScope>9(310): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Game.</head>
+         
+         <head>Annual Fall Hunt of the Omaha Sportsmen's Club.</head>
+         
+         <head>An Excellent Day's Shooting.</head>
+         
+         <p>Tuesday the 27th inst., was the day appointed for the fall hunt of the Omaha Sportsmen's Club. Accordingly the day previous most of the aprties chosen on each side started out to be on the grounds the first thing in the morning. Some of them had been out for a week and over, and had their ground all picked out. Messrs. Geo. A. Hoagland and H.A. Homan, had been out several days, and were near Wisner, 75 miles up the Elkhorn; others met at different points. Judging from the counts game must have been plenty with some and scarce with others. Mr. homan's side seems to have had poor luck. It is a custom for the losing side to get up a game supper for the club, but this year they turned their game to a better purpose by donating it to the Nebraska Relief and Aid Association, for the grasshopper sufferers, and as will be seen by a notice elsewhere, it will be sold at auction at Gray &amp; Allen's, on Douglas street, and we hope those of our citizens who are lovers of game will not fail to attend as there is a splendid lot and great variety.</p>
+         
+         <p>The following is the list of hunters and the count of their game as far as they have reported:</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Mill's Side.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>George T. Mills, Captain</item>
+                     
+                     <item>Geo. A. Hoagland</item>
+                     
+                     <item>B.E.B. Kennedy</item>
+                     
+                     <item>Byron Reed</item>
+                     
+                     <item>R.N. Withnell</item>
+                     
+                     <item>Dr. Fichers, not out</item>
+                     
+                     <item>D.S. Barriger</item>
+                     
+                     <item>B.F. Smith</item>
+                     
+                     <item>J. Budd</item>
+                     
+                     <item>W.J. Hahn</item>
+                     
+                     <item>W.H.S. Hughes</item>
+                     
+                     <item>J.D. Jones</item>
+                     
+                     <item>J.M. Thurston, not out</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>24</item>
+                     
+                     <item>155</item>
+                     
+                     <item>18</item>
+                     
+                     <item>44</item>
+                     
+                     <item>35</item>
+                     
+                     <item> </item>
+                     
+                     <item>45</item>
+                     
+                     <item>8</item>
+                     
+                     <item>63</item>
+                     
+                     <item>21</item>
+                     
+                     <item>21</item>
+                     
+                     <item>21</item>
+                     
+                     <item> </item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">458.</cell>
+            
+            </row>
+         
+         </table>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Homan's Side.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>H.A. Homan, Captain, not reported</item>
+                     
+                     <item>J.W. Petty</item>
+                     
+                     <item>Wm. Preston</item>
+                     
+                     <item>Yank Hathaway</item>
+                     
+                     <item>John Withnell</item>
+                     
+                     <item>S.G. Taylor</item>
+                     
+                     <item>J. Van Orman, not out</item>
+                     
+                     <item>Matt. Harris, not out</item>
+                     
+                     <item>W.W. Lowe</item>
+                     
+                     <item>D.C. Sutphen, not out</item>
+                     
+                     <item>V.H. Coffman</item>
+                     
+                     <item>E. Johnston</item>
+                     
+                     <item>S.S. Caldwell, not out</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item> </item>
+                     
+                     <item>30</item>
+                     
+                     <item>18</item>
+                     
+                     <item>13</item>
+                     
+                     <item>19</item>
+                     
+                     <item>11</item>
+                     
+                     <item> </item>
+                     
+                     <item> </item>
+                     
+                     <item>1</item>
+                     
+                     <item> </item>
+                     
+                     <item>10</item>
+                     
+                     <item>50</item>
+                     
+                     <item> </item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">185.</cell>
+            
+            </row>
+         
+         </table>
+         
+         <cit>
+            
+            <bibl default="NO">Anonymous. October 29, 1874. <title>Omaha Daily Herald</title> 9(310): 4. Hunt and team members announced October 16.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

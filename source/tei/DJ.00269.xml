@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00269">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Keeping Everybody Happy [House Wren].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-05-20</date><biblScope>52(34): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Keeping Everybody Happy.</head>
+         
+         <p>There is no more satisfactory bird to have around the neighborhood than the diminutive and wholly lovable House Wren. From childhood's happy hour until one begins to trip over his whiskers, Jennie is one of our most popular feathered friends.</p>
+         
+         <p>While Jennie Wren's nickname would indicate femininity, the little critter really shows masculine belligerence and pep, and should therefore be given the credit for it that he deserves.</p>
+         
+         <p>He aims to please - that is another of his happy traits. No matter how many wren houses there may be in the neighborhood, if a couple of these Wrens show up at all, they will likely build a nest in most of them, or maybe all of them.</p>
+         
+         <p>The Wren just dotes on building nests - and on protecting them, too. He and his good wife will hustle material all day long for the whole row of bird houses and mingle pleasure with business by an occasional joust with some hoggish English sparrow who would emulate the well known dog-in-the-manger by taking possession of a home it cannot possibly get into.</p>
+         
+         <p>Even after the mother Wren has deposited her eggs it is next to impossible to ascertain in just which of the neighborhood boxes the family is eventually to be raised, for the parent birds continue to fly back and forth between them, from time to time, in a most mystifying and yet satisfying way. It is nothing new for a proud citizen to announce that he has three families of wrens nesting on his premises, when, as a matter of fact he has three nests and one family.</p>
+         
+         <p>Thus the tiny House Wren and his glorious and persistent little song contrive to keep scores of people happy during the summer.</p>
+         
+         <p>Some bird - the Wren!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 20, 1917. Keeping Everybody Happy [House Wren]. <title>Omaha Sunday World-Herald</title> 52(34): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

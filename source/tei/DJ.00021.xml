@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00021">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Annual Hunt. The Omaha Gun Club Members Kill an Enormous Amount of Game.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1885-10-29</date><biblScope>p. 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-09-01"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Annual Hunt.</head>
+         
+         <head>The Omaha Gun Club Members Kill an Enormous Amount of Game.</head>
+         
+         <p>The members of the Omaha gun club returned from their annual hunt yesterday and brought back with them a trainload of game. The club was divided into two teams of twelve men each as follows:</p>
+         
+         <p>"Never Miss" side: W.H.S. Hughes, captain, Messrs. Petty, Hardin, Brooker, Cotter, Finger, Bedford, Nash, Al. Patrick, Evans, Kennedy.</p>
+         
+         <p>"Always Hit" side: Mills, captain, Messrs. Parmalee, Leeder, Lane, Kay, Smith, Strassberger, Icken, Eustis, Bob Patrick, Holmes, Rollins.</p>
+         
+         <p>Odd man, Fred Nye.</p>
+         
+         <p>Messrs. Hughes and Cotter went to McFall, Petty and Brooker to Cozad, Finger and Smith to Pacific Junction, Haradin and Nash to Overton, Kennedy to Stillwater, Leeder, Strassberger and Icken to Waterloo, and last but not least, Kay, Parmalee and Lane went to Goettenberg [?Gothenburg]. The rest of the club stayed at home. When the game was counted according to the count previously published in <hi rend="smallcaps">The Republican</hi> it was found that Capt. Hughes side had 1,520 points to its credit against 950 for Capt. Mills' side. The number of each of the kinds of game killed were as follows: Jack rabbit, 1; fox squirrel, 1; golden eagle, 1; Canada goose, 60; goose, 120; Wilson's snipe (jack snipe), 30; golden plover, 1; pinnated grouse, 1; quail, 12; mallard duck, 15; canvas back duck, 1; duck, 50; hawk, 3; blue bills, 5; redhead, 4.</p>
+         
+         <p>The largest score made by any one man was that of J.W. Petty, who scored 320 points. Leeder had a big 0 opposite his name. Sam Nash was considered the king of the occasion for having killed a golden eagle which scored him 25 points in the count. The bird measured seven feet from tip to tip and was shot on the Platte river at Overton. The hunting stories of the returned sportsmen were the most interesting of any heard for some time. There are one or two of them true ones too. "Lucky" Lane, as he has been dubbed by his envious colleagues, killed four geese with one barrel at 110 paces. Frank Parmalee while at Goettenberg drank some river water which went to his head and he so far forgot himself that he stole six geese belonging to Lane and tried to sell them to the owner. George Kay fathomed the Platte river to its very bottom by an involuntary bath as did also Lane, and both pronounced the water quite wet. All day yesterday the returned hunters dropped in at Collins, Gordon &amp; Kay's store and exhibited his bag. The banquet will be held at the Millard hotel this evening, when all the game will be stowed away out of sight by the members of the club. Having some doubt of their ability to eat enough to do a clean job one or two newspaper men have been invited so as to insure the complete demolition of the results of the shoot.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 29, 1885. <title>Omaha Daily Republican</title> p. 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

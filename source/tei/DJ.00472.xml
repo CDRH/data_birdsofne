@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00472">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Keeping Up Our Courage [Goldfinch].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-12-30</date><biblScope>53(13): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Keeping Up Our Courage.</head>
+         
+         <p>Nature is a pretty handy sort of a body to have around, especially when one is glum. As a general thing, the glum period arrives in the dead o' winter, even with the most peppery humans, and it is then that a little suggestion of the distant joys of springtime helps a lot.</p>
+         
+         <p>When the skies are overcast and the coal-pile is sick and the sun doesn't arise until after breakfast and you aren't feeling very well yourself, it is pretty nice to have a drab little bird sit up in a bare tree nearby and sing you a summer song!</p>
+         
+         <p>Very happily, there is a bird of this description that does just that clever little thing. It is the Goldfinch.</p>
+         
+         <p>Radiant in the summer time with his bright yellow and black body and flesh-pink bill, this Wild Canary, as he is often termed, is known to everyone, young and old. But in the winter, when his dress has been subdued to a sort of  greenish gray, he is scarcely beautiful to the eye. That he loses none of his vocal culture in this season is a blessing.</p>
+         
+         <p>The Goldfinch has a very delicious winter habit of perching in some attractive bush and proclaiming to the frigid world that he is</p>
+         
+         <p>"Swe-e-e-e-eeet! Swe-e-e-e-eeet! Swe-e-e-e-eet!"</p>
+         
+         <p>He does not overestimate himself - for he certainly is sweet - and lovely, and hopeful, and promising, too!</p>
+         
+         <p>We like to live in the winter with the Goldfinch, to see him weather the storms and battle the snow and busily keep himself clean and prepared for the bright April morning when he will begin to show is true colors and to bound exuberantly through the air with that delightful flight of his no less typical than his song.</p>
+         
+         <p>A very sweet bird, sirs, - even as he admits.</p>
+         
+         <p>Find him today - for he is in the weed patches and roadsides near your home.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 30, 1917. Keeping Up Our Courage [Goldfinch]. <title>Omaha Sunday World-Herald</title> 53(13): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

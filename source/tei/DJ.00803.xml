@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00803">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Have You Seen a Snowy Owl Lately? Lots of These Strange Birds are Wintering in Nebraska This Year - We Have the Evidence.</title><title level="j">Omaha Sunday World-Herald</title><author>Greenleaf, Miles.</author><date>1918-01-20</date><biblScope>53(16): 3-M. Includes a picture of stuffed owls in display at the Northwestern School of Taxidermy.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Have You Seen a Snowy Owl Lately?</head>
+         
+         <head>Lots of These Strange Birds are Wintering in Nebraska This Year - We Have the Evidence.</head>
+         
+         <head>By Miles Greenleaf.</head>
+         
+         <p>If you live in the country and should awake some morning and find a great, white spector perched upon some snow-blanketed cornshock or hay stack nearby it will be unnecessary for you to throw a fit or call the constabulary - for you will be in the presence of a Snowy Owl.</p>
+         
+         <p>This splendid bird, standing two feet tall, is a comparative stranger in these parts with the exception of on certain years, when for some reason best known to itself, the Snowy comes this far down from the northland in such numbers as to constitute an invasion. This white wonder is seldom found perching in a tree.</p>
+         
+         <p>The adult male bird is snowy white, as the name implies, while the female is a bit larger and a bit more greyish in color. Other names for this remarkable feathered specimen are Ermine Owl and Arctic Owl.</p>
+         
+         <p>Within the past two months more than 100 specimens of the Snowy Owl have been sent from Nebraska and its borders to the Northwestern School of Taxidermy, Railway Exchange building, Omaha - to be mounted. This is more of these birds than this company has received in the past ten years. When it is realized that many of the Snowies are probably killed and never sent in for mounting, the vast flight may be appreciated. Where one bird is shot there are probably dozens that escape.</p>
+         
+         <p>The accompanying picture was taken by the World-Herald staff photographer through the courtesy of the Northwestern School of Taxidermy at the later's Omaha plant, and shows twenty-two of the fifty-odd Snowy Owls than accumulated at that plant. The specimens continue to come in every day.</p>
+         
+         <p>The Snowy Owl nests far up in the Arctic zone, a slight depression in a knoll, and lined with grass and feathers, protecting the eggs. In its habits this beautiful bird is very useful, as it lives on rodents and undesirable animals to a large extent, mixing this diet with fish, which it catches alive from the frigid waters of the north, even as the Osprey.</p>
+         
+         <p>One of the principal diets of the Snowy is the Polar or Arctic Hare, and ornithologists explain the present huge flight of these birds into Nebraska and states of this parallel this year by the epidemic which has destroyed thousands of these big northern rabbits this winter. With its favorite food cut down and a very severe season on hand, the Arctic owls seem to have come to Nebraska to find something to eat.</p>
+         
+         <p>This year has brought one of five great "invasions" by the Snowy owls known to naturalists. The first occurred in the winter of 1876-1877, the next in 1882-1883, the next in 1889-1890 and the next in 1901-1902.</p>
+         
+         <p>As might be expected in the presence of such a beautiful creature, and seen so plainly at long distance, the slaughter of these owls has been terrific in this as during other invasions. The United States department of agriculture, in its reports sadly deplores the killing of the Snowy.</p>
+         
+         <p>None of these Arctic owls has been seen as yet close to Omaha, but some of the specimens sent the Northwestern School of Taxidermy have come from a distance of but fifty miles away. The bird is sometimes seen in flight by hunters, who know it for its tremendous speed. The Snowy owl can catch a grouse on the wing.</p>
+         
+         <p>Professor Swenk of Nebraska university has interested himself in this wonderful flight of these still more wonderful birds, and a detailed report will probably be published later by him.</p>
+         
+         <cit>
+            
+            <bibl default="NO">January 20, 1918. <title>Omaha Sunday World-Herald</title> 53(16): 3-M. Includes a picture of stuffed owls in display at the Northwestern School of Taxidermy.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

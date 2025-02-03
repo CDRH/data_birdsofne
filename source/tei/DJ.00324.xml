@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00324">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Fountain of Song [House Wren Habits].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-05-28</date><biblScope>51(35): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Fountain of Song.</head>
+         
+         <p>Back in the good old school days there used to be some kind of an axiom to the general effect that something cannot come from nothing. The person who invented that particular teaching was evidently basely ignorant in ornithology. At least it is certain that he never made himself acquainted with the House Wren—or so-called Jenny Wren.</p>
+         
+         <p>In the first place, everything about the House Wren is almost microscopically small. His home is the tiniest of houses, his nest is infinitesimal, the eggs are like so many peas, while he and his wife are themselves no bigger than your thumb.</p>
+         
+         <p>Yet from this wee body comes the most astonishing volume of song—deliciously sweet and whole-souled. It is a hurried, rapturous, enthusiastic warble prolonged in the fullest voice to the last tender trill. That such a wealth of melody can emerge from the horn of such a diminutive instrument defies the axiom previously mentioned.</p>
+         
+         <p>The House Wren is as companionable as the Chickadee and yet as pugnacious as the rascally English Sparrow, with whom he conducts continuous warfare. When you have placed a Wren house in your yard and the little folks arrive, they are pretty sure to find a hard-headed Englisher trying to butt his way through the meager entrance. The Jennies lose no time in falling upon their much larger adversary and invariably win the battle, no matter how large the odds against them in size and numbers. They may seek a more peaceful home, but once they have decided upon their house, no sparrow nor any other bird can frighten them away.</p>
+         
+         <p>Industrious to the last degree, these little feathered wonders are not content with the building of one nest—they often construct several in different houses, or in tempting holes in stumps. They either do this through pure nervous energy, or else as a matter of practice, the true reason never having been assigned.</p>
+         
+         <p>Early in the morning, when the eastern sky is just assuming a gentle gray, the Wren pops forth from his little home, flutters ecstatically about for a moment, draws in a deep breath and then becomes a living fountain of song. When darkness arrives late in the evening, he is likely to be on the same perch, rapidly and vehemently singing of the accomplishments of the day.</p>
+         
+         <p>The House Wren is the most beloved of city birds, in the opinion of many, for the little fellow seems perfectly happy to secure a comfortable home in a quiet back yard of a busy street. He is equally pleased with the city as with the undisturbed silences of the woodland, and he brings into many a humdrum business life a breath of verdant nature that could come in no other way.</p>
+         
+         <p>Of the thousands of joys that come from preserving and studying the songsters, the acquaintanceship of the House Wren is pretty nearly the greatest. At least it is true with us city folks.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 28, 1916. A Fountain of Song [House Wren Habits]. <title>Omaha Sunday World-Herald</title> 51(35): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00639">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mr. Oriole, From Baltimore.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-06-03</date><biblScope>58(36): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mr. Oriole, From Baltimore.</head>
+         
+         <p>Among the most persistent self-propagandists of our summer resident songsters is the dapper Mr. Oriole from Baltimore. He registered a few weeks since and is at present busily engaged in vamping the feathered flappers up and down leafy avenue.</p>
+         
+         <p>Mr. Oriole starts early in the day - about half past three o'clock, to be exact - for we chanced to have a nightmare at that particular hour one morning last week, and believe that we checked his first whistle.</p>
+         
+         <p>From that time on, it seemed, he never weakened. He started from top of a monster cottonwood and then progressed up and down the nearby streets, patronizing each of the smaller trees for a while. As nearly as we could interpret, his clear, high-pitched but extremely melodious remarks, he said.</p>
+         
+         <p>"Deedle, deedle!" Deedle, deedle!" - followed by a row of whistled notes that would defy any but angels to imitate.</p>
+         
+         <p>This Princeton bird - for his colors are certainly the purest orange and black - is not only one of the most gorgeous and musical of the local summer residents, but is likewise among the most useful through his activities in exterminating noxious worms and insects.</p>
+         
+         <p>The Baltimore Oriole, as every school child knows, builds a nest of strings and grasses that hangs like a sack from some swaying branch far in air, and just why the Oriole's eggs aren't all scrambled is more than most of us can understand.</p>
+         
+         <p>Anyhow, the Baltimore Oriole is a delightful fellow to have around, and he is here in large numbers. it is said that he is sometimes faithless to his wife, but it would be poor policy to libel him thusly, without anything more than the word of a couple of scientists to vouch for the fact.</p>
+         
+         <p>We like Mr. Oriole, of Baltimore - and hope you do, too.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 3, 1923. <title>Omaha Sunday World-Herald</title> 58(36): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

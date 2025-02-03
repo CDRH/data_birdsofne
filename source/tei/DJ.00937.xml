@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00937">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Virginia Creeper.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-10-17</date><biblScope>56(3): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Virginia Creeper.</head>
+         
+         <p>Down among the trees you will sometimes see a beautiful line of bronzy red running up one of them, and you will stop in delight as you come near to see what is clothed in all this gorgeous coloring. "Virginia Creeper," our most beautiful climbing vine! And now it is clothing the trees, clamboring along the fences and trailing over the ground everywhere, making them again beautiful with its crimson and browns as they shed their summer dress of green.</p>
+         
+         <p>But be very careful to count the number of its leaflets before you are tempted to despoil it of the most beautiful of its leaves. Each leaf is a compound of five leaflets, always five. Sad to say there is another tenant of the woods that bears a strong resemblance to this beautiful climber, but it has always three leaflets and even to touch it leaves a virulent poison on the skin of many people that causes much suffering. So touch or carry home with you only the five leaved beauties.</p>
+         
+         <p>While so muck alike these two have not the slightest relation to each other. The poison one, when a vine, is called Poison Ivy and when a creeping shrub sending its roots just beneath the surface of the ground and coming up at intervals in an erect branchlet is Poison Oak. Strange to say there is another plant that may be found in the vicinity of the poison ivy that is used in the country as a remedy for the poison. This is the Jewelweed, or Touch-me-not, the macerated stems of which bound on the eruption will kill the poison. It is also sometimes called Glass-weed and has odd cornucopia-shaped, orange blossoms spotted with reddish brown. The ripe seed pods recoil if touched, shooting the seeds hither and yon.</p>
+         
+         <p>The Virginia Creeper has blue berries, in broad, open clusters, on red stems. The fruit of the Poison Ivy is a dry drupe, the size of a pea, greenish, gray-white or pale brown. Though taking on the red hues of autumn they are not as brilliant as the Virginia Creeper.</p>
+         
+         <p>It should be the duty of every one that is not afraid of its poisonous effects to aid in destroying this poisonous counterpart that the other, with its beneficent beauty, may be enjoyed without fear.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 17, 1920. <title>Omaha Sunday World-Herald</title> 56(3): 10-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

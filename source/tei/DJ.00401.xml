@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00401">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The High Cost of Singing.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-01</date><biblScope>55(44): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The High Cost of Singing.</head>
+         
+         <p>Most of our wonderful songsters of the spring are silent now, or comparatively so. The winged warblers, large and small, are busy with domestic affairs, and have little time to entertain the mere humans who occasionally love them so much that a rifle bullet or a wad of dust-shot is contributed as a present.</p>
+         
+         <p>The Brown Thrasher, for instance, is rarely heard to burst forth into his inimitable repertoire after his family of youngsters has been born, and the Cardinal gives his "What-Cheer!" only now and then. The Catbird's "mew" is more often heard than its Mockingbird stuff, and all of the rest of the prize singers are strangely silent.</p>
+         
+         <p>This, we think, is because these beautiful creatures of the earth and air realize their responsibilities. They have families to raise and to support. Mayhap their worms and bugs, and seeds cost more in labor than in past years - and they are cutting down on frivolity.</p>
+         
+         <p>But the House Wrens and Dickcissels are happy-go-lucky fellows, who sing while they work, and work while they sing. Their peculiar melodies are heard even into the night, especially that of the latter.</p>
+         
+         <p>And in the very middle of the night the Night Hawk, or Pirimadig, or Pisk, or Night Jar, or whatever you wish to call him, squawks his way around with his mouth open so that bugs may fly into it - but his remarks could scarcely be called a sing!</p>
+         
+         <p>For the springtime bird-songs are gone!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 1, 1920. <title>Omaha Sunday World-Herald</title> 55(44): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00391">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Harris's Woodpecker in Nebraska.</title><title level="j">Oologist</title><author>Reed, M.H.</author><date>1890-02-01</date><biblScope>7(2):29.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-10"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Harris's Woodpecker in Nebraska.</head>
+         
+         <p>Along the latter part of December, I was walking through a strip of timber about one-half mile west of town, when right in front of me, I head the rapping of some Woodpecker. I walked nearer as silently as possible, when a Flicker flew up and away. I walked on more rapidly, then thinking that was all there was, when out jumped what I thought at first sight, was a Downy Woodpecker. It lit on a stump about ten yards ahead of me and I could see it plainly. It was much to large for a Downy and I thought to dark for a Hairy. I watched it for almost an hour. It came quite near me several times, but flew away almost as soon as it saw me.</p>
+         
+         <p>At last the mate (a male I think) came up and I saw them no more that day.</p>
+         
+         <p>I went home not knowing what I had seen.</p>
+         
+         <p>The following Thursday a traveling-man, who is quite a "bird crank," came around and I took him out. As soon as he laid eyes on my bird he said, "Boy, that's a Harris's Woodpecker." Well I was glad to hear that, for several of our local sages (?) had declared that I had only seen a Downy or perhaps a Hairy Woodpecker.</p>
+         
+         <p>M. H. Reed,<lb/>Otoe Co., Neb.</p>
+         
+         <cit>
+            
+            <bibl default="NO">February 1890. <title>Oologist</title> 7(2):29.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

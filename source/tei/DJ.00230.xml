@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00230">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Dream. Dedicated to Sandy G[riswold].</title><title level="j">Omaha Sunday World-Herald</title><author>Chittenden, Frank.</author><date>1923-12-30</date><biblScope>59(13): 3-W. A poem.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Dream.</head>
+         
+         <head>Dedicated to Sandy G.</head>
+         
+         <list type="simple">
+            
+            <item>I dreamed of a lake, deep hid in the woods,</item>
+            
+            <item>In length it was more than a mile.</item>
+            
+            <item>I saw it dotted here and there,</item>
+            
+            <item>By many a small green isle.</item>
+            
+            <item> </item>
+            
+            <item>I also saw bluffs,</item>
+            
+            <item>To the shore dropping steep,</item>
+            
+            <item>Their casting shadows</item>
+            
+            <item>Making the water look deep.</item>
+            
+            <item> </item>
+            
+            <item>This lake of which I dreamed had many bays,</item>
+            
+            <item>In fact an irregular shore.</item>
+            
+            <item>In which grew rushes, wild rice,</item>
+            
+            <item>And lily pads galore.</item>
+            
+            <item> </item>
+            
+            <item>Here and there I saw a rock,</item>
+            
+            <item>And an occasional log,</item>
+            
+            <item>So enticing to the angler,</item>
+            
+            <item>To try with fly or frog.</item>
+            
+            <item> </item>
+            
+            <item>To hook the wary bass,</item>
+            
+            <item>No doubt there in wait,</item>
+            
+            <item>To make its fierce rush,</item>
+            
+            <item>When he cast out the bait.</item>
+            
+            <item> </item>
+            
+            <item>A companion I had,</item>
+            
+            <item>A friend staunch and true,</item>
+            
+            <item>We each getting pleasure,</item>
+            
+            <item>From woods and canoe.</item>
+            
+            <item> </item>
+            
+            <item>On the shore of the lake,</item>
+            
+            <item>Where in followed a brook,</item>
+            
+            <item>We had built our log cabin,</item>
+            
+            <item>In a well shaded nook.</item>
+            
+            <item> </item>
+            
+            <item>We would pass our time hunting,</item>
+            
+            <item>Or in casting for fish.</item>
+            
+            <item>Thus living close to nature,</item>
+            
+            <item>Nothing more did we wish.</item>
+            
+            <item> </item>
+            
+            <item>On came the Fall,</item>
+            
+            <item>The best time of the year.</item>
+            
+            <item>When we shot many partridge,</item>
+            
+            <item>And an occasional deer.</item>
+            
+            <item> </item>
+            
+            <item>As the weather turned colder,</item>
+            
+            <item>And the ducks took to flight,</item>
+            
+            <item>We had sport beyond measure,</item>
+            
+            <item>Each morning and night.</item>
+            
+            <item> </item>
+            
+            <item>Then when the winter came on,</item>
+            
+            <item>With snow falling light,</item>
+            
+            <item>In the hunting of rabbits,</item>
+            
+            <item>Time took its quick flight.</item>
+            
+            <item> </item>
+            
+            <item>The weather grew colder.</item>
+            
+            <item>And the snow it piled high,</item>
+            
+            <item>With our pipe and our book,</item>
+            
+            <item>The days they slipped by.</item>
+            
+            <item> </item>
+            
+            <item>Then I awoke,</item>
+            
+            <item>And found it a dream,</item>
+            
+            <item>But surely in dreamland,</item>
+            
+            <item>Did I live a life supreme.</item>
+            
+            <item>- Frank Chittenden.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">December 30, 1923. <title>Omaha Sunday World-Herald</title> 59(13): 3-W. A Forest and Stream Letter Box feature.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00679">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Plea for the Young Birds. Robbing of Nests in Omaha Destructive of Fine Species.</title><title level="j">Omaha Sunday World-Herald</title><author>Whinnery, J. Carroll.</author><date>1899-06-11</date><biblScope>34(254): 6.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Plea for the Young Birds</head>
+         
+         <head>Robbing of Nests in Omaha Destructive of Fine Species.</head>
+         
+         <p>Omaha, June 10.-To the Editor of the World-Herald: I noticed an article in one of our daily papers with regard to the abuse of birds in our parks and lawns. The use of the slingshot is a great evil, but I feel that the robbing of birds' nests is a much greater one. I have made more or less a study of birds and their habits from my boyhood. It is a subject that never grows wearisome. In company with two friends I have located thirty nests in Bemis park. Eight of them belonged to the Rose-breasted Grosbeak, seven to the thrush, seven to the thrasher, three to the cotbird, of Carolina mimic, four to the cobin and one to the dove. Out of the eight grosbeak's nests we find five destroyed. As the thrush builds low, but one is left. Of the seven thrashers four are gone. The Carolina mimic were all taken. The robins building higher in the trees, unless it be a single exception, we feel have been unmolested. The dove's eggs were carried away. Two warbler's nest, just west of Creighton college, have been destroyed.</p>
+         
+         <p>A tanager, dove, and red-eyed vireo, nesting in the grove north of Prospect Hill cemetery, have lost their homes. You will see from this list that the birds who suffer most from the small boy or the amateur ornithologist are our song birds. To have watched a wood thrush build her nest, to know that she brooded a week on those dainty green eggs, which shall in time yield to the world the makers of that melody which Thoreau says is the "one note which affects me like music; affects the flow and tenor of my thought, my fancy, my imagination," and then to find the eggs gone, the remnants of the nest scattered by some worthless hand makes one feel that the world has suffered a distinct loss.</p>
+         
+         <p>Few of us value the catbird as he deserves, yet Maurice Thompson ranks him third among the American song birds, placing him just after the mockingbird and thrasher. The outlook for cotbirds is, as you see, a poor one, for no nests in Bemis park survived the onslaught on Memorial day.</p>
+         
+         <p>Of all these birds there is not one which does not do a tremendous work in destroying noxious animal life. Even those which are decided seed-eaters may now be seen working as steadily as the warblers or vireos stripping the insect life from bushes and trees, and soon will be busy again searching out the weed seeds, which would spring up and occupy the soil.</p>
+         
+         <p>Prof. Bruner of the state university says that upon a conservative estimate it would take 1,870,000,000 insects for a single day's ration for our Nebraska birds. If these insects were spread out at the rate of 10,000 to the acre a day's work for our birds would mean the complete clearing of 18,750 acres.</p>
+         
+         <p>A bird's life is valuable for more than one reason.</p>
+         
+         <p>Since the city has decided to protect the mature bird from the small boy with the slingshot, cannot something be done to save the nests and the helpless young?</p>
+         
+         <cit>
+            
+            <bibl default="NO">J. Carroll Whinnery. June 11, 1899. <title>Omaha Sunday World-Herald</title> 34(254): 6.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

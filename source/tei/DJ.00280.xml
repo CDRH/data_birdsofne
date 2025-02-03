@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00280">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Falling Leaves.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-09-29</date><biblScope>53(52): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Falling Leaves.</head>
+         
+         <p>Hastened by the extremely dry summer and the early frosts, autumnal showers of russet leaves have already covered the ground, and the trees themselves, seeming to increase in grandeur as they are thus stripped of their camouflage, are rapidly becoming bare.</p>
+         
+         <p>To comment upon the glory of Nebraska's Indian summer would be a base platitude, but one may still observe that it is here - more wonderful than ever.</p>
+         
+         <p>But the bird lover welcomes it even more than the unfortunate folks who are not interested in the feathered gentry, for the opportunities for observation are much more alluring, and the goings and comings of the different tribes accordingly more easy to watch.</p>
+         
+         <p>The dun-colored songsters of the fall and winter may now be seen, if not heard, for there are but few carols in the silent overture to winter.</p>
+         
+         <p>But scratching about in the leaves will be found the many different brands of sparrows, and the glorious Cardinal will gleam the more brightly through the reddened leaves which he puts to shame, and the wood birds will be heard rapping into the bark crevices with added vehemence - laying in a winter stock of food supplies!</p>
+         
+         <p>It is glorious in the woods these days, and birddom is never more attractive.</p>
+         
+         <p>If you can withstand nature's call in Indian summer you are certainly endowed with tremendous hardihood.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 29, 1918. <title>Omaha Sunday World-Herald</title> 53(52): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00180">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Clink—the Cardinal.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-02-06</date><biblScope>51(19): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Clink—the Cardinal.</head>
+         
+         <p>This has been an exceedingly wintry winter thus far, and hardened amateur ornithologists have been figuratively overcome by the heat when the mercury o'ertopped the zero mark.</p>
+         
+         <p>Week after week of extreme frigidity has had its effect upon the hardy feather folks of the crisp, white woods. The hardest of them all are hard to find, not even excluding the chickadees, whose merry warwhoop has warmed many a frozen countryside when all other joyfulness was completely congealed. Perhaps they drift south a few miles under such circumstances. Let us hope so, for they have the advantage of humans, knowing of no such entanglements as passenger tariffs and Pullman rates.</p>
+         
+         <p>But even in these zero days, when the wind bites to the quick and the sturdiest pedestrian finds difficulty in stamping circulation through his eager body, he is likely to hear, from the blue depths of some seedy patch of weeds, the sober observation.</p>
+         
+         <p>"Clink!"</p>
+         
+         <p>It isn't much of a remark. It sounds wintry and is wintry, too, for it comes from the throat of one of our most beautiful and faithful birds—the Cardinal. He is feeding, or trying to, and is using his own language to express his opinion of the weather.</p>
+         
+         <p>"Clink!"</p>
+         
+         <p>You have heard the same sound when an icicle falls from your porch roof in the night and strikes the frozen crust over a hollow in the snow drift. It is a cold sound—very cold—and very deep.</p>
+         
+         <p>Presently you may see this gorgeous creature of the woodland when he leaves the weed patch, for the Cardinal is very particular in selecting his company. He never seems to take his flaming departure with the air of one who is frightened—his dignity would not permit it—but he placidly and silently blazes a red trail through the stark trees into the distance. He makes you feel a rank intruder—perhaps ashamed. In truth the beauty of this kingly bird, especially against the bleak background of winter, would shame the most shameless.</p>
+         
+         <p>But he is here and may the God of all the birds bless and preserve him! Within a few weeks the green things will have sprouted and presently will come the thickness of the foliage in which he and his pretty pink mate will build them a nest and rear a brood of dainty pink babies—whom the gods likewise preserve! And when this time has come there will be another song from the swelling throat of this regal beauty—</p>
+         
+         <p>"What cheer! What cheer! Whew! Whew! Whew!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 6, 1916. <title>Omaha Sunday World-Herald</title> 51(19): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00067">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Doldrums.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-02-19</date><biblScope>57(18=21): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Doldrums.</head>
+         
+         <p>This is the peculiar season in birdland that might be termed the doldrums, for such feathered friends that we have with us are marking time, preparatory to the migration which will be noted here within a few weeks. The same condition is observed in August, before the southward drift of the songsters.</p>
+         
+         <p>The birds are busy enough today, no doubt, as they have to keep busy or starve. The White and Red Breasted Nuthatches are upside down on the bark of our trees; the Brown Creepers persistently climb from the roots to the topmost tip, while the Downies and Hairies perform as every good woodpecker should in doctoring the trees in their particular neighborhood.</p>
+         
+         <p>Chickadees are everywhere, while the Tree Sparrows and Juncos and Waxwings and - and all the rest of the beauties greet us as usual in the parks and woods and fields.</p>
+         
+         <p>The only difference to be noted is the rattling melody of the Horned Larks as they woo in the air, preparatory to nesting about a month from now.</p>
+         
+         <p>Otherwise the bird lover will find nothing of note in his rambles at this period of the year. Maybe it is a sort of ornithological lenten season with certain restrictions on feathered gayety and levity.</p>
+         
+         <p>In truth, the difference will be noted by anyone who prowls the outdoors in study of bird life, but is better noted in August. During that month, while the woods and residence districts may have been densely populated with Bluebirds, for instance, they suddenly drop out of sight.</p>
+         
+         <p>The theory of this is, as with other birds who also fade away for the nonce, that the Bluebird parents are teaching their newly born young the art of living and hustling chow. For, it will be noted, in September these Bluebirds reappear in larger numbers than before, and in "bunches," remaining until driven south by the bitterest cold in October - not before - with exceptions noted.</p>
+         
+         <p>Pretty soon the Juncos and Tree Sparrows and Creepers and Red Breasted Nuthatches will begin to float away from our lives for another season - but just now it is the interim - the doldrums.</p>
+         
+         <p>Why not study these peculiar phases of birddom? The hike will do you a lot of good. Ask your doctor.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 19, 1922. <title>Omaha Sunday World-Herald</title> 57(18=21): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

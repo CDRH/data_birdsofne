@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00553">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Our Month of Gold.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1921-10-09</date><biblScope>57(2): 3-W. Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <head>Our Month of Gold.</head>
+         
+         <head>By Sandy Griswold.</head>
+         
+         <p>Incidently, this is October, or the golden month, as we are wont to call it, in which the sportsman may go forth in quest of wild fowl and prairie chicken. And what a boon it is, a few days in a blind on lake or river or a ramble over our broad prairies for these matchless game birds - the pinnated grouse, in this beautiful period.</p>
+         
+         <p>Redolent with the fragrance of the autumn flowers, out on our measureless fields, the air is sweeter and more invigorating than at any other season of the year, while down along the waterways there is that peculiar tang which alone comes with autumn days, and over the hills lies a blue haze that is as interesting as it is mystifying.</p>
+         
+         <p>In the high grass the cricket no longer sings his farewell to summer, neither do we hear many bird trills. Largely it is a month of silence. The tinkle of the meadow lark and the rippling of the bobolink's mellifluous notes that pulsated so continuously over the June pasture lands, are heard no more. Even the crow caws but lugubriously as he winnows his indolent way over hill and field. The bluejay, however, squawks as irreverently as ever, and the melody of the bluebird still falls from the evening skies, though mournful as the rustle of falling leaves.</p>
+         
+         <p>But there is plenty of animation on all sides. The radiant little gold finch tilts in quietude on the dried and fluffy tufts of the dusty thistle, and the yellowhammer cackles occasionally as he undulates from field to wood and back again. The flute and bells of brown thrasher and veery have ceased to ring and chime down in the Elkhorn's woodsy valley, but the black birds, restless and ever on the move, chuck disconsolately, showing how hard it is to give up the joys of summer time.</p>
+         
+         <p>The windbreaks and hedges are growing more and more sombre as their overripe foliage begins to curl and droop, and along the country lanes and roadways, the disks of the sunflower glow but dimly in the refulgence of the sturdier constellations of the asters. In shielded spots the unshorn fringes of the goldenrod, the willow herb, the wild hemp, the iron and the ragweed, remain defiantly, while in all the out-of-the-way crannies, crypts and hollows, heavy clusters of deep purple elderberries hang low, and in the inky juice of which, the querulous robin dyes his yellow bill.</p>
+         
+         <p>The Rawhide and the Pappio trail dimly along through a dun tangle, their ripples gilded by the inverted flames of the cardinals which still blaze among their sedgy borders. The seal-furred muskrat prowls suggestively about in quest of lilyroot or parsnip, or sits for hours on bank or bar, dreaming away the sunny moments that should be full of activity in preparation for the bitter days on the way. However, when the frost begins to toughen the tall stems of the rushes, the little rosewood clown of pond and puddle will get busy in earnest, and ere many days elapse his dome-shaped castle will be made warm and snug for the days when all the low and swarthy waterways will be locked as tight as with bars of steel.</p>
+         
+         <p>All too brief, indeed, are these sweet days of gold, and the sportsman must improve them while the chance is his. They will speedily vanish, and the sway of the bleak gods as speedily be upon us.</p>
+         
+         <p>The black and orange of the oriole is no longer seen as he flashes athwart the shifting hues of orchard and wood, and instead, the tinge of drab is settling over hill and dale, and wherever foliage has flourished.</p>
+         
+         <p>In conclusion, with a few more strokes of the pencil, I ask, is there a month in all the calendar, lacey May or Rosy June, that can compare with October, russet clad? Surely it is the month for dreaming, the month for thought, the gorgeous days one endless pageant, with a clean, pure atmosphere, caressing sunshine, harvest moon, riant woods, field and stream, one supreme spasm of ecstatic exhilaration - that is October!</p>
+         
+         <p>Although not a wooded state, I am urged to add, no fairer land lies out of doors than right here in Nebraska. Its landscape spreads out before you like the long swells of the ocean, with the range of vision broken by little valleys, clumps of box-elder, elm, cottonwood, dwarf oak and walnut. here you command a marvelous view overlooking a great stretch of prairie fields and mottes of woods, with blue lakes basking in the mellow haze, and the silvery sinuosities of her streams flashing here and there - ranch houses, broad expanses of yellow fodder, tan stubble, herds of cattle and hay and straw stacks everywhere.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 9, 1921. <title>Omaha Sunday World-Herald</title> 57(2): 3-W. Forest, Field and Stream column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

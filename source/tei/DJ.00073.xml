@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00073">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Laws.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-09-10</date><biblScope>57(47=50): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Laws.</head>
+         
+         <p>Thanks to the untiring work of those who have loved birds to save them, and not necessarily to shoot them, a great movement is on foot in America today to account for every game bird that might fall victim to the gun of a game-hog.</p>
+         
+         <p>Likewise this movement is having something to do with the understanding of bird-life in general, since many of the superficial and but scantily advised authorities on the subject are hampering the great big idea by tricks that tickle but do not bite.</p>
+         
+         <p>The migration bird treaty between this country and Great Britain - meaning Canada - is sufficient to cover any violation thereof. Penalties are sufficient, and are being urged and generally imposed through the efforts of game Warden George Koster and his able force of deputies. This enforcement very naturally is directed chiefly toward the killing of edible birds.</p>
+         
+         <p>But we can leave that to Koster - that part of the endless struggle for the preservation of our bird life. It is the small birds, classified as not game birds, that we would speak.</p>
+         
+         <p>Ignorance of these so-called small birds is what hurts bird lore most. It is evident that lore can be hurt - because falsehoods against anything must hurt. The statement that Bluejays are not often damaging to the welfare of other birds is false, is proven by nearly all real authorities, but this does not mean that Bluejays are unnecessary or objectionable. They are very useful. They are tree-planters, for one thing, and are otherwise likeable, in the hours that they do not engage in pestering other bird life.</p>
+         
+         <p>Bird lore today means a lot more than it did in the days of the man who merely hunted to kill. There are thousands today observing birds where there were hundreds a few years ago. The observers are observing the hunters, as well as the birds, and the lore is increased in this way.</p>
+         
+         <p>Oh, Mister Man, who shoots to eat and who talks merely to prove that you have been somewhere in hip boots - what do YOU know about the tenderness of the Bluebird family in its present grouping to leave us, for the most part, until spring?</p>
+         
+         <p>What do YOU know, perhaps, about the deserted Wren-Hole to which a Jenny comes once in a while these days, to look in, as mush as to say au revoir?</p>
+         
+         <p>What do YOU know, with your gun on your shoulder, of the difference in small bird songs between now and a month before?</p>
+         
+         <p>Nothing at all, we will wager!</p>
+         
+         <p>And the Warblers are coming through, and the migratory Sparrows will soon be here, and our resident birds are nervous - but you, sir, with the opening of the gun season, please remember that there are other birds than game birds, and that there is such a thing as bird lore - and that children love live birds.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 10, 1922. <title>Omaha Sunday World-Herald</title> 57(47=50): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

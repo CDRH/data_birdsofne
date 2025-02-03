@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00754">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Save the Crows. For They Eat 300 Grasshopper Eggs at a Meal and Nobody Knows How Many Meals They Take a Day.</title><title level="j">Omaha Daily Republican</title><author>Axford, Carr.</author><date>1877-03-07</date><biblScope>19(219): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Save the Crows.</head>
+         
+         <head>For They Eat 300 Grasshopper Eggs at a Meal and Nobody Knows How Many Meals They Take a Day.</head>
+         
+         <list type="simple">
+            
+            <item>Omaha, March 4.</item>
+            
+            <item>To the Editor of the Republican:</item>
+         
+         </list>
+         
+         <p>In the communication of "Friend of birds" in yesterday's Republican, speaking of those black scavengers, the crows, he says: "It is true these birds do not materially promote agriculture and horticulture, etc., etc." Evidently "Friends of Birds" is not posted on the habits of these birds. Almost every intelligent frmer knows that the crow will dig down with his beak into the earth after worms and grubs, and many times have I seen them follow after the plow in search of such food. During the late warm weather when the grasshoppers were hatching out, a frmer living in the bottoms observed the crows digging down into the earth. Curiosity led him to shoot one, and on cutting him open found no less than three hundred grasshopper eggs in his stomach. Now, when one of these unattractive birds gets away with three hundred hopper eggs at one meal, I think they help to promote agriculture to a very large extent. By all means save these useful birds, for I consider one crow worth a dozen prairie chickens for the extermination of these pests.</p>
+         
+         <list type="simple">
+            
+            <item>Yours, etc., Carr Axford</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">March 7, 1877. <title>Omaha Daily Republican</title> 19(219): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

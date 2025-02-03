@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00749">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Lincoln Salt Lake and the Occurrence of Strepsilas interpes.</title><title level="j">Auk</title><author>Barbour, Edwin H.</author><date>1895-07-01</date><biblScope>12(3): 297.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-18"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+
+   
+   <text>
+      
+      <body>
+         
+         <head>Lincoln Salt Lake and the Occurrence of <hi rend="italic">Strepsilas interpes</hi>
+         
+         </head>
+         
+         <p>Local ornithologists are considerably interested in the occurrence of the Turnstone (<hi rend="italic">Strepsilas interpres</hi>) in this State. Three were shot at Lincoln Salt Lake on the 25th of May of this year. These were secured by Mr. W. D. Hunter of the Department of Taxidermy, and were placed by him in the State Museum. This the first authentically reported occurrence of this bird in Nebraska. So far as we can learn it is not reported for any of our neighboring States.</p>
+         
+         <p>It may be of interest to note that within the last three years the basin of Salt Creek has been artificially dammed, and the water set back so as to form a saline lake about two miles long and one mile wide. Here during the springtime are found great numbers of Gulls, Terns, Ducks, Geese, Waders and Water-birds of all sorts. The Lincoln Gun Club has bought the privileges to this lake, otherwise there would be a continual fusilade kept up against the flocks of birds which hover there. There are but few lakes or marshy places in semi-arid regions to entice Waterbirds, and any one could, by indiscriminate shooting, destroy large numbers of them.</p>
+         
+         <p>Possibly the salt water of this artificial lake provided food and familiar conditions for these birds which tempted them to linger here in their flight. - Erwin H. Barbour, <hi rend="italic">University of Nebraska, Lincoln, Nebr.</hi>
+         
+         </p>
+         
+         <cit>
+            
+            <bibl default="NO">July 1895. <title>Auk</title> 12(3): 297.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

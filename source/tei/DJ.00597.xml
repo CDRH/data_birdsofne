@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00597">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Nebraska's Game Outlook.</title><title level="j">Omaha Sunday Bee</title><author>Hubbard, C.P.</author><date>1893-05-21</date><biblScope>22(235): 18.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-06-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nebraska's Game Outlook.</head>
+         
+         <p>Broken Bow, Neb., May 18.—To the Sporting Editor of The Bee: The outlook for game in Nebraska is as good or better than in former years. The winter was comparatively a mild one and free from the deep snows and sleet so destructive to quail and grouse. This is true more particularly in the western and north-western portions of the state.</p>
+         
+         <p>Prairie chickens are for the most part out of the shell and the weather is sufficiently advanced so that few will perish from exposure. There has been an absence of the late cold rains which usually destroy more or less nests in low ground. The prairie fires early in April, which ran through the sand hill country from the Niobrara to the Platte, came too early to destroy many nests, and plenty of nesting ground was left along the edges of the sloughs and marshes. it is too early to predict what the quail crop will be—the weather during June will decide that.</p>
+         
+         <p>The flight of wild fowl was larger this spring than in many years and a great number of mallards are nesting in the lakes in the northwestern part of the state.</p>
+         
+         <p>The shooting at flappers will be good the last of August, but I would advise no one to go up to the lakes earlier than the middle of September, as the reeds are almost impenetrable and mosquitoes unendurable before frost sets in.</p>
+         
+         <p>Grouse shooting will be especially good along the line of the B. &amp; M. railroad from Anselmo west on the Wyoming division, and will continue good for six weeks after the opening of the season.</p>
+         
+         <p>One can have the advantage of good duck shooting along with the grouse in this country.</p>
+         
+         <p>The best quail shooting will probably be, as in former years, along the Republican river and tributaries. The extension of the B. &amp; M. into northern Wyoming has opened up a new game country. The Big Horn mountains have been celebrated for years as the haunt of deer, elk, caribou, antelope, mountain sheep and all kinds and varieties of bear, but has been so inaccessible that few sportsmen have visited the ranges. Now all this has changed, the B. &amp; M. taking passengers to Sheridan, distant only twenty miles from the heart of the mountains. Every stream in the Big Horn country is teeming with trout, in fact an hour's drive from Sheridan will bring one into good fishing grounds.</p>
+         
+         <p>The favorite fly here is the coachman, but at this season I believe the brown hackle will be found more killing, it closely resembling the cedar fly on which the fish are now feeding.</p>
+
+<p><hi rend="smallcaps">C. P. Hubbard</hi>.</p>
+         
+         <cit>
+            
+            <bibl default="NO">C.P. Hubbard. May 21, 1893. <title>Omaha Sunday Bee</title> 22(235): 18.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

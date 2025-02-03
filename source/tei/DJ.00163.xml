@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00163">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cherry Pits in the Bath.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-07-01</date><biblScope>52(40): 16-E. A bird editorial. Cherry Pits column repeated 6 Jul 1919.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cherry Pits in the Bath.</head>
+         
+         <p>These be trying times for the proprietor of cherry trees, as he is engaged in a stiff contest with the birds to see who shall harvest the crop. Nobody likes to have his cherries pilfered, even if by an otherwise delightful songster.</p>
+         
+         <p>It is aggravating, to phrase it mildly, when the owner of the fruit trees now under discussion, being also a lover of the feathered beauties, finds each evening in his bird bath a dozen or more cherry-pits. It needs no giant intellect to reason that birds, after stealing the cherries, have brought them to the bath where the drink is handy. Such evidence bodes no good for the fruit harvest, that is certain.</p>
+         
+         <p>Birds bother the cherries a great deal - especially Robins, whose depredations are more noticeable because of the large numbers of those burly and agreeable beauties. The question is, what to do about it. The answer is - nothing!</p>
+         
+         <p>Skilled ornithologists in the employ of the department of agriculture have battled with the problem and can only say that it is a fatal mistake to drive away the birds, since their absence is surer ruin to the cherry crop than is their presence. While they enjoy the fruit, they likewise consume enormous quantities of noxious insects and worms.</p>
+         
+         <p>Birds are terribly frightened at owls, so John Burroughs, the famous naturalist, contrived the scheme of mounting a huge stuffed owl in his cherry orchard, planning to scare the marauders away until the fruit could be plucked. The scheme worked all right so far as frightening the birds is concerned, but all the feathered tribes came from miles around to yell their horror at that grisly image - but none forgot to take a cherry along when he departed. Burroughs removed the deceased owl.</p>
+         
+         <p>When you find cherry pits in your bird bath, the best idea is to grin, for if the birds left you - yours would be a sad plight indeed!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 1, 1917. <title>Omaha Sunday World-Herald</title> 52(40): 16-E. A bird editorial. Cherry Pits column repeated 6 Jul 1919.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

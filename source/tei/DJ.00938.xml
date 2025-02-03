@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00938">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A New Visitor [Townsend Solitaire at Elmwood Park].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-01-04</date><biblScope>55(14): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A New Visitor.</head>
+         
+         <p>As we have persistently remarked, the study of bird life is mostly interesting because of its never-ending variety. We might become rather tired or tramping through the woods to see none but the more familiar of the feathered friends that are noted at regular intervals by every ornithologist. The possibility of running across a "stranger" adds jest to the game.</p>
+         
+         <p>The Townsend Solitaire, for instance, is in our parks and woods this winter. it is a rather large bird, fond of perching on the top of some coniferous tree, or feeding on the seeds and berries of such growth.</p>
+         
+         <p>The writer confesses never having seen this bird before, but the authorities say that the Townsend Solitaire is a specimen of the thrush family and makes its home chiefly in the Rocky Mountains, being only "occasional" in Nebraska. The Lincoln Audubons, on the other hand, report having seen it in recent years very often.</p>
+         
+         <p>This bird is of a sort of buffish gray with a white eye-ring and a severa temper. It seems to take great delight in chasing other birds, a good deal as does the Shrike. Perching on the top of some "Christmas Tree," Mister Townsend Solitaire will suddenly swoop after a flock of other birds and put them to rout.</p>
+         
+         <p>When feeding, the Solitaire is almost impossible to see, clinging to the very inwards of the conifer where he is securing his repast.</p>
+         
+         <p>Last week Omaha Audubons had the privilege of seeing a couple of these Solitaires pursuing a covey of Cedar Waxwings through Elmwood Park. The presence of the latter was almost as agreeable a surprise as that of the former.</p>
+         
+         <p>Get out into the woods - you folks. Plenty to see there!</p>
+         
+         <cit>
+            
+            <bibl default="NO">January 4, 1920. Editor [possibly Miles Greenleaf]. A New Visitor [Townsend Solitaire at Elmwood Park]. <title>Omaha Sunday World-Herald</title> 55(14): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

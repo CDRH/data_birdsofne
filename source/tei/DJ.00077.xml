@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00077">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">What the Birds Know.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-05-14</date><biblScope>51(33): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>What the Birds Know.</head>
+         
+         <p>Were it not for the unknown in bird life there could be but little interest in the study thereof. The discovery of the North Pole by Peary took all the "pep" out of Arctic exploration, and the man who rolled the first "300" did likewise for bowling. The actress who today loses a billion dollars worth of real diamonds finds scant market for her publicity, no matter how genuine her grief. All for the reason that these things have been done before.</p>
+         
+         <p>But there is yet such a wondrous wealth of information to be learned concerning the songsters that the game of bird study is really in its infancy. That is why the public responds so readily to the call for interest in this outdoor sport.</p>
+         
+         <p>For one thing, it is pretty generally believed that individual birds often, if not usually return year after year to the same neighborhood. Some of these cases are so startling as to be almost incredible.</p>
+         
+         <p>Take the Baltimore Oriole for instance. This glorious bird wearing the Princeton colors, arrives late in the spring and departs early in September, and during the other months is found far in the southland and even in southern Mexico. Yet where a pair of these Orioles have once nested you will find a similar pair, year after year. This is at least the case in a great many instances and it is mighty hard to escape the conclusion that the same birds, after having traversed thousands of miles in their migratory flight, actually come back to the very same tree!</p>
+         
+         <p>It has perhaps been within your experience, also, that a bird house once occupied by wrens or bluebirds is seldom empty in the following seasons. Ernest Harold Baynes caught and banded the leg of a bluebird at his home at Meriden, New Hampshire, and the same songster returned the following spring. Science has proceeded at least that far with the investigation.</p>
+         
+         <p>Now as to sanctuaries—here is the most remarkable phase of bird intelligence.</p>
+         
+         <p>It has been absolutely proven right here in Omaha that if a person protects his yard from cats, small boys with "nigger shooters," English sparrows and other natural and unnatural enemies of the songsters, this yard will be immediately recognized as a sanctuary by the feathered folks, who will not only make habitation there, but will fly to its confines when in trouble. How quickly they come to realize their friends can only be judged after a trial, and it is this part of bird study that we commend to you most seriously.</p>
+         
+         <p>The intelligence of birds seems almost uncanny in many respects. A well known Omaha amateur ornithologist this spring decided to rid his richly wooded premises of English sparrows and made a campaign against them with a rifle and dustshot. At first, upon the report of the weapon, all birds left, but when the wren and bluebirds and robins found that none but English sparrows fell victim to the shots, they paid no more attention to the noise than to excitedly flutter a few feet into the air and immediately return to the business at hand.</p>
+         
+         <p>Even the English sparrows, after having seen a few dozen of their fellows captured by the innocent appearing double-funnel trap, promptly shun the tempting bait in that deadly machine and often render it completely useless.</p>
+         
+         <p>This much is positively known, that a well protected bird sanctuary almost immediately becomes a real sanctuary as far as the songsters are concerned, and they rely upon it with the greatest confidence. That is what makes bird conservation so enjoyable and easy.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 14, 1916. <title>Omaha Sunday World-Herald</title> 51(33): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

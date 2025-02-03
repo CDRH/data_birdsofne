@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00384">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Gunner's Harvest Moon.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1890-11-09</date><biblScope>20(144): 13. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+  <date value="2006-05-10"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Gunner's Harvest Moon.</head>
+         
+         <p>The extremely mild and pleasant weather which predominated for the first four days of last week, for a second time this season, put a pretty effectual check upon wild fowl shooting, and the gunner have been all but disconsolate. But that the birds have been here in large numbers, there is no disputing, and that they will be here shortly again more plenteously than ever, there is now every indication. Thursday morning dawned dark and lowering, and during the day there were several apologetic flurries of the beautiful. This set the sportsman's blood coursing through his veins with a bound, and closing his eyes he could see his blind secluded amidst the dense willows, the shimmering waters in front, with their undulating decoys, the waving reeds and wild rice and leaden landscape surrounding, while off in the gray expanse a flock of mallards wing their way, and the far-sounding honk of the wild goose reaches his strained auricular organs. That's sufficient, and Friday morning, and all day yesterday innumerable parties, buoyant and hopeful and bending under a burden of shooting paraphernalia, were to be seen sallying forth out the Platte, up the Elkhorn and across over into the famous feeding grounds of Iowa. That these enthusiastic followers of the woods and waters are having magnificent sport, there is every reason to believe. The meteorological condition is admirable, and big installments of geese and ducks and quail and snipe too, are coming into the commission on every train. As early as Thursday evening the Peycke Brothers received a consignment of geese from Cozad or Gothenberg sufficient to make a sportsmen's eyes water. Among this bunch ware a half dozen Canadas, the smallest of which tipped the scales at 17½ pounds, and the largest at 19. These are big geese, about as big as are ever killed in this part of the country. Today the market is full of game, including wild fowl of all kinds, chicken, snipe and some antelope and deer, and this may truly be said to be the harvest moon of the sportsman, for it is really not until the ides of November are almost here that he realizes the fullness of his delight, and goes forth in quest of fur, fin and feather without restrictions of any description, and with the confidence of finding that which he seeks.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sporting Editor [Sandy Griswold]. November 9, 1890. <title>Omaha Sunday Bee</title> 20(144): 13. Portion of column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

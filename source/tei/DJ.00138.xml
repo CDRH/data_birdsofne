@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00138">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">How It Came About that so Many English Sparrows are Swarming in Omaha These Days.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1878-01-25</date><biblScope>20(182): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>How It Came About that so Many English Sparrows are Swarming in Omaha These Days.</head>
+         
+         <p>We have noticed of late the large number of English sparrows swarming around the roof of the Grand Central hotel, and the roofs of other high brick buildings on Farnam and Douglas streets, and vicinity. They are like the ones that we saw in such countless numbers, flitting about New York City last year, especially in the public parks; these birds were imported by the New York City authorities, and are protected by law, for the reason that they are considered to be public benefactors. They destroy insects with marvelous rapidity, and breed very rapidly.</p>
+         
+         <p>Upon inquiry as to how these little birds came to Omaha, we ascertained that when Adolph Bowman, one of the porter's of the U.P. company's offices in this city, went to New York, in August, 1876, in charge of the Union Pacific directors' car, he noticed the sparrows that were swarming around the railroad building in which the car was housed on the New Jersey side, and he obtained permission from the man in charge of the building to attempt the capture of a few for exportation to Nebraska. Bowman climbed to the roof of the car, and from that position he could easily reach the beams on which many sparrows were. he caught five pairs of young ones. Two pairs died on the way from New York to Omaha. On reaching this city, he turned loose the four pairs that he had left. The result has already become manifest, and in the near future will be even more apparent. The four pairs who were given the freedom of the city a year and a half ago, have increased most rapidly, and they are now very many in number. They are not yet quite "at home," and do not now show the same tameness seen in the sparrows in New York, but time and a proper exhibition of kindness toward these little strangers will overcome their present wild disposition, and we hope, before many months pass, to see them hopping about the streets and private premises with the same freedom as do their fellows in New York.</p>
+         
+         <p>These sparrows, when they are in sufficient numbers in the future, will devour and exterminate all the insects, grasshoppers, etc., that may visit Omaha's vicinity.</p>
+         
+         <cit>
+            
+            <bibl default="NO">January 25, 1878. <title>Daily Republican</title> 20(182): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

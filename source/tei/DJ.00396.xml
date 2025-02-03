@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00396">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hello, Jen [House Wren]!</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-05-01</date><biblScope>56(31): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hello, Jen.</head>
+         
+         <p>That marvelously swift and beautiful little ripple of song is outside our bower today, and reminds us that God is good, in that he has made House Wrens and permitted them to make our lives the more enjoyable during five months of the year.</p>
+         
+         <p>Scarcely larger than a lump of sugar, and certainly as sweet, Jenny Wren should be a model for humans. She is a bundle of nerves; apparently stronger than an ox in proportion to her size, and is a model housekeeper.</p>
+         
+         <p>Jenny is an energetic and faithful wife, while her husband, we have reason to believe, is a good provider, inasmuch as their family generally consists of from four to six youngsters, which ought to make any self-respecting Mister Wren go some, with the present market price of bugs and other delectable insects.</p>
+         
+         <p>We have an idea that modern brides might get some good ideas on the art of being a regular wife by studying Jenny Wren.</p>
+         
+         <p>Mrs. Wren is the most courageous and happy helpmeet you ever saw. She fights for her rights down to the last notch, and often dies in battle with the burly English Sparrow ruffians that persistently heckle her, and attempt to crowd her out of her home. When her young are in danger, she will willingly lay down her life by flying into the face of a prowling cat - but despite all these troubles and traits, her entire life is one big song. Just the sort of wife a human being of the masculine sex would be lucky to find. We can almost picture her in an immaculately starched house dress, singing about the kitchen, and permitting her youngsters to lick the spoon after she has frosted a great big chocolate cake.</p>
+         
+         <p>So hungry are Mr. and Mrs. Wren for work that they build nests in three or four different houses, although they occupy but one, permanently.</p>
+         
+         <p>Our hat is off to you, Mrs. Jennie Wren, and we hope your husband is well.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 1, 1921. Hello, Jen [House Wren]! <title>Omaha Sunday World-Herald</title> 56(31): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

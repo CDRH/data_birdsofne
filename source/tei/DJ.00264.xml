@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00264">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">English Sparrows.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-02-22</date><biblScope>55(21): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>English Sparrows.</head>
+         
+         <p>During a recent dinner given by the Fontenelle Forest association as a celebration of its acquisition of the Child's Point woods as a nature reserve John Fitz Roberts, well known South Side nature lover and amateur ornithologist, spoke of bird life at that reserve. He devoted a good deal of his allotted time to a defense of the English sparrow.</p>
+         
+         <p>Mr. Roberts has long been known to entertain such notions concerning this imported bird, and is respected for the sincerity of his belief. He feeds the "spatsies" in his yard and encourages their welfare and propagation in every way possible. Also he loves the other birds and encourages and protects them, too, as far as is possible.</p>
+         
+         <p>He claims that the English Sparrow is "our most useful bird." That takes in a good deal of territory. He says that these sparrows live almost entirely upon weed seeds and noxious insects - a statement which can be challenged very successfully. Nearly every authority places the English Sparrow as a diminutive scavenger, busybody and generally out-of-place mischief maker, without personal beauty or song to take the curse from him.</p>
+         
+         <p>We have no desire to discuss all of the charges against the bird in question, but would simply call Mr. Roberts' attention to the plain fact that if it were not for the English Sparrow there would be many, many more real songsters and more genuinely useful ones in our populated districts. The Englisher, with his gang, invariably attacks any other bird that shows a feather.</p>
+         
+         <p>As between Rose-breasted Grosbeaks and English Sparrows in the summer, of Chickadees and English Sparrows in the winter, we would prefer the former in each case. And scientists, by the way, assert, with few exceptions, that the Englisher is the most useless bird we have.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 22, 1920. <title>Omaha Sunday World-Herald</title> 55(21): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00566">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Mysteries of the Pines.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-01-07</date><biblScope>52(15): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Mysteries of the Pines.</head>
+         
+         <p>When it is bitter cold and the snow is blowing upward into your tingling face from the north - that is the time upon your woodland hike to seek the copse of evergreen.</p>
+         
+         <p>Among the pines - and there are many, many sorts of pines, you will find a strange lull and warmth and mystery. Instinctively your feet will carry you thither, for humans have the same primeval senses that are born with the birds - and most of the birds will be in the evergreens before you arrive.</p>
+         
+         <p>In this oasis of comfort, while the storm rages around and above, the stillness is uncanny. The flakes fall upon the wide branches of the pines and firs with but the ghost of a rustle, and in the inner recesses of those strong, broad tents, perfumed with subtle fragrance to be found nowhere else - are the winter songsters, the birds!</p>
+         
+         <p>Although it will be difficult to see them in their shelter, the very scratching of the Nuthatches upon the bark, the faint seep of the Creepers, the whine of the Siskins - all will come to you as clearly as if on a phonograph record.</p>
+         
+         <p>Out in the storm the woodpeckers and chickadees and several others of the hardy ones may be found battling for their food, but most of them will be taking their chances in the pines.</p>
+         
+         <p>So the mystery of finding just what feathered treasures are protected in that silent haven - that is one of the joys of birding in the wintertime!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 7, 1917. <title>Omaha Sunday World-Herald</title> 52(15): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

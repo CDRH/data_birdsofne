@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00960">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Where Are the Bluebirds?</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-05-05</date><biblScope>53(31): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Where Are the Bluebirds?</head>
+         
+         <p>Early in the eighties, according to Sandy Griswold, who is sufficient authority, the bluebirds suddenly "turned up missing" in Nebraska. One season scarcely a single bird was seen, and for the following two summers but one or two were reported from any locality where formerly these beautiful, loveable songsters had been myriad.</p>
+         
+         <p>It was explained by observers in this state at that time that a very severe winter had evidently caught the bluebirds napping, as thousands of them were found frozen in hollow logs and other cover to which they had fled.</p>
+         
+         <p>This was particularly pathetic, because it is well known by all lovers of the feathered clans that the bluebird hates to leave in the fall and generally "crowds the season" in the spring. This darling of our childhood is as much in love with us as we are with him, and he remains with us as long as possible. Not only that, but it is well known that he enjoys human companionship and generally brings his mate into some congenial backyard to nest, if possible.</p>
+         
+         <p>Today it would seem that something has happened to the bluebirds, even as in the eighties. It may be a "false alarm," but far fewer of these delightful creatures have been seen this spring than usual. Several bird students tramped the vast stretches of Elmwood park a week ago, for instance, and failed to see a single bluebird - whereas dozens would have been noted in past years.</p>
+         
+         <p>No reports have been received from out in the state, and it may be that the dearth of bluebirds is local. If so, it is well.</p>
+         
+         <p>To lose the bluebirds, and to have to wait a number of years while they propagate and renew their strength of numbers, would be a considerable disaster to those who enjoy the outdoors for the acquaintance it gives them with the winged wonders.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 5, 1918. <title>Omaha Sunday World-Herald</title> 53(31): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

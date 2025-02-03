@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00009">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Alaska Robin.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-04-29</date><biblScope>58(31): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Alaska Robin.</head>
+         
+         <p>Even as we have reiterated from time to time, the chief charm of the open air study of our bird life is the constant possibility of some brand new ornithological experience. Every time you take a hike through the woods or fields armed only with your nature-study glasses, you may find yourself face to face with some feathered stranger that will astonish not only you, but completely flabbergast the scientists.</p>
+         
+         <p>One of these unique episodes came into the life of an Omaha bird lover last week in Elmwood park - when he made the acquaintance of a Varied Thrush.</p>
+         
+         <p>Now if you care to do so, you might take time to look up Mr. Varied Thrush in some reliable bird book. His pedigree and log book will interest you.</p>
+         
+         <p>The Varied Thrush is commonly known as the Alaska Robin or the Oregon Robin, and his range is from the mountains of the Pacific Northwest to Alaska.</p>
+         
+         <p>He is a beautiful bird of orange, black and blueish gray, and when the Omaha amateur ornithologist first saw him, he was mingling with a big bevy of Robins, by whom he seemed to be welcomed. He was feeding off the ground, as do the Robins, and behaving exactly like one of them.</p>
+         
+         <p>This stranger in a strange land was seen several times in Elmwood park last week, but now seems to have "moved on."</p>
+         
+         <p>His history indicates that "moving on" is one of the best things he does, for although his home is in Alaska, Washington and Oregon, he is occasionally seen as far east as New York state.</p>
+         
+         <p>One glimpse of him east of the Rockies, however, is an event of first importance in the life of any bird student.</p>
+         
+         <p>Take a little hike through the woods today and see what new stuff you can find.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 29, 1923. <title>Omaha Sunday World-Herald</title> 58(31): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

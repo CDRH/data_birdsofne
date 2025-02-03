@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00610">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Notes on the Bob-white.</title><title level="j">Oologist</title><author>Pyfer, Amos.</author><date>1895-03-01</date><biblScope>12(3): 52-53.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-02"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+
+
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Notes on the Bob-white.</head>
+         
+         <p>As this beautiful bird is so well known I will not attempt to describe it. It is distributed over a greater portion of the United States, and although it is about extinct in some localities; it is still very plentiful here in Nebraska and Kansas.</p>
+         
+         <p>The nest of the Quail is very easy to find, as they build on the ground. It is usually a hollow scratched in the ground well lined and arched over with grass; with an entrance on one side. I remember very distinctly the first Quail's nest I found after I began to study birds. I was looking for nests too; but did not know that a wad of prairie grass, which looked like the rest of the grass around was a Quail's nest, until I stepped on it and heard the eggs pop. That was the first and only nest I ever stepped on, to my knowledge.</p>
+         
+         <p>Their nests with fresh eggs may be found from April to July, and one of their favorite places to build is in the ridge of an old road where the grass has been left standing. Both birds assist in building their nest. The material of which it is composed is gathered close at hand, and I have seen the female in the nest, seemingly fixing things to suit herself, while the male was on the outside carrying the material within reach of his mate.</p>
+         
+         <p>When the birds are disturbed during the process of building, they will abandon the nest.</p>
+         
+         <p>After the female begins to deposit the eggs, she usually lays one egg every day; sometimes a day will be missed; it may be she dropped the egg before getting on the nest; as they have a habit, it seems, of dropping or scattering eggs around; it may be on account of having no nest or by accident. I have known of one instance where three days sometimes intervened from one deposit to another and then two eggs were deposited in one day.</p>
+         
+         <p>Sometimes before all the eggs are deposited, the entrance to the nest may become somewhat closed or damaged, so that it does not leave a clear entrance; in such cases the birds will be very apt to leave the nest and make another one.</p>
+         
+         <p>The eggs vary in number. I have found a great many nests, ten eggs were the least, and twenty-seven the most found in one nest, fifteen to twenty are the usual number. The eggs being of such a pure white color, are very easily stained, and it is very seldom a full set can be found without a number of stained ones.</p>
+         
+         <p>I have found two runt Quail's eggs; they were both in the same nest, and one with a projection of about an inch on small end; projection was soft-shelled while the rest of the shell was hard; egg same size as rest of set. I have always seen the male, on nest during incubation, it may be female was relieved so as to get food about the same time of day, I rather think the female assists in incubating the eggs, for as soon as young are hatched both assist in taking care of the young brood. I remember one nest where the male did all the incubating for I was trying to catch him on the nest. He was a close sitter and although I had the grass all trampled down around nest and had a box ready to tip over him and repeatedly nearly had him still he would go back and actually hatched the eggs. I never saw the female during the time of incubating. This happened when I was a small boy.</p>
+         
+         <p>The young have a peculiar peep similar to a young turkey and usually utter two or three peeps in succession. When disturbed while quite young they will give several loud peeps when the old ones will fly about the intruder and run around with their feathers ruffled up and their wings down making a cackling noise.</p>
+         
+         <p>The flock will stay together if not disturbed during the whole winter. When roosting they sit close together in a bunch with their heads outward and when disturbed they start from the bunch in a flutter in all directions. In the spring they disband and mate; at this time may be heard the cheerful notes of Mr. Bob-white while perched upon a fence post.</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="smallcaps">Amos Pyfer</hi>.</item>
+            
+            <item>Odell, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">March 1895. <title>Oologist</title> 12(3): 52-53.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

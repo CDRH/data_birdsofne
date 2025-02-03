@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00483">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Lapland Longspurs.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-03-12</date><biblScope>57(21=24): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Lapland Longspurs.</head>
+         
+         <p>tragedies in birddom are generally as interesting as they are pathetic, and this has been certainly the case in the untimely death of thousands of Snowflakes and Lapland Longspurs in central and eastern Nebraska during the snowstorm of two weeks ago.</p>
+         
+         <p>At first a few Snowflakes or Snow Buntings were identified, but later specimens received from the storm swept area near Greeley include Longspurs.</p>
+         
+         <p>These two birds are a great deal alike in habits and appearance. Both travel in flocks, both have a weird cry while in the stormful air, both are seed-eaters and they occasionally intermingle.</p>
+         
+         <p>The specimens are surprisingly alike in the color scheme of their feathered armour, both having rich, buffy matches on the back of the neck, and white underparts.</p>
+         
+         <p>They are born and bred in the arctic circle, sometimes in Labrador, and as the Longspur's name suggests - in Lapland.</p>
+         
+         <p>Useful little creatures, created where there is ice and storm so often and so fierce - is it not strange that they should come down to Nebraska to meet death in a snow flurry that scarcely bothered the weather bureau?</p>
+         
+         <p>The Longspur is so called because of the long spurs on its otherwise ordinary feet, and the good it does for mankind in consuming noxious weed seeds is immeasurable.</p>
+         
+         <p>Glad that they came, we are sorry that they came to die.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 12, 1922. <title>Omaha Sunday World-Herald</title> 57(21=24): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

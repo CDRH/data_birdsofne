@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01017">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Ad Infinitum!</title><title level="j">Omaha Daily Herald</title><author/><date>1877-10-23</date><biblScope>13(8): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-05-25"/>
+    <respStmt>
+	<name>Anastasia Smallcomb</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Ad Infinitum!</head>
+
+<head>The Game Supper of the Sportsmen's Club at the Grand Central.</head>
+
+<p>The Omaha Sportsmen's Club dined at the Grand Central Hotel last evening on the game killed during their recent hunt, with numerous additions suggested by the taste and fancy of the cook. The defeated side in the recent contest furnished the supper. A large company of ladies and gentlemen, including several invited gentlemen guests not members of the Sportsmen's Club, were present. The supper was characteristic of the <hi rend="italics">cuisine</hi> of the Grand Central, and was served in handsome style. For variety it would be impossible to excel it. True a fair guest would occasionally make a wry face behind her napkin, but it was plain that she enjoyed the experience and the "gamy" flavor notwithstanding.</p>
+
+<p>When the table delicacies had been discussed at sufficient length Capt. Smith, of the victorious team, rose from his seat at the head of the feast, and made some remarks of a pleasant nature, appreciated by all but a few at the foot of the long table, who could catch but an occasional word.</p>
+
+<p>Capt. Budd, responded, explaining the cause of his defeat. He couldn't hear his opponent's gun, and didn't think he was killing anything, therefore he didn't exert himself.</p>
+
+<p>Remarks wise, funny and otherwise, were made by B.E.B. Kennedy, Major Thornburn, Geo. W. Dillon, Geo. W. Thrall, the host, J.E. Wilbur, S.B. Hathaway, D.C. Sutphen, and others. The "others" made their remarks in their seats, which were as a rule very brief and very easy to appreciate.</p>
+
+<p>The feast was in every respect a success and nothing occurred to mar the unmixed enjoyment of the evening.</p>
+
+<cit>
+<bibl default="NO">October 23, 1877. <title>Omaha Daily Herald</title> 13(8): 4.</bibl>       
+</cit>
+
+
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00134">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Brown Thrasher.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-05-30</date><biblScope>55(36): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Brown Thrasher.</head>
+         
+         <p>This bird is well named as to color. He is very brown, and he thrashes around considerably. He is a fighter, and if you approach his nest without an introduction you should be prepared to protect yourself from vicious jabs from his long, sharp beak.</p>
+         
+         <p>Beautiful in body as in song, this Brown Thrasher is so common about Omaha's residence district that it is positively pitiful he isn't better known. He is the most wonderful songster in Nebraska birdland.</p>
+         
+         <p>To start with, this fellow is what you may know as the "Brown Thrush." The thrush part of it is a misnomer, for the Thrasher belongs to the Mockingbird family, of which there are three, including the catbird.</p>
+         
+         <p>While the genuine Mockingbird is doubtless the peer of them all, he seldom comes to these parts, and in such rare instances does not furnish the wealth of song that comes from his throat, day and night, down south. So the Brown Thrasher takes his place, and we'll say he does a good job of it.</p>
+         
+         <p>Perched on the topmost twig of some tall tree, in the early spring morning, the Thrasher warbles along in an endless overture of everything he has heard. It is interesting to hear him study the various sounds that come to his attention, and to note his efforts to mimic them. The songs of the several Thrushes are wonderful, but the variety of the Thrasher's program is superb.</p>
+         
+         <p>The Brown Thrasher is not only a gorgeous addition to our list of things that make for human happiness, but is very companionable. He simply dotes on a nice clean bird-bath, and will nest anywhere in a bush or scrubby tree, providing there aren't too many cats around. And he will sing his occupation tax for you in one morning, with a great deal over!</p>
+         
+         <p>Don't call him a mockingbird any more. Maybe he is sensitive.</p>
+         
+         <p>He is the Brown Thrasher!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 30, 1920. <title>Omaha Sunday World-Herald</title> 55(36): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

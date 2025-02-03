@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00769">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Sensitive Partridge Pea.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-08-07</date><biblScope>56(45): 8-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Sensitive Partridge Pea.</head>
+         
+         <p>Along the railroad tracks and where grading and the addition of sand have changed the soil, grows in a long fringy border a plant with very abundant dainty leaves often divided into twenty pairs of small, linear, sensitive leaflets which, when handled, close and droop along the slender stem as if sorrowing at rough treatment. Alternating with the leaves are auxiliary flower stalks pendent from which are graceful yellow blossoms, two of the five petals touched with red at the base, and the ten stamens of a deeper, richer red and enclosing the one green pistil. This dainty blossom might well be adopted as the flower of Ak-Sar-Ben, as it combines the three colors, red, yellow and green, and enlivens the roadways through the hottest of the summer months, cheerfully enduring the rays of the sun, and although drooping when first picked, reviving when put in water, and continuing to open up new blossoms for days.</p>
+         
+         <p>Cassia Chamaecrista, it is called in the Latin tongue - Partridge Pea by the friends of the wayside. It has numerous "relations" all of whom have duties in life other than simply making beautiful the landscape. Its relatives were known originally in the Old World and there introduced into medicinal use, with many oriental names to impress the patient. So far the American species has been allowed to blossom undisturbed while there were enough of its oriental brothers and sisters of the Cassia sub-family and Senna family to supply the medical demand.</p>
+         
+         <p>Long may it be before the long, waving masses of Partridge Pea have to be sacrificed to the demands of the ills of mankind.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 7, 1921. <title>Omaha Sunday World-Herald</title> 56(45): 8-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00523">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Martyr Bluebirds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-02-13</date><biblScope>51(20): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-23">2006-06-23</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Martyr Bluebirds.</head>
+         
+         <p>There are bluebirds within the limits of Greater Omaha today, and not in the exhibition cases, either. They are real bluebirds, made of meat and feathers and loveliness and they have pioneered northward to assure us that spring is coming.</p>
+         
+         <p>Robins occasionally stay in protected spots throughout the bleak winter, and were seen in Omaha as early as three weeks ago, but with the bluebird it is different. There can be little doubt that these beautiful creatures have arrived from the balmy southland, overcome by their eagerness to bring promise of merry sunshine—like the flowers that bloom in the spring, tra la!</p>
+         
+         <p>Bluebirds were seen a week ago in Riverview park—a half dozen of them in a group—and a single member of that delightful family was perceived on a fencepost in the windswept stretches along Carter lake Wednesday afternoon.</p>
+         
+         <p>Winter is not over in Omaha—it is at its best just now, and there is an omnipresent possibility of riotous blizzards and other frigid convulsions of nature before the more delicate songsters may safely call Nebraska their home. Yet the bluebirds are here, faintly but cheerfully warbling their encouraging little melody over the ice-coated fields and leafless woods.</p>
+         
+         <p>They are martyrs, these bluebirds, as has been proven time and again by their early arrival in northern climes. Thousands of them are frozen or starved to death while on their premature missionary job as harbingers of spring. Should a storm sweep through this country today, the very bluebirds that encouraged you so much last week, will be but shriveled tufts of blue and buff feathers, inert in the drifts.</p>
+         
+         <p>But they will have served their mission. They will have brought to the discouraged battlers against rampant disease and uncomfortable cold the assurance of warmth and welfare, and of a new era of health and happiness.</p>
+         
+         <p>The song of the bluebird is ever a blessing, but in the last days of winter it is pathetically heroic.</p>
+         
+         <p>May the gods of weather spare him now, for this year more than in the past, the bluebird is to be appreciated.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 13, 1916. <title>Omaha Sunday World-Herald</title> 51(20): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

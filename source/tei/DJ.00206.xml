@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00206">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Dawn of the Hunters' Idyl. September Days with the Chicken and Approach of the Wild Fowl.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1894-09-02</date><biblScope>p. 18.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-19"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Dawn of the Hunters' Idyl.</head>
+         
+         <head>September Days with the Chicken and Approach of the Wild Fowl.</head>
+         
+         <p>Probably there is no class of men who are living in such a state of feverish expectancy just now as the sportsmen. September, October and November are the months that make up the gunner's idyl. There is no time in the whole year to be compared with this. It is the true legitimate hunting season. The spring holds no such pleasures as golden autumn. There is always the danger of rain and snow and cold, and no game is as attractive for either pursuit or the table. But there is little need now to dwell upon the discomforts of the chase in the early months of the year. September is here—the first of the royal months for the lover of the dog and gun, and broad prairie, hillside, valley and morass will soon reverberate with the thrilling report of the hammerless.</p>
+         
+         <p>The chicken season was up Saturday, September 1, and already there have been scores of parties left this city for the numerous well known grounds throughout this state, South Dakota and Iowa. Reports as to the plentifulness of birds vary. Some have it that the crop is larger than for a long series of years, others that the birds are scarcer than ever. A preponderance of evidence, however, has it, that the birds are as plentiful to all favorable localities as they have been for ten years. And this is quite probable, too, for notwithstanding the unprecedented drouth with which the western country has been visited, there certainly never has been a more propitious season for nidification, hatching and rearing the young, and I have yet to hear from any authentic source of any material destruction of the birds from a want of moisture. With the quail it is the same, and in many instances two broods have been hatched, as the nesting set in early, and the dry weather materially aided the young birds in their growth, and as early as the 20th of July I saw young quail myself more than half grown. The second crop of birds will probably not reach their full strength and size until late in the fall, and hunters will in their rambles run across numerous broods too small to shoot. However, the quail shooting does not open up until October 1, and in the meantime, the chicken, grouse and upland plover will furnish ample sport for the gunner. The plover have been exceedingly plentiful this summer, but with the first symptoms of frost will wing their way to the warmer climes of the south. Then along toward the latter end of the month the first issue of wild fowl will be along, and above all, chicken, grouse, plover or quail, the duck and goose shooting, in my estimation, is the acme of sport. First we will have, along the wooded streams and lakes, the wood duck in his blazonry of colors; then comes the dainty teal, both blue and green wing; the mallard with his glossy green head and melodious pamph! pamph!—the ever coveted canvas back in virgin suit of white, his cousin, the swift-flying redhead, the whistling pintail, the thievish widgeon, hooded merganser, purrutting bluebill, and scores of others. The jacks, too, the golden back plover, curlew and yellow legs, will drop down on every fenny expanse; the quail will be in the stubble, the chicken in the corn, and who will gainsay that the sweet autumn days, with their glimmering of mildew, mould and mellow, with their russets and scarlets and yellows, is not the hunter's halcyon time?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. September 2, 1894. <title>Omaha Sunday Bee</title> p. 18.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

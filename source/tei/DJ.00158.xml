@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00158">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Cheerful Dick [Dickcissel].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-05-27</date><biblScope>58(35): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Cheerful Dick.</head>
+         
+         <p>Despite the delayed season, which has been singularly devoid of torridity up to the time of this writing, the hottest of all our hot weather birds has arrived, prepared for the worst.</p>
+         
+         <p>The Dickcissel simply dotes on those darling days in July and August when most humans are gasping in the shade - on which occasion Cheerful Dick mounts to his favorite telegraph or telephone wire, weed top or fence-post and devotes, seemingly, his entire time to hot song.</p>
+         
+         <p>"Dick, Dick Cissel!" he chants - although to us it always sounded a great deal more like "Chip! Chip! Chee, chee, chee!"</p>
+         
+         <p>Nevertheless, no matter what his song actually is, the Dickcissel certainly doesn't hesitate to sing it, and the hotter the weather, the more he shouts his approval and his joy of living.</p>
+         
+         <p>The Dickcissel's voice has a most peculiar carrying quality, and is the only bird-song in these parts, perhaps, that can be heard on board train when the express is thundering along with a sixty or seventy mile roar. Perched on a wire along the right-of-way, Cheerful Dick can make himself heard above that roar to every traveller.</p>
+         
+         <p>Dick is very useful, too, being a great consumer of weed seeds and bugs and things that we don't care much about.</p>
+         
+         <p>It is mighty good to have him around again, even if he does forecast something warm in the meteorological line.</p>
+         
+         <p>Look him up today, on your Sunday hike.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. May 27, 1923. Cheerful Dick [Dickcissel]. <title>Omaha Sunday World-Herald</title> 58(35): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

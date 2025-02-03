@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00684">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Popular Knocker.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-02-16</date><biblScope>54(20): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Popular Knocker.</head>
+         
+         <p>This is a true story, although it may be branded as a "nature-fake" by those who haven't experienced the pleasure described in it.</p>
+         
+         <p>We have often asserted that those who feed the birds, or who show a continued friendly spirit in other ways, will find that the feathered folk are eager to become comrades and will go to extents almost unbelievable. it is unnecessary to quote authorities, for there is enough first-hand material.</p>
+         
+         <p>Photographs of a Chickadee eating a bit od suet from the lips of Ernest Harold Baynes, famous naturalist, pretty nearly caused a riot among Omaha skeptics when printed in the World-Herald a couple of years ago.</p>
+         
+         <p>Yet the writer has had Chickadees, as well as Tufted Titmice, sitting on the brim of his hat and on the tip of his shouldered walking stick in the vicinity of Elmwood park as recently as a couple of weeks past!</p>
+         
+         <p>The explanation is easy.</p>
+         
+         <p>For four or five years the writer and a comrade have been feeding the birds during the winter, at permanent stations, where the feathered clans have learned to congregate - and they know when Sunday comes around, it would seem!</p>
+         
+         <p>No sooner do the hikers appear at the suet holder and commence rapping at the clasp to release the basket than the bare branches are fairly alive with chattering, cheeping, seeping, squawking and squeaking birds!</p>
+         
+         <p>They can scarcely wait for the basket to be filled with suet so they can plunge their eager bills into the luscious treat. What is more, since all the birds cannot find accommodation on one basket, they follow the "chefs" through the woods to the next station. This can be proven in many instances.</p>
+         
+         <p>But to show how old acquaintance convinces the birds, this incident is enlightening.</p>
+         
+         <p>Recently the writer placed a few crumbs of suet on the broad brim of his "hiking hat" as he was filling a food basket in Elmwood park. But a few minutes had elapsed before the Chickadees and Titmice were perched on that hat - helping themselves!</p>
+         
+         <p>It is this trust and love for the humans on the part of the birds that should make the humans reciprocate.</p>
+         
+         <p>These useful, cheering and pretty little folk of the feathers, especially in the winter, teach us to love to live - and we should not forget the lesson!</p>
+         
+         <p>You should start your experiments today!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. February 16, 1919. <title>Omaha Sunday World-Herald</title> 54(20): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

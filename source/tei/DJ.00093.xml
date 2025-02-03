@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00093">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds' Larder.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-09-10</date><biblScope>51(50): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds' Larder.</head>
+         
+         <p>We folks are now wooing, with melting eyes and soft words of insidious temptation, the flinty-hearted dealer in retail coal. We are stocking the gaping and cavernous maw of the basement bins with fuel against the exigencies of a Nebraska winter.</p>
+         
+         <p>The good wife is attending to her part of the preparedness campaign, and upon the immaculate shelves of her department repose stanch battalions of preserved vegetables, pickles, tinned stuff and other edibles. Presently the potato cellar will be full of spuds and other tasty subterranean fruit, while everything possible will be added to the winter supply before the first flake falls.</p>
+         
+         <p>This preparedness is not original with us humankind - for Nature is already getting things ready to care for the wild folks she loves so dearly, and it is interesting at this time to observe how the birds' winter larder is being filled.</p>
+         
+         <p>When snow and ice have sealed up this northern country for month upon month, the stalwart songsters that remain with us - although few of them are particularly tuneful during that period - must be fed, and are fed, as part of the program.</p>
+         
+         <p>Observe now the vast weed patches in the fields and along the creek beds, heavily laden with seeds. After the snow has fallen and the wintry blasts are rippling across the plains, these seeds will be cast loose from their moorings and scattered broadcast upon the snow. Then what a fest appears for the Juncos and the Tree Sparrows and the Siskins and the Goldfinches in their strange, dull togs! And upon the stark stalks of these weeds will appear the dapper little Chickadee and Downy and Hairy Woodpeckers, prying into the pods for such food as has not been cast down by the gale.</p>
+         
+         <p>And in the crevices of the bark upon the bodies of the trees now so heavy with foliage, are already being hidden away the bits of insect life - hibernating insects themselves, in many instances- upon which the busy Nuthatch and the optimistic Brown Creeper must sustain themselves during the long, bitter, grey months. Thereupon will also feed the Chickadee and the woodpeckers - for nature's larder is open to all who know the combination.</p>
+         
+         <p>It is interesting indeed to watch the processes of the vast Directing Power of the wide outdoors, especially in its care of the feathered folk. When Nature has done her part, after all that humans have done to make her wok difficult, it would be no more than right that we all lend a hand in making life pleasant for the birds this winter.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 10, 1916. <title>Omaha Sunday World-Herald</title> 51(50): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

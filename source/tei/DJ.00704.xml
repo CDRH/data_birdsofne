@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00704">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Purity! Purity! Purity! [Eastern Bluebird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-03-04</date><biblScope>52(23): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Purity! Purity! Purity!</head>
+         
+         <p>Just a week ago today - it was a very warm and pleasant Sabbath, if you recall - from the blue skies above there came down into this wicked city a murmuring song of ineffable sweetness.</p>
+         
+         <p>"Purity! Purity! Purity!"</p>
+         
+         <p>If you are a patriotic Omahan you may object to eh insinuation that this city is wicked but certainly in comparison with the lovely and lovable Bluebird, all things are wicked!</p>
+         
+         <p>Could there be anything sweeter to the human soul, or more beautiful to the human eye, or more delightful to the human ear than this songster of all songsters - this bird we have all adored since our earliest days of childhood?</p>
+         
+         <p>After months of winter's bleak frigidity, it is no wonder that the first summer bird of all should be the Bluebird, and that he should come down from the depths of that deep blue sky as a harbinger of spring, carrying her colors upon his wings. And upon his red breast he likewise brought the promise of bright flowers so soon to follow, and in his song a plea for purity, of which he is himself one of the most touching exemplifications.</p>
+         
+         <p>It is said that the Bluebird loves this northern country, and that he mourns constantly when he is away - forced out by the season of winter. We know that he is very reluctant to leave in the fall, and that he comes back upon the first pleasant day, risking being caught in a blizzard such as March often produces before surrendering to April. We know that he goes no further south than the weather demands, and that his song of "Purity" is never as fervently sung as upon his first return - which, in this instance, was last Sabbath day.</p>
+         
+         <p>Far in the air, apparently still upon the wing and rejoicing in once again reaching the scene of love and marital duty, the Bluebird arrived in Nebraska and showered the countryside and this huge metropolis with the tender murmurings of his dear heart.</p>
+         
+         <p>Many homes have been erected for him in Omaha, and many an eager eye has been cast upon his familiar perching places during the week. It is well that he should come to us now, when, of all times in our history it is good to hear the voice of sweetness and innocence.</p>
+         
+         <p>May the month of March, riotous season! - deal kindly with the Bluebird and permit him to remain undisturbed! For he is loved by all, and needed by all in the stress of another and greater brewing storm, in which all remembrance may be lost of that sweet murmur.</p>
+         
+         <p>"Purity! Purity! Purity!"</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 4, 1917. Purity! Purity! Purity! [Eastern Bluebird]. <title>Omaha Sunday World-Herald</title> 52(23): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

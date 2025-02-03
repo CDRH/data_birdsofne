@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00046">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bagging Their Birds. The Splendid Scores Made in the Field in the Fall Hunt.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1881-10-22</date><biblScope>17(12): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bagging Their Birds.</head>
+         
+         <head>The Splendid Scores Made in the Field in the Fall Hunt.</head>
+         
+         <head>Captain Mills' Side Wins in the Competition - Krug's Side Loses, and Gives the Club Supper Tonight - Individual Scores.</head>
+         
+         <p>The sportsmen engaged in the Omaha club's fall hunt began returning home with their bags yesterday morning, and were all in by evenng, when the count was begun at Collins &amp; Petty's.</p>
+         
+         <p>A great variety of the feathered game in which this state abounds was brought in, ranging from the big Canada geese to the diminutive snipe. The sportsmen had all sorts of luck, and several met with exciting adventures.</p>
+         
+         <p>The count showed a victory for Captain George T. Mills' side, and the losing side, Mr. Krug's gives the game supper to-night at Wirth's. Subjoined is the count"</p>
+         
+         <head>Captain Mills Side.</head>
+         
+         <p>George T. Mills, 86 points' John W. Petty, 199; G.F. Brucker, 125; J.L. Lytle, 67; R.N. Withnell, 69; J.F. McCartney, 5; George Arbuthnot, 116; Judge Lake, 18; B.E.B. Kennedy, 23; Wm. Preston, 43. [McCartney did not receive word till late. His bag was sent in from O'Neill.] Total, 751.</p>
+         
+         <head>Captain Krug's Side.</head>
+         
+         <p>Wm. Krug, 78 points; henry Homan, 95; Dr. Peabody, 51; W.J. Lard, 239; Mart Kennedy, 27; John Withnell, 27; Fred Blake, 41. [Lard shot 74 mallards, counting three points each, giving him 222 points on that variety alone.] Total, 558.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 22, 1881. <title>Omaha Daily Herald</title> 17(12): 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

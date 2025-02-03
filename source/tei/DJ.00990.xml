@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00990">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Winter Mallard Shooting on the Platte River at Clarks].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1901-12-15</date><biblScope>37(76): 18. Portion of column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-07">2006-06-07</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Winter Mallard Shooting on the Platte River at Clarks</head>
+         
+         <p>Winter mallard shooting on the Platte is certainly a theme worthy of more than passing notice, and a theme that will be found refreshingly interesting to all lovers of wild fowl shooting.</p>
+         
+         <p>For the average gunner, the duck shooting closed with the variable weather of early November, and the opinion prevailed that all the birds had gone south. But such is not the case. There are myriads of mallards and some teal yet lingering along this frozen stream, and some fine bags have been made within the past ten days. These lingering birds seem loth to leave so favored a spot, and, while they spend most of their time in the corn and pasture fields, the flight up and down the ice-fettered river is good both in the morning and the evening. And the birds were never so fine or never so beautiful. They are almost exclusively corn-fed and so big and fat that they lift more like geese than ducks, and in their heavy winter coat of black, velvet, emerald and iridescent bands of blue, are indescribably lovely.</p>
+         
+         <p>I put in last Saturday a week ago out at Clarks, traveling thither via the Friday afternoon Union Pacific train, together with Wilber Fawcett and George Giacomini, the guests of course, of the irrepressible Sam Richmond, at the famous old West hotel, which has passed into new and most excellent hands. J.C. Knowles is now the proprietor of this time-honored old sportsman's rendezvous.</p>
+         
+         <p>We were in our blinds early Saturday morning, Richmond and I down the river some seven miles below the town, and Fawcett and Giacomini a mile further up. The morning was a grand one, and compensation alone sufficient to pay one for the trip. The sprawling and fretful Platte gurgled and rippled and rushed on her way by as if under some spell of enchantment, with the refreshing southwest breezes playing over her ruffled gloss, and the splintered sunlight kissing the ragged masses of floating ice and snow-covered bars into radiant smiles.</p>
+         
+         <p>Truly, the Platte river, in the early winter time presents a thrillingly entrancing picture as if flows, with a mighty impetuosity, over its shallow beds, onward and downward through what is fast becoming one of the most magnificent agricultural regions in the world, so lonely just now, yet so romantic in its surrounding details, so impressive in its sweep of grandeur. Far to the east are the dim outlines of the barren and wind-swept uplands, with their frozen lacustral borders, where the cottonwoods stand naked and spectral, but gleaming topaz in the soft winter sunshine; to the west innumberable towheads and islands, dark and gloomy in the shadows, but affording the most excellent blinds for the hunter of the goose or duck. Stretching before you through a net-work of the moving ice and snow-laden floes, the wild and savage Platte, a gleaming, glittering, glistening expanse of rushing waters, the dim artery to all the vast country stretching away in solemn grandeur to the distant Black Hills, everywhere offering an inviting haven for the wary Canada, the green-headed mallard, the hawk and the coyote.</p>
+         
+         <p>From time immemorial this river has been one of the most celebrated resting and roosting places for wild geese and ducks, during their spring and autumn migrations, there is in the world, and along, up and below, the little city of Clarks, there has been no more favored region, and Sam Richmond will tell you today that there is being more birds killed along here now than ever before in the history of the river. "I don't pretend to account for it," said the genial old goose killer, "but it is a fact—there were more ducks killed here during the past fall than there was in any three previous falls within my memory. And geese, well the Canadas are just now coming in. Of course the white geese and brant are gone. They are nowhere nearly as plentiful as they used to be, but the ducks, well, they are thicker than ever."</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. December 15, 1901. [Winter Mallard Shooting on the Platte River at Clarks]. <title>Omaha Sunday World-Herald</title> 37(76): 18. A portion of the Forest Field and Stream column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

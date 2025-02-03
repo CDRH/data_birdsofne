@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00674">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Place for the Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-12-18</date><biblScope>57(12): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Place for the Birds.</head>
+         
+         <p>In the very laudable effort to improve Omaha's park system, any administration is likely to make mistakes. It is very praiseworthy that such mistakes should be in the act rather than in the neglect. If nothing is attempted, nothing will be done. Granted.</p>
+         
+         <p>But there should be in the mind of the commissioner in charge of our parks the fact that those given to us by nature should be let alone as much as possible, and the "dolling up" process limited to those that need it.</p>
+         
+         <p>We can no more visualize Elmwood park with its ravines and wooded gulches shorn of their shrubbery and levelled with sod than we can a wraith of john Burroughs in evening dress and top hat. Nor can we see Hanscom park as a tangled wildwood any more than a specter of Beau Brummel in overalls.</p>
+         
+         <p>Will the time never come that our park commissioner, of this or any other administration, can cheerfully let well enough alone in the few rustic reaches that are left to us?</p>
+         
+         <p>Shall there be no nesting places left for the birds in the summer, or covered spots for the hardier feathered tribes of the winter?</p>
+         
+         <p>We are informed that thousands of shrubs and bushes have been purchased by the city, for the commissioner in charge, to be set into Elmwood park next spring.</p>
+         
+         <p>Why?</p>
+         
+         <p>What is the common sense of uprooting the vines and shrubbery that God gave this wonderful park, so that the products of some nursery may replace them?</p>
+         
+         <p>Will the Cardinal and the Rose-breasted Grosbeak and the Catbird and the Brown Thrasher appreciate this benevolent service next summer? We think not.</p>
+         
+         <p>Can the commissioner of parks improve on God's nesting tangles for Yellow Warblers, Goldfinches, Chipping Sparrows and other of our birdland sweethearts?</p>
+         
+         <p>Will the violets and ferns admire Omaha for the raking of the leaves from the lawns where they grew and the burning of dead grass that makes mould to grow more?</p>
+         
+         <p>Often we wonder what Nebraska's birds think of the numerous and prolonged vicissitudes of Elmwood park. It yearly havens nearly 100 different varieties of resident and migratory songsters. This will not be the case for long if "civic improvements" continue. There are two ball diamonds, tennis courts, playgrounds, an auto tourist camp, public camp kitchen, football fields, bridle paths and an eighteen hole golf course in this park - to which no one objects.</p>
+         
+         <p>Why bother the remaining rustic sections of this expanse of natural beauty?</p>
+         
+         <p>Ask the birds!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 18, 1921. <title>Omaha Sunday World-Herald</title> 57(12): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

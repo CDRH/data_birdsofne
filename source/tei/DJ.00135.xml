@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00135">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Laurence Bruner. An Interesting Visit to the Young Naturalist.</title><title level="j">Omaha Daily Herald</title><author>X.</author><date>1879-07-30</date><biblScope>9(244): 2.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-08-18"/>
+    <respStmt>
+	<name>Katharine Potter</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Laurence Bruner.</head>
+         
+         <head>An Interesting Visit to the Young Naturalist.</head>
+         
+         <list type="simple">
+            
+            <item>To the Editor of The Herald.</item>
+         
+         </list>
+         
+         <p>Your paper has always shown a commendable interest in young Nebraskans who have distinguished themselves, and you will be glad, I have no doubt, to introduce to the people of the state young Laurence Bruner.</p>
+         
+         <p>Some days ago the writer arrived here. Early the next morning he found his way over the hills that lie to the east of West Point, from which such a beautiful expanse of country is opened to view. Finding myself near a line of trees which incloses one of the finest residence properties north of Omaha—dwelling house, barns, out-houses and groves—I made my way inside. At length, seeing a small out-building, with the door standing open, I walked in to explore. The first room is occupied in part by some sort of machinery, which (as I afterwards learned) was devised to compel the Nebraska "blizzard" to do the churning and corn-shelling of the place. Passing through another door, I found an apartment strangely fitted up and ornamented. Shelves, and tables, covered with specimens of Nebraska birds, insects and reptiles, put up in the best style of the "art preservative," appeared on all sides. Valuable mineral specimens, and other items too numerous to mention, surprised the intruder. I learned shortly that this was the workshop of the subject of this sketch. Mr. Bruner is only 23 years of age. He moved with the family of his father—Hon. Uriah Bruner—from Douglas county to this place when he was only thirteen years of age. He was a student at the State University the first year it opened, remaining there a year and a half. Prof. Aughey being then, as now, professor of natural sciences. At that time that institution had only a small collection of minerals, although it has since acquired quite an extensive one. Prior to this, young Bruner had evinced a decided fondness for the study which then received a new stimulus. While there he accompanied Prof. Aughey in some of his searches—the professor studying the flora, while young Bruner addressed himself to the bugs. They have since made several trips together. Mr. B. has contributed to the University collection about four thousand species of insects, some shells, has obtained—for he is a skillful hunter—stuffed, and sold to it, about one hundred and twenty-five varieties of birds. He has on hand about forty varieties in his work-shop. It is doubtful if we have in the State a better taxidermist, a fact which the Omaha Sportsman's Club should notice, although he is self-instructed. Part of the specimens on hand are to go to the University. Mr. B. says there are about 400 varieties of Nebraska birds. He has also some 7,000 species of insects, pretty fully illustrating Nebraska insects; also a pretty fair collection of fresh water and land snails; also, fossils, petrified wood and shells of different kinds. Mr. B. made entomology his speciality till about three years ago. After that he took up the study of shells. His collection of insects and shells is more complete than that of the University. A year ago he took a trip into Wyoming, Idaho and Utah, spending some eight weeks in the study of the geology, zoology and botany of those regions. He has interesting specimens from those places, and one may gather much profitable instruction from him about them and the remarkable country referred to. I believe he is contributing some papers to your Western <hi rend="italic">Magazine</hi>, so well conducted now by Rev. Dr. Copeland. Space will not permit my going into particulars. It was with no small degree of pride that I learned that young Bruner had discovered and described three varieties of grasshoppers before unknown to science—they are named thus: <hi rend="italic">Cedipoda Nebrasciencis</hi>, <hi rend="italic">Pezotetix gracilis</hi> and <hi rend="italic">Pezotetiz occidentalis</hi>.</p>
+         
+         <p>I regret that the pleasant task of presenting this young man to your readers has not fallen to hands better qualified to make known the character of his work. That we shall hear more of him in the future I do not doubt. If any of your readers should find himself near the workshop of the young naturalist, let him give it a visit and see for himself that this young man has accomplished almost entirely unaided and under such embarrassments as would deter any but the most ardent and preserving student.</p>
+         
+         <p>West Point, Neb., July 26, 1879. X.</p>
+         
+         <cit>
+            
+            <bibl default="NO">July 30, 1879. <title>Omaha Daily Herald</title> 9(244): 2.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00220">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Dickcissels Drifting South.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-08-07</date><biblScope>56(45): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Dickcissels Drifting South. </head>
+         
+         <p>It is said that the corn belt is about two or three weeks ahead of its season in the matter of crops. Very possibly this is true, but we are pretty certain that the vicinity of Omaha is nearly that much ahead in the southern migration of certain summer birds, more particularly the Dickcissel.</p>
+         
+         <p>This decidedly hot weather arrives late from Dixie, being very insistent on scorching temperatures wherever he goes. He mates, and raises a family with all possible celerity, it would seem, building his nest in weeds and thistles along red-hot roads or railway right-of-way. In the interim he perches on the tops of smoldering trees, fence posts or telephone poles and sends out his "Chip! Chip! Chee-chee-chee!" incessantly. It is said that his is the only bird song that can be heard over the roar of a swiftly moving train, by the passengers within.</p>
+         
+         <p>Anyway, this Dickcissel has raised his flock, and now the adults are hard to find. Their song is rarely heard in the fields and along the roads. The young Dickcissels are still around, but they have not yet developed their parents' ability to "holler," and a mere chirp is their best offering.</p>
+         
+         <p>If there is anything in birdlore, it would seem that summer is to depart more quickly than it came.</p>
+         
+         <p>Anyway, these valuable seed-eating Dickcissels, formerly known as the Black-throated Buntings, are becoming scarce, and the rambler in the big outdoors is welcome to his own conclusions.</p>
+         
+         <p>Generally the latter part of August is about the right time to commence to miss these friendly feathered fellows.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 7, 1921. <title>Omaha Sunday World-Herald</title> 56(45): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

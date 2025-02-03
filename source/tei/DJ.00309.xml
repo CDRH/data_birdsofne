@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00309">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The First Emigrant [Dickcissel Leaves in August].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-08-13</date><biblScope>51(46): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The First Emigrant.</head>
+         
+         <p>Anybody who is out of patience with the good old summer time and its past performance of ghastly torridity, may take some cheer in the knowledge that the first emigrant from the myriad ranks of songbirds has left this zone and is on his way to a winter home down south.</p>
+         
+         <p>It is the Dickcissel, that persistent hot weather songster, who is already very noticeable by his absence.</p>
+         
+         <p>One of the last of the feathered tribe to trek in from Dixie in the spring, Dick spends but a few fleeting weeks with us, raises his family of little black-throated buntings and then hies himself back to the land of cotton.</p>
+         
+         <p>His funny little, penetrating little insect-like chant is but seldom heard nowadays from the wires along the road, or from the tips of the weeds in the hot fields. That incessant "chip, chip, chee-chee-chee!" - about the only bird-song that can be heard by a traveler despite the roaring of his train, is practically departed for another eight or nine months.</p>
+         
+         <p>A few stragglers of the Dickcissel tribe will remain behind for several weeks, perhaps, but the main body has flown. From time to time within the next month songsters or other ilk will turn up missing, and then, before you know it, there will come the Slate Colored Junco and the Brown Creeper as sure harbingers of winter.</p>
+         
+         <p>Perhaps the Dickcissel chap suffers with hay fever. he certainly begins to leave with the first sneeze of August.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 13, 1916. The First Emigrant [Dickcissel Leaves in August]. <title>Omaha Sunday World-Herald</title> 51(46): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

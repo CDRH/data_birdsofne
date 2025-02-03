@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00675">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Place to Go for Ducks.</title><title level="j">Omaha Sunday Bee</title><author>Wolfe, W.T.</author><date>1891-10-18</date><biblScope>21(122): 12.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Place to Go for Ducks.</head>
+         
+         <p>Glenwood, Ia., Oct. 8. - To the Sporting Editor of The Bee: As this is the season of year for the migration of water fowl, and as all sportsmen are interested to know the whereabouts of their feeding grounds, I thought I might write a few lines explanatory of Lake Waughbunsey as a fit place for shooting wild fowl. This pretty little lake is about 30 miles south of Council Bluffs, as the crow flies, and two or three miles east of a small station (Barlette), on the "R.C." The east shore of the lake is bordered by high bluffs, the margin being shaded by drooping willow, ash and oak, underneath whose shade there is a thick growth of rushes, sweet flag and red-stemmed smart weed, which makes splendid feeding ground early in the fall for wood duck and teal, but later when the shooting becomes general they leave the shore for new feeding places farther out in the lake among the bushels of smart weed, wild celery and other tender aquatic plants. At night the ever gregarious teal and wood duck will collect around some large rat house to partake of a rich supper of celery and other tender roots and plants brought to the surface by the industrious rats. Mallards, too, get their share of the edibles and keep up a continual quacking throughout the night. The west shore of this lake is bordered by prairie grass, sloughs, red-twigged maples and little silver-twigged willows. On these boggy bottoms is the home of those palatable and sprightly little grallatores known to gunners as jack snipe, tiptail, yellow legs, etc. Farther over in the fields are quail in great abundance, but the tall grasses and weeds are hard to pull through and make this kind of hunting rather laborious, however over there in the woods to the east the quail and squirrel shooting is very good, and one is now and then rewarded by bagging a pheasant. There is no trouble about securing boats at this lake, as several new ones have been launched this fall and rent for 10 cents an hour, and an expert shot with a good Smith or Parker, hammerless ejector, ought to bag from half a dozen to a dozen ducks an hour.</p>
+         
+         <list type="simple">
+            
+            <item>W.T. Wolfe.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">
+               
+               <title>Nebraska Sunday Bee</title> 21(122): 12. Portion of sports page.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

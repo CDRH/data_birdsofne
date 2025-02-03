@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00329">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">From Nebraska.</title><title level="j">Oologist</title><author>Dworak, Anton.</author><date>1887-03-01</date><biblScope>4(2): 84.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>From Nebraska.</head>
+         
+         <list type="simple">
+            
+            <item>Editor <title>Oologist</title>:</item>
+         
+         </list>
+         
+         <p>Reading the descriptions of collecting trips in the <title>Oologist</title> reminds me of the "best day" I have ever had. It was in the season of 1885, which, by the way, is the year in which I became interested in oÃ¶logy, when I decided to go on a collecting trip. As there is no one in Geneva besides myself interested in oÃ¶logy I went alone. In order to reach the river where I meant to go, I had to cross a large prairie farm, just the place to collect, so of course I commenced hunting for nests of the Prairie hens and Killdeers. I had been tramping around awhile and had found three sets of Killdeer's (one set had two eggs and the others three each) when I was startled by a loud whirr,and looking down saw within three feet of me a nest of the Prairie Hen. You can easily see how elated I felt. Well, I passed on trying to find more but did not until I came to the river; there of course I found plenty of such as Blue Jays, Catbirds, Thrush etc., etc., and was beginning to despair of finding anything rare, when I looked up and saw-well, I felt like "yelling right out"-for it was the nest of a Great Horned Owl. But there was one difficulty. I had just got a new pair of climbers, and did not know how to use them as well as I do now; but finally I got up and got the eggs-three-down safely. After hunting around a while longer I started home, richer by many specimens than I had been in the morning.</p>
+         
+         <list type="simple">
+            
+            <item>Anton Dworak,</item>
+            
+            <item>Geneva, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">March-May 1887. <title>Oologist</title> 4(2): 84.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

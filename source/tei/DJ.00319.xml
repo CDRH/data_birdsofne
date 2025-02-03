@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00319">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Fooling the Siskins.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-04-23</date><biblScope>57(27=30): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Fooling the Siskins.</head>
+         
+         <p>There is a very beautiful and useful bird known as the Siskin, or Pine Finch - a sort of first cousin of our Goldfinch, which latter bird is often referred to as the Wild Canary.</p>
+         
+         <p>The Siskin comes to use in the winter from its haunts in the Canadas, and its sweet chippering when the snow is deep and the mercury is low, helps a good deal in bridging the gap between Indian summer and springtime.</p>
+         
+         <p>But this winter bird seems to like our company, for now it is nesting in the pine trees of Elmwood park, a thing practically unheard of in this neck o' the woods - and certainly very unusual.</p>
+         
+         <p>Not only are these Siskins nesting, but as early as two weeks ago there were eggs in their nests, and it will not be long before there are little ones.</p>
+         
+         <p>Authorities say that these Siskins generally nest in northern Canada and in the mountain country of the United States, but there seems to be no record of nesting in the plains country this far south. The heavy evergreen patches in Elmwood park seem to have fooled the Pine Finches into thinking they were somewhere else.</p>
+         
+         <p>Siskins line their nests with horsehair, and it is interesting to note that the coming of the automobile has made the said horsehair rather scarce. So these finches are tearing up old Chipping Sparrow nests and other former bird abodes made in part of horsehair, and are using the old material over again.</p>
+         
+         <p>Naturalists are very much interested in this new nesting campaign and a formal record is to be made of it for the National Association of Audubon Societies.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 23, 1922. <title>Omaha Sunday World-Herald</title> 57(27-30): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00394">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Heads Up [Brown Creeper].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-11-12</date><biblScope>58(7): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Heads Up.</head>
+         
+         <p>Bleak winter approaches, with its questionable gift of frozen fields and metallic crispness in what have been languorously soft and cozy glades. There will be snow and sleet and icy winds to blow bitterly across the marches, with little comfort for humans out of doors. There will be sunshine and beauty, too - as there is beauty to be found in everything done by nature, if we have the will and hardihood to seek it.</p>
+         
+         <p>Many will cling more closely to the artificial comfort at home during these days, but those who know what charm God gives the outdoors through every day of every year will likely go to these brittle woods and fields in search of it, and they will be rewarded.</p>
+         
+         <p>Lessons are to be learned in the frozen fastnesses of woodland winter, too, and among them that of the tiny Brown Creeper, who comes to us from the north in the fall, and stays with us until early spring, daring Jack Frost to do his worst, and ekeing a substantial living for himself throughout what may befall of a meteorological nature.</p>
+         
+         <p>"Heads up!" is the Brown Creeper's motto; one which should be a gentle hint for many of us who may be inclined to droop when the stormy wind howls and the sleet strikes horizontally at our hearts.</p>
+         
+         <p>Always upward does this Brown Creeper birdlet deliberately proceed through all the years of his dainty life, and with few exceptions there are no blizzards nor zeroes to cheat his optimism.</p>
+         
+         <p>From the base of a tree he climbs steadily upward, prodding into the bark crevices for his insect food, which operation saves not only his own existence but prolongs that of the tree. Reaching the top of the trunk, he flutters down to the bottom of the next, and resumes his placid endeavor.</p>
+         
+         <p>"Heads up!" - with him, always!</p>
+         
+         <p>His wiry but weak little "see-ee-eep" will be heard when the gale is raging, or when the woods are frozen into chill silence, or when the winter sun shines gloriously and the melted sleet falls from the bark to reveal to him still further riches for his plump little tummy.</p>
+         
+         <p>He will be there, and you may find him and know him, and profit thereby, for he is one of Birdland's exponents of true optimism, and that is what we all need, all of the time.</p>
+         
+         <p>Make the Brown Creeper's acquaintance today in any woods. You will be happier for it, and will hold your head higher.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 12, 1922. Heads Up [Brown Creeper]. <title>Omaha Sunday World-Herald</title> 58(7): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

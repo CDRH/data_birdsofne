@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00028">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">An Appeal for the Birds.</title><title level="j">Omaha Daily Herald</title><author>Herald editor.</author><date>1877-02-03</date><biblScope>12(97): 2. An editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>An Appeal for the Birds.</head>
+         
+         <p>In The Herald's Lincoln letter yesterday, our correspondent spoke of the danger of not passing the bill to spare the birds-that it might be put off so long that it could not be passed this session, or if passed, so amended that it would be useless. The Herald is at loss to conceive how any true sportsman who has the interests of the State at heart, is not willing to forego the pleasure he derives in hunting, for the space of three years, that an experiment known and believed to be of great value to any agricultural people, may be tried. We happen to know that there is a great deal of feeling on this subject throughout the State and the farmers in various sections have organized into societies to arrest and prosecute those who may be found shooting birds on their premises. There is not a farmer in the State, who understands the question, who is opposed to this legislation to save the birds. This is pre-eminently an agricultural State and whatever conduces to the prosperity of the farmers, tends also to the prosperity of every other citizen.</p>
+         
+         <head>"The farmers feeds us all"</head>
+         
+         <p>According to the census returns of last spring the State had a population of nearly 250,000, and The Herald is of the opinion that it is actually less today by several thousands, because of the grasshopper visitation last summer, and it believes the census returns this coming spring will show it. Men were panic stricken when the came last summer and many abandoned rich claims, well improved, or sold them for a mere song, and left the State. The birds, such as prairie chickens, prairie snipe, quails, and other insect destroyers should be allowed to remain undisturbed for at least three years. It is not enough that the time in which these insect destroyers may be killed be limited from the 15th of August to the 1st day of December in each year. All through the summer and autumn months these insect destroying birds are the most active in their work, and when the locusts visit the State as late as they did last year and in 1874, there should not a bird be killed before the 1st of October in any year.</p>
+         
+         <p>There is something more than sport at stake in this question. Bread for ourselves and families is involved in it. The prosperity of the whole State is involved in it. Shall a few sportsmen who have no allowed interests in this bill but the gratification of a passion, to prevent the passage of a just and wise measure like this? Are not the producers in this State to have the protection which a bill of this character will give?</p>
+         
+         <p>The Herald asks the sportsmen who ought to support this bill to forego their pleasure so far as insect-destroying birds are concerned, for three years at least. It asks the farmers and people throughout the State who favor this measure to rally at once, by personal letters to their members and by petitions in favor of its passage, so that a moral pressure shall be brought to bear which shall secure the passage of the bill before the legislature of 1877 adjourns <hi rend="italic">sine die</hi>.</p>
+         
+         <p>Lastly The Herald appeals to the members of the legislature to pass this bill in such a shape as will tend to bring about the object sought to be accomplished. Its passage can certainly do no harm and gives every promise of doing a great deal of good. The best interests of the State require that any measure which will retain the population now here and induce others to come, should be adopted. The State has the land; its here, but it wants people. A few more locust visitations will not only prevent immigration but depopulate a large portion of our territory, and a measure which looks towards destroying the pests will give hope and encouragement to the producing classes-will keep those now here and induce others to come.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Herald editor. February 3, 1877. <title>
+                  
+                  <title>Omaha Daily Herald</title>
+               
+               </title> 12(97): 2. An editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

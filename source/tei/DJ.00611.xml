@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00611">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Notes on a Collecting Trip in Northwest Nebraska.</title><title level="j">Osprey</title><author>Hunter, J.S.</author><date/><biblScope>4: 173.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Notes on a Collecting Trip in Northwest Nebraska.</head>
+         
+         <list type="simple">
+            
+            <item>Lincoln, Neb., June 30, 1900</item>
+            
+            <item>Editor of the Osprey.</item>
+         
+         </list>
+         
+         <p>Two other Nebraska <title>Ornithologist</title>s, J.C. Cranford and Merritt Carey, and myself spent the latter part of last May in Northwest Nebraska on a collecting trip for the State University. A number of interesting notes were secured. Two new birds were added to the state list, the Western Warbling and Plumbeous Vireo.</p>
+         
+         <p>Two nests of Townsend's Solitaire were found. Both were found near the heads of canyons. The first was up the side of a canyon, about ten feet from the bed, and was in a cavity in the base of a pine tree, caused by the decay and burning. The male bird was first observed and was shot, then the female was seen close by in a pine tree: while the shells were being changed in the gun she disappeared. While looking for her I passed above the tree that the nest was in, and my foot displaced a stone that rolled past the tree, and out flew the bird. The nest, which was built of grass and pine needles loosely put together and held in shape by the hole it was placed in, only contained four badly incubated eggs.</p>
+         
+         <p>The other nest found by J.C. Cranford was in another canyon on the side, above six feet from the bed under a small ledge of dirt n a shallow hole. The nest was more substantially built, but contained no eggs. A bull-snake that was killed near the nest, however, had all four eggs [??].</p>
+         
+         <p>Lewis's Woodpeckers were found nesting, but no eggs were secured. One hole was in the top of a dead pine tree. Lower down in the tree was a Flicker's hole; still further down a Sparrow hawk had its nest.</p>
+         
+         <p>Harris' Woodpeckers were more abundant: two nests were found, but with very small sets, one with one addled, and two very badly incubated eggs; the other with four very badly incubated eggs.</p>
+         
+         <p>White-throated Rock Swifts were found nesting behind ledges and in cracks in the most inaccessible cliffs.</p>
+         
+         <p>On the same cliff with the latter a Kriders Hawk had its nest in a narrow ledge about one hundred feet from the house.</p>
+         
+         <p>Audubon's Warblers were nesting, but we were too early for sets.</p>
+         
+         <cit>
+            
+            <bibl default="NO">1900. <title>Proceedings of the Nebraska Ornithologists' Union</title> 4: 173.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

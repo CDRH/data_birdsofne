@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00814">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Song of Birds.</title><title level="j">Omaha Weekly Tribune</title><author>Editor.</author><date>1871-04-08</date><biblScope>1(36): 1.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Song of the Birds.</head>
+         
+         <p>There is no sweeter, or indeed more touching premonition of the approach of the milder season of spring; no richer herald of a coming era of brightness and bloom, and beauty and of that grand and swelling chorus of nature, in which all her tenderest and noblest harmonies are blended, than the notes of the feathered singers whose wings are wet with the dews of the morning. This mating chorus-associated as it is with the bursting forth of all that is loveliest and most beautiful in the outward universe,-is one of natures tenderest ministries to humanity. So common as to be hardly appreciated, it is one of the sweetest strains of that glorious music which forever is pouring forth from the great organ-heart of nature, in gentlest contrast to the deep voice of winter storm and tempest.</p>
+         
+         <p>Indeed when we remember how important a part these frail creatures have played in human history; how, ever gently and beneficently, they are associated with some of the great crises of its history, we may well regard them always with some of the reverence which some nations have blindly accorded to them, and ever welcome their advent with gratitude and joy.</p>
+         
+         <p>For nobody can read sacred or profane history; the story of God's more especial dealing with the race, or that of man's dealing with his fellow man, without recognizing the fact that these winged denizens of the purer upper air have often been deployed as the divine and special messengers of the Almighty. The dove is ever used as the symbol of the invisible and heavenly spirit. It ministered to the famished prophet. It went out, as the silent messenger from the Ark, and returned bringing the token of peace and salvation. It descended from heaven, fixing its seal on the Great Teacher, as he came from his solemn baptism, dripping with the waters of that stream which thenceforth was to be sacred in the regards of the Christian world. It is set as the type of all that is beautiful and innocent in the Scriptures.</p>
+         
+         <p>And hardly less a part have these dwellers of air played in the profane affairs of men. History tells us how the flight of a bird has been accepted by stern warriors, in perilous crises, as ominous of good or ill, and so turned the course of battle, making or destroying empire. We know how they met Columbus in the moment of his despair, when his magnificent hope of an empire was going out in darkness, and gave him the first joyful welcome of a continent richer that the world knew before. And we remember how, during the days that Imperial Paris has been beleaguered the carrier dove has come through the calm air of the upper skies, above the roar and smoke of cannon, bringing bright messages of the great world without.</p>
+         
+         <p>It is not unreasonable, therefore, that we should welcome these silver-voiced heralds of the springing grass and opening flowers, with a joy akin to ecstasy. They give us rich reward for all the invitations we extend to them, and thank us tenderly for every provision that our care has made for their comfort.</p>
+         
+         <p>But the other day a friend of ours had performed that simple but yet noble work which is not alone a present joy, but whose beneficence and utility outlast these mortal lives of ours-viz: planted a tree;-and hardly were its now naked branches lifted to the skies before a tiny blue-bird lit thereon and trilled the liquid music of its rich thanksgiving. It knew that by and by it could make unharmed its dwelling place among those branches rich with verdure, that it would find there a safe and leafy home to nestle with its young. And so Nature ever responds to all man's efforts to make glad and beautiful the earth, and shows her gratitude by bringing added blessings, and bequeathing richer loveliness.</p>
+         
+         <cit>
+            
+            <bibl default="NO">April 8, 1871. <title>Omaha Weekly Tribune</title> 1(36): 1.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

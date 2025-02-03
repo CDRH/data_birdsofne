@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00556">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">More Feathers than Fur.</title><title level="j">Grant County Tribune and Live Stock Journal</title><author>Davis, A.T.</author><date>1896-05-07</date><biblScope>8(2): 5.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-28"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>More Feathers than Fur.</head>
+         
+         <p>Last Monday James Buck, Chase Masters and myself, after arming ourselves with pitchforks which, according to Buck, are the regulation instrument to catch fish in the Loup river.</p>
+         
+         <p>By advice of Masters, who insisted that his L.C. Smith was far superior to a pitchfork in capturing any grouse that roams the sand hills, we took a shot gun with us.</p>
+         
+         <p>I took a sack to save the feathers in for a pillow—don't need but one now but still continue to hope that time will change.</p>
+         
+         <p>Near the head waters we shot three curlew and a fourth lighted on the wrong side of the river and invited us over.</p>
+         
+         <p>The bank at that place seems to be undecided whether to become a river or remain a lake. We excepted Curlew's invitation and drove recklessly in and stuck right in the midst of the swamp and there was no alternative except to get out in that mixture which, like the political speeches of the day, is a compound in proportion of one to one of mud and water, and the Curlew on the knoll screamed with envy because we had beaten him at his national game wading deep water without getting his feathers wet.</p>
+         
+         <p>In the evening Homer Coombes met us by appointment. In the evening the boys captured enough fish for supper and located a covey of suckers down the creek feeding on rosebuds, as they told me—I (learned later that fish live in water.) Masters manufactured a net of two course sacks into which we chased the fish with our prod poles like corralling calves—that is, what escaped the vengeance of our formidable weapons, the pitchforks.</p>
+         
+         <p>I claim the honor of catching the largest fish which measured just fourteen 7/8 inches.</p>
+         
+         <p>We voted it a success not only in fishing and hunting but in wearing out the gray horse that six men have helped me to hitch up every time I have been to town for three months.</p>
+         
+         <p>We walked the last ten miles.</p>
+         
+         <cit>
+            
+            <bibl default="NO">A.T. Davis. May 7, 1896. <title>Grant County Tribune and Live Stock Journal</title> 8(2): 5.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

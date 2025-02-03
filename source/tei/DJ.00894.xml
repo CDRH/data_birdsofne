@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00894">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Teachers Brave Rain to Go Bird Studying. Twenty-five Visit Elmwood Park, Led by Audubon Society Representatives. David Waterman Discovers Scarlet Tanager, First Seen There for Years.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1916-04-30</date><biblScope>51(31): 1-N.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Teachers Brave Rain to Go Bird Studying</head>
+         
+         <head>Twenty-five Visit Elmwood Park, Led by Audubon Society Representatives.</head>
+         
+         <head>David Waterman Discovers Scarlet Tanager, First Seen There for Years.</head>
+         
+         <p>"Teaching the teachers," a new campaign started by the educational committee of the Nebraska Audubon society and sanctioned by Superintendent E.U. Graff, is proving highly successful. So much so, in fact, that over twenty-five instructors in the public schools braved Saturday's showers to tramp through Elmwood park for several hours in search of the songsters.</p>
+         
+         <p>Mr. Graff issued a circular to all teachers some time ago urging that they acquaint themselves as much as possible with the birds in order that they may intelligently teach bird-lore in their classes. The result has been most gratifying, for not only have the teachers responded in spite of all weather conditions, but likewise the pupils. Elmwood park was full of both yesterday.</p>
+         
+         <p>Yesterday's tour, conducted by Miss Alice Hill, supervisor of drawing in the schools, and Miles Greenleaf, both of the Audubons' educational committee, completely circled Elmwood park twice. It is the object to have such bird hunts each Saturday. Next Saturday the teachers will join the Audubons and the Nebraska Ornithologists' union in their annual field day. The gathering will have representatives from all over the state and will be divided into groups, hunting through the Fontenelle park district, the north Florence fields and perhaps Forest Lawn, which is now a bird reserve.</p>
+         
+         <p>Thirty-six different birds were identified in yesterday's showery jaunt through Elmwood, and the list includes several new arrivals and rarities in that park. Here is the record proudly brought home by the teachers to describe to their pupils Monday:</p>
+         
+         <p>Cardinal, goldfinch, field sparrow, cowbird, brown thrasher, robin, bronzed grackle, towhee, sparrow hawk, mourning dove, bluebird, red-eyed vireo, song sparrow, chickadee, house wren, cedar waxwing, myrtle warbler, Harris sparrow, downy woodpecker, crow, white-throated sparrow, white-breasted nuthatch, scarlet tanager, meadowlark, ruby-crowned kinglet, bluejay, vesper sparrow, northern flicker, horned lark, phoebe, hairy woodpecker, tree swallow, yellow-breasted vireo, red-tailed hawk, grasshopper sparrow and kingbird.</p>
+         
+         <p>The discovery of a scarlet tanager, one of Nebraska's most beautiful birds, was made by little David Waterman, who was with his mother, Mrs. H.A. Waterman, and the young chap pretty nearly had a fit until the rest of the party had shared his magnificent find. These tanagers are common along the river bluffs, in the scrub oaks, but this was the first seen in Elmwood in nearly three years.</p>
+         
+         <p>Similar trips are being planned by the teachers, not only for the rest of the school year, but during the summer.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Anonymous. April 30, 1916. <title>Omaha Sunday World-Herald</title> 51(31): 1-N. On the front page.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

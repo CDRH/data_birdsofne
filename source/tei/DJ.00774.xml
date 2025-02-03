@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00774">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Seven Shooters.</title><title level="j">Norfolk Times</title><author>Editor.</author><date>1881-08-17</date><biblScope>1(39): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Nimrods Attention!</head>
+         
+         <p>The Prairie fowl is yours, shoot, slay and gather them in.</p>
+         
+         <head>Seven Shooters.</head>
+         
+         <p>Monday evening's train on the U.P. brought to the City, Gen. R.R. Livingston, Dr. Samuel Chapman, and Capt. Bennet of Plattsmouth, Hon. J.B. Barnes of Ponca, H.D. Rogers, Dr. G.W. Wilkinson and Isaac Powers Esq. of Dakota City, who came hither, with purpose foul and on pleasure bent. Tuesday morning found them astir at an early hour ready for the sportive fray and it is said that the mortality among the prairie chickens was dreadful to behold.</p>
+         
+         <p>Messrs. Barnes, Rogers, Wilkinson and Powers resolved themselves into aboriginals, pitched a tent on the east bank of the North Fork, where they are living like lords of the forests, off the fat of the land, while the other gentlemen of the party are domesticated with friends in town.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 17, 1881. <title>Norfolk Times</title> 1(39): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

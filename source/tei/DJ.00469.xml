@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00469">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Junco.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-12-17</date><biblScope>58(12): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Junco.</head>
+         
+         <p>As a hardy winter visitor, the Slate Colored Junco is particularly welcome in frozen birdland because he doesn't care a chipper how cold it becomes as long as he can reach some thicket of unpopular, seed-bearing weeds wherein and whereby to stuff his plump little stomach.</p>
+         
+         <p>Born and raised for the most part in the Arctic circle, although his family occasionally make their home in northern Minnesota, the Junco comes down here in the winter to keep warm. As his name suggests, he is of a slatish-blue-gray, with white outer tail feathers and a white "tummy."</p>
+         
+         <p>It is the flash of those two white outer tail feathers as he veritably leaps from one weed patch to the next that immediately identifies the Junco, but he accompanies his activities with a sort of rattling chip or a wiry twang, as would come from picking a muffled violin string.</p>
+         
+         <p>The Slate Colored Junco generally brings all of his relatives, distant and otherwise, along with him, and is found mostly in considerable flocks. He is very useful, and during his winter stay in these parts consumes tremendous quantities of noxious weed seeds. He is often found in company with an equally useful winter bird here, the Tree Sparrow.</p>
+         
+         <p>In the spring, just before the Junco is ready to leave us, and when he is mating, he develops a most delightful and melodious song. For the sake of his usefulness and camaraderie now, and in the hope of hearing that spring song, let us protect him as he justly deserves.</p>
+         
+         <p>Look him over on your hike today. He is worth acquaintance.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 17, 1922. <title>Omaha Sunday World-Herald</title> 58(12): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

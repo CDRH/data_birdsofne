@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00507">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Lost on the Prairie -- A Chicken Hunt by Moonlight.</title><title level="j">Omaha Daily Bee</title><author>Miscellaneous participants.</author><date>1874-08-28</date><biblScope>4(60): 3.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Lost on the Prairie - A Chicken Hunt by Moonlight.</head>
+         
+         <p>A very happy and hopeful hunting party of ladies and gentlemen left this city yesterday morning for the country in carriages to enjoy a day's sport in slaughtering the innocent prairie chicken.</p>
+         
+         <p>It was composed of Messrs. Swartzlander and Pritchett, accompanied by the Misses. Hanscom; Dr. Coffman and J.C. Thomas, accompanied by Mrs. King, Mrs. Jewett, Mrs. McCormick, and Miss Woodie McCormick; and Dr. Allen and Miss Fannie Butterfield.</p>
+         
+         <p>The three wings of this army of chicken hunters took their departure for the happy hunting grounds, nearly at the same hour, ut each by themselves, agreeing to meet afterwards and move in one solid body on the feathered enemy.</p>
+         
+         <p>They had hopes of capturing a wagon load of game, and they indulged in anticipations of having a pleasant time. In respect to the game they were disappointed; but their expectations of a happy time were fully realized, although in a far different way than the original plan. Owing to their separate departure from the city, they became lost, and not finding the coveted chickens they spent the afternoon in hunting - not for chickens - but for each other. Messrs. Swartzlander and Pritchett, who had charge of the commissary stores, were most sought after, but they were nowhere to be found. They, too, gave up the search for those who were anxious to find them, and finally they and the remainder of their company did justice to the commissary store. The other two wings of the army each raided a farmer's house, and obtained rations. When the moon arose, Dr. COffman and Mr. Thomas indulged in some chicken shooting by moonlight, and killed three or four, as they sat on some fence boards, when they discovered that they had got into a farmer's hen-roost. They triumphantly brought in the game, had the birds cooked, and enjoyed a rare supper, after which they started for home, arriving here at two o'clock in the morning. The others arrived here at about the same time, having also by a somewhat singular coincidence, taken advantage of the moonlight to slaughter some tame chickens. Their adventures, if related in detail, would more than fill a paper of double the size of the Bee.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Saturday, August 28, 1874. <title>Omaha Morning Bee</title> 4(60): 3.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

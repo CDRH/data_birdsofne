@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00493">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Libeling the Screecher [Dundee Screech Owls].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-08-17</date><biblScope>54(46): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Libeling the Screecher.</head>
+         
+         <p>Circumstantial evidence is a very intangible and unreliable thing, we are informed by legal lights, and in view of a certain episode in Dundee recently we are inclined to think the barristers are right.</p>
+         
+         <p>A very refined and respectable lady of that residence district lately complained that a family of Screech Owls, living in the belfry of the Dundee church, were systematically destroying the Robins, Bluebirds, Flickers, Blue Jays and other feathered beauties that once patronized her bird bath.</p>
+         
+         <p>To those who study birds, this came as a considerable shock. In the first place, Screech Owls make their meals most generally on field mice, beetles and small fry of the sort. They have been known to catch and kill very small birds, such as Brown Creepers and Wrens, but only when the victims are either sick or completely off their guard.</p>
+         
+         <p>In the Dundee case, the good lady said that she found bloody feathers about the bird bath, and that since the Screech Owls made their home in the church, the songsters have practically ceased to patronize her aforesaid bird bath.</p>
+         
+         <p>While it is true that birds are very much opposed to owls, it is because the larger of the species are really very voracious and harmful to the feathered tribes. It seemed impossible that Screech Owls could have done all this Dundee damage, so an investigation was made.</p>
+         
+         <p>Lo! - the truth then came out!</p>
+         
+         <p>The lady who was protesting against the Screech Owls was - and still is the proud possessor of four large and robust cats!</p>
+         
+         <p>Circumstantial evidence - but rather convincing!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 17, 1919. Libeling the Screecher [Dundee Screech Owls]. <title>Omaha Sunday World-Herald</title> 54(46): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

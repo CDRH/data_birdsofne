@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00411">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Fall House Cleaning [Winter Bird Squad].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1917-11-04</date><biblScope>53(5): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Fall House Cleaning.</head>
+         
+         <p>Every orchard, field and forest has been left infested with insect larvae and weed seeds by the blooming summer recently passed.</p>
+         
+         <p>The summer birds, who worked feverishly on the job during their stay in this section, have been forced to retreat to previously prepared positions further south. They did their best, but the fear of rheumatism, pneumonia and kindred ills eventually caused them to fall back in good order before the advance of Gen. Frost.</p>
+         
+         <p>The winter clean-up squad is covering their retreat, however, for which every farmer and fruit-grower should be duly and frankly thankful.</p>
+         
+         <p>Fall house cleaning in these fruit groves, grain fields and wooded districts is being ably conducted by the vigorous feathered folk who have come down from the north to spend the frigid months, and by the hardier flying squadron which is inured both to the broiling heat of Nebraska summer and the congealing blasts of our celebrated off-season.</p>
+         
+         <p>Not a tree in an orchard or woods is now unprotected, and you will find on the bare limbs and trunks the several members of the Nuthatch family; the Downy and Hairy Woodpeckers; the busy Brown Creeper and the friendly, tireless Chickadee. In every crevice in the bark, where eggs have been deposited to bring forth bugs to shorten the fruit yield of 1918, the busy beaks of these house cleaners are prying and therefore it isn't stretching the facts much to assert that the man who disturbs this process is nearly as traitorous as the enemy agent who fires an elevator or stock yards.</p>
+         
+         <p>And in the grain fields, where billions of weed seeds have settled to baffle a bumper crop next year, will be seen the "mop-up corps" of Tree Sparrows, Goldfinches, Redpolls, Crossbills, Slate Colored Juncoes, Siskins and other fall and winter hustlers - knocking the spots out of 1918 wheat and doing their bit for Uncle Sam as truly and sincerely as any soldier.</p>
+         
+         <p>Wheeling far above in the pale blue November sky are the feathered aviators of America's nature-Army Corps - te Hawks in the day and the Owls in the night - watching, ever watching for the mice, rats, gophers and moles which do such tremendous damage to crops and poultry.</p>
+         
+         <p>Nature has truly provided an army to help win this war, and we certainly should not permit ourselves to fight our own forces. With but three exceptions, there is not a variety of hawk in Nebraska that doesn't earn more than his own salt by service rendered the producer of food. The farmer should think twice - and then again - before levelling a gun at a hawk.</p>
+         
+         <p>As for the other birds now engaged in the fall and winter house cleaning - to bother them is to help the Germans!</p>
+         
+         <p>Your own Uncle Sam will tell you so?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 4, 1917. Fall House Cleaning [Winter Bird Squad]. <title>Omaha Sunday World-Herald</title> 53(5): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

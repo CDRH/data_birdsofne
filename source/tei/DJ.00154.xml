@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00154">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">[Charm of the Pinnated Grouse].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-08-27</date><biblScope>34(331): 23. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+<revisionDesc>
+<change>
+<date value="2006-06-16">2006-06-16</date>
+<respStmt>
+<name>Karin Dalziel</name>
+</respStmt>
+<item>Proofread from Source</item>
+</change>
+</revisionDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <figure entity="CharmPrairieChicken">
+            
+            <figDesc>Charm of the Pinnated Grouse, prairie chicken family.</figDesc>
+         
+         </figure>
+         
+         <head>Forest, Field and Stream</head>
+         
+         <p>Without the pinnated grouse our limitless plains would be silent and dreary wastes, for incubators for noxious weeds and devastating grasshoppers. What sound awakens a more precious recollection that the crowing of the old cocks in the early spring, in the morning, when things are first astir on the ranch, swelling as it does from the distant tree claim across the fields, where the blue liverwort beams amidst the fading snow banks of the stunted and scraggy cottonwood and box elder? And how he thrills you on your first outing after the open season rolls round as he thunders up from the umbrere of yellowing grass and the lace-like weaver's weed. And then, again, after the belated mallard has gone squawking over the frozen marsh for the last time, after the snipe and the killdeer are seen no more, and the ah-unk, ah-unk of the wild goose is alone the solemncholy sound that falls from the cold upper regions, as he sweeps in long lines or harrow-shaped flocks, tirelessly on to balmier lands, the prairie chicken is about the only bird left to give life to the gray prairie. Even then how it stirs the blood to see them sweeping in great packs low down over the vast grazing lands, now with that choppy stroke of wing, now sailing like vapor on the steely winds, or sitting in rows and motionless on the low branches of the cottonwoods, or in groups on the conical hay stacks, on frosty mornings, as we have all seen them in the days gone by. Spring, summer, fall or winter, the chicken has always been the chief charm of Nebraska's monotonous solitudes.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. August 27, 1899. [Charm of the Pinnated Grouse.] <title>Omaha Sunday World-Herald</title> 34(331): 23. Forest, Field and Stream.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

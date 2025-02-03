@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00302">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Odd Feature of Birdland at Beautiful Elmwood. Where the Cowbird Invaded a Chewink's Home.</title><title level="j">Omaha Sunday World-Herald</title><author>Greenleaf, Miles.</author><date>1918-08-04</date><biblScope>53(44): 3-M. Includes a picture of a nest, and a picture of a towhee mount and a cow bird mount.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Odd Feature of Birdland at Beautiful Elmwood; Where the Cowbird Invaded a Chewink's Home</head>
+         
+         <head>By Miles Greenleaf.</head>
+         
+         <p>Domestic and household relations in birdland sometimes become a bit strained, and certainly extremely unusual, as evidenced by the accompanying photograph of a Towhee or Chewink nest, taken by the author last Sunday at Elmwood Park.</p>
+         
+         <p>As far as can be ascertained in reliable ornithological libraries, this nest breaks all records.</p>
+         
+         <p>It includes nine eggs - four of the Towhee, which built the nest, and five of the Cowbird, which builds no nest at all and which takes no interest in the hatching of its eggs, thus surreptitiously laid in the homes of other birds.</p>
+         
+         <head>Two Eccentrics.</head>
+         
+         <p>There are only two birds known to science that build no nest and prefer to lay their eggs in the nests of other birds, and to let the latter do the work. One is the English Cuckoo and the other is the American Cowbird, which is a very familiar feathered summer resident in these parts. The Cowbird is generally found in pastures where the bovines are browsing, often perching upon their backs, and thus gets its name.</p>
+         
+         <p>The Towhee, or Chewink, on the other hand, is one of Nebraska's commonest and most useful birds of the summer time. Its head and back and tail are jet black, with the exception of white feathers on each side of the tail. The breast is white and the stomach a brick red. The male bird is referred to in both instances, the male Cowbird being black with a sort of dirty-brown head, and the female brownish. The "lady" Towhee is a richer brown, but with the white breast and tail feathers.</p>
+         
+         <p>One of the hardest nests to find is that of the Towhee, and they are rarely discovered unless the lady-bird is flushed as the hiker is strolling through the woods. It is built on the ground, generally under the overlapping bulge of a log, or beneath a tiny brush heap, and is cleverly concealed with grasses.</p>
+         
+         <head>Towhee Doing Her Duty.</head>
+         
+         <p>This particular "freak" nest was found by the writer and Billy Marsh, not ten paces from one of the main traveled paths near the east entrance to Elmwood Park, the female Towhee being frightened from her work of incubation. The fact that the nest was so full of eggs made it easier to find.</p>
+         
+         <p>Since the Towhee often abandons its nest when the eggs are disturbed, we did not care to investigate the exact number that had been laid, and only eight could be seen at the time the picture was taken. But a few days later the Towhee gang got busy and managed to throw out one Cowbird egg, which divulged the fact that nine eggs had been laid in the one small nest.</p>
+         
+         <p>Watch is being kept of this nest to see how the Chewinks solve the problem of raising their brood - if they manage to do so at all.</p>
+         
+         <p>Generally the young Cowbirds, when hatched, crowd the smaller birds out of the nest - being much bigger and stronger.</p>
+         
+         <p>Although both of these birds are classed by the government as "useful," the Towhee has much more sympathy, as its song is beautiful and its insectivorous appetite enormous. Its call is a sort of "cherink!" - from which it gets one of its names, while its melody is a "See-tow-whee", which is very familiar in the glades during the summer months.</p>
+         
+         <p>The Cowbird, however, says nothing but "chack!", which is often followed by a wiry, drawn out squeak - such as the very highest note to be rendered on a violin string.</p>
+         
+         <p>Pictures of this unusual nest are being sent to the proper scientists at Nebraska university, to be placed in the records.</p>
+         
+         <cit>
+            
+            <bibl default="NO">August 4, 1918. <title>Omaha Sunday World-Herald</title>	53(44): 3-M. Includes a picture of a nest, and a picture of a towhee mount and a cow bird mount.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

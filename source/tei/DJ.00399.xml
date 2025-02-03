@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00399">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Hide and Seek {Screech Owls].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-11-23</date><biblScope>55(10=8): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Hide and Seek.</head>
+         
+         <p>For the birdlover there is perhaps no more alluring pastime than the game of seeking Screech Owls. Also it is an aggravating sport and one likely to test the patience of a saint.</p>
+         
+         <p>There is nothing unusual about a Screech Owl. Everyone knows its weird and wavering cry in the middle o' the night, and almost every small boy can show where there is, or was, a Screech Owl.</p>
+         
+         <p>But these owls, apparently, do not stay "put."</p>
+         
+         <p>In the days when the woods were little bothered and the automobiles did not make it so easy to get out into the rough stuff, a Screech Owl once located was pretty likely to be a "plant" for the rest of the season. In other words, when you found a tree-notch with a Screech Owl in it, that same owl was pretty likely to be in the same notch every time you came around.</p>
+         
+         <p>But the boys and grown-ups have learned something about bird study, now, and the Screech Owl is lucky if he can safely repose in one nook for seven days - one week.</p>
+         
+         <p>Sad to say, the youngsters with their little rifles will shoot him. And if they do not shoot him, they will riot him out of his daily slumbers with sticks and stones. This is a miserable shame, because the Screech Owl is a wonderfully useful bird, with not a harmful trait in is whole character.</p>
+         
+         <p>So now, driven from pillar to post, the Screech Owls are pretty hard to find in the neighborhood of a great city. The hunting of them by birdlovers, however, is a dandy pastime, and requires sharp eyes.</p>
+         
+         <p>Why not try it today, in some woodsey nook, as you are taking your Sunday hike?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 23, 1919. Hide and Seek {Screech Owls]. <title>Omaha Sunday World-Herald</title> 55(10=8): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

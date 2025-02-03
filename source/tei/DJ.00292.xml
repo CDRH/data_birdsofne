@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00292">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Birds' Fuel Famine.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-12-07</date><biblScope>55(10): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Birds' Fuel Famine.</head>
+         
+         <p>Not only the humans but the feathered citizens have their little troubles over the fuel supply problem. The only difference seems to be that the birds keep warm by stoking their tiny little furnaces with food.</p>
+         
+         <p>It has been a very cold and snowy two weeks, just past, and the winged gentry have had their adversities. When Nature goes on strike it is as bad for them as when the bituminous miners "lie down" on the two-legged gentry known as man.</p>
+         
+         <p>In order to keep his home-fires burning, the bird has to step out and get himself plenty of weed seeds, conifer buds or tiny animal and insect organisms from the bark crevices of the trees. When there is a heavy and sleety snow these birds are deprived of a good deal of their "fuel" supply.</p>
+         
+         <p>Thus, in the past fortnight, the feathered crowd has been conserving and using only the surplus, as far as possible. If you're skeptical, just hang up a basket of suet and watch the Nuthatches and Chickadees lay away their stores, poking the food cleverly in bark holes, to be used later.</p>
+         
+         <p>The seed-eating birds, however, such as the Tree Sparrows and Juncos, are truly "up against it." They strip every upstanding stalk, but cannot get to the vast warehouse of "bird fuel" lying on the ground under several inches of snow. They suffer - like humans - but have considerably the best of the argument, since when they are desperate they can move a long way in a very short space of time.</p>
+         
+         <p>The Tree Sparrow is one of the most useful of our winter birds, and eats tons and tons of noxious weed seeds each winter. he is feeling the "fuel shortage" because of the snow - but watch him get busy when the present coat is melted away.</p>
+         
+         <p>If humans were as diligent, there would be no strikes!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. December 7, 1919. <title>Omaha Sunday World-Herald</title> 55(10): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

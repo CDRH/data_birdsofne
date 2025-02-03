@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00029">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Approach of the Sportsman's Idyl.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1893-09-03</date><biblScope>p. 16.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Approach of the Sportsman's Idyl.</head>
+         
+         <list type="simple">
+            
+            <item>"The drowsy dream of the sweet autumn time,</item>
+            
+            <item>With its mildew, mould and mellow</item>
+            
+            <item>Comes glimmering down with its show sublime,</item>
+            
+            <item>In robes of russet and yellow."</item>
+         
+         </list>
+         
+         <p>Already sportsmen are catching the hunter's fever, and preparations are being made for its delights on all hands as the fall shooting comes on apace. In a few weeks more the wild fowl will begin their autumn migration to southern fields and waters, and then truly the shooter will be in clover. The beautiful wood duck and locally bred birds are already furnishing some sport for impatient gunners, but the hunter's harvest only begins when the little teal, the green wing and the blue wing commence to arrive from their northern haunts. They are due by the 20th of this month in full force. Then comes the mallard, with his emerald head and thrilling quack; the coveted canvasback in his soft coat of ashen gray; his first cousin, the "mewing" redhead; the sprigtail, the pugnacious widgeon in his somber raiment; crested merganzer, purrutting bluebill and dumpley butterball; all will be here in the earliest days of beautiful but melancholy October. There there will be rare times on lake and river, in marsh and lagoon. The jacksnipe, too, incomparable in his coat of russet; the golden-back plover, the yellowleg, greater and lesser, and all the sandpiper family, barring the Bostonian, will revel in every fenny expanse, and ever as a will-o'-the-wisp for the ambitious and indefatigable sportsman. And, indeed, these are not all of the feathered game that makes the tenth and eleventh months of the twelve the hunter's idyl and the hunter's joy. The quail, hard to surpass for sport or table, will be found in plentitude in thicket and stubble, and grouse, the sharptail, and prairie chicken will have bunched for the fall, and the corn fields and the grassy meadows will echo with the whip of their strong pinions.</p>
+         
+         <p>Truly the days of the waning year are the days of legitimate outdoor sport, the days when it is health and happiness to be afield in the soft wandering breezes, and golden hazy sunshine, with dog and gun. There is no sweeter music that the petulant chirp of the red-winged blackbird as he tilts jauntily on some swaying reed; the scolding of the jay, true emblem of America; the indolent plaint of the frog in the oozy bogland; the distant cawing of the mischievous crow; blending with the Æolian murmurs of the wind, makes a natural orchestra man can never hope to duplicate. And then, with the whole face of nature one bandric of glittering color, makes a scene at once bewildering to the senses, yet stimulating, revivifying and ennobling.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Sandy Griswold. September 3, 1893. <title>Omaha Sunday Bee</title> p. 16.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

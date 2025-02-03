@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00968">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Whistling Cardinals.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-03-11</date><biblScope>58(24): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Whistling Cardinals.</head>
+         
+         <p>In her glorious generosity, nature gives us much to delight our very sense, and in every season, but there is nothing to compare, we think, with the spring-time whistle of the Cardinal.</p>
+         
+         <p>Such assertion or belief takes in a good deal of territory and will be foundation for argument, too, as there are myriad birds with myriad songs of inspiring loveliness in Nebraska. Nevertheless, all in all, it is not difficult to pin one's faith to the Cardinal, as he perches on the very topmost twig of the tallest tree he can find, and there, gleaming in his gorgeous coat, toasts the whole world with joy to all:</p>
+         
+         <p>"What cheer! What cheer! Whew!"</p>
+         
+         <p>it is as though the darlingest happiness that could come to a pure bird-soul has overwhelmed it - has broken it forth in a very transport of altruism, to share that happiness and hope with mankind.</p>
+         
+         <p>There is no domestic bird of this territory, we believe, that has the noble bearing and yet the modesty of the Cardinal. In his passionate outpouring of spring-joy he bravely spreads his personal beauty, and not only his glistening red garment, but his stately topknot identify him from afar. Yet when his song is finished, he hovers quietly and secretively in the low underbrush where it is thickest, and avoids the attention of human admirers.</p>
+         
+         <p>"What cheer!"</p>
+         
+         <p>Indeed, you bring it to us, glorious Cardinal - and may it be truly an immediate forerunner of bountiful springtime to come.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 11, 1923. <title>Omaha Sunday World-Herald</title> 58(24): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

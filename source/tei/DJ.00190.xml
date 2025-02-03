@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00190">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Composite List of the Species of Birds Observed by Members of the Nebraska's Ornithologists' Union at the Salt Basin near Lincoln, Lancaster County, Nebraska. Sunday, May 22, 1904.</title><title level="j"/><author>Nebraska Ornithologists' Union members.</author><date>1904-05-22</date><biblScope>Printed pamphlet. 3 pages.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Composite List of the Species of Birds Observed by Members of the Nebraska's <title>Ornithologist</title>s' Union at the Salt Basin</head>
+         
+         <head>May 22, 1904.</head>
+         
+         <p>The Salt Basin, near Lincoln, Nebraska, is a lake-bed about a mile and a half in length and a mile in width. The greater portion of this area is covered with shallow salt water, the depth being so inconsiderable that shore-birds alight to feed at almost any point. The water is rich in the minute life which serves as food for many of these birds, and during the spring and autumn the shoals and flats become the resting-place of innumerable shore-birds, the number of species to be observed on a favorable day being remarkable for so limited an area.</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Ring-billed Gull</cell>
+               
+               <cell role="data" cols="1" rows="1">Bobolink</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Franklin's Gull</cell>
+               
+               <cell role="data" cols="1" rows="1">Cowbird</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Forster's Tern</cell>
+               
+               <cell role="data" cols="1" rows="1">Yellow-headed Blackbird</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Black Tern</cell>
+               
+               <cell role="data" cols="1" rows="1">Red-winged Blackbird</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Blue-winged Teal</cell>
+               
+               <cell role="data" cols="1" rows="1">Western Meadowlark</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Shoveller</cell>
+               
+               <cell role="data" cols="1" rows="1">Orchard Oriole</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Ruddy Duck</cell>
+               
+               <cell role="data" cols="1" rows="1">Baltimore Oriole</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">American Coot</cell>
+               
+               <cell role="data" cols="1" rows="1">Bronzed Grackle</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Wilson's Phalarope</cell>
+               
+               <cell role="data" cols="1" rows="1">American Goldfinch</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Dowitcher</cell>
+               
+               <cell role="data" cols="1" rows="1">Pine Siskin</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Pectoral Sandpiper</cell>
+               
+               <cell role="data" cols="1" rows="1">Savanna Sparrow</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">White-rumped Sandpiper</cell>
+               
+               <cell role="data" cols="1" rows="1">Grasshopper Sparrow</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Baird's Sandpiper</cell>
+               
+               <cell role="data" cols="1" rows="1">Chipping Sparrow</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Least Sandpiper</cell>
+               
+               <cell role="data" cols="1" rows="1">Towhee</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Red-backedSandpiper</cell>
+               
+               <cell role="data" cols="1" rows="1">Rose-breasted Grosbeak</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Semipalmated Sandpiper</cell>
+               
+               <cell role="data" cols="1" rows="1">Indigo Bunting</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Sanderling</cell>
+               
+               <cell role="data" cols="1" rows="1">Dickcissel</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Yellowlegs</cell>
+               
+               <cell role="data" cols="1" rows="1">Purple Martin</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Western Willet</cell>
+               
+               <cell role="data" cols="1" rows="1">Cliff Swallow</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Spotted Sandpiper</cell>
+               
+               <cell role="data" cols="1" rows="1">Barn Swallow</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Black-bellied Plover</cell>
+               
+               <cell role="data" cols="1" rows="1">Tree Swallow</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Killdeer</cell>
+               
+               <cell role="data" cols="1" rows="1">Bank Swallow</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Semipalmated Plover</cell>
+               
+               <cell role="data" cols="1" rows="1">Rough-winged Swallow</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Belted Piping Plover</cell>
+               
+               <cell role="data" cols="1" rows="1">Red-eyed Vireo</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Turnstone</cell>
+               
+               <cell role="data" cols="1" rows="1">Warbling Vireo</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Mourning Dove</cell>
+               
+               <cell role="data" cols="1" rows="1">Bell's Vireo</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Marsh Hawk</cell>
+               
+               <cell role="data" cols="1" rows="1">Yellow Warbler</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Yellow-billed Cuckoo</cell>
+               
+               <cell role="data" cols="1" rows="1">Northern Yellowthroat</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Red-headed Woodpecker</cell>
+               
+               <cell role="data" cols="1" rows="1">Yellow-breasted Chat</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Flicker</cell>
+               
+               <cell role="data" cols="1" rows="1">Catbird</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Chimney Swift</cell>
+               
+               <cell role="data" cols="1" rows="1">Brown Thrasher</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Kingbird</cell>
+               
+               <cell role="data" cols="1" rows="1">Western House Wren</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Phoebe</cell>
+               
+               <cell role="data" cols="1" rows="1">Long-tailed Chickadee</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Traill's Flycatcher</cell>
+               
+               <cell role="data" cols="1" rows="1">Wood Thrush</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Prairie Horned Lark</cell>
+               
+               <cell role="data" cols="1" rows="1">American Robin</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Blue Jay</cell>
+               
+               <cell role="data" cols="1" rows="1">Bluebird</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">American Crow</cell>
+               
+               <cell role="data" cols="1" rows="1"> </cell>
+            
+            </row>
+         
+         </table>
+         
+         <cit>
+            
+            <bibl default="NO">
+               
+               <title>Nebraska Ornithologists' Union</title>. 1904. <title>Nebraska Ornithologists' Union</title>, Lincoln. Printed pamphlet. 3 pp.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

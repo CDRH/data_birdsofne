@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00930">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Urges Support of Bird Sanctuary. Ernest Harold Bayne, Famous Naturalist, Talks Before Omaha Commercial Club. Big Tract Will Be Set Aside.</title><title level="j">Omaha Daily Bee</title><author>Bee reporter.</author><date>1916-03-13</date><biblScope>45(230): 7.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Urges Support of Bird Sanctuary</head>
+         
+         <head>Ernest Harold Bayne, Famous Naturalist, Talks Before Omaha Commercial Club.</head>
+         
+         <head>Big Tract Will Be Set Aside</head>
+         
+         <p>Bird lovers were raised to the seventh heaven of happiness Saturday afternoon by the announcement of Thomas R. Kimball, that 600 acres near Childs point, close to the Fontenelle forest, is to become a bird and nature sanctuary some time in the near future. The land has been purchased by bird loving Omahans who promise that the forest will be held intact until such time as the association can take it over.</p>
+         
+         <p>The announcement was made by Mr. Kimball in introducing Dr. Ernest Harold Bayne at a luncheon tendered by members of the Audubon society at the Commercial club. Dr. Bayne is a famous naturalist and bird expert from Meriden, N.H.</p>
+         
+         <p>"If the plans of the Audubon for a bird sanctuary materialize it will be a great asset to the city," Mr. Bayne said. "You can protect the trees in this way as you do no other way."</p>
+         
+         <head>Mecca for Bird Lovers.</head>
+         
+         <p>He declared such a sanctuary would make Omaha a mecca for all bird lovers from far and near, and that with the proposed good road movement which is now before the people of the county finally materialized into fact, many people would come to Omaha on their way across the continent that do not do so now. he said that they would come to see this bird sanctuary if for nothing else.</p>
+         
+         <p>The speaker gave the illustration of a noted German baron who has made his thirteen acres about the castle a bird sanctuary. He told of a pestilence of insects that once destroyed all vegetation far and near, but left that thirteen acres along standing out like an oasis in the desert.</p>
+         
+         <p>In Meriden, N.H., his home, the speaker said, one-third of the people of the city are members of the local bird club. Bird life has been so developed and cultivated there, he said, that anyone in the town attempting to harm a bird would find himself extremely unpopular.</p>
+         
+         <p>Mr. Bayne spoke at the First Baptist church, Park avenue and Dewey avenue, last evening on "Our Wild Bird Friends and How to Attract Them."</p>
+         
+         <p>A crowd that packed the church to its utmost capacity listened to his interesting discourse which was illustrated by stereopticon slides of song and insectivorous birds.</p>
+         
+         <p>As a result of his own, wide experience, Mr. Bayne was able to show why the birds are in sore need of friendship, why it is so well worth while to give it to them, and how it may be given to them in such a way that it may be profitable alike to the birds, the citizens and to the country at large.</p>
+         
+         <p>He gave a delightful description of Meriden, N.H., "the Bird Village" and of the interesting results already attained by the residents there. Mr. Bayne's talk was but one of many which he has been making over the entire country, having but recently returned from the Pacific coast.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 13, 1916. <title>Omaha Daily Bee</title> 45(230): 7.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

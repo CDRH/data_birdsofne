@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00557">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Morning Jamboree.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-06-09</date><biblScope>53(36): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Morning Jamboree.</head>
+         
+         <p>There are times when even the most ardent bird-lover develops a pronounced peeve against his feathered friends.</p>
+         
+         <p>In the morning, after the nightly thunderstorm, the amateur ornithologist is likely to be wooing Mrs. Morpheus with great unction, only to be awakened by the variegated carollings of the songsters out in the backyard.</p>
+         
+         <p>The amount of noise that can be created by a couple of lovesick Robins is positively startling, but when you add to this the rusty squeak of an ambitious Kingbird and the incessant if melodious patter of the House Wren, you have an effect positively deafening.</p>
+         
+         <p>Then, to help the auricular picture, you get the vast repertoire of the Brown Thrasher and his cousins, the Catbird, who know every song that is sung in the woods or fields, and can reproduce the same to perfection.</p>
+         
+         <p>Along comes a Goldfinch to tease you with his glorious flattery, "Swee-e-e-et! Swee-e-e-et!" and the Yellow Warbler with his swift, smooth burble of sound. The Chipping Sparrow, like some effervescent insect, chitters away tirelessly. The Chimney Swift squeaks aloft.</p>
+         
+         <p>The mornings are mighty interesting if you just let your ears work as your eyes open. If you slumber on a sleeping porch in some residence district where the birds find more popularity, you are doubly fortunate. The songs of least a dozen different and useful American birds can be heard in the residence district of Omaha after the alarm clock ruins rest.</p>
+         
+         <p>A bird bath in the back yard and a sleeping porch above it affirm a contract for wonderful Nature-Music each morning. They will sing you to sleep in the evening - but they will wake you up in the morning.</p>
+         
+         <p>These birds of ours - Hoover's very best bet - know nothing of the daylight saving law - and put on a considerable matinee!</p>
+         
+         <p>But the jamboree is the death-knell of millions of food-destroying insects - so it is sweeter to our ears than any grand opera in the books.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 9, 1918. <title>Omaha Sunday World-Herald</title> 53(36): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

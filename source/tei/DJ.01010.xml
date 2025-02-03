@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01010">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">The Young Hunters. They Failed to Shoot Enough Game for the Supper, Which Consequently has Been Postponed. Two of the Club Were Nearly Drowned While Crossing the Platte in a Hunting Boat.</title><title level="j">Omaha Daily Republican</title><author>Field Sportmen's Club.</author><date>1877-10-25</date><biblScope>20(106): 4.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>The Young Hunters.</head>
+         
+         <head>They Failed to Shoot Enough Game for the Supper, Which Consequently has Been Postponed.</head>
+         
+         <head>Two of the Club Were Nearly Drowned While Crossing the Platte in a Hunting Boat.</head>
+         
+         <p>The annual fall hunt of the Field Sportsmen's club took place on Tuesday, and the count of game was made yesterday afternoon at Yankee Hathaway's store in Church block. The score was as follows:</p>
+         
+         <table>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Capt. F.B. Lowe's Side.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>F.B. Lowe</item>
+                     
+                     <item>J.J. Hardin</item>
+                     
+                     <item>E.L. Patrick</item>
+                     
+                     <item>P. Cussaday</item>
+                     
+                     <item>C.D. Sutphen</item>
+                     
+                     <item>Edwin Bond</item>
+                     
+                     <item>H.A. Worley</item>
+                     
+                     <item>Total</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>0</item>
+                     
+                     <item>0</item>
+                     
+                     <item>9</item>
+                     
+                     <item>1</item>
+                     
+                     <item>33</item>
+                     
+                     <item>Not reported</item>
+                     
+                     <item>33</item>
+                     
+                     <item>76</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">Capt.J.F. M'Cartney's Side.</cell>
+            
+            </row>
+            
+            <row role="data">
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>J.F. McCartney</item>
+                     
+                     <item>G. Windheim</item>
+                     
+                     <item>Wm. Krug</item>
+                     
+                     <item>R.S. Berlin</item>
+                     
+                     <item>L. Worden</item>
+                     
+                     <item>Geo. Ketcham</item>
+                     
+                     <item>A.S. Huntington</item>
+                     
+                     <item>Total</item>
+                  
+                  </list>
+               
+               </cell>
+               
+               <cell role="data" cols="1" rows="1">
+                  
+                  <list type="simple">
+                     
+                     <item>0</item>
+                     
+                     <item>1</item>
+                     
+                     <item>Not out</item>
+                     
+                     <item>Not reported</item>
+                     
+                     <item>22</item>
+                     
+                     <item>6</item>
+                     
+                     <item>Not out</item>
+                     
+                     <item>29</item>
+                  
+                  </list>
+               
+               </cell>
+            
+            </row>
+         
+         </table>
+         
+         <p>The small count resulted mainly from the same cause as that made by the Omaha Sportsmen's Club on the 17th inst.: the scarcity of game.</p>
+         
+         <p>Messrs. J.F. McCartney and J.J. Hardin hunted at River Siding on the U.P.R.R. and at about 5 o'clock on Tuesday morning, in crossing the Platte river, their tin hunting boat was upset by the current, and only presence of mind saved both these young gentlemen from a watery grave. They both seized the boat as it overturned and clung to it until the shore was safely reached; Mr. Hardin secured his gun, a basket of lunch, an oar and a goose, which he had just killed, and considering the fact that he cannot swim it was a fortunate thing that they had the self-possession to hold to the boat, thereby saving himself. mr. McCartney, however, notwithstanding the fact that he is an excellent swimmer, was not so fortunate, having lost his breech-loading shot gun, values at about $100. This little adventure accounts for the poor score of these gentlemen.</p>
+         
+         <p>The game supper that was to have taken place has been indefinitely postponed. The fact was, the young gentlemen hadn't game enough to make a good spread, and they were too proud to buy enough to make up the deficiency. So the supper will not take place until next spring, when we trust the young men of the Field will have better luck.</p>
+         
+         <cit>
+            
+            <bibl default="NO">October 25, 1877. <title>Omaha Daily Republican</title> 20(106): 4.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

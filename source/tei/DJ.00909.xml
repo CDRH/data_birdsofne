@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00909">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Myadestes townsendii in Nebraska.</title><title level="j">Auk</title><author>Toppan, George L.</author><date>1890-10-01</date><biblScope>7(4): 408.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2006-04-22"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Townsend's Solitaire in Nebraska (Fall 1890)</head>
+         
+         <p>
+            
+            <hi rend="bold">Myadestes townsendii in Nebraska</hi>.—In looking over a small collection of mounted birds today (the property of Mr. L. Sessions, of Norfolk, Nebraska) I found a specimen of <hi rend="italic">Myadestes townsendii</hi> which Mr. Sessions assures me he took in that vicinity in winter some years ago. Unless I am mistaken, this is rather out of its usual habitat and is worthy of record.—George L. Toppan, <hi rend="italic">Chicago, Ill.</hi>
+         
+         </p>
+         
+         <cit>
+            
+            <bibl default="NO">October, 1890. <title>Auk</title> 7(4): 405.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

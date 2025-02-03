@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00187">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Coming Back [Spring Songsters Add to Woodland Orchestra].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-03-24</date><biblScope>53(25): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Coming Back.</head>
+         
+         <p>During the summer weather of the past week the woods have been full of budding melody as well as budding foliage.</p>
+         
+         <p>The winter birds, mating and preparing for their northward flight to nesting places of cooler climate, are piping their springsong, so vastly different from their crisp chipping of the zero months. To the rambler of the woods this is the surest and most welcome indication that winter is on the retreat.</p>
+         
+         <p>The amount of melody that can be provided in the early spring by birds that in the earlier months have scarcely anything to say, is remarkable. The Junco and the Tree Sparrow become concert artists rivalling their gaudier summer rivals, while the Goldfinch and the Cardinal increase their repertoires until they seemingly have no limit.</p>
+         
+         <p>But the return of the spring songsters, however, is gradually in progress, and adds a good deal to the woodland orchestra. Our own Western Meadowlark, the champion coloratura soprano of the world, is in perfect voice; the gentle murmur of the Bluebird is heard between-times; the shrill notes of the Killdeer emphasize important passages in the great opera, while the Bronzed Grackle, one of Nature's best comedians, interspeces his guttural comment. The drumming of Woodpeckers furnish the traps, and - but we could go on forever, mayhap, with this figure of speech.</p>
+         
+         <p>Just now the woods and fields are calling insistently for your presence there. Why not respond?</p>
+         
+         <p>There may yet be snow and cold weather, but the heart of spring is throbbing and the transition period is worth watching.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. March 24, 1918. Coming Back [Spring Songsters]. <title>Omaha Sunday World-Herald</title> 53(25): 6-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

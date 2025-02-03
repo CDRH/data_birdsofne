@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00211">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Big Day's Sport. Splendid Result of a Day's Shooting on the Platte.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1879-03-30</date><biblScope>14(140): 8.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Big Day's Sport.</head>
+         
+         <head>Splendid Result of a Day's Shooting on the Platte.</head>
+         
+         <p>Gen. Crook, John S. Collins, John Petty, and Henry Homan returned yesterday from a hunting excursion on the Platte, bringing with them the finest pile of game ever seen in Omaha as the result of a day's sport by four sportsmen. The game was piled up at Collins &amp; Petty's yesterday afternoon, and nothing like it in the way of fine birds has ever been seen in Omaha. The number of geese killed was 133, and ducks 19. Several incidents of the hunt reach us which are decidedly rich. The sources from which they come are all the authority necessary for the statements.</p>
+         
+         <p>The ammunition played out at the close of the hunt and the party had given up any attempts to kill more game, Petty, whose spirits were unflagging, gained sight of a monstrous crow at long range and being tired of geese decided to try the crow. The question was, how could he kill it without shot. This was soon answered for Petty went at one with his pocket knife and had soon extracted a sufficient number of shot and blazing away at the crow killed him at once.</p>
+         
+         <p>Mr. Collins, nearly exhausted with his work, winged a fine goose, but the bird refused to stay where it fell. Mr. Collins dropped his hat and gun and started after it at break-neck speed. It was a stren chase, and no one can tell how long it would have continued, but after proceeding about a mile or a mile and a half there came a little rise of ground, and the bird was secured. Mr. Collins returned to the party a half hour after scarcely able to walk. The wagon was some distance down the river, and with the pile of game it was a question how to get it to the vehicle. Finally the geese were tied together, a raft was made of them, and Mr. Collins was floated down the river to the wagon. There are rumors of an accident to the raft, and a sportsman immersed several feet deep in the muddy waters of the Missouri, but these statements are not authenticated.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 30, 1879. <title>Omaha Daily Herald</title> 14(140): 8.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00409">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Bum Housekeeper [Belted Kingfisher].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-06-10</date><biblScope>58(37): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Bum Housekeeper.</head>
+         
+         <p>While there is no more interesting or comical bird than the Kingfisher, he certainly has some bad traits at home- in this respect being little different from a lot of us who shine particularly when far from the family threshold.</p>
+         
+         <p>The Belted Kingfisher is a blue-gray and white fellow with black markings, and his head sometimes seems ludicrously large for the rest of his body. The ornithologists has amputated the first part of his monicker and left him but a plain Kingfisher, which he is.</p>
+         
+         <p>It is an engrossing if lazy sport to loll in the shade somewhere beside a pool or stream and observe the hunting process of this Kingfisher. Perched upon a wire or stump protruding over the water, his keen eyes quickly note the present of a sizeable fish below. In a jiffy he swoops down and skims upward with his prey. His aim is deadly - as is his appetite.</p>
+         
+         <p>But with all his near-beauty and his usefulness as a near-scavenger, the Kingfisher loses a lot of prestige by the way he keeps - or fails to keep - his family.</p>
+         
+         <p>The home is in a hole dug in some bank, or discovered there, already dug. Upon excavating a Kingfisher abode one is likely to find it filthy and smelly to an astounding degree, the little ones being raised in a mess of muck and fish bones and "such-like."</p>
+         
+         <p>Pretty birds and unlovely homes are not unknown to humanity, so let us not be too harsh with a bird of bad habits.</p>
+         
+         <p>The Kingfisher is nevertheless interesting to observe, and it will be worth your while to watch for him during your hike today.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 10, 1923. A Bum Housekeeper [Belted Kingfisher]. <title>Omaha Sunday World-Herald</title> 58(37): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

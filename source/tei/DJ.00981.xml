@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00981">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Wilson's Snipe.</title><title level="j">Oologist</title><author>Trostler, Isador S.</author><date>1892-05-01</date><biblScope>9(5): 146-147.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+
+
+<revisionDesc>
+<change>
+  <date value="2005-07-07"/>
+    <respStmt>
+	<name>Vicki Martin</name>
+    </respStmt>
+    <item>Proofread from Source</item>
+</change>
+</revisionDesc>
+
+
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Wilson's Snipe.</head>
+         
+         <head>(<hi rend="italic">Gallinago wilsoni</hi>,)</head>
+         
+         <p>The sprightly little Wilson's or Jack Snipe arrives in this vicinity from about April 16 to May 10th, and are at times very abundant.</p>
+         
+         <p>They are of a very fickle and nervous disposition in many respects, especially in the selection of feeding ground. They delight in low marshy and moist ground but at times, they will take a fresh and frequent high bushy meadow, and will even (as I, myself have observed) poke or bore into the ground in the same manner as the American Woodcock (<hi rend="italic">Philohela minor</hi>). Their favorite feeding grounds in this region, however are on marshy meadow land, where cattle are pastured, or in the interior about fresh water springs, environed by oozy swamps and thickets of willow, huckleberry or wild rose bush, where they feed all day and at night migrate farther northward, toward their breeding grounds.</p>
+         
+         <p>They remain with us about six weeks and journey northward slowly, to British Columbia to breed, where they pair and, the female lays a reddish-brown or yellowish-ash colored egg, about 1.50x1.06 inches in size. The eggs are sometimes spotted, sometimes blotched or streaked with darker brown, the nest being a slight depression in a low swampy meadow.</p>
+         
+         <p>During a stroll across the meadows north of this city yesterday, returning from a fruitless trip after Hawks' eggs, I saw several "wisps" of Jacks feeding and piping their shrill <hi rend="italic">tweet tweet</hi> sociably mingling with the Meadow-larks.</p>
+         
+         <p>While passing through here, and I suppose everywhere else, thousands of the little fellows are slaughtered for the table, and are considered, by many, the most delicate of our feathered game and as to their wholesomeness, I can testify, myself, for although I preach "do not kill our birds," I have dropped a few to my gun when I was out alone and the temptation too great.</p>
+         
+         <p>A little later in the season I will try to describe Bartram's Sandpiper (<hi rend="italic">Bartramia longicauda</hi>) and their habits, as they breed here and stay here all summer.</p>
+         
+         <p>Hoping I have not made the above tedious and uninteresting, I am yours in Oology and Ornithology.</p>
+         
+         <list type="simple">
+            
+            <item><hi rend="caps">Isador S. Trostler</hi>,</item>
+            
+            <item>April 18, 1892. Omaha, Neb.</item>
+         
+         </list>
+         
+         <cit>
+            
+            <bibl default="NO">May 1892. <title>Oologist</title> 9(5): 146-147.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

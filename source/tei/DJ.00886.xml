@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00886">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Two Kinds of Swans.</title><title level="j">Omaha Sunday World-Herald</title><author>Campfield, Jno. N. and Sandy Griswold.</author><date>1913-02-23</date><biblScope>48(21): 2-S. Forest Field and Stream column.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Two Kinds of Swans.</head>
+         
+         <p>Island Lake, Deuel County, Nebraska, Feb., 18.-To Sandy Griswold, Sporting Editor of the World-Herald: Was out scouting along the lakes in this section Sunday, and was much surprised to discover seven swan sitting on the ice at the upper end of Island Lake. We managed to get within good range with our glasses, and saw among the bunch three with bright, yellow legs and yellowish wings and throat. The others had black bills and legs. Can you tell us what they were, simply male and female of a single species or two different breeds. Please let us hear from you in Sunday's World-Herald. Also saw many pintails flying high and going north. Yours sincerely.-Jno. N. Campfield.</p>
+         
+         <p>Two distinct varieties of the swans. Two of them were Bugler swans and the others whistlers. The former is the largest, by far, has a longer neck, is more arched, more graceful, more pompous, more full in front of the breast and has a warier and more intelligent appearance. The face proper, from behind the earlets up between the eyes, and down underneath the bill is as black as black as ebony. The legs are black. The webs are black and not a black or colored feather exists in the composition of his entire garb. A young bugler shows an orange tinge on the head. The whistler swan is almost the reverse from this. He has yellow legs, yellow or orange-hued shanks and the same tinge at the tips of the wing-feathers and under the throat. He is rare here, while the bugler is common. I would think a bugler cock should weigh say, eighteen or nineteen pounds, and a hen from fifteen to seventeen. The cock whistler will not go over fourteen and the hen over twelve.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Jno. N. Campfield and Sandy Griswold. February 23, 1913. <title>Omaha Sunday World-Herald</title> 48(21): 2-S. Forest, Field and Stream column.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

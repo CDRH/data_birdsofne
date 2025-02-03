@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00283">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Farewell to the Swifts.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-10-10</date><biblScope>56(2): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Farewell to the Swifts.</head>
+         
+         <p>This has nothing to do with the packing industry, but only concerns a most remarkable family of birds that are soon to disappear from the skies over the city and depart for the south - and total oblivion.</p>
+         
+         <p>Total oblivion is correct, for after they have left their summer flying fields they disappear completely. Science has no authoritative explanation for this disappearance.</p>
+         
+         <p>The Chimney Swifts are very useful birds, living almost entirely on insect life which they corral in the air while in flight, which accounts for their incessant soaring over the tops of the buildings from early dawn to the dark o' night.</p>
+         
+         <p>They derive their name from the fact that they build their nests of soot and straws attached to the inside walls of chimneys. These are cup-like affairs very hard to observe without knocking out a side of the said chimney. When once seen, however, they are admittedly masterpieces of a quaint architecture.</p>
+         
+         <p>But the disappearance of the Chimney Swifts during our winter months is the most interesting feature attached to these restless creatures of the air.</p>
+         
+         <p>They are known to migrate south of the United States - and then are completely gone until the following spring.</p>
+         
+         <p>One theory advanced by students is that they go down into the maws of extinct volcanoes, using the almost bottomless craters of Mexico and Central America as places for a sort of feathered hibernation.</p>
+         
+         <p>Bird lovers should say good-bye to the Chimney Swifts - for they are about ready to disappear.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Greenleaf]. October 10, 1920. <title>Omaha Sunday World-Herald</title>	56(2): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

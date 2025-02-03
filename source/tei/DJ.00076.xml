@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00076">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A New Bird Generation.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-07-31</date><biblScope>56(44): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A New Bird Generation.</head>
+         
+         <p>If you are at all interested in birds, which seem to come more directly from the throne of the Omnipotent than any other of nature's messengers, this is an adequate time to watch feathered angels of a new generation trying to grow up.</p>
+         
+         <p>There is nothing, we think, more interesting than the educational courses provided by the fond parents in th various classes.</p>
+         
+         <p>Young Robins, for example, take extensive field work in worms; young Flycatchers of the several families study nose-dives, loops, tailspins and other stunts calculated to ruin the fleeting insect in mid-air; while young Blue-Jays and grackles practice burglary and young Red-Headed Woodpeckers cram on comedy for their telephone pole scene.</p>
+         
+         <p>Youth will be served in birdland as elsewhere, and these kiddies of the wing demand the instant attention not only of their parents but also of such of us who are fortunate enough to hike the fields and wooded glades.</p>
+         
+         <p>It is no uncommon sight, just now, to see a row of young Kingbirds on a wire taking their first lessons; or a row of Barn Swallows. On the dead twigs projecting over some sequestered ravine will be found similar rows of Wood Pewees. On the ground will be noted clusters of second-growth Robins "freezing" at the approach of danger under mother's direction.</p>
+         
+         <p>Young bird life is too big a subject to be dealt with in these few rods - but now is the time to put a good foot forward and see for yourself.</p>
+         
+         <p>You may now see the birdlets graduating from kindergarten to the grade schools, and thence into "high."</p>
+         
+         <p>It is a spectacle worth your trouble. Try finding it.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 31, 1921. <title>Omaha Sunday World-Herald</title> 56(44): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

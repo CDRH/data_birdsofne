@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00297">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">A Feathered Pilot [Spotted Sandpiper Nesting at Ak-Sar-Ben Flying Field].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-06-20</date><biblScope>55(38): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>A Feathered Pilot.</head>
+         
+         <p>Ak-Sar-Ben Flying Field, now used by the aerial mail and private passenger lines, is a rather large stretch of ground south of West Center street. It is pretty well mowed, trimmed, trampled and otherwise civilized. Airplanes are constantly taking off and landing thereupon, and in fair weather throngs of spectators lurk in the offing. Every day there are supply wagons passing to and from across its edges, bringing material for the erection of Ak-Sar-Ben buildings along the edge of the race track.</p>
+         
+         <p>All this is merely setting the scene for a compliment to the new family of pilots now growing up on this well populated aviation field. While Bill DeWald and Lange and Green, and the rest of the flyers out yonder are pretty handy in carrying mails and females, this last batch of aviators "have it on 'em."</p>
+         
+         <p>For the aviators we refer to are Spotted Sandpipers, and they have a nest right "smack" in the middle of Ak-Sar-Ben Field, where the featherless Flyers roll around and over 'em time after time each day.</p>
+         
+         <p>The Little Pappio creek crawls along the west side of the field, and there Pilot Sandpiper and his wife are instructing their young by this time, no doubt, in the gentle art of tail-dipping and grubbing for bugs along the shore.</p>
+         
+         <p>As for the strangely preserved nest of these Sandpipers, it consists of but a handful of grass and straw on the bare ground, with four spotted eggs neatly arranged in the middle. Just about every time a human flyer comes along, the feathered flyer "takes off," for he and his wife are strong for safety first.</p>
+         
+         <p>The Spotted Sandpiper is one of the most useful of the shore birds and that he should choose such a highly populated place for a nest is somewhat strange and noteworthy.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 20, 1920. A Feathered Pilot [Spotted Sandpiper Nesting at Ak-Sar-Ben Flying Field]. <title>Omaha Sunday World-Herald</title> 55(38): 10-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

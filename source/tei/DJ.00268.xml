@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00268">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>Â© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Evening Grosbeak, Rare Visitor, at Turner Park.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1921-03-20</date><biblScope>56(25): 3-W.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Evening Grosbeak, Rare Visitor, at Turner Park</head>
+         
+         <head>By Sandy Griswold.</head>
+         
+         <p>IN the cool of last Monday evening we were as delighted as we were fairly dumbfounded by the sight of several evening grosbeaks disporting themselves in the low evergreen trees which line the east border of our little bird haven - Turner park. While during the closing days of winter we saw an unusual number of the pine grosbeaks here, the evening grosbeaks were never in evidence until on the occasion above noted - a late period for them to be lingering this far south.</p>
+         
+         <p>Both species are distinctly northern birds, and only encountered here - in these modern days - on rare occasions. They are of the peculiarly erratic northern finches, and years ago were noteworthy rare visitors here.</p>
+         
+         <p>The evening grosbeak is the rarer of the two, which is quite natural as they seldom nest any nearer to us than northern Canada, while the pine variety is quite frequently found nesting in the country but a short ways to the north of the Nebraska border.</p>
+         
+         <p>In consecutive winter in the early '90s, the pine grosbeaks were uncommonly plentiful in this immediate vicinity, and I saw fully a score of them on many occasions.</p>
+         
+         <p>The two beautiful finches are about the same size, but radically different in the hues of their plumage, the male evening grosbeak being yellow with black and white trimmings, while the male pine grosbeak is rosy red, rather dullish, head, back and breast. They usually travel in quite larger blocks than the other species, and twenty years ago I saw a band of fully twenty of these winter visitors perched on one small tree in the front yard of the late Frank Colpetzer's residence up on Twenty-fifth avenue.</p>
+         
+         <p>Both birds' natural food is similar, seeds of all sorts, the desiccated fruits of such plants as the sumach, sunflower and the alderberry, fox-eyed grapes, bitter haws, and the like. They are absolutely fearless of man, much like the waxwing or cedar bird in this respect, and which bird also used to be a frequent visitor here, but now comparatively a stranger. This apparent friendliness, however, is characteristic of all our feathered winter visitors from the northern wilderness.</p>
+         
+         <p>Both of these grosbeaks are beautiful songsters, but particularly the pine grosbeak, who rounds well up with any of the thrushes or woodland sparrows. He seldom indulges in his sweet chansons when down here, however, reserving his most refined efforts to waste on the desert air of the coniferous woods far to the north of us.</p>
+         
+         <cit>
+            
+            <bibl default="NO">March 20, 1921. <title>Omaha Sunday World-Herald</title> 56(25): 3-W.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

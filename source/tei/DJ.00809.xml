@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00809">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Some Bird [Great Blue Heron].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-09-17</date><biblScope>51(51): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Some Bird.</head>
+         
+         <p>There is a song, at one time very popular in that state, built about the wondrous things that may be seen in Kansas. It is learned, from this ditty, that the potatoes grow small down there, and that they eat 'em skin and all. Likewise that the roosters grow very large and have whiskers on their legs - in Kansas. Many other brilliant Kansas achievements are recorded in this ballad, which is calculated to make Nebraska feel a bit green in the eye - a trifle jealous, as it were.</p>
+         
+         <p>But out in the watery lowlands of our own community these days there is to be found a bird that makes the whiskery Kansas rooster look like a tufted titmouse. Kansas may have him in her midst, too, but he has not as yet been honored in song, so now is a good chance to beat Bill White and the rest of the Jayhawker press agents to it.</p>
+         
+         <p>If you have the opportunity of plowing around in some of our best swamps you are likely to be mightily astonished when about half of the landscape laboriously mounts into the air and flies off.</p>
+         
+         <p>You may have noticed a particularly tall reed, of about the same color as the rest of the weather beaten vegetation and autumn prospect, protruding from some shallow pond - far enough from dry land to be inaccessible.</p>
+         
+         <p>The big plant is apparently reared from a single stalk, and is perfectly motionless.</p>
+         
+         <p>Yet when you approach a trifle too near, this silent growth deliberately unfolds a pair of mammoth wings and trundles away, low above the rushes and underbrush. So strong and heavy are the sweeps of these great wings that you can hear the swish, and that single stalk has become a gaunt leg, with its fellow, dangling hopelessly beneath.</p>
+         
+         <p>The great Blue Heron is pretty common in Nebraska at this time of year, and ought to be graced with more attention, for most natural histories proclaim him as America's biggest bird.</p>
+         
+         <p>He is a stately and rather beautiful creature, if you can get close enough to note his best features - but his size is his one best bet.</p>
+         
+         <p>Nebraska is a great old state when it comes to the featured tribes. We have the littlest and the biggest, from the Ruby Throated Hummingbird to the Great Blue Heron - and the latter, is may be repeated, is some bird!</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 17, 1916. Some Bird [Great Blue Heron]. <title>Omaha Sunday World-Herald</title> 51(51): 4-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01011">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Young Orioles.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-09-05</date><biblScope>55(49): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Young Orioles.</head>
+         
+         <p>Providing they have not departed by this time, which departure is unlikely, the young members of the new Oriole family will interest the bird-lover on his weekly Sunday hike.</p>
+         
+         <p>Speaking entirely of amateurs in the art of bird identification, you will find it hard to distinguish between the young Baltimore and the young Orchard Oriole. In this editorial we will make no attempt to give a key to such identification, except to say that the Baltimore is larger than the Orchard, and that the young male of the latter class begins to show signs of black along its cheeks, something like the Maryland Yellowthroat. Young females of either breed can scarcely be identified except by the size, or by the most minute inspection by professional ornithologists, who generally accomplish the job by taking specimens.</p>
+         
+         <p>But this article was not intended to apply entirely to young Orioles. We call your attention to the fact that the study of young birds of all classes is one of the deepest and most interesting of all known to science, and that the fall of the year, or September, gives this opportunity.</p>
+         
+         <p>When an amateur bird lover has mastered the full-plumaged males and females of the spring and summer - he has to start all over again with the young birds.</p>
+         
+         <p>This problem makes ornithology just so much more interesting. After one has become acquainted with the parents, one must battle with the offspring - which is some job!</p>
+         
+         <p>You should try it today, and learn. Nebraska is one of the greatest bird states in the union during migration, so why not take advantage of the opportunity?</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 5, 1920. <title>Omaha Sunday World-Herald</title> 55(49): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00701">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Proud Parent [Red-wing Blackbird].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-06-18</date><biblScope>57(35=38): 8-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Proud Parent.</head>
+         
+         <p>Where the young of the glorious Redwing Blackbird are growing into something tangible in their marsh nest is a spot easily found of one watches for the parents thereof - generally so overjoyed at domestic bliss that they simply cannot contain themselves.</p>
+         
+         <p>Especially the father of the embryonic flock, for he acts a good deal like humans when their Opus One has arrived. With nervously fluttering wings he hovers above the nesting place, soaring if the wind is heavy enough, and displaying to its utmost the grandeur of the red stripe through his wings.</p>
+         
+         <p>He emphasizes, with all the power of his voice, the pride he has in himself and his. He brags and sings and brags some more. His "O-kah Lee" call resounds afar, and is as beautiful as his wings, fluttering excitedly during the recitation.</p>
+         
+         <p>In the meantime, the mother bird, black brown and drab enough with her manifold duties, also hovers nearby - but generally on some reed-stalk where she can keep watch of her youngsters. Confining herself merely to a sharp "chuck-chuck!" she apparently enjoys all the opinions of her husband in the glory of the situation.</p>
+         
+         <p>Such family affairs among birds are always interesting, but in the case of the Redwings, the celebration is so publicly conducted as to be unusually engrossing to those who enjoy a hike across the lowlands of a Sabbath.</p>
+         
+         <p>The Redwing Blackbird, it may be added, is exceedingly useful because of his "anti-bug" campaign, and he nobly pays for whatever of grain he may consume as a sort of relish during the summer and fall.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. June 18, 1922. Proud Parent [Red-wing Blackbird]. <title>Omaha Sunday World-Herald</title> 57(35=38): 8-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

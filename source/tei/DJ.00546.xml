@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00546">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Milkweeds and Butterflies.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1920-08-22</date><biblScope>55(47): 6-E. A nature editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Milkweeds and Butterflies.</head>
+         
+         <p>The butterflies' special flowers, the Milkweed Family. The most ornamental of them all is the Butterfly Weed or Pleurisy Root. Above its deep red-orange umbels "the butterflies hover, float, alight, sip and sail away. Surely here is a butterfly flower if ever there was one and such are rare."</p>
+         
+         <p>Then there is the common, every-day milkweed, the pods - or pedicels, as the botanists call them - of which finally open and send forth myriads of brown seeds winged with white silvery hairs that spread and catch the gentlest breeze and sail away to fulfill their mission of reproduction. The pods that are such a fascination to the children in their endless possibilities of decoration.</p>
+         
+         <p>Flowers and butterflies must be studied together and now both are at their greatest number and most gorgeous period of coloring, their most interesting time for the mere lover of the beautiful in nature. To the student who goes deeper the wonder grows with study of them how nature while evolving the beautiful ever makes primal the practical.</p>
+         
+         <p>Why the butterflies? To carry out because of their desire for food, the necessary process of seed, and hence plant reproduction; the plant compelling the insect to work for them.</p>
+         
+         <p>One botanist says: "One cannot stay long round a patch of milkweeds without seeing the Monarch Butterfly, that splendid, bright, reddish-brown winged fellow, the borders and reins broadly black with two rows of white spots on the outer borders and two rows of pale spots across the tip of the fore wings. This enormous species are believed to migrate to the GUlf states and beyond at the approach of cold weather, traveling in numbers so vast that the naked trees on which they pause to rest appear still decked with their autumn foliage."</p>
+         
+         <p>From now until the middle of September the milkweeds will flourish in many differing varieties wit the above as the most noticeable. And this year they are especially abundant and large.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 22, 1920. <title>Omaha Sunday World-Herald</title> 55(47): 6-E. A nature editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>

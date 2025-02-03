@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00773">
+   
+   
+   <teiHeader type="text" status="new">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Birds of Nebraska</title>
+            
+            <author>James E. Ducey</author>
+         
+         </titleStmt>
+         
+         <publicationStmt>
+            
+            <publisher>UNL Libraries Electronic Text Center
+</publisher>
+            
+            <pubPlace/>
+            
+            <idno/>
+            
+            <availability status="unknown">
+               
+               <p>Publicly accessible</p>
+               
+               <p n="public">URL: http://libr.unl.edu:2000/</p>
+            
+            </availability>
+            
+            <date>© 2003 </date>
+         
+         </publicationStmt>
+         
+         <sourceDesc><bibl><title level="a">Bird Sermons.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-10-08</date><biblScope>58(2): 12-E. A bird editorial.</biblScope></bibl></sourceDesc>
+      
+      </fileDesc>
+   
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         
+         <head>Bird Sermons.</head>
+         
+         <p>It is a very commendable and mayhap necessary thing that Christians should go to church on Sunday, and it is encouraging to learn that such attendance is growing apace. Yet there is time and propriety for a Sabbath stroll through the woods and across the fields - the wilder and the more secluded the terrain, the better for the soul.</p>
+         
+         <p>Meditation is an ecclesiastical prescription for sinners that was not arrived upon by guesswork. The troubled spirit finds solace in meditation, and while the church or the chamber may be highly proper for such searching of the soul, where can there be a more appropriate sanctuary than in God's own cathedral of mossy pillars and russet domes, with the autumn sky shimmering through?</p>
+         
+         <p>And where can be found choral music to surpass that from the tireless throats of the birds, that even in these sere days sing to us or whisper to us in that language of infinite love and quietude that only Nature can inspire?</p>
+         
+         <p>These birds preach sermons - sermons of contentment and fidelity and adoration - and today, as the winter visitors are coming to us from the north and the migratory flocks are chippering their greetings while winging southward, we can learn much outdoors.</p>
+         
+         <p>A poet has written well about this - haply for church-goers, who can profit thereby:</p>
+         
+         <list type="simple">
+            
+            <item>"I see His face in every flower;</item>
+            
+            <item>The thunder and the singing of the birds</item>
+            
+            <item>Are but His words - and carven by His hands,</item>
+            
+            <item>Rocks are His written words."</item>
+         
+         </list>
+         
+         <p>There is plenty of Sabbath food for thought in a wander through the country today, and those who can but do not make effort to seek this food are verily starving themselves.</p>
+         
+         <p>Just try it and see.</p>
+         
+         <cit>
+            
+            <bibl default="NO">Editor [possibly Miles Greenleaf]. October 8, 1922. <title>Omaha Sunday World-Herald</title> 58(2): 12-E. A bird editorial.</bibl>
+         
+         </cit>
+      
+      </body>
+   
+   </text>
+
+</TEI.2>
