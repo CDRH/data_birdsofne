@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00210">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00210">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Days With the Sandhill Crane a Quarter of a Century Ago.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1912-05-12</date><biblScope>47(33): 2-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Days With the Sandhill Crane a Quarter of a Century Ago</head>
          
@@ -54,7 +54,7 @@
          
          <p>And what glorious sport we used to have-we oldtimers-with the sandhills and their congeners, the geese-Canada, Hutchins, white and speckled fronts. And the trip but to Rogers was no more then than it is to go to the outermost bounds of the state in these days.</p>
          
-         <head>The Old Crane Grounds.</head>
+         </div><div><head>The Old Crane Grounds.</head>
          
          <p>A short ways northeast of this ancient hamlet lies quite an extensive, half open valley and half billowy prairie, which was formerly thickly covered with the short, curly buffalo grass, with clumps of hybrid acacia and splashes of moccasin flowers, merging together with weeds and rushes, as you approach the sprawling Platte. This stretch of country used to be a great stamping and picking ground for the sandhills all through the dreamy month of October and well into gloomy November, when the air became biting and started the birds on toward their winter homes in the balmier south.</p>
          
@@ -62,7 +62,7 @@
          
          <p>It took up a good hour and a half, but in that time we had succeeded in digging two ample pits, started away in our hunting coats, turned into sacks, __ the freshly upturned earth, hidden our implements of toil amidst the thickly growing nearby moccasins, and settled ourselves comfortably for the evening flight.</p>
          
-         <head>The Coming of the Birds.</head>
+         </div><div><head>The Coming of the Birds.</head>
          
          <p>All the time we were at work we had seen bunches of the uneasy and restless cranes both to the north and south of us, and heard their far-sounding, unearthly cries as they clove the hazy space warily, far without our range of vision.</p>
          
@@ -74,7 +74,7 @@
          
          <p>And sure enough, just above the horizon, off to the northwest, another long string of bluish objects dotted the background sky. They were drifting leisurely, it looked at such a distance, yet with almost incredible speed, down toward us, and in a few moments after first becoming visible, they swooped lower and came on, apparently just skimming the yellowing tops of the tall prairie grass. As their oblong shapes became more clearly defined against the somber background, and those wild motes rang closer and more searchingly, John and I grasped our guns with firmer grip and waited, and I, in my impatience, half raised and brought my piece almost to shoulder.</p>
          
-         <head>How They Fooled Us.</head>
+         </div><div><head>How They Fooled Us.</head>
          
          <p>"They are a mile away!"</p>
          
@@ -84,7 +84,7 @@
          
          <p>But we were left to lament but a few moments, for, making dark splotches against the long piercing shafts of ruby and topaz light, that were shooting from the western horizon up toward the purpling zenith, we beheld another line of approaching sandhills. And then followed another spasm of hopes and fears and feverish excitement, but John and I kept well down and waited. The flock was bearing directly down upon us, and I knew if we could resist the temptation to twist our necks, or to get into a better position, and would remain perfectly death-like until we heard the broad wings winnowing in the air above us, we would surely get a shot.</p>
          
-         <head>A Thrilling Moment.</head>
+         </div><div><head>A Thrilling Moment.</head>
          
          <p>Few moments in the sportsman's career are more blood-tingling than those spent in such a position, with a wild chorus trilled by half a hundred throats growing nearer and clearer every second and the knowledge that if you but crooked an elbow or batted an eye, they would be off in the gathering shades like apparitions of the air, makes it the extreme climacteric in one's days afield.</p>
          
@@ -96,31 +96,31 @@
          
          <p>John was more experienced at this sort of shooting than I was, and he kept his nerve with him, and of course dropped a crane with each barrel.</p>
          
-         <head>On the Twilight Stage.</head>
+         </div><div><head>On the Twilight Stage.</head>
          
          <p>While that was not the first sandhill crane I ever killed, I shall never forget the supreme thrills I felt that October evening as I jumped from my cramped position in that sandy pit out on the Rogers prairie! The cast of actors that thronged that twilight stage was worth a year of life to behold. Three dozen birds, all larger than Canada geese, pouring a very storm of the most penetrating sounds that ever rolled from feathered throat, went wheeling and sheering against the orange of the western background sky, with the dying rays of the sun flashing from the black pointreled beaks and beating wings, and the fiery flash of our guns, and the crash of their mingled reports, the smoke, the whirling dead, the arrowy shafts of slicing sunshine, and all of the purpling surroundings combined in making a scene that was at once forever graven on the tablets of my memory.</p>
          
-         <head>A Tender Memory.</head>
+         </div><div><head>A Tender Memory.</head>
          
          <p>Alas the days that are no more! Ruthless time plie his fleeting pinions, and already the sandhill crane is with many of my old comrades, but a memory of the past. But what a tender memory it is. As many a day I hunted this great bird, and felt rewarded for many hardships simply by the sight of him sweeping in the empyrean from feeding field to stamping ground, and hearing the thrilling music of his far-reaching tremolo, so now I must hunt in memory's field alone. Little, indeed, is known by the younger generation of the glories of those old days, and less yet of the sandhill crane. Indeed, I believe less is known about the crane than any other game bird whose presence we have enjoyed in the past, with the possible exception of the woodcock. The latter, even in its palmiest days, and wherever it was most abundant, was always more or less of a study and a mystery, but not so with the sandhill. He was once as common as the goose or the so-called brant, and was as thoroughly understood, in all his whims and habits, as was either of these birds, but in latter years he has been a scarce quantity, indeed, and like the curlew and the prairie chicken, is destined to soon become a memory only.</p>
          
-         <head>Herons and Blue Cranes.</head>
+         </div><div><head>Herons and Blue Cranes.</head>
          
          <p>By many sportsmen of the day the sandhill crane is invariably confounded with the common blue crane, which is occasionally encountered as nearby as Carter lake, and the several varieties of the heron family. But they are distinctly different, and the blue crane, which resembles the sandhill closely, has nothing in kind with him save his color, shape and general contour. While the blue crane is a scavenger and subsists largely on dead fish and frogs and the like, the sandhill is as careful about his diet as the wild goose. The blue crane is unfit for table purposes, while the sandhill is one of our greatest game birds, and by many is thought to surpass the turkey in epicurean qualities, although I am not among this number, and yet, I will acknowledge that prepared, stuffed and roasted, as Old Abner used to serve our's up in the Lake Creek country, they are a pretty fair bird. Where the sandhills can get plenty of picking in harvested grain fields and plenty of curling buffalo or antelope grass on the slopes and plains, they grow to an enormous size, and will feed on nothing else, lingering on favorite grounds in the fall until driven away by increasing cold.</p>
          
-         <head>Always Wild and Shy.</head>
+         </div><div><head>Always Wild and Shy.</head>
          
          <p>As congeners of the wild goose and ducks, as royal game birds, they stand high in the estimation of all sportsmen, and today it would be a greater boon to kill a sandhill than it would a Canada. In keenness of vision the sandhill has no superiors, not even in the wild turkey, the redtailed hawk or the orange-legged mallard, while he is as cunning as the fox and can hear about as far as any bird that stalks the plains or cleaves the air. Unlike other game birds there is never any change noted in the sandhill. He is always wild and shy and extremely cautious. He does not get accustomed to the sight of men and things like the goose and duck family, but is always suspicious, always wary.</p>
          
-         <head>Way Up On Lake Creek.</head>
+         </div><div><head>Way Up On Lake Creek.</head>
          
          <p>A sportsman today would have a discouraging task on his hands were he to contract to furnish you a sandhill crane within a reasonable given time. Long since have they been driven away from their well known haunts within a day's travel of Omaha, and are even found, in season, but scarcely in the gloomy recesses of remotest sandhills and desert lands. Up on the Pine Ridge reservation, in the famous Lake creek marshes, we have encountered them in considerable numbers every fall now for the last twenty yeas, but with each recurring season it takes no trained eye to mark their decrease. One October, say fifteen years ago, while at Reshaw's with Eddie George, Captain Skarrett and Tom Foley, we saw several big gangs of the birds, but they always kept well out of gun range within the impenetrable morass, and flew high when passing to and fro from the feeding rounds night and morning. Ten years ago, at the same place, we encountered the birds by the thousands, and had little difficulty in adding a number to our bag of wild fowl.</p>
          
-         <head>Hunts of Long Ago.</head>
+         </div><div><head>Hunts of Long Ago.</head>
          
          <p>They are a great bird, and it is in profound melancholy the old sportsman notes their passing. The twittering, aerial serenade of the bobolink has long since died away with the drone of the summer's cicadae, the liquid tinkling of the upland plover has also simmered away in the blue mist down towards the gulf, and the young chicken are strong of pinion before the sandhill crane comes, or used to come, rather, to the broad prairie lands and sunny slopes of Nebraska. The quack of the mallard and the auh-unk of the wild goose are contemporaneous sounds in the golden autumn time with the penetrating tremolo of the sandhill. Twenty odd years ago, as I mentioned above, these great birds used to come in on the Platte, both north and south of Rogers, by the thousands and thousands, and several great shoots have I had out there; one memorable other one with Edgar Snyder of Washington, D.C., W.S Coburn of Portland, Ore., and the late George W. Tzschuck of this city. We shot from pits in the stubble and corn fields, which had begun to flash out on the broad expanse of landscape out there in those days. That was the only way we could get at the birds, as it was impossible to stalk them after they had lit on the open plain, or even by the aid of the cattails and willows after they had settled down on some barren bar in the river. Before the days of which I write, and when Rogers was a long journey from Omaha, John Petty used to tell me that this was one of the greatest stamping grounds for the sandhills there was in the whole western country.</p>
          
-         <head>The Stories Old John Told.</head>
+         </div><div><head>The Stories Old John Told.</head>
          
          <p>"In the late fall," said John, "mighty flocks of these vigilant birds would dot these plains and slopes, and it is no stretch of the truth when I say I have seen thousands of them at a single sweep of the eye." This I know to be true from what I have seen in the same vicinity myself. In the fall of '86 I put in a couple of those days at Warder's place with John Hardin and a Cedar Rapids, Ia., friend, and on the first evening we started out we beheld a spectacle calculated to stir the blood of one much less excitable than I am. As we crawled along toward the distant swell in an old dilapidated hunters' wagon, we saw a sight that the sportsman of today can neve hope to behold. To the west, to the north and to the east, and away across the gleaming Platte to the south, everywhere, in fact, where the topaz rays of the declining sun fell slantingly upon myriad shades of green, now darkly, now like flashes of silver, just as the light played in and out from the gauzy nebula in the west, we saw an army of sandhill cranes, perched upon the knolls and humped-back elevations, always on the quivive for an approaching foe, and occasionally emitting that guttural pu-r-r-rut! pur-r-rut! you have heard from your tent at midnight when these long-legged ghosts of the upper spaces were traveling to more salubrious climes. We were wonder-struck, impatient, excited and vociferous, but not a bird did we get, not a shot even. And day after day was the same thing over, and the whole country seemed swarming with cranes. As we lay at night with out faces turned to the north window in Warder's little upper chamber, their rolling notes fell from the star-dotted heavens with uncanny vibration, and in the morning light, with long, gray necks outstretched to their farthest tension and wide wings fanning the still slumberous air with mighty wiffs, they floated above us against the cerulean background sky in columns, brigades and divisions!</p>
          
@@ -128,12 +128,12 @@
          
          <cit>
             
-            <bibl default="NO">May 12, 1912. <title>Omaha Sunday World-Herald</title> 47(33): 2-S.</bibl>
+            <bibl default="false">May 12, 1912. <title>Omaha Sunday World-Herald</title> 47(33): 2-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

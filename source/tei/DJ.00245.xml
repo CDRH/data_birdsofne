@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00245">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00245">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">An Early Morning's Visits With the Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1923-06-24</date><biblScope>58(39): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>An Early Morning's Visits With the Birds</head>
          
@@ -58,7 +58,7 @@
          
          <p>The legendary rill, that has its source, and has had it for, maybe, one hundred years or more, up in the rugged crags along the hogback, ran cozily by, not a dozen yards away from where we sprawled, with an unceasing silvery tinkle and much elfin laughter, off down through both the florescent and cryptogamic fronds of the ripening summer, here overlapping itself and dampening the low borders for many long steps, at this spot or that, then shrinking back to its original source, losing itself just so often midst brier and bramble, until it finally swirled, with a display of defiance, into a broader and more vigorous current, crossing the road and disappearing in the broad expanse of marshland that intervened between wooded bluff and roiling river.</p>
          
-         <head>Lolled and Listened.</head>
+         </div><div><head>Lolled and Listened.</head>
          
          <p>There we lolled and listened, discussing, in whispering tones, the various bird songs and calls which came filtering into the sunlit spaces like the dim echoes of an angelic choir.</p>
          
@@ -66,7 +66,7 @@
          
          <p>Be that as it may, never is the real bird student so effervescent, so filled with gladsome elation, as when endeavoring to differentiate some strange bird call from another, and to determine upon its identity. While it is a fascinating epoch, it is a contract that quite frequently outlasts the patience of the most enthusiastic and terminates in sheer disappointment.</p>
          
-         <head>Barefoot Days Again.</head>
+         </div><div><head>Barefoot Days Again.</head>
          
          <p>While we saw finches and sparrows in many varieties, there were phoebes and thrashers and thrushes also, and warblers in dizzy plenitude, black, white and striped, Tennessees and Marylands, yellow throats and snow throats, vivid reds and brightest blues, gray and black fly-catchers, grosbeaks, rose breasted and fiery crimson, downy woodpeckers, nuthatches, sapsuckers, flickers, redheads, grackles, gold finches and wrens that kept the summer haze throughout the woodland streaked with startling hues and resonant with magic sound. And down the hill, and across the old trail, where the legendary rill had hidden itself in a wilderness of watercress, cattails, flags and waving weeds and grasses, out in the cerulean spaces, were martins and swallows, and their passerine tribesmen were dipping, curving, undulating, gyrating and convoluting, in and out and over the golden coated willows, with their slender green leaves, and the broad flats reaching to the white shores of the river. Swarms of redwings were always restlessly flitting hither and yon and keeping the sensuous June air vibrant with their sweet and melodious long-kong-koree-ee - the most potential barefoot days of my boyhood.</p>
          
@@ -74,12 +74,12 @@
          
          <cit>
             
-            <bibl default="NO">June 24, 1923. <title>Omaha Sunday World-Herald</title> 58(39): 3-W.</bibl>
+            <bibl default="false">June 24, 1923. <title>Omaha Sunday World-Herald</title> 58(39): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

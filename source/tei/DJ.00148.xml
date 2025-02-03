@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00148">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00148">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Don't Use Caustic Potash!</title><title level="j">Oologist</title><author>Trostler, Isador S.</author><date>1899-05-01</date><biblScope>16(5): 81.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Don't Use Caustic Potash!</head>
          
@@ -70,12 +70,12 @@
          
          <cit>
             
-            <bibl default="NO">May 1899. <title>Oologist</title> 15(5): 81.</bibl>
+            <bibl default="false">May 1899. <title>Oologist</title> 15(5): 81.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00430">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00430">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Hunting at the Headwaters of the North Loup River].</title><title level="j">Whitman Sun</title><author>Hough, Wm. Henry Stein and Joe Turner.</author><date>1897-08-14</date><biblScope>1(18): 1.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunting at the Headwaters of the North Loup</head>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">August 14, 1897. <title>Whitman Sun</title> 1(18): 1.</bibl>
+            <bibl default="false">August 14, 1897. <title>Whitman Sun</title> 1(18): 1.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

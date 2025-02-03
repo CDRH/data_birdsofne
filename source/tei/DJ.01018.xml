@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01018">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.01018">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Omaha Shooting Club.</title><title level="j">Omaha Daily Herald</title><author>Editor</author><date>1871-11-04</date><biblScope>7(22): 4.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-25"/>
-    <respStmt>
-	<name>Anastasia Smallcomb</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-25"><name>Anastasia Smallcomb</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Omaha Shooting Club.</head>
 
@@ -69,7 +61,7 @@
 
 <p>Hon. B.E.B. Kennedy, the President of the club; Byron Reed, Esq., the Secretary, and Dr. McClelland, all busied themselves effectually in perfecting the arrangements and supervising the execution of the details, and to them the thanks of all present are due. They watched eagerly to see that nothing was wanting to make the occasion complete, while others were occupied in the flow of talk which mingled with the banquet and the music and produced the brightest of social cheer.</p>
 
-<hi rend="center"><line><hi rend="smallcaps">The Few Brief Remarks.</hi></line></hi>
+         <l rend="center"><hi rend="smallcaps">The Few Brief Remarks.</hi></l>
 
 <p>As twenty minutes to 10 o'clock, Hon. B.E.B. Kennedy, as President of the Club, called the assembly to order, and said:</p>
 
@@ -97,7 +89,7 @@
 
 <p>Dr. Peabody was especially happy in relating how he had been deceived, and how he stood as the victim of misplaced confidence. Preston, his opponent, had placed him out of pure friendship in a place where there was no game.</p>
 
-<hi rend="center"><line><hi rend="smallcaps">The New Club.</hi></line></hi>
+         <l rend="center"><hi rend="smallcaps">The New Club.</hi></l>
 
 <p>Dr. Pinney first moved that members of the Sportsmen's Club meet at his office, No. 180 Farnam street, to-night (Saturday) at 8 P.M., for the purpose of forming a new club. He thought that two organizations better than one. Now there is not enough competition. It is too much like a man's sending three of four of his own horses to a race.</p>
 
@@ -113,10 +105,10 @@
 
 <cit>
             
-            <bibl default="NO">November 4, 1871. <title>Omaha Daily Herald</title> 7(22): 4.</bibl>
+            <bibl default="false">November 4, 1871. <title>Omaha Daily Herald</title> 7(22): 4.</bibl>
          
          </cit>
 
-</body>
+</div></body>
 </text>
-</TEI.2>
+</TEI>

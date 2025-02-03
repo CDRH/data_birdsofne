@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00519">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00519">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,29 +32,21 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">In the Markets. The Displays of Poultry and Other Seasonable Edibles.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor.</author><date>1890-12-21</date><biblScope>26(82): 16.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-10"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-10"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>In the Markets.</head>
          
@@ -74,11 +66,11 @@
          
          <cit>
             
-            <bibl default="NO">December 21, 1890. <title>Omaha Sunday World-Herald</title> 26(82): 16.</bibl>
+            <bibl default="false">December 21, 1890. <title>Omaha Sunday World-Herald</title> 26(82): 16.</bibl>
          
          </cit>
          
-         <head>Home Markets.</head>
+         </div><div><head>Home Markets.</head>
          
          <head>Game.</head>
          
@@ -100,12 +92,12 @@
          
          <cit>
             
-            <bibl default="NO">December 22, 1890. Omaha Morning World-Herald 26(82).</bibl>
+            <bibl default="false">December 22, 1890. Omaha Morning World-Herald 26(82).</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

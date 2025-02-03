@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01016">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.01016">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Gold Hunters.</title><title level="j">Omaha Daily Herald</title><author>William H. Burns</author><date>1875-10-15</date><biblScope>10(317): 4.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-25"/>
-    <respStmt>
-	<name>Anastasia Smallcomb</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-25"><name>Anastasia Smallcomb</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Gold Hunters Camped.</head>
 <head>A Company Camped on the Niobrara Waiting for News.</head>
@@ -66,11 +58,11 @@
 
 <p>We are now at Giles ferry with Hyatt's train and arrived here at noon to-day. We went into camp intending to stay here until we hear how the treaty at Spotted Tail agency terminates. We don't feel like crossing our train and stock and going on Indian territory. As soon as you get any returns from the treaty send us by first mail.</p>
 
-<hi rend="center"><line><hi rend="smallcaps">Good Roads.</hi></line></hi>
+         <l rend="center"><hi rend="smallcaps">Good Roads.</hi></l>
 
 <p>We have four wagons and nine persons in our company all in good spirits there is here plenty of water all along the route and it is settled to within thirty miles of the river.</p>
 
-<hi rend="center"><line><hi rend="smallcaps">B Wanted.</hi></line></hi>
+<l rend="center"><hi rend="smallcaps">B Wanted.</hi></l>
 
 <p>If any one wants to come and join our train he would be heartily welcome as we want more company for mutual protection.</p>
 
@@ -83,9 +75,9 @@
 <p>William H. Burns.</p>
 
 <cit>
-<bibl default="NO">October 15, 1875. <title>Omaha Daily Herald</title> 10(317): 4.</bibl>
+<bibl default="false">October 15, 1875. <title>Omaha Daily Herald</title> 10(317): 4.</bibl>
 </cit>
 
-</body>
+</div></body>
 </text>
-</TEI.2>
+</TEI>

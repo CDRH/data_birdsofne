@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00355">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00355">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Glad Tidings to the Sportsman and Hunter.</title><title level="j">Omaha Daily Herald</title><author>An Old Sportsman.</author><date>1867-10-29</date><biblScope>3(25): 2.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Glad Tidings to the Sportsman and Hunter.</head>
          
@@ -70,12 +70,12 @@
          
          <cit>
             
-            <bibl default="NO">October 29, 1867. <title>Omaha Daily Herald</title> 3(25): 2.</bibl>
+            <bibl default="false">October 29, 1867. <title>Omaha Daily Herald</title> 3(25): 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

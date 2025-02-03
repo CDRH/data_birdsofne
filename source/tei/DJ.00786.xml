@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00786">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00786">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Fall Shooting is Not Good. Weather Has Not Been Good for Ducks and They are Gone. Chickens are Also Scarce. Quail Season is at an End-Not Many Good Bags Made-Many Hunters Have Made Several Trials.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1912-11-17</date><biblScope>42(22): 4-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Fall Shooting is Not Good</head>
          
@@ -58,7 +58,7 @@
          
          <p>As for the chicken, they have been noticeable for their scarcity, and only a bird has been picked up now and then, more by accident than anything else. The chicken have bunched for the winter and it is useless to attempt to hunt them after this occurs, as they are wild and wary, and will lay for neither dog or man. But the season on all game, save the ever present cottontail, will soon be over, and the hunter might as well get ready to hang up his gun and wait for March winds to bring the birds back once more from the south.</p>
          
-         <head>On Marsh and Stubble.</head>
+         </div><div><head>On Marsh and Stubble.</head>
          
          <p>Not much stock should be taken in the report that wild deer have recently been seen in both Cass and Washington counties. This is an old fairy tale that makes its annual debut in one paper or another.</p>
          
@@ -84,12 +84,12 @@
          
          <cit>
             
-            <bibl default="NO">November 17, 1912. <title>Omaha Sunday Bee</title> 42(22): 4-S.</bibl>
+            <bibl default="false">November 17, 1912. <title>Omaha Sunday Bee</title> 42(22): 4-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

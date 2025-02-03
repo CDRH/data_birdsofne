@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00580">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00580">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Nebraska Crow Roosts.</title><title level="j"/><author>Taylor, W. Edgar.</author><date/><biblScope>Annual Report Nebraska State Board of Agriculture for the Year 1887. State Journal Company, Lincoln. Pages 119-120.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Nebraska Crow Roosts.</head>
          
@@ -72,12 +72,12 @@
          
          <cit>
             
-            <bibl default="NO">1988. Annual Report Nebraska State Board of Agriculture for the Year 1887. State Journal Company, Lincoln. Pages 119-120.</bibl>
+            <bibl default="false">1988. Annual Report Nebraska State Board of Agriculture for the Year 1887. State Journal Company, Lincoln. Pages 119-120.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

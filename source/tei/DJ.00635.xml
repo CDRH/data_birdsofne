@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00635">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00635">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Omaha Nimrods Need 13-inch Mortar to Bag Limit of Ducks Nowadays.</title><title level="j">Omaha Sunday Bee</title><author>Bee Sports writer.</author><date>1921-03-20</date><biblScope>50(40): 1-C.</biblScope></bibl></sourceDesc>
 
@@ -43,7 +43,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Omaha Nimrods Need 13-inch Mortar to Bag Limit of Ducks Nowadays</head>
          
@@ -55,7 +55,7 @@
          
          <p>"Doc" Earnest Manning, former city health commissioner, and Dr. Frank Conan are a couple of Omaha sportsmen who have barely missed a day of any shooting season since they could fire a shotgun without falling down.</p>
          
-         <head>Shortage of Decoys.</head>
+         </div><div><head>Shortage of Decoys.</head>
          
          <p>Last fall there was a shortage of decoys, so all concerned decided to make their own. They had a local saw mill make them a lot of square blocks of wood with necks on them, and after using their pocket knives for a few days they finally deceived themselves into thinking that they had some decoys. They floated them but nix, the ducks would not be coerced. So Frank Latenser steered his flivver into town and got a load of oil paints. The gang then painted the ducks so brilliantly that when they floated them several parrots and flamingoes wanted to alight on the water. When a tribe of ducks did happen along, however, they all went color blind and came down. On this memorable day Charlie Hall came home with 22 ducks and the Hit and Miss club held a celebration that lasted until one of the members knocked down seven ducks with one jerk of the trigger.</p>
          
@@ -63,7 +63,7 @@
          
          <p>"If one's wishes could have full play, then I would wish that spring would be autumn, and fall, spring, as far as fishing and hunting are concerned," said Charlie. "All one would have to do in the spring to get a full bag of ducks would be to take out the .22 caliber rifle and shoot through a bevy of them. The exact amount wanted, 25, would come down flop, flop, splash, into the pond."</p>
          
-         <head>Need 13-Inch Mortar.</head>
+         </div><div><head>Need 13-Inch Mortar.</head>
          
          <p>"But when the frost is on the pumpkin a fellow ought to be equipped with a 13-inch mortar. The way to get the duck would be to wait until he was sitting pretty and preening his feathers and then let fly the whole broadside at him. If he escapes, why, maybe another duck would come down later in the season, and you could try the experiment all over again."</p>
          
@@ -71,12 +71,12 @@
          
          <cit>
             
-            <bibl default="NO">March 20, 1921. <title>Omaha Sunday Bee</title> 50(40): 1-C.</bibl>
+            <bibl default="false">March 20, 1921. <title>Omaha Sunday Bee</title> 50(40): 1-C.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

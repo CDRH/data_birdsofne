@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00189">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00189">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,34 +32,26 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Comparison of the Bird-life Found in the Sand Hill Region of Holt County in 1883-84 and in 1901.</title><title level="j">Proceedings of the Nebraska Ornithologists Union</title><author>Bruner, Lawrence.</author><date/><biblScope>3: 58-63.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-20">2006-06-20</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-20"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Comparison of the Bird-life Found in the Sand Hill Region
 of Holt County in 1883-84 and in 1901</head>
          
          <cit>
             
-            <bibl default="NO">By Lawrence Bruner, Lincoln, Nebr.</bibl>
+            <bibl default="false">By Lawrence Bruner, Lincoln, Nebr.</bibl>
          
          </cit>
          
@@ -83,12 +75,12 @@ of Holt County in 1883-84 and in 1901</head>
          
          <cit>
             
-            <bibl default="NO">1902. <title>Proceedings of the Nebraska Ornithologists' Union</title> 3:58-63.</bibl>
+            <bibl default="false">1902. <title>Proceedings of the Nebraska Ornithologists' Union</title> 3:58-63.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

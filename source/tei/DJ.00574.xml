@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00574">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00574">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Nature's Pets Seen Through the Eyes of Nebraska Birds. An Afternoon With Laurence Skow and a Study of His Work North of Florence.</title><title level="j">Omaha Sunday World-Herald</title><author>Sears, Elizabeth.</author><date>1908-10-25</date><biblScope>44(4): 3-M.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-26">2006-06-26</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-26"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Nature's Pets Seen Through the Eyes of Nebraska Birds.</head>
          
@@ -80,7 +72,7 @@
          
          <p>Then the fuss was over. They scorned the nest now that it had been touched. Behind their bright little eyes they reasoned that now that he had found the nest he might return and steal another batch. And goodness knows, sighed the little wife, it is no fun to build nests and lay four cunning little eggs and get all ready to raise a family and then have it to do all over again.</p>
          
-         <head>A Quiet Watcher.</head>
+         </div><div><head>A Quiet Watcher.</head>
          
          <p>So they found another spot and built their nest anew. But the kindly-faced man found them again. This time he let them raise their family in peace. But every day he came and watched them. Sometimes before the sun rose he was creeping through the bushes to the nest. There he lay quietly for hours and noted her sitting on the eggs, the care of the father, his song and his blithe dashing to and fro, while the patient little mother hovered the eggs and ate the food her husband brought her.</p>
          
@@ -92,7 +84,7 @@
          
          <p>All summer long he watched them. He knew when the little birds were able to fly. He saw the mother teach them gently and patiently to go out into the world and look out for themselves. And he watched and watched until the fall came and the little mother and her husband flew from branch to branch, reveling in the warm autumn air the the abundance of seeds and other good things to eat.</p>
          
-         <head>A Necessary Killing.</head>
+         </div><div><head>A Necessary Killing.</head>
          
          <p>So attached had he grown to the little couple that one day when the time had come and it became necessary for the devoted little couple to give up their lives for science, tears came into those kind blue eyes, when he picked up his gun and went into the woods early one morning, before the sun had fairly peeped above the horizon. When he came home that morning, be brought the little wife with him. Her smooth little body was stiffened and her joyous little life was over. In the house, the wife of the kindly faced man took the little body in her gentle hand and stroked it softly. She looked at her two little rollicking blue-eyed babies playing about and as though she knew that her husband had taken many valuable notes concerning the cardinal bird that summer and that his knowledge would be invaluable to science—yet she laid down the body of the tiny bird mother with a tightening of her throat.</p>
          
@@ -102,7 +94,7 @@
          
          <p>At the first peep of light, Mr. Skow is astir. Gun in hand he steals out into the woods. He counts no effort wasted if it gives him a bit of new bird lore. He knows the call of each bird and its haunt. He knows where to find the delicately tinted purple thrush, whose breast is softly shaded with faint violets and warm purples, and his modestly gowned little brown wife, who, like all other female birds, dons the quiet colors and leaves the flaunting hues to her husband, unlike he human sister, who appropriates the gay clothes to herself and counts her male well cared for in sober black, brown or modest gray garments.</p>
          
-         <head>Enemy of the Bird.</head>
+         </div><div><head>Enemy of the Bird.</head>
          
          <p>"Cruel to kill the little gray squirrel?" repeated Mr. Skow when I pittied the furry little animal its quick death. "Didn't you know that the squirrel is the greatest enemy of the bird? I have a special permit to take bird eggs in the interest of science and I have not spent nearly all of my life in the woods without knowing the enemies of the birds. I have to take the eggs and sometimes the birds to complete my data. But I pot a snake or a squirrel everytime I see one. The squirrel eats more eggs and young birds than any other bird enemy. It is such a curious little creature and is always nosing about in the trees and bushes and knows just where the nests are and in the spring it fairly lives on bird eggs.</p>
          
@@ -114,7 +106,7 @@
          
          <p>In the trays of cotton the eggs lay like beautiful jewels. There was the curious egg of the murre, a sea bird, who lays an egg but once a year. The egg is nearly one-third the size of the bird itself, being a large, pointed, dull blue egg with queer bronze splotches all over it. They were all blown from the sides, a dental instrument being used to make a neat round puncture on each side. On each eggs is written its number, which to the practiced eye tells the number of eggs in the set and the date of finding.</p>
          
-         <head>Climbing for Eggs.</head>
+         </div><div><head>Climbing for Eggs.</head>
          
          <p>"See this egg," said Mr. Skow, picking up a big blue egg with a delicate sheen, "I will never forget the finding of these eggs because for the first time in my life I experienced fear in climbing a tree. I went out into the woods early one morning just after a severe attack of lung fever. I discovered the nest of a blue heron up in a huge cottonwood tree. The nest was fully 200 feet high and the wind was blowing a gale; but I determined to get them. George Sabine was with me and after I had reached the nest I found myself trembling so that I begged him not to speak or shout or shoot at anything. I knew that if he fired off the gun the sound of the shot would unnerve me so that I would fall. But I had started after those eggs and I got them. When I reached the ground again I was trembling from head to toe. I never catch a sight of these eggs without experiencing again that fear that came over me that morning.</p>
          
@@ -138,7 +130,7 @@
          
          <p>"A bird lover must study birds all the year round. He must know their habits spring, summer, fall and winter. When I go out to the woods every morning, I wait for the call of the birds. I know from certain calls that the nest is near. Then I must find the nest without frightening the birds. To study birds one must go alone and with stealthy feet. I think nothing of spending days in studying one species."</p>
          
-         <head>Life at "Rosedale."</head>
+         </div><div><head>Life at "Rosedale."</head>
          
          <p>The morning in the woods, the day at his work bench and the night in his study lost in his beloved books. This is the life of Laurence Skow. His little cottage near the lake he built himself and named "Rosedale." Out in the yard there are 600 rose bushes and in the early summer the place is aglow with bloom and radiant with perfume. Inside the furniture bears evidence that this well learned bird lover has a knack with hammer and saw. A beautiful black walnut table, whose top is made of one beautifully grained board, with a polish that comes with age, was made by Mr. Skow in a style that would make Elbert Hubbard and his Royscroft furniture turn green with envy. There is a sideboard, too, that looks like an heirloom. The grain of the oak is brought out by the waxed finish and the simple artistic lines of the piece of furniture would make an artist rave. In fact this sideboard is the admiration of all who have seen it and if some of the antique lovers in Omaha who have a real love for a bit of good furniture knew of it, relic hunters would be plenty at Rosedale cottage. Every bit of it is the work of Mr. Skow.</p>
          
@@ -163,12 +155,12 @@
          
          <cit>
             
-            <bibl default="NO">October 25, 1908. <title>Omaha Sunday World-Herald</title> 44(4): 3-M. With two pictures.</bibl>
+            <bibl default="false">October 25, 1908. <title>Omaha Sunday World-Herald</title> 44(4): 3-M. With two pictures.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

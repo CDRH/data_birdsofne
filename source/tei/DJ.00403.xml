@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00403">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00403">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Home of the Canvasback. Shifting of His Favorite Haunts and the Inevitable Fate That Awaits Him. A Spring Shoot in Nebraska. - Deep Within the Sandhill Wilderness. An Elysium for the Ducks and Geese. - A Glorious Morning on Otter Lake.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1894-04-15</date><biblScope>p. 19. Continues: April 22, p. 20; April 29, p. 19; May 6, p. 19; and May 13, p. 20.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-02"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-02"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Home of the Canvasback</head>
          
@@ -109,7 +101,7 @@
          
          <p>But that hunt. Next week I will tell you about it.         <hi rend="caps">Sandy Griswold</hi>.</p>
          
-         <head>Deep Within the Sandhill Wilderness of Western Nebraska.</head>
+         </div><div><head>Deep Within the Sandhill Wilderness of Western Nebraska.</head>
          
          <head>An Elysium for the Geese and Ducks</head>
          
@@ -145,7 +137,7 @@
 
 	 <p><hi rend=" caps">Sandy Griswold</hi>.</p>
          
-         <head>A Glorious Morning on Otter Island in Goose Lake.</head>
+         </div><div><head>A Glorious Morning on Otter Island in Goose Lake.</head>
          
          <head>One of King Rex's Aqueous Exploits</head>
          
@@ -248,7 +240,7 @@
 
 	 <p><hi rend="caps">Sandy Griswold</hi>.</p>
          
-         <head>A Morning's Shoot that Will Live in Memory as Long as Life Lasts.</head>
+         </div><div><head>A Morning's Shoot that Will Live in Memory as Long as Life Lasts.</head>
          
          <head>Simeral Tries to Burn Up the Island</head>
          
@@ -347,7 +339,7 @@
 
 	 <p><hi rend="caps">Sandy Griswold</hi>.</p>
 
-         <head>What a March Blizzard Means Among the Sand Hills of Western Nebraska.</head>
+         </div><div><head>What a March Blizzard Means Among the Sand Hills of Western Nebraska.</head>
          
          <head>Bete Noir of Cowboy and Ranchman</head>
          
@@ -411,12 +403,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy	Griswold. April 15, 1894. <title>Omaha Sunday Bee</title> p. 19. Continues: April 22, p. 20; April 29, p. 19; May 6, p. 19; and May 13, p. 20.</bibl>
+            <bibl default="false">Sandy	Griswold. April 15, 1894. <title>Omaha Sunday Bee</title> p. 19. Continues: April 22, p. 20; April 29, p. 19; May 6, p. 19; and May 13, p. 20.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

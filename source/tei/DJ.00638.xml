@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00638">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00638">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,29 +32,21 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">One Day's Tramp.</title><title level="j">Oologist</title><author>Potter, A.G.</author><date>1891-12-01</date><biblScope>8(12): 243.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-09-06"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-09-06"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
  
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>Well everything is ready so will go to bed. Lets see, set my clock at twenty minutes of four. Wake up at 3:10 and get up to see what time it is. Can't go to sleep again, so dress. Raining of course. Don't care, I will go anyway. So get my breakfast and start. Have pretty good load: Gun, lunch, egg-box, rope and hatchet to get those Kingfishers eggs and climbers to get Great Blue Heron eggs. Get down there about 7 a.m., and go to work at Kingfishers hole. Work about half hour in mud and give it up as a bad job. Go on can't find those Herons nests to save me. Meet an old hunter who lives in a cabin on the bottoms, and we have quite a talk about our friends, the birds. Shows me bank of petrified moss, the first I'd ever seen, and a spring in high bank called Coffin Spring. An opening in bank about one and one-half footlong by two and one-half foot wide that extends back about eight feet and contains some of the finest water in the country. He says that the water never freezes in winter, and all the birds that stay come and drink there. He's shot fine specimens for the naturalists in town. Have to go there myself next winter. I ask him about the heronry and he says he will walk over there with me. So we start through the woods the water up to our knees in some places, and pretty soon came to some monster cottonwoods in which we see some large nests about size of bushel basket I shoot up and up flies about a dozen Herons and sail majestically around and soon alight again. But we see that the nests have other tenants than the old birds for out of every blessed nest comes two or three thin necks. Then all at once we are aware of some disturbance, a pair of turkey buzzards swoop down and try to carry off the fledglings, but the old Herons make a good fight, and soon put the buzzards to flight. Find several nests of Chewinks and Warblers, but got no Herons eggs. So after an hours pleasant tramp with my newly made friend, I leave him, and turn my steps toward home.</p>
          
@@ -70,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">December 1891. <title>Oologist</title> 8(12): 243.</bibl>
+            <bibl default="false">December 1891. <title>Oologist</title> 8(12): 243.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

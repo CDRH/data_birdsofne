@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00239">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00239">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Duck Shooting Trip to the Valentine Lake District.]</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1902-11-30</date><biblScope>38(45): 18; 12/7, 38(58): 18; 12/14, 38(65): 18; 12/21, 38(72): 18; 12/28, 38(79): 18; 1/4/1903, 39(86): 18; 1/18, 39(100): 18; 1/25, 39(107): 18; 2/1, 39(114): 18; 2/15, 39(128):18; 2/22, 39(135):18; 3/1, 39(142):18; 3/15, 39(156):18; 3/22, 39(163):18.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>[Duck Shooting Trip to the Valentine Lake District]</head>
          
@@ -84,7 +84,7 @@
          
          <p>But it does not take a flock of mallards long to cover a few miles, when once well upon the wing, and quickly the black dots merged into shapes, and the next instant, like a charge of cavalry in bright uniform, with long, green necks and heads gleaming like couched spears, they sped toward us, but to our left, between Fred's stand and our own, so low that we could see the white circlets at the base of their necks, the flashes of the glistening bands of blue on their whizzing wings and the delicate curls of shining green upon their rumps were as clear as the white bands on their tails.</p>
          
-         <figure entity="RoadValentineLakes1902">
+         <figure facs="RoadValentineLakes1902">
             
             <figDesc>Road to the Valentine lake district 1902.</figDesc>
          
@@ -148,13 +148,13 @@
          
          <p>"Grouse!"</p>
          
-         <figure entity="DoubleGrouseWattsLake1902">
+         <figure facs="DoubleGrouseWattsLake1902">
             
             <figDesc>Capitalist's double on grouse at Watt's Lake 1902.</figDesc>
          
          </figure>
          
-         <head>The Capitalist's Double on Grouse.</head>
+         </div><div><head>The Capitalist's Double on Grouse.</head>
          
          <p>"Well, hang the difference. I know they are grouse as well as you do-but keep your eye on the Professor. I'll get one on the ground and the other on the wing."</p>
          
@@ -838,12 +838,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. November 30, 1902. [Duck shooting trip to the Valentine lake district.] Sunday World-Herald 38(45): 18. Includes a sketch. Also: 12/7, 38(58): 18, includes a sketch; 12/14, 38(65): 18; 12/21, 38(72): 18, includes a pictures; 12/28, 38(79): 18; 1/4/1903, 39(86): 18; 1/18, 39(100): 18; 1/25, 39(107): 18; 2/1, 39(114): 18; 2/15, 39(128): 18; 2/22, 39(135): 18; 3/1, 39(142): 18; 3/15, 39(156): 18; 3/22, 39(163): 18. First installment of 11/23/1902 not available; also nothing available for 2/8/1903. Spelling corrected to Stilwell from Stillwell. Portions repeated October 8, 15, and 22, 1904, <title>Forest and Stream</title> 63(15): 306-307, 63(16): 322-323, and 63(17): 345-346. Son Gerard Griswold the other person in the 1904 account rather than George Holmes given in this 1902 account.</bibl>
+            <bibl default="false">Sandy Griswold. November 30, 1902. [Duck shooting trip to the Valentine lake district.] Sunday World-Herald 38(45): 18. Includes a sketch. Also: 12/7, 38(58): 18, includes a sketch; 12/14, 38(65): 18; 12/21, 38(72): 18, includes a pictures; 12/28, 38(79): 18; 1/4/1903, 39(86): 18; 1/18, 39(100): 18; 1/25, 39(107): 18; 2/1, 39(114): 18; 2/15, 39(128): 18; 2/22, 39(135): 18; 3/1, 39(142): 18; 3/15, 39(156): 18; 3/22, 39(163): 18. First installment of 11/23/1902 not available; also nothing available for 2/8/1903. Spelling corrected to Stilwell from Stillwell. Portions repeated October 8, 15, and 22, 1904, <title>Forest and Stream</title> 63(15): 306-307, 63(16): 322-323, and 63(17): 345-346. Son Gerard Griswold the other person in the 1904 account rather than George Holmes given in this 1902 account.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

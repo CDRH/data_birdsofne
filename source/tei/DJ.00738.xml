@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00738">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00738">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Robin Time is on the Way. Red Breast is the Most Friendly of All Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-02-19</date><biblScope>57(18=21): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Robin Time is on the Way<lb/>
 Red Breast is the Most Friendly of All Birds</head>
@@ -55,7 +55,7 @@ Red Breast is the Most Friendly of All Birds</head>
          
          <p>Merula migratoria, that is what the scientists call this innocent and inoffensive little dooryard friend of ours. Considering the fact that we all know robin redbreast so well and are so familiar with him, he may seem like a rather trite subject to some, yet there is such a vast amount of ignorance rife about this most common visitor of our woods and fields, and our very gardens and doorways, that I feel a few facts will not prove unwelcome to many.</p>
          
-         <head>Some Questions About the Robin</head>
+         </div><div><head>Some Questions About the Robin</head>
          
          <p>Ask almost any of your friends and a considerable number who pretend to know all about our birds, how many broods the robins raise a season in this your own latitude? How many eggs does mamma robin lay and what is their color? How far north of us do they go, and where do they go in the winter time, and I am not one bit uncertain about the acceptability of this little paper. Anyway, if I was, I love to tell what little I know of our birds, as well as the fauna and flora we find about us, and I expect to continue the subject as long as I am able to wield a pencil.</p>
          
@@ -65,7 +65,7 @@ Red Breast is the Most Friendly of All Birds</head>
          
          <p>Thus it was that the American red-breasted migratory thrush became a robin, and he has remained such ever since, and will continue so, doubtlessly, down to the end of time, just as the hare became a rabbit and the grouse a chicken or a partridge. And it is for this reason I am reluctantly inclined to think that our revered old Puritans were more conspicuous for their bigotry than they were for their ornithological knowledge.</p>
          
-         <head>Bold, Yet Timid and a hardy Bird</head>
+         </div><div><head>Bold, Yet Timid and a hardy Bird</head>
          
          <p>The robin is about the friendliest and most confidential of all our birds, not even excepting the cedar-bird and the chickadee, and at the same time he is as bold as he is timid, and hardier than most of his congeners who are looked upon as real winter birds.</p>
          
@@ -75,14 +75,14 @@ Red Breast is the Most Friendly of All Birds</head>
          
          <p>Since then, however, I have learned that the robin can take liberties with his digestion and feed on a greater variety of food than most of our birds, although when obtainable he undoubtedly favors an insectivorous diet. In the fruit season, however, hereabouts, he is pretty hard upon our cherries and our strawberries, yet at that, seldom gorges himself upon these delicacies as he does in the late fall, farther north, on the berries of the red cedar and mountain ash.</p>
          
-         <head>Redbreast is a Many Sided Bird</head>
+         </div><div><head>Redbreast is a Many Sided Bird</head>
          
          <p>The reason why the robin is such a familiar little spirit is because his habitats are so widely spread, and because he has more sides to his lovely nature than any of the gaudier birds. There is no bird I am fonder of watching than this little universally admired fellow. What gives such a charm to him I hardly know, but to know that he has this charm is sufficient, and even before the white of the bloodroot illumines the sodden leaves, and almost before the prling note of the bluebird is heard upon the vernal air, or the liquid cry of the killdeer sounds again from the heights above, I go forth to renew acquaintance with this happy but homely little redbreast.</p>
 
          
          <p>Where the orange arils of the bittersweet still light up the leafless but budding thickets out along the Platte's bottom, what a thrill the first warbling of the robin sends through the soul of a life-long lover of the wild beauties of the outer world. And when the snowy involucre of the catalpa brightens the surrounding green, and the flutelike tones of the catbird makes the falling of the eventide so sweet, I linger in my doorway to drink in his good night carolings to his nesting bride, in the maples in the park across the way.</p>
          
-         <head>In This Region Two Broods a Year</head>
+         </div><div><head>In This Region Two Broods a Year</head>
          
          <p>In this particular region the robins as a rule raise two broods, but that is nothing to excite undue wonder. The first nest making begins in April and early May, and they are nowhere more plentiful than in the neighborhood where I reside, on the outskirts of Turner park, and here one day early last October, when the robins were marshalling for the long pilgrimage south, I counted along the lawn that borders the walk on the east side of the park from Dodge to Farnam street, no less than 111 of these birds.</p>
          
@@ -90,12 +90,12 @@ Red Breast is the Most Friendly of All Birds</head>
          
          <cit>
             
-            <bibl default="NO">February 19, 1922. <title>Omaha Sunday World-Herald</title> 57(18=21): 3-W.</bibl>
+            <bibl default="false">February 19, 1922. <title>Omaha Sunday World-Herald</title> 57(18=21): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

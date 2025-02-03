@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00611">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00611">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Notes on a Collecting Trip in Northwest Nebraska.</title><title level="j">Osprey</title><author>Hunter, J.S.</author><date/><biblScope>4: 173.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Notes on a Collecting Trip in Northwest Nebraska.</head>
          
@@ -72,12 +72,12 @@
          
          <cit>
             
-            <bibl default="NO">1900. <title>Proceedings of the Nebraska Ornithologists' Union</title> 4: 173.</bibl>
+            <bibl default="false">1900. <title>Proceedings of the Nebraska Ornithologists' Union</title> 4: 173.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

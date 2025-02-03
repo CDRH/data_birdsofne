@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00510">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00510">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">In the Lugenbeel Marshes. Sunrise and Sunset on the Lovely Waters of the Raccoon. An October Goose and Duck Shoot. Camped in a Pocket of the Hills—Our Blind in the Rushes—A Battle With the Birds—The Day's Work and Repose.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1893-11-26</date><biblScope>p. 10. Continues: December 3, 1893, p. 19; December 17, 1893, p. 18.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-07-07"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-07-07"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>In the Lugenbeel Marshes</head>
          
@@ -88,7 +80,7 @@
          
          <p>An hour later and the top of the mess chest steamed with our first dinner, and with appetites as big as McKinley's majority in Ohio, we draw up our shell boxes for chairs and fall to.</p>
          
-         <head>The Evening Flight.</head>
+         </div><div><head>The Evening Flight.</head>
          
          <p>The whole outlook is soft and rich, as well as wild and rugged, steeped as it is in the mellow charm of the October sunset. The sun soon disappears, and in the transparency of the first twilight every object, from the scraggy outline of the distant bluffs, way cross the marsh to the west, to the minute tracery of the water grasses in the limpid creek near by, were penciled as clear and sharp as at noontide. The white buffalo blossoms look like tiny lines of silver resting among their broad, heart-shaped leaves, while the clouds above burn in vivid hues, the prairie is golden brown, and Raccoon's waters like a mine of varied jewels in liquid form.</p>
          
@@ -108,7 +100,7 @@
          
          <p>The gray twilight was now yielding to the darkness of night. The distant sandhills grew gloomy and mysterious, then disappeared; the water blended with the shadows and myriads of stars came forth. We were quickly in bed. Nothing disturbed the quiet of the autumn night save an occasional moaning howl or snappish yelp from some skulking coyote, and we slept like tops.</p>
          
-         <head>Our Blind in the Rushes.</head>
+         </div><div><head>Our Blind in the Rushes.</head>
          
          <p>The morning broke fresh and radiant from her dewy bath, and after a hurried breakfast of bacon, eggs, toast and coffee, we were off with the first gray of dawn. Sim, with Spot at his heels, started down the narrow cane-covered peninsula that poked its tangly nose far out into the lake from the south, while Stocky and I hurried to the spot where our pine scow had been moored the day before. It was laborious work indeed, rowing and pushing even this light craft across the lake to a headland of reeds and rice we had selected for a blind from the shore. The water in the lake was very low, lower, in fact than it had been for years, and floating an inch below the surface was an almost impenetrable matting of aquatic moss. We reached the spot at last, however, only to find still more and harder work awaiting us. There was scarcely enough water here to float a feather, but the mud was knee deep, and we had to pull up our waders and get out into it before we could force the boat securely into the rushes.</p>
          
@@ -152,7 +144,7 @@
          
          <p>"You take him!" It was a single bird—a hen mallard—and she had just rounded a jutting point on Stocky's side, and, although I could have killed her myself, I did not like to shoot so close over his head. The shot was an unexpected one and he was placed at a disadvavtage, as the bird was bcoming up from behind him. He turned quickly, however, and, despite the fact that it was a snap chance, he made a dead center, dropping her just outside the decoys.</p>
          
-         <head>Back to Camp in the Sunset.</head>
+         </div><div><head>Back to Camp in the Sunset.</head>
          
          <p>We could now see great clouds of birds off in the distance, all of which seemed to be leaving, but we didn't care much, as we had just had such a royal time we were glad of a spell for congratulatory conversation.</p>
          
@@ -172,7 +164,7 @@
          
          <p>The day's work had admirably prepared us all for the enjoyment of a dreamless bed, and we were not slow in tumbling in and were soon lulled to sleep to the plaint of the coyote, whispering winds and brawling brook.</p>
          
-         <head>The Lawyer's Geese and a Morning's Shoot From the Shore.</head>
+         </div><div><head>The Lawyer's Geese and a Morning's Shoot From the Shore.</head>
          
          <head>Pencil Picture of a Lonely Solitude</head>
          
@@ -270,7 +262,7 @@
          
          <p>I tell you, that boy's a card shark!</p>
          
-         <head>An Afternoon With the Grouse and the Incomparable Jack.</head>
+         </div><div><head>An Afternoon With the Grouse and the Incomparable Jack.</head>
          
          <head>An Old Gander Meets an Ignoble Fate</head>
          
@@ -378,12 +370,12 @@
          
          <cit>
             
-            <bibl default="NO">November 26, 1893. <title>Omaha Sunday Bee</title> p. 10. Continues: December 3, 1893, p. 19; December 17, 1893, p. 18.</bibl>
+            <bibl default="false">November 26, 1893. <title>Omaha Sunday Bee</title> p. 10. Continues: December 3, 1893, p. 19; December 17, 1893, p. 18.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

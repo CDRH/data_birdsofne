@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00195">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00195">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,26 +32,18 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">One Day in the Country. The Pretty Legend of the Indian Plums. A Visit to Horseshoe Lake. A Picturesque Place—An Attractive Retreat for Rest and Recreation—Duck Hunting and Fishing.</title><title level="j">Omaha Daily Bee</title><author>Griswold, Sandy.</author><date>1887-09-05</date><biblScope>17(79): 12.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
-<revisionDesc>
-<change>
-  <date value="2005-06-13"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-06-13"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>One Day in the Country.</head>
          
@@ -81,13 +73,13 @@
          
          <p>The landscape, too, was full of revivifying animation. A vagrant breeze set the tall grass in graceful motion; the red-headed woodpecker, the same, bright, shy, saucy bird the country over, with an upward slide clutched the bark of some old dead tree and rattled with his flinty beak until echo laughed again; the hair winnowed his sable shape far overhead; the ground squirrel made a brown streak across the soggy road, and the rabbit, jerking his long ears, bounded athwart our winding way. Infrequently a farm house was passed, a welcome relief at any time, even with their straggling out-buildings, unkempt fields, scrawny orchards and barbed wire fences. But just a mile or so north of Florence, nestling midst a very crypt of seemingly impenetrable undergrowth, perched upon the apex of the loftiest of all hills, and off a quarter of a mile or more from the road, and the vision was greeted with a magnificent picture, indeed; the romantic suggestion of old world baronical life given by beautiful brown residence, with unique angles and pointed turrets, and belonging to whom I know not. But we were soon by and over the bluff, the horse laboring through several inches of sand as we passed down an avenue that had been cut some years before by brawny arms from out a very concrete of wild plum, sumac, hazel, grape, boxwood, scrub-oak, gnarled cottonwood and pig-hickory. Here and there, on either hand, was an expanse of wild meadow with wooded acclivities. The sunlight breaking through the scurrying clouds, lay like a golden mantle on the distant stubble fields, embroidered at the edges by the shadows of the hazel and the oak. On we rustled; the newness, the picturesqueness, the romance of the strange scene delighting us. The uncertain light tinged and the adder's tongue into deeper purple and made a scarlet intaglio of the Indian plump, fitting in some cranny of the bank along the narrow road.</p>
          
-         <head>The Indian Plume!</head>
+         </div><div><head>The Indian Plume!</head>
          
          <p>It is a lovely flower, rising in a slender spire of superb scarlet, nearly a foot high, its delicate petals like the geranium's. While the crimson of the sumack and the russet of the hazel burr glowed, the Indian plume seemed to almost blaze in the fervid sunshine and to kindle into ruby light the green nooks where it nestled. I have always admired the flower, and once, ten years ago, when hunting deer up on the Thunder Bay river in north Michigan, I heard from an old Chippewa Indian the legend of its birth.</p>
          
          <p>Many, many moons agone, Oonomo was the sachem of the Chippewas dwelling by the river of the Thunder Bay. One daughter was</p>
          
-         <head>The Light of His Lodge.</head>
+         </div><div><head>The Light of His Lodge.</head>
 
 
          <p>She was called the Indian Plume. Beautiful as a star and pure as a snowflake on the wintry summit of Michilinack, She was betrothed to Monowayno, who was as fleet as the wind on trail of deer or foe. All went happily and the life of the sachem's daughter was like the days that the Indian summer smiling in the sullen face of winter, breathes in purple mist through dingle and dale. But at last a dark cloud swept over the Chippewas, and the white-haired old sagamore, the frolicsome boy, the strong warrior and the blossoming maiden fell alike beneath it. The nation cowered before this resistless foe. Oonomoo bowed his aged head and died, and Monowayno, the fleet and the brave, was sent upon the shadowy trail. The tribe veiled their faces in dread. The great Manitou was angry with his children. In vain the calumet sent its smoke from the lips of the prophet toward His dwelling place. In vain was the wolf-dog slaughtered to drag away the sins of an unhappy race. One day the prophet declared the Manitou had appeared to him. He came in a night of storm, of lightning, of tempest and death, but in wondrous splendor that shone over the turbulent waters of the Thunder bay. And thus he said:</p>
@@ -109,7 +101,7 @@
          
          <p>The death cloud vanished like the leaf of May before the breath of October, and soon its presence darkened no more the hearts of the nation. And ever after was this flower worshipped by the Chippewas, Ottawas and the Pottawattamies. The warriors twined its blossoms in their scalp-locks, the maiden spangled its glowing sparks over their tresses of darkness. When the chill breath of autumn blighted it they mourned; when the late summer warmed it into bloom they were happy. To this day it glows in the heart of the remnant of the nation as an emblem of love and unselfish devotion.</p>
          
-         <head>Horse Shoe Lake.</head>
+         </div><div><head>Horse Shoe Lake.</head>
          
          <p>But I am forgetting Horse Shoe Lake and the outlook for canvas-back, red head, mallard and widgeon?</p>
          
@@ -135,12 +127,12 @@
          
          <cit>
             
-            <bibl default="NO">September 5, 1887. <title>Omaha Morning Bee</title> 17(79): 12.</bibl>
+            <bibl default="false">September 5, 1887. <title>Omaha Morning Bee</title> 17(79): 12.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

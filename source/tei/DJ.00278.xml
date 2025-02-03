@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00278">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00278">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Fall Hunt. The Sportsmen's Club Return With Their Game. Annual Supper at the Withnell House To-night.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1878-10-24</date><biblScope>14(12): 8.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Fall Hunt.</head>
          
@@ -76,7 +76,7 @@
          
          <p>Byron Reed, Ben Smith and Judge Lake did not go out.</p>
          
-         <head>Patrick's Side.</head>
+         </div><div><head>Patrick's Side.</head>
          
          <p>Wm. Preston-21 mallard ducks, 17 gadwell, 6 widgeon, 1 pin-tail, 3 wood duck, 2 shovelers, 5 teal, 8 red breast snipe, 10 yellow shanks, 1 hawk-147.</p>
          
@@ -246,12 +246,12 @@
          
          <cit>
             
-            <bibl default="NO">October 24, 1878. <title>Omaha Daily Herald</title> 14(12): 8.</bibl>
+            <bibl default="false">October 24, 1878. <title>Omaha Daily Herald</title> 14(12): 8.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

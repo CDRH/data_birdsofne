@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00606">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00606">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,30 +32,22 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The North Loup Valley.</title><title level="j">Forest and Stream</title><author>C. J. D.</author><date>1890-09-11</date><biblScope>35(8): 149.</biblScope></bibl></sourceDesc>
 
-
-<revisionDesc>
-<change>
-  <date value="2006-04-25"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+      </fileDesc>
+<revisionDesc><change when="2006-04-25"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
       
-      </fileDesc>
+      
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>THE NORTH LOUP VALLEY.</head>
          
@@ -71,12 +63,12 @@
          
          <cit>
             
-            <bibl default="NO">September 11, 1890. <title>Forest and Stream</title> 35(8): 149.</bibl>
+            <bibl default="false">September 11, 1890. <title>Forest and Stream</title> 35(8): 149.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00209">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00209">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Days in the Rice Beds of Old Hackberry Lake.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-01-15</date><biblScope>57(15=16): 15-N. Continues: 1/22, 57(15=17): 12-N; 1/29, 57(16=18): 15-N; 2/5, 57(16=19): 14-N; 2/12, 57(17=20): 12-N; 2/19, 57(18=21): 3-W; 2/26, 57(19=22): 3-W; 3/5, 57(20=23): 3-W; and 3/12, 57(21=24): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Days in the Rice Beds of Old Hackberry Lake</head>
          
@@ -86,7 +86,7 @@
          
          <p>While still laughing and congratulating each other, and with Ernie standing pop-eyed in the water, and sinking deeper and deeper every minute, two green-wing teal shot across the void, one about six feet ahead of the other.</p>
          
-         <head>A Morning in the Canes With the Canvasbacks</head>
+         </div><div><head>A Morning in the Canes With the Canvasbacks</head>
          
          <p>As that pair of greenwings were seen oncoming like veritable rockets through the air, after Roy and I had made such a successful onslaught against the passing canvasbacks, Ernie, who, it will be recalled, was out of the boat after the wounded pintail, ducked so low that he was half submerged and received a good ducking before he was aware of his indiscretion. But it didn't seem to bother him a little bit, and laughing at the spectacle, Roy and I watched him as he straightened up, and tossing his gun ahead of the leading teal, pulled the trigger. The rear duck skipped with a splash over the water, stone dead, while the one he had really shot at sped on over the rice fields with unruffled feather. He had fallen into the common error of even the best of duck shots, underestimating the speed of a greenwing teal, and consequently the distance necessary to hold ahead of it. As is known the motion of the line of sight is faster than that of the bird, and the line of fire is ahead of where it actually seems, on account of the time lost in pulling the trigger and the escape of the shot, during which the muzzle of the gun is moving past the line of the glancing target. To over come this fault is one of the cardinal virtues of duck shooting.</p>
          
@@ -118,7 +118,7 @@
          
          <p>Of the seven we did boat, however, as Roy had proclaimed even before he had had an opportunity to examine them in hand, were the most magnificent canvasbacks-and I have killed hundreds of them, and seen them by the countless thousands in the salad days of my youth, along the old Chesapeake and up at Koshkonong-that I had ever seen in all my long and eventful career. There were four cocks and three hens, and that night, after we had gorged ourselves on one of Jim's chef d'oeuvers of a fish and chicken dinner, and were all assembled about the old red hot range, Roy weighed the four biggest and plumpest of them, three of them hens and one splendid drake, we were fairly paralyzed when he announced that they weighed an even fifteen pounds.</p>
          
-         <head>Over the Lake at Twilight and the Morning's Drama</head>
+         </div><div><head>Over the Lake at Twilight and the Morning's Drama</head>
          
          <head>Further Adventures With Roy and Ernie in the Rice Beds of Hackberry-The Second Which Allowed Flock of Bluebills to Escape-Ernie's Snores and Doc's Remarks on the Shooting.</head>
          
@@ -136,7 +136,7 @@
          
          <p>"Cheese it!" broke in Holmes, "there comes a smear of 'em, right up the channel to your left!"</p>
          
-         <head>Gray Speckled Breasts Glistening Like Silver.</head>
+         </div><div><head>Gray Speckled Breasts Glistening Like Silver.</head>
          
          <p>Sure enough, there they came, a small bunch of widgeons, with their black and grayish specked breasts glistening like silver sheens against the sun as they came swiftly on over the water from off somewhere down Hackberry.</p>
          
@@ -146,7 +146,7 @@
          
          <p>And thus the sport continued, with many long and tiresome waits, and with varying success, throughout the golden October day. Of course there were many little exciting incidents, such as a corking double by [word n.l.] or the other, and plenty of ludicrous misses, and countless other small episodes that always go to make as a glorious day in the rice, and can well be imagined by all those who have been there.</p>
          
-         <head>Back to the Lodge, Entrancing Sunset</head>
+         </div><div><head>Back to the Lodge, Entrancing Sunset</head>
          
          <p>Tired and hungry as we were, the trip back to the lodge was one that will live always in our memory.</p>
          
@@ -162,7 +162,7 @@
          
          <p>"Who, me? How come, Doc, how come?" inquired Ernie as he speared a huge hunk of fried bass from the big platter near his end of the board.</p>
          
-         <head>Innocent Ernie and Irascible Doc.</head>
+         </div><div><head>Innocent Ernie and Irascible Doc.</head>
          
          <p>"Why, that damnable snoring of yours-talk about waking a lot of tired duck hunters, it was enough to wake the dead, and you've got to do something for it!"</p>
          
@@ -176,7 +176,7 @@
          
          <p>"Happy! Little talents!" exploded the Doctor, pushing back his chair, kicking it over with a crash and leaping excitedly to his feet. "Be happy! The impudence-it's monumental-an' little talents, who ever heard of deep-chested, air shaking, sleep murdering roars being called 'little talents.' Why, gentlemen," assuming a Chauncey Depew attitude and gesticulating like Bill Bryan in the heat of a prohibition explosion, "this woolly hippopotamus, Holmes, has got 'em all skinned, from the lamented Caruso to Charlie Gardner, with that grand operatic nose of his. He ascends the scale from he double bass of a fabulous bullfrog to a height that Gilroy's kite never dreamed of reaching, an' what I'm afraid of is, that he'll choke to death one of these nights if he doesn't take something for it. There is no use kickin' him in the shins, or sinking your elbow in that stupendous paunch of his, it only fractures the frightful diaphason into minute particles, diffusing them throughout the whole shack, splintering, as it were, one big note into counter, tenor and treble, and catching his breath like a drowning man grabbing a straw, then continuing with more diabolical vigor, resonance and reverberation than ever, an' for one, I'm not goin' to stand for it. You hear me, Ernie's got to sleep with the dog, an' that's all there is to it."</p>
          
-         <head>Off to the Lake for Another Day.</head>
+         </div><div><head>Off to the Lake for Another Day.</head>
          
          <p>"Come off, Docky, old pal," soothed Ernie with all the balm of a June zephyr, and jumping from the table, he got a body scissors on the Doctor, and backing him up against the wall, went on: "Now if you'll cease denouncing your bedfellow and come with me, we'll go down to the lake and bust a few ducks-remember, you haven't brought in a feather yet-haven't killed a single duck."</p>
          
@@ -188,7 +188,7 @@
          
          <p>"Well, there you are-feel better," and Ernie released the Doctor and stepped over and took his gun down from the rack and picking up his shell case, continued, "Hurry, Docky, we've no time to lose-I'll be down at the dock."</p>
          
-         <head>Sunrise Over Hackberry From a Crypt in the Tules</head>
+         </div><div><head>Sunrise Over Hackberry From a Crypt in the Tules</head>
          
          <head>Somber Reflection Come to the Hunter as He Gazes Upon His Kill, the Royal Canvasback Drake, King of the Flock-Zest for Sport Gone-Day Dreams in the October Sunshine.</head>
          
@@ -212,7 +212,7 @@
          
          <p>Meantime the gray light in the east had changed into delicate amber and the feathery clouds at the zenith had flushed with crimson. Day was rapidly breaking.</p>
          
-         <head>Bluffs Creep Out Cold and Distinct.</head>
+         </div><div><head>Bluffs Creep Out Cold and Distinct.</head>
          
          <p>The bluffs began to creep out, bold and distinct, from the curling mists and a streak of filmy vapor to crawl out into the lake. The barren points thrust themselves out, more plainly, and the twitter of the junco and the marsh blackbird tinkled in the air. The waters of the lake, out beyond the rush line, shortly showed diffusing, though still sober hues; here a slab of marble gray, there a polish green, while the streaky clouds blushed into rose, one long, diaphanous mass in the east glowing into ruby, then beaming with gold.</p>
          
@@ -224,7 +224,7 @@
          
          <p>Just then a big tanned hawk rose, with a flourish, from the matted tules and swoops around and down by me, so close, that I caught the flash of his wild eyeball. I cover him and follow his graceful flight with my gun, but I do not touch a trigger, for I loved his wild beauty and know too well his value, and with a loud "bon jour," I let him go.</p>
          
-         <head>The Sharp Quack of a Frightened Mallard.</head>
+         </div><div><head>The Sharp Quack of a Frightened Mallard.</head>
          
          <p>That was fortunate. A rustle in the grass and I saw Sport lift his drooping ears, then a sharp quack of an affrighted mallard greets me. Turning, I see a pair which had been coming straight upon me, evidently, but were now turning back upon their course, having undoubtedly detected my rising form. To sling my gun ahead of them was instinct, and at the crack of my first barrel, the hen went whirling into the rushes, and at the second, a little puff of feathers floated dreamily in the wake of the drake. But the kill was a long one and I was satisfied, and I had tickled the other and that was something.</p>
          
@@ -234,7 +234,7 @@
          
          <p>They were coming on swiftly over the lake and I had just time to comfortably settle myself, when they were over me.</p>
          
-         <head>Viewing the Kill With a Leaden Heart.</head>
+         </div><div><head>Viewing the Kill With a Leaden Heart.</head>
          
          <p>They were considerably higher than I had thought, but with both barrels I succeeded in cutting out a bird, and as he fell, with a thud and a bound, not ten yards from my blind and out on the solid ground-share my exultation-it was a magnificent big canvasback drake!</p>
          
@@ -252,7 +252,7 @@
          
          <p>And who is there to blame me, when, in the deep compunction that overwhelmed me, I resolved, with a clutching at the heart, that never again would I destroy such a life.</p>
          
-         <head>What Beauty Indeed in Mere Fact of Life.</head>
+         </div><div><head>What Beauty Indeed in Mere Fact of Life.</head>
          
          <p>The frescoes of dawn had long since melted away and the broad light of mature day, rested over landscape and water. The rice and cane dozed in the languid sunshine; the lake itself, looked drowsy, and the opposite sandhills half dissolved in October's warm and dreary haze.</p>
          
@@ -264,7 +264,7 @@
          
          <p>What images crowd the fancy when gazing at a picture of such lovely solitude; what serene joys of thought-what pure and holy sentiments submerge the mind-what peace, what religion, what thankfulness.</p>
          
-         <head>Another Day's Shooting and An Evening Around the Fire</head>
+         </div><div><head>Another Day's Shooting and An Evening Around the Fire</head>
          
          <head>Entrancing Picture of Huge Marsh Known as Hackberry, Teeming With Vegetation Tempting to Palates of Wild Fowl-Doc and Ernie Miss a Limit Bag and Get a Wetting-Air Filled With Birds While They Dry Out.</head>
          
@@ -276,7 +276,7 @@
          
          <p>Around all the shoal stretches of the lake are numberless fields of rice, squaw cane and bulrushes, interspersed with bugloss, which bears a tiny azure flower, calamus, flags, matriccaria or wild camomile, and morass plants and mosses of all kinds, amidst which the ducks, in season, disport themselves.</p>
          
-         <head>Hear the Guns of Doc and Ernie.</head>
+         </div><div><head>Hear the Guns of Doc and Ernie.</head>
          
          <p>I lay there for hours, and all through them I heard, with sufficient frequency to apprise me that they were having good sport, the reports of the guns of Ernie and the Doctor, and in fact, when I stood up, I could see them up the shore a mile or so, as they rose and squatted alternately in their boat, well hidden among a clump of the thickest cane.</p>
          
@@ -284,7 +284,7 @@
          
          <p>Light, fluffy clouds had flecked the dome all morning and a soft breeze having sprung up, there were wondrous doing above. The blue was of that tender tint through which we seemed to penetrate to unbounded depths, and beneath it October's breath weaved its graceful cloud paintings. There floats a pillared palace; coming up from the south is a grove of palms, while beyond, a fleet of some queer craft is bearing up; trailing away into the burnished east is a cavalcade of camels; out of the silvered cumuli a turreted castle looms, with its pinnacled and turreted battlements; a mingling of nondescript hosts milling with a fleecy mantle, while off in the distant north an Alpine peak rears its superb gold crowned head.</p>
          
-         <head>Story of the Day Around a Roaring Fire.</head>
+         </div><div><head>Story of the Day Around a Roaring Fire.</head>
          
          <p>Haven't you lain in this fashion and watched the shifting lacework of the clouds above and dreamed as in the Arabian Nights?</p>
          
@@ -300,7 +300,7 @@
          
          <p>"Neither of us dared speak to the other, nor move a muscle, and, ye gods! Think of it! We were both loaded-our guns, I mean, of course, with No. 7s. It was an excrutiating situation, yet a rapturous one.</p>
          
-         <head>A Flock of Geese and Then a Ducking.</head>
+         </div><div><head>A Flock of Geese and Then a Ducking.</head>
          
          <p>"On came the geese. And let me tell you, it is a hard matter to curb one's self under such trying circumstances. But my fat old pal, over there, and I were equal to the requirements. The leader of the flock was a sturdy old gander, who, I'll bet, had roosted more than once on the North Pole, was a little in advance of the main line in about the middle. Regularly he sounded his resonant 'auh-unk' as they came along, evidently goose for 'All's well,' little dreaming that two of the greatest shots in the world were crouching the cane just ahead of them.</p>
          
@@ -308,7 +308,7 @@
          
          <p>"Ernie, like the damphool that he is, had been crouching on the gunwale, and when he attempted to get to his feet to shoot, his whole three hundred pounds had sprawled athwart the same, shooting my end of the boat into the air at least four feet up, and as he slipped gracefully into the cool aqueous depths, I catapulted, like an acrobat clearing fourteen elephants, over his submerged form into the mud and reeking weeds up to my neck.</p>
          
-         <head>Birds Everywhere and No Chance to Shoot.</head>
+         </div><div><head>Birds Everywhere and No Chance to Shoot.</head>
          
          <p>"No, the boat did not upset, and in some hocus-pocus manner, we we both spraddling over each other back into it-me still clinging to my gun, and Ernie's lying under the end seat, where he had dropped it when he slipped overboard."</p>
          
@@ -320,7 +320,7 @@
          
          <p>"Now for the chicken, Roy?" I said, turning to White, but he was too busy counting out the checks, and knowing the story would keep, I pulled up along with Doc and Ernie, and the evening's battle began.</p>
          
-         <head>Roy and the Chickens; A Gala Day in the Hills</head>
+         </div><div><head>Roy and the Chickens; A Gala Day in the Hills</head>
          
          <head>Limit Bag Soon Reached-Jim Disappointed at Not Filling the Car-The Distant Rainstorm and Its Exquisite Aftermath of Color and Form.</head>
          
@@ -336,7 +336,7 @@
          
          <p>He got away early in the morning, just after we duck hunters got started, and with Chef Jim at the wheel, had barely reached the big hay lands west of Watts' lake, when they descried a number of black dots some few hundred yards in front of them, on the cut hay field. They were chickens, but they were too close, and Roy had no more than leaped to the ground, when they arose and with that old familiar choppy wing stroke, were up in the air, and off like dark shadows over the hay field and beyond the nearest rise, a half mile away.</p>
          
-         <head>Sun Up and A Long Way to Go.</head>
+         </div><div><head>Sun Up and A Long Way to Go.</head>
          
          <p>"We'll not fool with them, Jim," remarked Roy; "just keep goin'; the sun is setting well up now, and we are still quite a ways from where I want to go."</p>
          
@@ -350,7 +350,7 @@
          
          <p>From the trailing clusters with which the wild pea had festooned the dwarf sunflower stalks, an old hen grouse, with half a score or more of young ones, as large as she was, had jumped with a startling b-b-bbbbbbbb! and in gleaming lines, for the sun was now streaking the scene with its glittering topaz shafts, of gray and brown went hurtling away toward the distant hills to the north.</p>
          
-         <head>Once More Came That Thunderous Outburst.</head>
+         </div><div><head>Once More Came That Thunderous Outburst.</head>
          
          <p>He marked them carefully down and was quickly plunging along madly after them. Over the next gentle swell he slowed down, and with automatic ready in front of him, cautiously continued his advance.</p>
          
@@ -360,7 +360,7 @@
          
          <p>Roy, by that sixth sense all real, successful sportsmen seemed to possess, knew that that was all, and after again replenishing his magazine he quickly had the seven birds in a pile at his feet and signalled Jim to come on.</p>
          
-         <head>Only Three More To Make the Limit.</head>
+         </div><div><head>Only Three More To Make the Limit.</head>
          
          <p>"Three more, Jim," deprecatorially observed Roy as the car stopped at his side, "and we'll have to quit-the limit, you know."</p>
          
@@ -376,7 +376,7 @@
          
          <p>And, truly, the scene was a grandly picturesque one. Even as unbelievable as it may seem to those who have never gazed upon the wonders of Nebraska's sandhill country.</p>
          
-         <head>Cloud Ridges Over Half the Heavens.</head>
+         </div><div><head>Cloud Ridges Over Half the Heavens.</head>
          
          <p>Cloud ridges, pile after pile, lowering in mighty form over half the heavens and plunging leagues and leagues of desolate hill and plain and undulatory billows of swaying grass into lowering shadow, only to burst into the golden sunshine again.</p>
          
@@ -386,7 +386,7 @@
          
          <p>Even the divine frescoes of Raphael must yield to the common tones of the turbulent skies on a morning or evening on Nebraska wondrous hilled prairies. The architecture of Glotto and Angelo is nothing to that which you may behold by gazing upward and about you and upon one of these variable sandhills panoramas.</p>
          
-         <head>The Last Three and Then After Ducks.</head>
+         </div><div><head>The Last Three and Then After Ducks.</head>
          
          <p>There is matchless, yet evanescent buildings there, never tiring the sight in their sameness, but changing as you gaze, and resting, as they do, on a foundation of living sapphire, and flushed and glowing with sentient tints they transcend any attempt ever made by the hand of man.</p>
          
@@ -396,7 +396,7 @@
          
          <p>Oh, yes, that's so, they did bring in seventeen chickens that night-but you see, Jim killed the last seven, with a club, back in the hills, while Roy was topping off the day with the wild fowl.</p>
          
-         <head>Size of the Kill No Measure of Success of a Duck Hunt</head>
+         </div><div><head>Size of the Kill No Measure of Success of a Duck Hunt</head>
          
          <head>Hunter Today as Pleased With Bag of a Dozen as He Once Was With a Hundred-One of Best Days in Blind Ends With Meager Bag-Redheads Give Thrilling Moment.</head>
          
@@ -408,7 +408,7 @@
          
          <p>Ernie and I had just got our decoys out nicely, and were standing up, rapturously overlooking our surroundings, when a faint halloo came from the blind down below us, and hurriedly turning, we descried a fine flock of birds approaching, stretched out in a line, and coming on at a remarkably rapid rate.</p>
          
-         <head>Coming Like Shot a Flock of Redheads.</head>
+         </div><div><head>Coming Like Shot a Flock of Redheads.</head>
          
          <p>"They are redheads, Ernie," I exultantly but warily announced, as the peculiar flight of the approaching birds quickly apprised me of their identity.</p>
          
@@ -426,7 +426,7 @@
          
          <p>"Don't be in a rush, Ernie," I whispered, "they'll not fly-let's watch 'em a moment, and see what they'll do."</p>
          
-         <head>Circling About Among the Decoys.</head>
+         </div><div><head>Circling About Among the Decoys.</head>
          
          <p>For a brief spell the birds sat perfectly still, heads up, straight and alert. Then they began to move with the almost imperceptible motion of a thistledown upon the calm water, first to this side, then to that, inspecting the wooden counterfeits, timidly, suspiciously. Finally, there appearing no real occasion for alarm, the whole flock, and there must have been a dozen and a half of them, converged slowly together, furtively approaching the decoys. Now they halt and glide off to one side, then back again, as if yet afraid to come too near. Suddenly, as they bunched well together, and looked as if they might be off at any second, I spoke in a whisper:</p>
          
@@ -440,7 +440,7 @@
          
          <p>Ernie and I were frantic, and for a few minutes we stood and laughed and joked in our glee, like boys over the first ducks they had ever killed, until the cripple demanded our attention. A shot, however, was all that was necessary, and over he went with his snowy belly skyward, along with his ill-fated brethren.</p>
          
-         <head>Rare Glory of Sandhill Duck Hunt.</head>
+         </div><div><head>Rare Glory of Sandhill Duck Hunt.</head>
          
          <p>That is what I wanted to particularly tell you-this shot of Ernie's and mine into that bunch of redheads-a rare enough thing in these days of our vanishing wild fowl. And now that I have unpretentiously succeeded, what is the use of continuing on and relating to you all the other grand shots we had that morning, and on through the whole day; of how we watched the doctor and Roy, likewise, who, down in their blind, had twice the shooting that we did, for we had located too far to the north, out of the line of the regular flyway, while they were right in it. However, we killed all the birds we wanted, and, when added to the bulk behind the Lodge in the evening, they made a pile of sufficient proportions to make us ponder over what we would do with them if we kept on increasing the accumulation at the same ratio, on up to the time we were to leave for home.</p>
          
@@ -448,7 +448,7 @@
          
          <p>There, have I often thought, would I abide always, in that fresh, free region-that tranquil realm of content, where honor's measure is not taken by success; where pretension does not trod on merit, where genius is not a jest, goodness not a seeming, and devotion not a sham. There in those wild and silent places, where thought is untainted by wrong, where solitude is the parent of pure meditation and everything eloquent of the Master.</p>
          
-         <head>A Day In the Cane Fortified With Fried Mush, Hot Cakes, Bacon and Eggs</head>
+         </div><div><head>A Day In the Cane Fortified With Fried Mush, Hot Cakes, Bacon and Eggs</head>
          
          <p>Following our day with the redheads, it was Roy's and Ernie's turn to shoot together again, and mine and the Doctor's, and while the two former pulled away in one of the big boats, the Doc and I took one apiece, with the understanding, however, that we were to make our blinds alongside of each other, where we could enjoy each other's joys or discomfitures, just as they happened along.</p>
          
@@ -458,7 +458,7 @@
          
          <p>An alarmingly long pull at a bottle labeled "Good for What Ails You," however, evidently accelerated the flow of blood and he quickly had fuel roaring away in the range like a prairie fire. He then broke the ice in the big water bucket. I think he broke it with an oath, but it may have been with a hammer, but he broke it, anyway, and pouring a basin full of the chilly stuff, washed both face and hands with a single swipe, remarking that that was the last wash for him until he got back to Omaha. He was in a pitiful state, but by this time Roy's sympathy had been awakened and with a muffled grunt he crawls out, dons his duds, gives the doctor a kick in the pants and twenty minutes later had breakfast ready-hot cakes, bacon and eggs, fried mush and coffee-not bad to take, I'll tell the world.</p>
          
-         <head>Roy's Blind and His Canvasbacks.</head>
+         </div><div><head>Roy's Blind and His Canvasbacks.</head>
          
          <p>"As you and Sandy, Doc, are going up in the cane, I want to tell you the best place," exclaimed Roy, as he speared a big, ripe egg, wallowed it around in the bacon grease a second, and then flopped it over on to his plate. "I've got the dandiest kind of a blind in there, in the middle clump of cane, and you want to get into it-but as Ernie and I are going that way, too, I'll show you where it is. Jiminee! the canvasbacks I killed in there-"</p>
          
@@ -478,7 +478,7 @@
          
          <p>The stars were rapidly paling, and along the horizon to the east a line of gray was stealing. The closer misty banks hanging in midair, while the lake itself remained hidden in the obscurity.</p>
          
-         <head>Snugly Anchored Amidst Tall Canes.</head>
+         </div><div><head>Snugly Anchored Amidst Tall Canes.</head>
          
          <p>In a remarkable short space of time the doctor and I were in our boats and on our way, and long before the gray line in the east had began to burn into amber, we were snugly anchored amidst the tall canes about where Roy had indicated. We could hear the noise of the row locks of Ernie and Roy's boat, as they cut in through the broad fields of rice to our right, but finally absolute silence told us that they, too, were all set.</p>
          
@@ -492,7 +492,7 @@
          
          <p>All the flock, and they were flying in a line like a detachment of infantry, swept up into the air as the imitated welcome of the female bird struck their acute hearing, and when at a sufficient altitude to insure safety from the guns of any foemen who might be lurking in the bordering rice or cane, they swerved round and came our way, evidently bent on learning the cause of the sudden outcry of their relative.</p>
          
-         <head>Sliding Down the Aerial Stairway.</head>
+         </div><div><head>Sliding Down the Aerial Stairway.</head>
          
          <p>Fatal curiosity!</p>
          
@@ -508,7 +508,7 @@
          
          <p>"Sh-h-h-h!" The Doctor's corduroy cap had risen slightly, like a miniature sand dune, above the arrowy line of our reedy blind, and I, too, had straightened up a bit, and then down again we went with culpable haste.</p>
          
-         <head>Lack of Patience Warns Flock of Danger.</head>
+         </div><div><head>Lack of Patience Warns Flock of Danger.</head>
          
          <p>And such has been my experience hundreds of times before. A lack of patience has often proved the undoing of the oldest and best skilled wildfowler, even when the birds seemed within easy killing distance, and when we saw the long line, with a confused cackling of swerving wings, and a querulous volley of startled quacks, swing off just enough to carry the nearest bird safely beyond all reach of the threatened danger, we realized that there are some things in duck shooting that always repay their cost; and the foremost of these is-patience.</p>
          
@@ -516,7 +516,7 @@
          
          <p>So quickly did the birds come that I fancied shortly that I could hear the whiff, whiff, whiff of their wings, as they set them ready to slide down into our decoys, with their green heads and white collars almost over us. But not yet, not yet.</p>
          
-         <head>The Critical Second When Shots Are Wasted.</head>
+         </div><div><head>The Critical Second When Shots Are Wasted.</head>
          
          <p>It was the critical second at which we lost out before, and a time, too, when more shots are wasted than at any other. If you show the top of your head or crook an elbow, you will probably see the line turn away just comfortably out of the reach of your gun-the hardest shooting and longest killing gun in your set, of course. Wait one moment more, and you will hear the tips of their ashen wings fanning the crisp air, and feel an intense tone in the loud quack of the leader that stirs an intenser tumult than ever in your blood. And seldom do you see such excitement condensed into so short a space of time as when you rise to see the air filled with dismayed and affrighted wild fowl.</p>
          
@@ -524,7 +524,7 @@
          
          <p>By the grace of good luck, I succeeded in getting in an extra pair of shells before that consternated and ragged bunch of mallards could get their bearings, and each of us-the Doctor was shooting a Winchester pump-got down another bird, one of them a hen with a badly shattered wing. She was curling back over the blind, and, when she fell, it was in a narrow strip of weedy water between us and the decoys, and seeing she was so badly hampered by this tangly growth that she was unable to proceed but a few yards, we concluded not to overshoot her, but let her remain where she was.</p>
          
-         <head>Crippled Hen Becomes Good Decoy.</head>
+         </div><div><head>Crippled Hen Becomes Good Decoy.</head>
          
          <p>"She'll help the decoys," remarked the Doctor.</p>
          
@@ -538,7 +538,7 @@
          
          <p>A little later our wounded hen set up a terrible racket, threshing about her madly, and fairly screaming in her frantic efforts to lift herself into the air, and then lay as dead apparently as any of her unmolested kindred floating about her.</p>
          
-         <head>Hawk Causes Consternation in Reeds.</head>
+         </div><div><head>Hawk Causes Consternation in Reeds.</head>
          
          <p>"What's the matter with her," asked the Doctor.</p>
          
@@ -548,7 +548,7 @@
          
          <p>The Doctor shot as it dipped, and it fell so close to the frightened little hen that she actually tore clear through the smart weed barriers and was desperately flapping away to the more open water with her one good wing and yellow legs, when I keeled her over.</p>
          
-         <head>Two Weeks on Hackberry; the Last Day's Shooting</head>
+         </div><div><head>Two Weeks on Hackberry; the Last Day's Shooting</head>
          
          <p>Instantaneously, almost, with the immolation of the little crippled mallard hen, a wisp of bluebills whirled over our heads, but they were going with the wind, and try as hard as he might, to lead them, the Doctor couldn't make it, and the shot from his Winchester whistled harmlessly behind them.</p>
          
@@ -568,7 +568,7 @@
          
          <p>It was a cock pintail and high in the air, reconnoitering. He lowered, then rose again, just skirting our line of decoys, out of range; but in answer to a soft, trilling whistle, the spike stretched his long, sinuous neck,cocked his head and poised himself on fluttering wings, as if debating whether to come closer or beat it. He chose the later course, but too late, for as he slanted his ashen sides toward our blind, the Doctor cracked away at him, and, to ur surprise, the long neck wilted, and the bird came down like a chunk of lead.</p>
          
-         <head>A Good, Long Shot.</head>
+         </div><div><head>A Good, Long Shot.</head>
          
          <p>"A good long shot! I exclaimed, as the pintail hit the water with a smack.</p>
          
@@ -586,7 +586,7 @@
          
          <p>And what a time the Doctor and I had in gathering our dead birds that evening. We had been so engrossed watching the wild fowl weaving over Clear Lake that we had forgotten all about retrieving until those wild calls of the floating crane brought us to a realizing sense of the increasing darkness, then we got a hustle on. Work as hard as we did, it was plumb dark when we had gotten them all, not even forgetting the doctor's hawk, and at last were on our way home, each pulling his own boat slowly, and musing as we pulled.</p>
          
-         <head>"Don't You Remember?"</head>
+         </div><div><head>"Don't You Remember?"</head>
          
          <p>And what another joyous time we all did have in the cozy Peterson Lodge that night. A bountiful dinner duly stowed away, we all felt good, at our very best, in fact, and when it came to those "don't you remember the time stories" there were so many good things bandied back and forth that I can't remember half of them. When we finally did get through telling of the day's events and the little battles with the papes, and were ready to crawl in, the coyote was tuning up on the hillside across the lake, and the east wind came moaning up the valley in a way that told of a change in the weather. But there was no change, and instead of cold or rain, the morning again broke beautifully with a clear autumn sky and a caressing breeze from the south.</p>
          
@@ -596,7 +596,7 @@
          
          <p>My blind was close to the water's edge and I had barely squatted upon the shell box I had taken there on a previous trip for a seat, when I noticed a small triangular shaped riffle on the placid surface approaching me, point first, and coming from one of the half-whelmed dome like piles of tules a short ways out. I at once concluded it was a muskrat. And so it was. I sat perfectly immobile, and through the interstices in my blind, kept my eyes on the little harrow shaped waves approaching me. Closer and closer they came, until finally, when about ten or fifteen yards from the point, I made out its funny little face, with the whiskers sticking out from its puffy little cheeks and its nostrils twitching suspiciously as it came on through the shallow water with the gracefulness of one of the finny tribe.</p>
          
-         <head>A Muskrat's Dinner.</head>
+         </div><div><head>A Muskrat's Dinner.</head>
          
          <p>Right up on the low shore the rat came, and halting a moment, lifted up his round head, and with black eyes sparkling like diamonds in a brown setting, sniffed the air tentatively several times as if it had caught some taint about it that it did not quite understand. Perhaps he caught the odor of the dead mud hen I had left there on a previous trip, but if it was that it did not scare him a little bit, and absolutely unconcerned he crawled quietly out upon the soft ground and began nosing among the flattened tules. His sleek coat quickly shed the last vestige of moisture, just as if he hadn't been in the water for a month, and his seal brown coat shone in the sun like the boa about my lady's neck.</p>
          
@@ -604,7 +604,7 @@
          
          <p>Through with the first root, which he seemed to bite merely into small fragments, holding it in his expanded jaws a brief interval, then ejecting it as if he had extracted all its succulency, he again began his excavations. Root after root was withdrawn from the mirey soil and he reduced them to bits, and at last appearing as if satiated with the diet, he backed into the shallow water, keeping his piercing little eyes glued to my blind the while, but evincing no timidity whatsoever. Once in the water he doused his chubby head beneath it once or twice, washed his face with his hands, slapped the surface joyously with his flat tail, rolled over, shook himself and then set sail back to he dome-like castle in the further tules.</p>
          
-         <head>Things Left Untold.</head>
+         </div><div><head>Things Left Untold.</head>
          
          <p>Immediately after this I descried a line of birds beating it down the lake in a path I knew would take then right over Ernie and Roy. As they neared this bunch of cane they went up into the air just as if someone had told them that it was a good place to give a wide berth to, and they passed on high up, without calling forth a shot. By the dark streak made by their hooded heads, the glistening white of their lingerie and the peculiar motion of their short wings, I knew what they were just as if they had passed with in a dozen yards of me. Canvasbacks!</p>
          
@@ -614,12 +614,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. January 15, 1922. <title>Omaha Sunday World-Herald</title> 57(15=16): 15-N. Continues: 1/22, 57(15=17): 12-N; 1/29, 57(16=18): 15-N; 2/5, 57(16=19): 14-N; 2/12, 57(17=20): 12-N; 2/19, 57(18=21): 3-W; 2/26, 57(19=22): 3-W; 3/5, 57(20=23): 3-W; and 3/12, 57(21=24): 3-W.</bibl>
+            <bibl default="false">Sandy Griswold. January 15, 1922. <title>Omaha Sunday World-Herald</title> 57(15=16): 15-N. Continues: 1/22, 57(15=17): 12-N; 1/29, 57(16=18): 15-N; 2/5, 57(16=19): 14-N; 2/12, 57(17=20): 12-N; 2/19, 57(18=21): 3-W; 2/26, 57(19=22): 3-W; 3/5, 57(20=23): 3-W; and 3/12, 57(21=24): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

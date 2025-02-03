@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00974">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00974">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Wild Flowers in Need of Protection to Save Them. Many Varieties in Danger of Extinction by the Thoughtless Taking of Their Blossoms.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-04-02</date><biblScope>57(24=27): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Wild Flowers in Need of Protection to Save Them</head>
          
@@ -62,13 +62,13 @@
          
          <p>In many parts of the land there has been much effort made within the last few years to arouse an interest in the preservation of certain species of wild flowers which are in danger of extinction in many regions of the country. Among such plant as the May flower - never plentiful right here - several of the gentians and most all of the wild orchids.</p>
          
-         <head>Some April Flowers.</head>
+         </div><div><head>Some April Flowers.</head>
          
          <p>The peril of the wild plants, as in the case of our wild game, is already being found in the demand of the metropolitan markets and the inevitable destruction that accompanies the fulfillment of this demand. The gathering of country wild flowers for sale in the ever envious cities is the agency which threatens their absolute extirpation. As is well known there are several such protective associations as we suggest in Great Britain and on the continent. There is one in Ireland to protect and preserve the Kilarney fern, and one in Switzerland whose jealous care is the edelweiss.</p>
          
          <p>In some localities the taking of rare plants is prohibited by law. There is a famous scarlet orchid of the Cape of Good Hope - the disa grandiflora, or flower of the gods, which is found only on Tubia mountain, near Cape Town - and so persistent had become the industry of the orchid hunters in collecting it for export to this country and Europe, that the very existence of this unique species is now little more than a fable. Too late, probably the authorities have prohibited, under severe penalties, the plucking of a single flower of this plant, let alone the plant itself.</p>
          
-         <head>Public Opinion Awakens.</head>
+         </div><div><head>Public Opinion Awakens.</head>
          
          <p>However, it is extremely pleasing to note, in many parts of the world intelligent public opinion is waking to a realization that the beautiful things of nature's gardens must not be thoughtlessly and ruthlessly rooted out; that these things of exquisite beauty, which are in form and color the wondrous product of the slow evolution of the countless ages, must not be annihilated in a moment of abandon by man.</p>
          
@@ -76,7 +76,7 @@
          
          <p>But the Fringed Gentian is merely one of a thousand, and if you only knew it, there are as many, if not more, superior beauties in Flora's domain right within reach of your very doorway, almost than there are varieties of the petted and cajoled that any modern florist can show, in wondrous splendor, in intricate formation, in tone and color and fragrance, the wild wonders far outnumber those nurtured and developed by the mind and the hand of man.</p>
          
-         <head>Market Demand Peril.</head>
+         </div><div><head>Market Demand Peril.</head>
          
          <p>In this very month, tearful April, if not too contrary, in the open woods, the fields and on the warm hillsides, you will find a redundance of nature's treasures that will make your eyes glisten with a holier light, and your heart bound with an intenser joy. The trailing arbutus, with its waxy, deep emerald leaves and little delicately odorous blossoms at the end of each creeper; the spring beauty, with long, deep green leaves and exquisite five petaled blossoms; Solomon's seal, with its clusters of floral ornaments at the base of each leaf; the Trilliums, where you find them, and there are many varieties of this triumbellated plant common in most northern woods, and which are always easily identified with their three large leaves below a three petaled bloom of faintest pink, snowiest white or deepest red. And then there are the commonest of all our wild flowers - the much lover violets - and an extensive family and much persecuted. There is the arrow leafed, the lance leafed, the dog tooth, the marsh, the yellow, the pale, the round leafed and the white; and most of them found in Nebraska, with the common violet the one great profusion.</p>
          
@@ -84,12 +84,12 @@
          
          <cit>
             
-            <bibl default="NO">April 2, 1922. <title>Omaha Sunday World-Herald</title> 57(24=27): 3-W.</bibl>
+            <bibl default="false">April 2, 1922. <title>Omaha Sunday World-Herald</title> 57(24=27): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

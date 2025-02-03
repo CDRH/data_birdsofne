@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00891">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00891">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Taking an Early Morning Hike With Bird Lovers is Rare Treat for Uninitiated. "Amateur" Accompanies Ornithologists on Trip Through Woods and Canons of Fontenelle Reserve; Annual "Warbler Day" Held Saturday at Child's Point.</title><title level="j">Omaha Sunday Bee</title><author>Gudmundsen, Mabel.</author><date>1918-05-12</date><biblScope>47(46): 6-A.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Taking an Early Morning Hike With Bird Lovers is Rare Treat for Uninitiated</head>
          
@@ -62,7 +62,7 @@
          
          <p>Saturday was "warbler day" because it is now the height of the warbler's migration. There are 153 different kinds of warblers. The bird enthusiasts were delighted because they caught a glimpse of the Cape May warbler, which is seldom seen so far north as Nebraska. It is a tiny bird, scarcely five inches in length. Its full throat is a bright orange and its song is a melodious little warble.</p>
          
-         <head>First Summer Tanager.</head>
+         </div><div><head>First Summer Tanager.</head>
          
          <p>The summer tanager was another unusual Nebraska bird which the audubons saw perched high on the branches of an old oak tree. It is a little red bird and is usually found in the southern states. As far as authorities know, this is the first time the summer tanager has ever been seen in Nebraska, as no record has been found which includes it.</p>
          
@@ -70,7 +70,7 @@
          
          <p>Almost a hundred different kinds of birds an hour's ride from Sixteenth and Farnam streets! The busy Omahan, whose heart is heavy with thoughts of shrapnel and submarines and autocracy and von Hindenburg will find it hard to realize that he is within easy hiking distance to the home of 50 different kinds of birds, and, more than that, many varieties of wild flowers.</p>
          
-         <head>Enjoyed By All.</head>
+         </div><div><head>Enjoyed By All.</head>
          
          <p>One does not need to be an authority on birds to enjoy a trip with the audubons. A tramp through the forest, the full-leaved trees, hillsides covered with wild honeysuckles and larkspur, and the twitter of tiny songsters, is both rest and stimulus. There's the smell of spring in the air and the place is pregnant with the hope of growing things. The distant hills are checkered with freshly plowed fields and the tiny pathways in the valleys are edged with strawberry beds, white with blossoms.</p>
          
@@ -80,12 +80,12 @@
          
          <cit>
             
-            <bibl default="NO">May 12, 1918. <title>Omaha Sunday Bee</title> 47(46): 6-A. Spelling corrections made for tanager.</bibl>
+            <bibl default="false">May 12, 1918. <title>Omaha Sunday Bee</title> 47(46): 6-A. Spelling corrections made for tanager.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

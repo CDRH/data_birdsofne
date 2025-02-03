@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01015">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.01015">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Grand Hunt.</title><title level="j">Omaha Daily Herald</title><author>Editor</author><date>1873-10-04</date><biblScope>8(300): 4.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-25"/>
-    <respStmt>
-	<name>Anastasia Smallcomb</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-25"><name>Anastasia Smallcomb</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Grand Hunt.</head>
 
@@ -73,7 +65,7 @@
 
 <p>The following is the count. The losers entertain the winners at a game supper at Worth's to-night.</p>
 
-<table type="" rows="22" cols="3">
+<table rows="22" cols="3">
 <head>Capt. Finney's Side.</head>
 <row>
 <cell role="data">C.H. Pinney</cell><cell role="data">...</cell><cell role="data">0</cell>
@@ -143,7 +135,7 @@
 </row>
 </table>
 
-<table type="" rows="22" cols="3">
+<table rows="22" cols="3">
 <head>Capt. Reavis' Side.</head>
 <row>
 <cell role="data">W.F. Reavis</cell><cell role="data">...</cell><cell role="data">126</cell>
@@ -215,10 +207,10 @@
 
 <cit>
             
-            <bibl default="NO">October 4, 1873. <title>Omaha Daily Herald</title> 8(300): 4.</bibl>
+            <bibl default="false">October 4, 1873. <title>Omaha Daily Herald</title> 8(300): 4.</bibl>
          
          </cit>
 
-</body>
+</div></body>
 </text>
-</TEI.2>
+</TEI>

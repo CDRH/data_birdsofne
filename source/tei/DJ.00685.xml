@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00685">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00685">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Pot Hunters and Bird Protection].</title><title level="j">Omaha Sunday Bee</title><author>Simpson, P.</author><date>1897-01-10</date><biblScope>p. 7.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-22">2006-06-22</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-22"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>St. Edward, Neb., Jan. 3.—To the Sporting Editor of The Bee: Now that the state of Nebraska is on the eve of another session of the legislature, won't it be well for the shooters or gun clubs to get a move on themselves in regard to the enforcement of the game laws? Since I left Omaha and made my home in the country, I see the necessity for the protection of game. It is killed at all seasons of the year, and shipped in season and out of season.</p>
          
@@ -62,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">P. Simpson. January 10, 1897. [Pot Hunters and Bird Protection.] <title>Omaha Sunday Bee</title> p. 7.</bibl>
+            <bibl default="false">P. Simpson. January 10, 1897. [Pot Hunters and Bird Protection.] <title>Omaha Sunday Bee</title> p. 7.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00447">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00447">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">An Indian Summer Duck Shoot on the Old Platte that Vividly Recalled the Halcyon Days When the Feathered Hosts Came Down in Fall and Spring in Countless Thousands. Birds of Cedar Island; Little Bubo and the Crows. On Cedar Island With Our Winter Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1919-11-30</date><biblScope>55(9): 14-W. Also: December 7, 1919. Sunday World-Herald 55(10): 7-W; December 21, 55(12): 14-N; and December 28, 55(13): 16-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>An Indian Summer Duck Shoot on the Old Platte</head>
          
@@ -88,7 +88,7 @@
          
          <p>And when in the night you lie and listen to the warring elements without your chamber window, despite the darkness and the gloom, you again catch glimpses of the glistening sinuosities of the distant river, winding in and out from the scraggy cottonwood and crimson-starred willows, or the fields of tan and woods of gray, earth and arch vying with each other in their matchless beauty and enchantment. But it will take one more week to tell you of our hunt in its completeness, and my day alone on Red Cedar Island with the last of the summer birds and those that come with the rude blasts of late fall and winter.</p>
          
-         <head>Our Morning on the River When the Ducks Flew</head>
+         </div><div><head>Our Morning on the River When the Ducks Flew</head>
          
          <head>And the Air Was Vibrant and Gleaming With Beauty and Color and Exhilarating Life.</head>
          
@@ -146,7 +146,7 @@
          
          <p>But ours was only one more day, and came its end, with the breaking of the morning, fresh and radiant as a newly cut diamond, with the fading of the pinks in the eastern sky, the distant hills warming into purple and the cottonwoods and the willows brightening into purest gold. Soon the sun was kindling the shoreline and underbrush into yellow life, picking out the sprouts and creeping vines, reddening tendrils and lingering leaves, until all was one vast, broad and dazzling Indian summer illumination. As we splashed ashore with our feathered burdens, a robin chirped petulantly at us from a low hackberry, the crows flapped indolently up and down the woods line, in search, no doubt, of dead or wounded duck, overlooked by the hunter, a wandering breeze raced over the arboreal islets and a long line of geese winged its way over us, far up in the skies, as they voyaged on to the south, and Lige and I looked up eagerly after them, sighed, and then plugged on to the old shack under the oaks. Nerves that do not thrill at such a scene are dead indeed.</p>
          
-         <head>Birds of Cedar Island; Little Bubo and the Crows</head>
+         </div><div><head>Birds of Cedar Island; Little Bubo and the Crows</head>
          
          <head>One Golden Day, and All My Own, Which Befell Me on My Hunt This Fall.</head>
          
@@ -198,7 +198,7 @@
          
          <p>And now for the winter birds.</p>
          
-         <head>A Day on Cedar Island With Our Winter Birds</head>
+         </div><div><head>A Day on Cedar Island With Our Winter Birds</head>
          
          <head>What I Saw From the Top of a Brush Heap Among the Oaks and Evergreens.</head>
          
@@ -246,12 +246,12 @@
          
          <cit>
             
-            <bibl default="NO">November 30, 1919. <title>Omaha Sunday World-Herald</title> 55(9): 14-W. Also: December 7, 1919. Sunday World-Herald 55(10): 7-W; December 21, 55(12): 14-N; and December 28, 1919, issue 55(13): 16-N. Corrections made for typographic errors.</bibl>
+            <bibl default="false">November 30, 1919. <title>Omaha Sunday World-Herald</title> 55(9): 14-W. Also: December 7, 1919. Sunday World-Herald 55(10): 7-W; December 21, 55(12): 14-N; and December 28, 1919, issue 55(13): 16-N. Corrections made for typographic errors.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00865">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00865">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Spring Wild Fowl Hunting Trip at Stilwell's Ranch, Valentine Lake District].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1902-04-20</date><biblScope>37(202): 18. Continues: 4/27, 37(209): 18; 5/4, 37(216): 18; 5/11, 37(223):18; 5/18, 37(230): 18; 5/25, 37(237): 18; 6/1, 37(244): 20; 6/8, 37(251): 18; 6/15, 37(258): 18; 6/29, 37(272): 18; and 7/6, 37(279): 21. Portions repeated in Forest and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>[Spring Wild Fowl Hunting Trip at Stilwell's Ranch, Valentine Lake District]</head>
          
@@ -533,13 +533,13 @@
          
          <p>We saw Fred gather up the dead birds and tossing them in a pile, pulled the reeds down over them to keep off the sun, then together they trudged on again. They were just rounding the curve on the other side, when they jumped a big flock of feeding green-wing teal-there must have been several thousand of them-and we saw both men pour in a raking shot. They killed fully a dozen and maybe more, for we could see the birds falling all along the line, so many and so fast that we didn't undertake to count them. The next moment we see Fred poke it into a bunch pintails, fairly scraping the sky, and by Rivers' gesticulations we know that he was expostulating with the enthusiastic young capitalist about his prodigal waste of ammunition, and then as they move on we see them halt again and Goodrich knocks down a redtail hawk that has been feasting on the carcass of a dead duck in the tules, where they find its remains undoubtedly pulled into mince-meat. We saw them stoop over as if examining just what sort of duck it was, then rise and go "slashing" on again, banging away as they advanced at everything that happened along, their canvas coats lancing like the backs of a couple of herons as they moved in and out of the rice and rushes. It was our last day in the sandhills, and it was plain to be seen that Fred intended to make the most of it. Finally they reached the point they were aiming for, a jutting point almost opposite us, but a mile away, and we saw them arranging their decoys, and we turned our attention to our own immediate surroundings, and it is well we did, for we had barely knelt upon our bed of dead tules when a line of geese came over the low southern hills.</p>
          
-         <figure entity="DoubleDucksClearLake1902">
+         <figure facs="DoubleDucksClearLake1902">
             
             <figDesc>Double on ducks at Clear Lake - 5 Oct 1902 OWH.</figDesc>
          
          </figure>
          
-         <head>The Judge's Double on Clear Lake.</head>
+         </div><div><head>The Judge's Double on Clear Lake.</head>
          
          <p>"Now, Gerard, keep perfectly quiet, don't bat an eye," I remarked in a whisper, as the Judge and I bent low behind the waving ribbons of our blind. Announcing their progress with mellow honks the outstretched string of great gray birds came swiftly toward us, growing rapidly larger, as the flock widened out, for the Canada goose, though a slow, cumbersome looking fellow awing, is an astonishingly speedy flier. On they came, the auh-aunk of the leader sounding clearer and deeper with every utterance, and I could hardly resist the temptation to lift my head for a better look, but I did not, but in breathless suspense waited, not an hour, as it seemed, only a few seconds. Wiff, wiff, wiff, wiff, wiff that was the heavy sound of their great wings, and together the Judge and I jumped to our feet and poured it into them. The scene was calculated to stir a tumult in one's blood, and seldom is so much excitement condensed into so short a space of time, as when you behold the air filled with those big thumping wings, sheering in wildest consternation, this way and that, in fact in all directions, to get away from that fatal spot, and hear that medley of aunk-honk-onk-onk-auh-wonks-wonks, your heart beats wildly and you feel almost as if you could rise and start off in their wake.</p>
          
@@ -555,12 +555,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 20, 1902. [Spring wild fowl hunting trip at Stilwell's ranch, Valentine Lake District.] <title>Omaha Sunday World-Herald</title> 37(202): 18. Continues: 4/27, 37(209): 18; 5/4, 37(216): 18; 5/11, 37(223):18; 5/18, 37(230): 18; 5/25, 37(237): 18; 6/1, 37(244): 20; 6/8, 37(251): 18; 6/15, 37(258): 18; 6/29, 37(272): 18; and 7/6, 37(279): 21. Part of Forest Field and Stream column. Spelling changed to correct Stilwell from Stillwell.</bibl>
+            <bibl default="false">Sandy Griswold. April 20, 1902. [Spring wild fowl hunting trip at Stilwell's ranch, Valentine Lake District.] <title>Omaha Sunday World-Herald</title> 37(202): 18. Continues: 4/27, 37(209): 18; 5/4, 37(216): 18; 5/11, 37(223):18; 5/18, 37(230): 18; 5/25, 37(237): 18; 6/1, 37(244): 20; 6/8, 37(251): 18; 6/15, 37(258): 18; 6/29, 37(272): 18; and 7/6, 37(279): 21. Part of Forest Field and Stream column. Spelling changed to correct Stilwell from Stillwell.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

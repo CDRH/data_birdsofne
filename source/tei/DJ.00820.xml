@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00820">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00820">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Spare the Birds.</title><title level="j">Nebraska Farmer and Western Educational Advocate</title><author>Anonymous.</author><date>1861-03-01</date><biblScope>March 1861.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Spare the Birds.</head>
          
@@ -104,12 +104,12 @@
          
          <cit>
             
-            <bibl default="NO">March 1861. The <title>Nebraska Farmer and Western Educational Advocate</title>.</bibl>
+            <bibl default="false">March 1861. The <title>Nebraska Farmer and Western Educational Advocate</title>.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

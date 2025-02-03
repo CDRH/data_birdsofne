@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00623">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00623">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Red-Breasted Nuthatch Year in Turner Park. Dozens of Them Where Single Birds Have Been Seen Before. Little Beauties.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-02-05</date><biblScope>57(16=19): 14-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Red-Breasted Nuthatch Year in Turner Park.</head>
          
@@ -60,7 +60,7 @@
          
          <p>They are among our most interesting winter birds, and unlike the woodpecker, the nuthatches belong to the family of perching birds, not withstanding their exquisite skill in creeping up and down the boles of the trees. The systematists have given them this distinction in the avicular  classification because they perch like the robin, the bluejay, goldfinch, chickadee and many other birds, and this relegation is proper, as they have the feet of the true passeres, with three toes in front and one, a strong one, behind. This is where they differ, in similitude from the woodpeckers, with which family, however, they are closely linked. The woodpeckers have either two fore toes and two behind, or two in front and one behind, and never perch crosswise on limb or twig.</p>
          
-         <head>Champion of All Our Arboreal Birds.</head>
+         </div><div><head>Champion of All Our Arboreal Birds.</head>
          
          <p>The nuthatches are really the champion gymnasts of all our arboreal birds, descending a tree hole head down, which the woodpeckers never do, but hitch themselves backward, fall always toward the ground, despite the advantage of two hind toes, which it would seem would facilitate locomotion in this direction.</p>
          
@@ -70,7 +70,7 @@
          
          <p>In a moment, from where I did not discover, a tufted titmouse flitted to the ground, and from a bare spot, swept clean of snow by the wind, he grabbed something in his sturdy little beak, darted upward to the branch of the big dead cottonwood nearby, and clutching whatever it was that he had found on the ground, with one claw, proceeded to pick it to pieces. Even with my glasses I could not make out what it was. Rising for a better range, he espies me, flits over near the base of the limb and pushes it into a crevice of the bole's bark, and after hammering it tightly into place, darted away, with his cheery chickadee-ee-ee through the gray branches in the direction of windowsill, and then I knew that it was a fragment of an English walnut which he had previously taken possession of there and brought it over into the park.</p>
          
-         <head>Storing Provisions for a Needier Day.</head>
+         </div><div><head>Storing Provisions for a Needier Day.</head>
          
          <p>It wasn't long before he was back again, and in a different place on the old cottonwood bole, he hammered another morsel away for safe-keeping - storing away provisions for a needier day, which is one of the winter's exactions of the chickadee, as it is of the little woodpeckers, the hairy and downy, and the brown creeper and the bluejay as well.</p>
          
@@ -78,7 +78,7 @@
          
          <p>My chickadee was not left lonely but a very short time. His cheerful piping and energetic hustling across and through the park and back to the old cottonwood, soon brought plenty of his pals to the spot - chickadees, nut hatches and the little woodpeckers, with an occassionally tree sparrow and little flurries of juncoes, while several bluejays derided us all vituperatively from the distant elms.</p>
          
-         <head>Pretty Antics of the Chickadees.</head>
+         </div><div><head>Pretty Antics of the Chickadees.</head>
          
          <p>And many were the pretty antics I saw, especially on the part of the chickadees. Upon a big, snow laden limb one would hop, whirl about several times, switch his long square ended tail, wipe his little tiny black bill on a convenient upthrusting twig, like a barber stropping his blade. Then with a sufficient cleared space to suit his fancy, he would thrust his beak into the snow, flirting the white crystals all about him, and then pecking at the fragments at his feet, just like he does at the chopped nuts on my window sill.</p>
          
@@ -94,12 +94,12 @@
          
          <cit>
             
-            <bibl default="NO">February 5, 1922. <title>Omaha Sunday World-Herald</title> 57(16=19): 14-N.</bibl>
+            <bibl default="false">February 5, 1922. <title>Omaha Sunday World-Herald</title> 57(16=19): 14-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

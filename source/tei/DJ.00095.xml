@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00095">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00095">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Birds Nearly All Here; Early Wild Flowers Open.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1923-05-13</date><biblScope>58(33): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Birds Nearly All Here; Early Wild Flowers Open</head>
          
@@ -56,11 +56,11 @@
          
          <p>Speaking of the trilliums, while I found several clusters of the bloomless wake-robin, as well as of the stemless purple trillium, in another week they will all be in their glory.</p>
          
-         <head>The Beautiful Trilliums.</head>
+         </div><div><head>The Beautiful Trilliums.</head>
          
          <p>En passant, it might be well to add that all the trilliums flourish best in the rich, moist spots in the umbrageous woods, and while all are beautiful, but not all fragrant, the painted trillium is the queen of the tribe. It is an indescribably lovely blossom, with its snowy petals standing out from their background of deep emerald leaves, and, I regret to say, but seldom part of the painted carolla is made especially conspicuous by the vivid crimson, exactly like the kinglet's crown, of a harrow-shaped spot on its surface. I cannot possibly escape your attention, if you run across it, and at that, it is the rarest of all its kind, and if you find one, you surely will have found a prize. Look hard when you are out, however; it is here, and you may be the lucky one.</p>
          
-         <head>The Bird's Foot Violet.</head>
+         </div><div><head>The Bird's Foot Violet.</head>
          
          <p>While I found the common woods violet flourishing everywhere, and jack-in-the-pulpit about to throw open his polka-dotted doors, I found no bird's-foot violets yet in flower.</p>
          
@@ -72,13 +72,13 @@
          
          <p>From nearly all our commoner specimens it may be distinguished at a glance by the fact that its leaves are much divided and it is not over three inches tall. It blooms freely, but evanescently, and will be gone in another week or so. So go forth, my flower lovers, and seek the bird's foot. No native wild flower is so well worth the time and trouble, if a trip to the woods can be so called.</p>
          
-         <head>Wait a Few Days.</head>
+         </div><div><head>Wait a Few Days.</head>
          
          <p>If next Sunday is the sort, I am going forth again, and may some afternoon during the week, for a May ramble is the best of all and if I do go, and have any luck in finding something new, rest assured you shall hear of it.</p>
          
          <p>I wish to observe, now, however, that incomparable is the happiness of a rover of the woods and fields, if he is teamed up with just the right companion for such explorations. In such a camaraderie the rules of mathematics are thrown to the winds, for while twice one is two, and two pair of eyes may see twice as many things as one pair, the satisfaction of a trip is even at a greater ratio, I'll say one hundredfold, over what you may enjoy alone.</p>
          
-         <head>From Start to Finish.</head>
+         </div><div><head>From Start to Finish.</head>
          
          <p>To begin at the very beginning - and that is where the joy of the outing begins, if at all - there is a good deal more pleasure in planning and discussing a campaign with another who is to share it, than there is in figuring it out alone. And to go on to the end of it - of the end ever comes while memory endures - recollections are fresher and clearer and dearer if there be two to remember and talk together of the exploits of the past. In all these three phases of an outing - anticipation, realization and retrospection - one needs a real friend to share them and by sharing each, to increase and glorify it.</p>
          
@@ -86,12 +86,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. May 13, 1923. <title>Omaha Sunday World-Herald</title> 58(33): 3-W.</bibl>
+            <bibl default="false">Sandy Griswold. May 13, 1923. <title>Omaha Sunday World-Herald</title> 58(33): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00975">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00975">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Wild Fowler's Harbor Out in the Sandhills.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1913-11-16</date><biblScope>49(7): S-3. Includes one picture. Continues: 11/23, 49(8): S-3; 11/30, 49(9): S-3; 12/7, 49(10): S-3; 12/14, 49(11): S-3; 12/21, 49(12): S-3; 12/28, 49(13): S-2; 1/4/1914, 49(14): S-2; 1/11, 49(15): S-2; 1/18, 49(16): S-2.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Wild Fowler's Harbor Out in the Sandhills</head>
          
@@ -90,7 +90,7 @@
          
          <p>Out across the small open stretch and into the narrow, shallow channel-the tortuous and muddy link connecting landing and lake-we toiled in our sheet-iron skiffs, and in defiance of our slow progress, and unavoidable noisy splashings, a big, black eagle swept almost under our noses, and then, with a sudden and a wondrous accumulation of pinion muscles, as if daunted by its own temerity, it rushed lessening away, over the ruffled surface of the broad lake, opening like a sheet of sapphire before us. A flock of Canada geese, "auk-unking" in resonant chorus, rose from the mid marsh, and getting well up into the sunlit air, harrowed off over the smiling brow of Old Dunderberg, while long lines of dark dots against the rose of the distant sky showed us where the traveling mallards were going.</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills</head>
          
          <p>Indurated as he is, by vigorous action about the ranch at all seasons, it was the toughest kind of a job for even Frank to row, pole and push his boat through that shallow channel, out to the open lake. But if it was a task for Bowman, it was a herculean one for me. But what a duck hunter can't do, with the lure of good shooting before him, is something that I am not going to try to figure out, and I know all my old Omaha shooting comrades would risk money on the proposition that I would get there, no matter where Frank led.</p>
          
@@ -150,7 +150,7 @@
          
          <p>And, sure enough, weaving lines of birds, but dimly descried, were pouring over the farther hills. Before, however, any of these had reached the outer borders of Three Springs, we saw a fine bunch of mallards lift themselves from the masses of the tules and rice, from our own lake, way this side of them, and getting well up into the air, come straight for us!</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills</head>
          
          <p>Abrupt, as the opening of the morning flight was, Frank and I were prepared for it-it was just what we had been waiting for and just what we had expected. As we crouched and peered through the rice we not only saw the bunch of mallards, like aerial racers, approaching us, up the marsh, but there were birds quickly in sight in almost every direction. A mass of them were circling round and round over the tule beds down at the west end, and large and small flocks were flying aimlessly across and back to the north and over the glinting sandhills, over about Raccoon lake. The guns were now popping pretty regular on all the outer edges of the marsh, but we had little time to enjoy the commotion, when our mallards-about fifteen or twenty of them-swung up the arm of open water, and then round straight for our decoys. We waited until they had cupped their wings, and began to drop their bright orange legs, when we rose together, and there were several sharp reports in quick succession, and four birds let go, all falling in the open before us, while the est, with loudly beating pinions and louder squawking, climb up into the air, and went dashing away in all directions. One more bird, however, was induced to remain with the quartet floating on the gentle waves before us. He had failed to get up sufficient steam to get out of reach of Frank's dandy little twenty-bore Parker, although he had been compelled to reload, and at the crack of the gun, down he came, stone dead, falling fully seventy-five yards out in the lake. It was a great shot, but just like hundreds of others I had seen this matchless duck shot make the fall before.</p>
          
@@ -222,7 +222,7 @@
          
          <p>And down we crouched again.</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills</head>
          
          <p>The rancher's keen eyes had caught another approaching flock, and at his low, admonition, like component parts of one machine, we both stooped low behind the rice stalks.</p>
          
@@ -274,7 +274,7 @@
          
          <p>It was plumb dark, and the coyote was chanting his jubilate out on the distant plain, but the flush of Hesperus was in the sky, as Frank and I, with out ducks strung over an oar and on our shoulders, staggered up to the door of Merganzer Lodge, where we were cordially greeted by Jim, who, as alert as ever, soon had all our wants attended to. After a bounteous dinner of broiled squab, shoestring potatoes, combination salad, cornbread and coffee, we touched the button to the orchestreon and to the plaintive cadences of "When It Is Apple Blossom Time in Normandy," passed along into the land of felicitous dreams of flying mallards and dazzling sundowns.</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills</head>
          
          <p>Although the next morning broke beautifully, with a clear, summer sky, and a caressing breeze from the south, neither Frank nor myself were quite as alert as ordinarily. As for myself, I was still somewhat fatigued from my opening day's work with the rancher and was inclined to linger in the hay. But along about half past 8, when Jim, the chef, burst enthusiastically into the room with the assertion that the biggest flight of birds that he had seen any morning during the fall, was on, I got up hastily, slipped into my shooting scenery, and joined Frank in the back yard.</p>
          
@@ -354,7 +354,7 @@
          
          <p>As the rest of the betrayed birds dashed away in all directions in dismayed silence, the little mallard hen, quacked harshly, but with a mournful tone in its harshness, it seemed to me, and struggled in vain to lift herself out of the waters and join them. But her efforts were vain, and silent, and evidently much disappointed, she resumed her guttering of the tule roots.</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills</head>
          
          <p>"Just think, Sandy, isn't that a remarkable thing?" remarked Bowman to me, as the little mallard hen, apparently as contented and free from care as any of the red-winged blackbirds singing from the tule and rice tops all about her, went back to her guttering for mollusks and other tidbits among the roots of the rushes lining the little pocket in which she had fallen, "that old mallard hen acts just as if she knew exactly what she was doing, and that she takes a keen enjoyment in calling her relatives into trouble."</p>
          
@@ -412,7 +412,7 @@
          
          <p>For hours I have lingered and watched the softening skies, knowing that sooner or later that big dotted wedge would appear on its northward journey, and then, when the first jubilant trumpet clanged upon the trenchant stillness, I was at once inspired with the wanderlust and the ambition to do great and splendid things in the world, even to the following of that auh-unking gray phalanx to the lonely waste places where the ice cakes lay glittering beneath the opalescent magic of the northern lights.</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills</head>
          
          <p>With the clangor of the geese having died away, and the big harrow shaped flock but a thread of gray against the distant western sky, Frank and I resumed our seats in the boats and after a moment's reflection, Bowman said:</p>
          
@@ -492,7 +492,7 @@
          
          <p>To the whizz of the mallards' wings and the b-zeep! bzeep! of the night hawk in the ebony vault above, the whining of the prairie wolf on the distant hillside, and the far-sounding bay of Ray's collie at the ranchstead, and I, still musing, rowed back over the star-bedizened bosom of the lake, and in the breathing darkness of the night, trudged across the big hay field-home.</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills</head>
          
          <p>That night after one of the most sumptuous duck dinners ever served in Charlie Metz's famous old hunting lodge, to the dulcet strains of the orchestrion and over our cigars, Bowman and I had a long talk on matters, of course, always interesting to nature student and sportsman.</p>
          
@@ -560,7 +560,7 @@
          
          <p>"Phew!" ejaculated Frank as he stepped out on the porch, "you bet it's cold, but as clear as crystal. Well good night. I'll see you in the morning."</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills.</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills.</head>
          
          <p>And true to the predictions of the rancher, and the instincts of the muskrats, the next morning broke keenly cold and keenly clear. Frank and I, after one of Jim's dainty breakfasts, stepped out upon the back porch to take a survey of the condition of things. The sun was flooding the whole dun world with its golden refulgence, and while the air was tingingly frigid, we knew that it would not remain so long as there were but a few flecks to be seen anywhere in the heavens, and a softening breeze was still breathing over the fields from the south.</p>
          
@@ -692,7 +692,7 @@
          
          <p>And so the merry hubbub continued until almost daylight, but the last man was finally stowed way beneath the blankets, and talk about your grand opera on nasal instruments, it beat the band, and what's more, every mother's son of them blamed it on the other at the breakfast table that morning, and it was all Jim and I could do to keep them apart.</p>
          
-         <head>The Wild Fowler's Harbor in the Sandhills</head>
+         </div><div><head>The Wild Fowler's Harbor in the Sandhills</head>
          
          <p>And now I reach my last day on the Metz shooting preserve. It was a rarely golden one for November and will long hold its place in happy memory. With all the mallards I wanted, ready for shipment home, this day, the afternoon of which was devoted to the prairie chicken, was but a continuation of the grand excitement of my late autumn outing.</p>
          
@@ -766,12 +766,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. November 16, 1913. <title>Omaha Sunday World-Herald</title> 49(7): S-3. Includes one picture. Continues: 11/23, 49(8): S-3; 11/30, 49(9): S-3; 12/7, 49(10): S-3; 12/14, 49(11): S-3; 12/21, 49(12): S-3; 12/28, 49(13): S-2; 1/4/1914, 49(14): S-2; 1/11, 49(15): S-2, includes a picture; 1/18, 49(16): S-2.</bibl>
+            <bibl default="false">Sandy Griswold. November 16, 1913. <title>Omaha Sunday World-Herald</title> 49(7): S-3. Includes one picture. Continues: 11/23, 49(8): S-3; 11/30, 49(9): S-3; 12/7, 49(10): S-3; 12/14, 49(11): S-3; 12/21, 49(12): S-3; 12/28, 49(13): S-2; 1/4/1914, 49(14): S-2; 1/11, 49(15): S-2, includes a picture; 1/18, 49(16): S-2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

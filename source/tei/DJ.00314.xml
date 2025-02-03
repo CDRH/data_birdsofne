@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00314">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00314">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Flicker Most Melodious and Exquisitely Marked.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-04-16</date><biblScope>57(26=29): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Flicker Most Melodious and Exquisitely Marked</head>
          
@@ -54,13 +54,13 @@
          
          <p>It is without the slightest hesitancy, I proclaim, that it is our commonest birds that claim the ardent preference of an overwhelming majority of our bird lover - to repeat, the flicker, the robin, the bluebird, the oriole, the meadowlark, the blue jay, the woodpecker, the redwinged blackbird and goldfinch That about includes the predominant list, although I am fully aware of the exquisite thrills such sweet little avian beauties as the chickadee, the downy, all of the finches and the sparrows, the orchard oriole, the chewink, the tanager, indigo bird, the barn swallow, purple matin, the wren, the tomtit, the kinglet and the innumberable, as well as indescribable hordes of warblers, sends through the nervous systems of all the lovers and the students of the little feathered folk.</p>
          
-         <head>The Answer Came.</head>
+         </div><div><head>The Answer Came.</head>
          
          <p>Ask almost any of them which is their favorite bird, and while all will hesitate, for there are so many of equal claims on their affections, how many would you imagine who would name a warbler, or even any one of the rare birds I have included in this secondary classification, before robin redbreast? And yet after all, if a vote were taken of all the bird lovers in this country, is there any doubt whatever, but what robin redbreast would still have an overwhelming majority? I think not, although my leaning is for the many-sided yellowhammer.</p>
          
          <p>I recall an ancient and decrepit, as well as enormous elm tree, with many lesser rivals clustered obtrusively around, that had stood sentry to our ducking lodge - Old Hyperboreus - out on the northern shore of the sweeping Platte, a few miles east of the legendary old village of Clarks - ever since it had been erected, as well as through the storms of perhaps several centuries, and is still doing this heroic duty, I would fain believe yet today. Many, indeed, has been the broods of yellowhammers that enjoyed its protection as they were nurtured and fostered in the decayed heart of one or the other of its huge, but still sturdy limbs. And it is of this ancient elm and the trysting and mating yellowhammers I once watched there, that has for years had an enduring abode in my memory.</p>
          
-         <head>Majority for Robins.</head>
+         </div><div><head>Majority for Robins.</head>
          
          <p>"Weechuu - weechuu - weechuu!" That is the many times loudly repeated, mellifluous call of the flicker announcing his arrival, and on the late March morning I have in mind, sent me tumbling headlong out of the lodge to welcome this yellowhammer in our midst. I quickly descried the bird and at once recognized that it was a male, a brilliant, dashing fellow, and as I gazed he was rocking on one of our elm's dead limbs, or rollicking in and out among the nearby trees, the very embodiment of joyous life.</p>
          
@@ -68,7 +68,7 @@
          
          <p>I only had to wait a moment or two, and there he was again, sitting lengthwise upon one of those protruding limbs and calling, as only the lover would call - "Eko! Eko! Eko! Eko!" - his scarlet crest flaring its brightest in the soft sunshine, his throat swelling almost to bursting in his fervid frenzy, as he bobbed up and down and hitched himself backward and forward upon his lofty citadel. Repeating his beseeching and seductive summons several times, he suddenly quit, and cocking his shapely head to one side, seemed to be awaiting some response he felt his contreaties should evoke.</p>
          
-         <head>Call of the Flicker.</head>
+         </div><div><head>Call of the Flicker.</head>
          
          <p>And suddenly, clear and sweet and tender, there came an answer, and up shot the big fellow, with a royal flouting of his gold-lined wings, high into the hazy air, as if for the purpose of a better view of his surroundings, or, mayhap, for the newcomer he knew was on the way.</p>
          
@@ -80,7 +80,7 @@
          
          <p>These maneuvers were repeated many times, but peer as eagerly as I could through my powerful bird glasses, I could find neither rhyme nor reason in the rowdy actions of Papa Flicker.</p>
          
-         <head>Yellow Hammer Flapper.</head>
+         </div><div><head>Yellow Hammer Flapper.</head>
          
          <p>Eyeing each other steadfastly, a brief moment or two, and a quiet tranquility finally settled over this little field of love-making, which lasted until my patience all but eked away, but at last the svelte little female indulged in a few coquetries that only a yellowhammer flapper could perpetrate, that brought matters to a speedy focus. That it was a captivating bit of acting was evident in the attitude of the male, who showed his golden body was filled with a longing he could not resist, and he gently hitched himself forward and with almost imperceptible throaty gurgles, they touched bills, the contact causing the female to literally tumble off the limb, but righting herself, she skimmed away close down to the ground with the gorgeous male close upon her heels, when with a swift turn, both slanted back up to the same old limb again.</p>
          
@@ -88,12 +88,12 @@
          
          <cit>
             
-            <bibl default="NO">April 16, 1922. <title>Omaha Sunday World-Herald</title> 57(26=29): 3-W.</bibl>
+            <bibl default="false">April 16, 1922. <title>Omaha Sunday World-Herald</title> 57(26=29): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

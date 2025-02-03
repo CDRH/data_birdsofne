@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00543">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00543">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Migration on the Plains.</title><title level="j">Forest and Stream</title><author>Wolfe, W. M.—Shoshone.</author><date>1889-05-02</date><biblScope>32(15): 295.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-11"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-11"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Migration on the Plains.</head>
          
@@ -68,7 +60,7 @@
          
          <p>On the 17th, while after ducks, my companion exclaimed, "What a curious white-breasted lark!" As he had a few shells loaded with No. 8 shot I asked him to secure it, but the bird was so tame that it seemed impossible to get so far away that it would not be blown to pieces. It proved to be a horned lark (<hi rend="italic">Otocoris alpestris praticola</hi>), and served to convince several of the local sportsmen that this bird is really found in Central Nebraska. Those who have hunted over the country for years told me that it was the first bird of the kind that they had ever seen. Another comparatively rare visitant that I saw to-day was the great blue heron (<hi rend="italic">Ardea herodias</hi>). It was shot on Wood River. I learn that the first duck wave reached the Niobrara eight days after it was chronicled on the Platte. This would indicate a short rest on the Loups.</p>
          
-         <p>This year an unusual proportion of the specimens that are shot of the lesser snow goose (our white brant) are gray or slaty above. Can this be a cross between <hi rend="italic">Chen c&#156;rulescens</hi> and <hi rend="italic">C. hyperborea</hi>? The two species may be found together between Hudson's Bay and the Rocky Mountains, upon the breeding grounds of the snow goose.</p>
+         <p>This year an unusual proportion of the specimens that are shot of the lesser snow goose (our white brant) are gray or slaty above. Can this be a cross between <hi rend="italic">Chen c&#x9c;rulescens</hi> and <hi rend="italic">C. hyperborea</hi>? The two species may be found together between Hudson's Bay and the Rocky Mountains, upon the breeding grounds of the snow goose.</p>
          
          <p>The ducks that nest in northern and western Nebraska are already at their breeding grounds, and we begin to ask ourselves about the prospects for fall shooting. They never were better. The mild winter and early prairie fires insure double the number of chickens and quail that there were last year. There will be no cooked eggs this season. I have never seen the prairie sharp-tailed grouse in Nebraska, but old settlers tell me that ten years ago they were common in this section, while the pinnated grouse were rare—another proof that civilization has its disadvantages.</p>
          
@@ -88,12 +80,12 @@
          
          <cit>
             
-            <bibl default="NO">May 2, 1889. <title>Forest and Stream</title> 32(15): 295.</bibl>
+            <bibl default="false">May 2, 1889. <title>Forest and Stream</title> 32(15): 295.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00285">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00285">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Farmers' Helpers. This Season's Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1909-08-15</date><biblScope>44(46): 4-S. Forest Field and Stream.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-20">2006-06-20</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-20"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Great Season for the Birds—How They Help The Farmer</head>
          
@@ -68,7 +60,7 @@
          
          <p>It is certain that without the services of these feathered laborers whose work is unseen, though it lasts from daylight till dark through every day in the year, agriculture in this country would come next to a standstill and if in the brief season of fruit each one of these workers levies on the farmer the tribute of a few berries, the price is surely a small one to pay for the great work done. Superficial persons imagine that the birds are here only during the summer, but this is a great mistake. It is true that in warm weather, when insect life is most abundant birds are also more abundant. They wage an effective and unceasing war against the adult insects and their larvae and check their active depredations, but in winter the birds carry on a campaign which is hardly less important in its results. It is then that the chickadee, the nuthatch, the brown creeper, the kinglets and the flickers are hard at work all through the short days, searching the crevices and crannies in the bark of the tree trunk and branches, looking among the undergrowth, hunting along the fences for the bunches of eggs, the buried larvae and the pupa of the insects, which if undisturbed would, when warm weather comes, hatch out millions of creeping, crawling and flying things that would devastate garden and orchard and every crop of the field. It is through this silent, unceasing work by the birds—some in summer and others in winter—that the insect hosts are held in check. The downy woodpecker which we see swinging with undulated flight across the snow-clad fields renders service not less important than the fat robin which flies with a beak full of cankerworms to his clamorous young in the apple tree close to the house.</p>
          
-         <head>This Season's Birds.</head>
+         </div><div><head>This Season's Birds.</head>
          
          <p>Through the persistent effort of honest sportsmen, of the teachers in our schools and the writers of wholesome out-door literature, there has been a noticeable increase of most all species of our commonest birds during the past three or four years, and the present season is a most prolific one. The crop, so far, has certainly been a most abundant one and larger numbers of our old time and much beloved little songsters were to be seen and heard with most gratifying frequency in almost every field, wood and creek valley since the spring's advent. Even the blue birds, considered all but extinct in many parts of the country three years ago, came back in something like their old-day numbers this spring and just now a drive of a few miles in the country to any direction will reveal their bright azure coats in almost every copse and on every fence post. The creepers, waxwings, tomtits, chickadees, sap-suckers, warblers, and in fact all the little feathered beauties which were so common in the years gone by, seemed to have come back to us in such numbers as to bear potent testimony to the progress of the good cause.</p>
          
@@ -80,12 +72,12 @@
          
          <cit>
             
-            <bibl default="NO">August 15, 1909. <title>Omaha Sunday World-Herald</title> 44(46): 4-S. Document title from paper page-top that included a picture of Griswold.</bibl>
+            <bibl default="false">August 15, 1909. <title>Omaha Sunday World-Herald</title> 44(46): 4-S. Document title from paper page-top that included a picture of Griswold.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

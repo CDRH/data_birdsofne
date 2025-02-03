@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00690">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00690">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,20 +32,12 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Prairie Chickens Drinking.</title><title level="j">Forest and Stream</title><author>N. W.</author><date>1880-05-20</date><biblScope>14(16): 307. Table of contents says page 309.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
-      <revisionDesc>
-      <change>
-        <date value="2005-08-08"/>
-          <respStmt>
-      	<name>Katharine Potter</name>
-          </respStmt>
-          <item>Proofread from Source</item>
-      </change>
-      </revisionDesc>
+      <revisionDesc><change when="2005-08-08"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
       
       
       
@@ -56,7 +48,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>Prairie Chickens Drinking.-<hi rend="italic">New Bedford, Neb., Feb. 8th.-Editor <title>Forest and Stream</title>:</hi>—Having frequently heard it stated that "prairie chickens" drink nothing but dew, collected from grass and leaves, I have thought the following item might be of interest to some of your many readers.</p>
          
@@ -68,12 +60,12 @@
          
          <cit>
             
-            <bibl default="NO">May 20, 1880. <title>Forest and Stream</title> 14(16): 307.</bibl>
+            <bibl default="false">May 20, 1880. <title>Forest and Stream</title> 14(16): 307.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00398">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00398">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Helping the Goldfinches.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1918-07-07</date><biblScope>53(40): 4-E. A bird editorial.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Helping the Goldfinches.</head>
          
@@ -64,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">Editor [possibly Miles Greenleaf]. July 7, 1918. <title>Omaha Sunday World-Herald</title> 53(40): 4-E. A bird editorial.</bibl>
+            <bibl default="false">Editor [possibly Miles Greenleaf]. July 7, 1918. <title>Omaha Sunday World-Herald</title> 53(40): 4-E. A bird editorial.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

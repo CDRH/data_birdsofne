@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00357">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00357">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Glories of the Old Days Come No More Forever. When the Sandhill and Whooping Crane Were Common Out About Rogers.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1920-10-31</date><biblScope>56(5): 15-N. Also: 11/21, 56(8): 19-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Glories of the Old Days Come No More Forever.</head>
          
@@ -82,7 +82,7 @@
          
          <p>The situation was more blood stirring and more nerve racking than waiting in a hole, in field or on a bar, for those royal birds, the Canada geese, and any old timer will corroborate what I say. The sandhill crane, while in many ways a feathered buffoon, is the smartest and most sensational of any game bird in the world. No other can rival him in the ostentation, in the pomp and glory and circumstance of his movements, either on the ground or in the air.</p>
          
-         <head>Some Thirty Years Ago Out on Rogers Flats</head>
+         </div><div><head>Some Thirty Years Ago Out on Rogers Flats</head>
          
          <head>An October Evening With the Sandhill Crane a Thrilling Picture Alone the Glory of the Old Timer.</head>
          
@@ -124,12 +124,12 @@
          
          <cit>
             
-            <bibl default="NO">October 31, 1920 <title>Omaha Sunday World-Herald</title> 56(5): 15-N. Also: 11/21, 56(8): 19-N.</bibl>
+            <bibl default="false">October 31, 1920 <title>Omaha Sunday World-Herald</title> 56(5): 15-N. Also: 11/21, 56(8): 19-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

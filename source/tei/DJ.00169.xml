@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00169">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00169">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Chicken Covies. Which Omaha Hunters Will Score Up To-day in Nebraska. Where Different Parties Went - The Big Crowd From Plattsmouth - Dogs in the Baggage Cars - A Day Which Farmers Better Spend Indoors.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1882-08-15</date><biblScope>17(245): 8.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Chicken Covies</head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">August 15, 1882. <title>Omaha Daily Herald</title> 17(245): 8.</bibl>
+            <bibl default="false">August 15, 1882. <title>Omaha Daily Herald</title> 17(245): 8.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

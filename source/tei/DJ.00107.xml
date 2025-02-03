@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00107">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00107">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Birds on Our Street. Feathered Choristers Who Salute the Coming Day With Notes of Joy-Busy Hustlers Into Whose Lives the Noise of a Great City Brings No Terror-Omaha has a Great Variety of Them in Its Many Shade Trees.</title><title level="j">Omaha Sunday Bee</title><author>Wood, Emily.</author><date>1910-05-08</date><biblScope>39(47): 3-E.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Birds on Our Street</head>
          
@@ -100,12 +100,12 @@
          
          <cit>
             
-            <bibl default="NO">May 8, 1910. <title>Omaha Sunday Bee</title> 39(47): 3-E. Typographic errors corrected.</bibl>
+            <bibl default="false">May 8, 1910. <title>Omaha Sunday Bee</title> 39(47): 3-E. Typographic errors corrected.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

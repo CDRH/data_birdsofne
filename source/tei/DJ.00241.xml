@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00241">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00241">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Dying Birds. They Have Frozen, Strayed, or Flown Away. Suffering Among the Feathered Tribes, Which is Said to Have Been Unprecedented - The Cold Less Fatal Than the Famine.</title><title level="j">Omaha Weekly Herald</title><author>Editor.</author><date>1881-02-18</date><biblScope>16(20): 6.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Dying Birds.</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">February 18, 1881. <title>Omaha Weekly Tribune</title> 16(20): 6.</bibl>
+            <bibl default="false">February 18, 1881. <title>Omaha Weekly Tribune</title> 16(20): 6.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

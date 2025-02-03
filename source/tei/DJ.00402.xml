@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00402">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00402">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -19,7 +19,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -31,7 +31,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Nebraska Jack Snipe.</title><title level="j">Omaha Sunday World-Herald</title><author>C.P. Kerwin and Sandy Griswold.</author><date>1910-08-28</date><biblScope>45(48): 7-N. Portion of Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
       
@@ -41,7 +41,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream</head>
          
@@ -49,7 +49,7 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. August 28, 1910. Nebraska jack snipe. <title>Omaha Sunday World-Herald</title> 45(48): 7-N. Portion of Forest, Field and Stream column.</bibl>
+            <bibl default="false">Sandy Griswold. August 28, 1910. Nebraska jack snipe. <title>Omaha Sunday World-Herald</title> 45(48): 7-N. Portion of Forest, Field and Stream column.</bibl>
          
          </cit>
          
@@ -57,8 +57,8 @@
          
          <p>Mr. Kerwin, now that he has settled the jacksnipe breeding grounds in Nebraska, can probably tell us where we can find some wild pigeons, a buffalo or two or a Labrador duck. Jacksnipe eggs as big as chicken's eggs. Whew! How we'd like to get among those jacks. - Sporting Editor.</p>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

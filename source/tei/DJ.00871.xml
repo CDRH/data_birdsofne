@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00871">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00871">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Stormy March Day With the Canada Geese. A Thrilling Reminiscence of the Perils of Early Spring Hunting on the Platte.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1904-02-21</date><biblScope>42=39(144): 18.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-19">2006-06-19</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-19"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Stormy March Day With the Canada Geese.</head>
          
@@ -93,12 +85,12 @@ team. Once upon the level ice the walking was not so bad and I rapidly drew near
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. February 21, 1904. <title>Omaha Sunday World-Herald</title> 42=39(144): 18. Story repeated January 30, 1921.</bibl>
+            <bibl default="false">Sandy Griswold. February 21, 1904. <title>Omaha Sunday World-Herald</title> 42=39(144): 18. Story repeated January 30, 1921.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

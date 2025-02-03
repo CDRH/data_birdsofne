@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00499">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00499">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,28 +32,20 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Local Field of Sport. The Approaching Shooting Season and Its Prospects.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous [Sandy Griswold].</author><date>1889-09-15</date><biblScope>19(88): 1.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-23"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-23"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Local Field of Sport.</head>
          
@@ -69,12 +61,12 @@
          
          <cit>
             
-            <bibl default="NO">[Sandy Griswold]. September 15, 1889. <title>Omaha Sunday Bee</title> 19(88): 1.</bibl>
+            <bibl default="false">[Sandy Griswold]. September 15, 1889. <title>Omaha Sunday Bee</title> 19(88): 1.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

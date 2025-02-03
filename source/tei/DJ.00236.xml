@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00236">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00236">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Ducks are Now on the Wing. Big Flight Expected Here from the North Within Short Time. Young Birds Coming First. Charley Metz Reports that Bluewings Were Never More Plentiful, but They Are Rapidly Making for South.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1912-09-29</date><biblScope>42(15): 4-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Ducks are Now on the Wing</head>
          
@@ -100,12 +100,12 @@
          
          <cit>
             
-            <bibl default="NO">September 29, 1912. <title>Omaha Sunday Bee</title> 42(15): 4-S.</bibl>
+            <bibl default="false">September 29, 1912. <title>Omaha Sunday Bee</title> 42(15): 4-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

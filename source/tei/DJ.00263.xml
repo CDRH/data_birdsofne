@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00263">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00263">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,29 +32,21 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The English Sparrow.</title><title level="j">Oologist</title><author>McLellan, J. Ellis.</author><date>1891-04-01</date><biblScope>8(4&amp;5): 88. April &amp; May combined issue.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
    
 
-<revisionDesc>
-<change>
-  <date value="2005-06-28"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-06-28"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The English Sparrow.</head>
          
@@ -74,12 +66,12 @@
          
          <cit>
             
-            <bibl default="NO">April &amp; May 1891. <title>Oologist</title> 8(4&amp;5): 88.</bibl>
+            <bibl default="false">April &amp; May 1891. <title>Oologist</title> 8(4&amp;5): 88.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

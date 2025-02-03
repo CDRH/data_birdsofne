@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00930">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00930">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Urges Support of Bird Sanctuary. Ernest Harold Bayne, Famous Naturalist, Talks Before Omaha Commercial Club. Big Tract Will Be Set Aside.</title><title level="j">Omaha Daily Bee</title><author>Bee reporter.</author><date>1916-03-13</date><biblScope>45(230): 7.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Urges Support of Bird Sanctuary</head>
          
@@ -56,7 +56,7 @@
          
          <p>"If the plans of the Audubon for a bird sanctuary materialize it will be a great asset to the city," Mr. Bayne said. "You can protect the trees in this way as you do no other way."</p>
          
-         <head>Mecca for Bird Lovers.</head>
+         </div><div><head>Mecca for Bird Lovers.</head>
          
          <p>He declared such a sanctuary would make Omaha a mecca for all bird lovers from far and near, and that with the proposed good road movement which is now before the people of the county finally materialized into fact, many people would come to Omaha on their way across the continent that do not do so now. he said that they would come to see this bird sanctuary if for nothing else.</p>
          
@@ -74,12 +74,12 @@
          
          <cit>
             
-            <bibl default="NO">March 13, 1916. <title>Omaha Daily Bee</title> 45(230): 7.</bibl>
+            <bibl default="false">March 13, 1916. <title>Omaha Daily Bee</title> 45(230): 7.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

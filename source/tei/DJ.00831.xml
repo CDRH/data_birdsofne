@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00831">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00831">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Sportsmanship. City Clerk Taylor's Opinion, Founded on a Recent Days Experience in Snipe Shooting.</title><title level="j">Omaha Daily Herald</title><author>Zach.</author><date>1877-11-20</date><biblScope>13(32): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Sportsmanship.</head>
          
@@ -72,12 +72,12 @@
          
          <cit>
             
-            <bibl default="NO">Zach. November 20, 1877. <title>Omaha Daily Herald</title> 13(32): 4.</bibl>
+            <bibl default="false">Zach. November 20, 1877. <title>Omaha Daily Herald</title> 13(32): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

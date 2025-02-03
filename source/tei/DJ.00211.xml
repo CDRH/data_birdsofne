@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00211">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00211">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Big Day's Sport. Splendid Result of a Day's Shooting on the Platte.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1879-03-30</date><biblScope>14(140): 8.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Big Day's Sport.</head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">March 30, 1879. <title>Omaha Daily Herald</title> 14(140): 8.</bibl>
+            <bibl default="false">March 30, 1879. <title>Omaha Daily Herald</title> 14(140): 8.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

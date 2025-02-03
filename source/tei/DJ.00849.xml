@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00849">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00849">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Spring Goose and Duck Hunting on the Platte].</title><title level="j">Omaha Sunday Bee</title><author>Parmalee, F.S.</author><date>1895-03-31</date><biblScope>p. 11.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Spring Goose and Duck Hunting on the Platte </head>
          
@@ -70,12 +70,12 @@
          
          <cit>
             
-            <bibl default="NO">March 31, 1895. [Spring Goose and Duck Hunting on the Platte.] <title>Omaha Sunday Bee</title> p. 11.</bibl>
+            <bibl default="false">March 31, 1895. [Spring Goose and Duck Hunting on the Platte.] <title>Omaha Sunday Bee</title> p. 11.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00193">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00193">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Count of Game. The Schedule of the Omaha Gun Club.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1885-10-18</date><biblScope>p. 8.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Count of Game.</head>
          
@@ -50,7 +50,7 @@
          
          <p>The Omaha Gun club has adopted the following count of game for the annual shoot of the club which occurs October 27th. The count will be held on the 28th and the banquet on the 29th:</p>
          
-         <head>Quadrupeds.</head>
+         </div><div><head>Quadrupeds.</head>
          
          <list type="simple">
             
@@ -84,7 +84,7 @@
          
          </list>
          
-         <head>Birds.</head>
+         </div><div><head>Birds.</head>
          
          <list type="simple">
             
@@ -176,12 +176,12 @@
          
          <cit>
             
-            <bibl default="NO">October 18, 1885. <title>Omaha Daily Republican</title> p. 8.</bibl>
+            <bibl default="false">October 18, 1885. <title>Omaha Daily Republican</title> p. 8.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

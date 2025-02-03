@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00918">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00918">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,28 +32,20 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Trip to Sandhills of Loup River].</title><title level="j">Forest and Stream</title><author>Wolfe, W.M.—Shoshone.</author><date>1889-01-10</date><biblScope>31(26): 515.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-11"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-11"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
   
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Trip to Sandhills of Loup River.</head>
          
@@ -61,12 +53,12 @@
          
          <cit>
             
-            <bibl default="NO">Shoshone [W.M. Wolfe]. January 10, 1889. <title>Forest and Stream</title> 31(26): 515.</bibl>
+            <bibl default="false">Shoshone [W.M. Wolfe]. January 10, 1889. <title>Forest and Stream</title> 31(26): 515.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

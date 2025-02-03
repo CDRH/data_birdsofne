@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00301">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00301">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Feats of Feathered Genius in the Wilds of Elmwood. Odd Habits of the Shiftless Cowbird, the Defense of a Bird Home Against the Squirrel, and the Ubiquity of the Horned Lark about Omaha. Did You Ever Find a Wood Pewee's Nest?</title><title level="j">Omaha Sunday World-Herald</title><author>Greenleaf, Miles.</author><date>1915-08-08</date><biblScope>50(45): 1-M. Includes five pictures of nests and four examples of mounted birds.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Feats of Feathered Genius in the Wilds of Elmwood</head>
          
@@ -58,7 +58,7 @@
          
          <p>In the study of birds, which has become a real sport among many real sportsmen, the locating and observing of songbird nests is no small feature. That these more than humanly intelligent bits of fluff may interest the most cynical could scarcely be doubted after a single jaunt through any of the outlying rustic parks of the city.</p>
          
-         <head>Parks Interesting Fields.</head>
+         </div><div><head>Parks Interesting Fields.</head>
          
          <p>Elmwood park has been the particular field of a casual campaign of research conducted weekly by the writer, but the observations made in this park, it should be remembered, would certainly apply to Riverview and any other verdant entanglement where a modern park system has not succeeded in turning the caretakers loose with the fatal wood-axe.</p>
          
@@ -68,7 +68,7 @@
          
          <p>Very naturally this is a proposition that meets with but the scantest approval from the victims. It is pretty tough for a nice, respectable Yellow Warbler to have to "set" on her own eggs and a great big Cowbird egg besides. When these eggs have hatched, Mrs. Yellow Warbler finds that the Cowbird youngster consumes about eight times as many bugs and worms as her own offspring, which keeps herself and her Old Man proportionately busy.</p>
          
-         <head>Bird Strategy.</head>
+         </div><div><head>Bird Strategy.</head>
          
          <p>Many bird victims of the stinginess of the Cowbird have arrived at the notion of building a flooring over the egg of the intruder, and then starting all over again. This custom is by no means unusual, and any earnest investigator will find plenty of evidences of the same during the nesting season. But the writer, with Billy Marsh, perhaps one of the best informed laymen of birdlore in the state, ran across an example of bird-cunning in this regard that is worth recording. Fortunately, too, the writer was able to secure a fairly good photograph of the situation.</p>
          
@@ -82,7 +82,7 @@
          
          <p>It is a photograph of this remarkable domestic situation in bird life that is shown with this story. The nest is now in possession of the writer.</p>
          
-         <head>Tragedies of Bird World.</head>
+         </div><div><head>Tragedies of Bird World.</head>
          
          <p>There are tragedies, too, resulting from the constant battle of the other birds against the campaign of the Cowbird.</p>
          
@@ -90,7 +90,7 @@
          
          <p>But enough of the Cowbird. The study of nests records the triumphs of the birds as well as their adversities.</p>
          
-         <head>Squirrel Often Routed.</head>
+         </div><div><head>Squirrel Often Routed.</head>
          
          <p>It is popularly supposed that squirrels are death to young birds and eggs in the nest, and it cannot be denied that the nuthunters destroy a good deal of bird life. But this much is true, from personal observation, that the squirrel doesn't have any too soft a time of it in raiding a bird nest. It is no uncommon occurrence to see a Robin or almost any other sizable songster, running a squirrel to cover with the wildest squawks of mingled anger, grief and fear.</p>
          
@@ -98,7 +98,7 @@
          
          <p>The Mourning Dove builds about as flimsy a nest as any of his pals, and yet there seems to be plenty of Mourning Doves around these parts. He and his frau simply sling together a bunch of twigs in some horizontal crotch and then raise their young on the somewhat dubious platform. These nests are difficult to see, because they are so inconsequentially frail. Once found, you are bound to wonder how the eggs stay in the nest while Pa and ma are absent.</p>
          
-         <head>Find a Wood Pewee.</head>
+         </div><div><head>Find a Wood Pewee.</head>
          
          <p>To make the sport of nest-hunting worth while, with the distinct understanding that the nests are not to be disturbed, it might be a good stunt to challenge someone to locate a Wood Pewee nest.</p>
          
@@ -108,7 +108,7 @@
          
          <p>The Towhee, sometimes known as the Chewink, is not only one of the commonest and most beautiful birds hereabouts, but is likewise one of the cleverest nest-builders. He, with his good wife, construct a cozy nook of bark, grass and leaves, nearly invariably upon the ground under some fallen branch or dense bush. It is next to impossible to locate one of these nests unless you chance to flush the bird from the eggs, and this, also, is difficult, because the Towhee will stay by his guns until your foot seems fairly upon him - or her.</p>
          
-         <head>Towhee an Odd One.</head>
+         </div><div><head>Towhee an Odd One.</head>
          
          <p>This Towhee is called by that name because he says it, and is likewise termed Chewink because he says that too - in a very firm and precise manner. When you have once found the Towhee nest - if you are that lucky - the family will gather mighty near your head and protest most vigorously. The female is likely to pull that famous broken-wing stunt on you, to have you follow her away.</p>
          
@@ -116,7 +116,7 @@
          
          <p>One of the most trusting and persistent of nesters is the well known Brown Thrasher, oftener called Brown Thrush. He and his mate will take turns on the eggs most religiously and can scarcely be driven off. When finally flushed, the bird will fly no farther than ten feet, and will there "cuk-cuk-cuk" in an ecstasy of anxiety while one examines the nest. Brown Thrashers have actually been caught under hats while on the nest. Their's is a very heavy and substantial creation of twigs and rootlets, generally built in hedges, thickets or thornbushes. The Brown Thrasher nest is an easy mark for the Cowbirds.</p>
          
-         <head>Methods of Protection.</head>
+         </div><div><head>Methods of Protection.</head>
          
          <p>Birds have various and interesting ways of protecting their nests. Some employ brute force and others the keenest of strategy. For instance there is the Crested Flycatcher, fairly common here, which builds its home in a hole in a tree and invariably leaves a snakeskin hanging therefrom, as if to frighten intruders away. The Wood Thrush, beautiful soloist of our woodland, is likewise certain to have a piece of white cloth or a shred of white or brightly colored paper dangling from its nest, flapping a danger signal to the enemy.</p>
          
@@ -124,7 +124,7 @@
          
          <p>Every schoolboy is acquainted with the nest of the Baltimore Oriole, whose clever little sack is suspended from a swinging branch far up in almost any tree. Just how this swaying home survives the terrible storms and steady gales which sweep across Nebraska this year is hard to understand - but it does.</p>
          
-         <head>A Newspaper Bird.</head>
+         </div><div><head>A Newspaper Bird.</head>
          
          <p>The Red Eyed Vireo is a journalist at heart, for it weaves its tiny nest largely of newspaper fibres. This pretty little creation hangs in the fork of some tiny branch of a bush, cleverly hidden, a good deal like that of the Baltimore Oriole except that it is an "open face" affair, and not a sack.</p>
          
@@ -134,7 +134,7 @@
          
          <p>One of the freak nest-builders of this part of the country is the common Marsh Wren, which may be found about Carter lake every now and then. This bird builds a delightful sort of cocoon with a tiny hole in the side, in which many eggs are laid. The funny part about Mr. and Mrs. Marsh Wren is that they build several nests each year, seemingly just for practice, as they only rear their brood in one.</p>
          
-         <head>Horned Lark Common.</head>
+         </div><div><head>Horned Lark Common.</head>
          
          <p>The Horned Lark sings on the wing, and is said to be the only real lark in America, the Meadow lark being a base imitation. The Horned Lark nest has not been discovered as yet by the author of these lines, for it is merely a grass-lined hollow in some tiny gully, generally concealed by an overhanging stone or tuft of grass. Late in June we watched two Horned Larks feeding their young. They perched on a telegraph wire near the recently opened tract of Evanston near Elmwood park. One of them would soar upward until almost out of sight and then "volplane" downward at a terrific speed with some tiny bug or insect. The nest could not be located by watching the parent birds, but two of the young larks were found under little gullies where they had the appearance of muddy stones - so motionless was their pose. The youngsters had cleverly wandered away from the nest when danger was scented, probably advised by their somewhat astute parents.</p>
          
@@ -146,12 +146,12 @@
          
          <cit>
             
-            <bibl default="NO">August 8, 1915. <title>Omaha Sunday World-Herald</title> 50(45): 1-M. Includes five pictures of nests and four examples of mounted birds.</bibl>
+            <bibl default="false">August 8, 1915. <title>Omaha Sunday World-Herald</title> 50(45): 1-M. Includes five pictures of nests and four examples of mounted birds.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

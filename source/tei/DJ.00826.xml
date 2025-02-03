@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00826">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00826">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Sporting Tournament at Nebraska City and Bird-Murder.</title><title level="j">Omaha Weekly Herald</title><author>Globe, Lincoln.</author><date>1880-05-07</date><biblScope>15(32): 6. From the Lincoln Globe.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-08-08"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-08"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Sporting Tournament at Nebraska City and Bird-Murder.</head>
          
@@ -68,12 +60,12 @@
          
          <cit>
             
-            <bibl default="NO">May 7, 1880. <title>Omaha Weekly Herald</title> 15(32): 6. Results of the hunt in the May 14 issue; no details on birds.</bibl>
+            <bibl default="false">May 7, 1880. <title>Omaha Weekly Herald</title> 15(32): 6. Results of the hunt in the May 14 issue; no details on birds.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

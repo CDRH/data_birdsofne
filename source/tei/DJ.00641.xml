@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00641">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00641">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Ornithology and Its Relations to Horticulture.</title><title level="j">Omaha Daily Republican</title><author>Professor H. Culbertson. Nebraska Horticultural Society.</author><date>1878-01-30</date><biblScope>20(186): 2. Part I. January 31, 1878. Omaha Republican 20(187): 2. Part II. Paper presented at society meeting.</biblScope></bibl></sourceDesc>
       
@@ -43,7 +43,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Nebraska Horticultural Society Papers.</head>
          
@@ -57,29 +57,29 @@
          
          <p>The relation of birds to the farmer, orchardist and gardener has wisely claimed considerable attention from the thinking persons in these employments. And well it may, since it is in many instances owing to birds that we are enabled to raise either fruit ot vegetables. They are nature's soldiers, to keep in subjection the great insect world. The influence which birds have upon the products of our country has received attention in almost every state in the Union. In many of them it has been a very important question especially in the more thickly and, longer settled ones. We read that at one time large portions of New England were devastated by the super-abundance of insects. laws were made prohibiting the killing of birds. Insectivorous birds were even imported to aid in the subjugation of the insects that were destroying the products of field, garden and orchard.</p>
          
-         <head>Magnitude of Losses.</head>
+         </div><div><head>Magnitude of Losses.</head>
          
          <p>Notwithstanding the great destruction caused by insects, there are very few who seem to realize in any degree the amount of injury done, much less what noble friends we have in the feathered tribes. When we read of a cattle-plague carrying off a few thousand head, or the hog-cholera destroying hogs by the thousand, the people become immediately alarmed and set vigorously to work to find a remedy. But these little insect pests work away fast or slow according to their number, and do an amount of injury that no epidemic has ever equaled. The annual loss from the depredations of insects in the United States is estimated by some at $400,000,000. In the state of Illinois the losses from the depredations of the chintz bug alone were $70,000,000 in a single season only a few years since. And many of us know by sad experience what the grasshopper is capable of doing here, and yet we know but little about them compared to what they have been in some other countries. There are isolated cases where great injury has been done by one species of insects. But there are smaller numbers of many species of insects that are constantly at work all over the country that do their work slowly, but it tells largely on the grand aggregate of our products. It is against them that we must work to secure the products of our soil. We must employ the least expensive and most efficient means to accomplish their destruction. From the experience of the past birds seem to be the most efficient workers that we have for the accomplishments of this great work.</p>
          
-         <head>Historical Instances.</head>
+         </div><div><head>Historical Instances.</head>
          
          <p>Frederick the Great, king of Prussia, seeing the cherries which he was so fond of being taken by the sparrows, at once ordered a general warfare on them, and offered a reward of about 15 cents a brace for all that were killed. Throughout Prussia the warfare was so vigorous against the sparrows that at the end of two years, not only cherries were missing, but almost all other fruits were destroyed, not by birds however. They had been killed by caterpillars, and their leaves completely stripped, and their places taken by immense numbers of insects. The king saw his mistake and retracted his decree, and was obliged to import sparrows at great expense. It was a dear lesson, but well learned. At one time France tried the experiment of repealing the bird laws, on the ground that the birds had destroyed a considerable quantity of fruit. The law being repealed, the people without any fear of law or land-holder, almost exterminated the birds. The result was soon manifest in the devastation of orchard, garden and fields by the insects which were thus allowed to increase without their natural enemies to keep them in check. Buffon relates a case in point that occurred on the isle of Bourbon, where some locusts were accidently introduced and became quite destructive to crops. Birds were introduced, somewhat like our crow-blackbirds, with good results. But the good they did was soon forgotten. The people saw them in the grainfields and supposed they were destroying their crops. The birds were accordingly killed. In a few years insects became so plenty that the crops were destroyed and they were obliged to import birds again for protection. But this time the people were wise enough to pass severe laws against the destruction of birds, and thus prevent a repetition of their destruction. The legislature of Connecticut at one time offered a bounty for bird-scalps, and three years afterward they had no fruit on account of insects. Another legislature repealed the act and offered a premium for the introduction of birds. Such instances might be multiplied, but these are sufficient for our purpose.</p>
          
-         <head>Rapid Increase of Insects.</head>
+         </div><div><head>Rapid Increase of Insects.</head>
          
          <p>The importance of the bird question becomes more apparent when we know with what rapidity many insects increase when unchecked by their enemies. A few examples will illustrate. The queen-bee, though not an injurious insect, lays in a season from 70,000 to 100,000 eggs-frequently, 1,500 per day for a few weeks. The whole number that may be laid by one queen in her life time, is from 300,000 to 500,000. One pair of grain-weevils have been known to produce 6,000 from April to August. The tent caterpillar that infests our apple trees produces from three to four hundred. To cap the climax of marvelous fecundity of insects we give that of the plant-louse. Under the most favorable circumstances, one louse in six generations is capable of being the progenitor of 6,000,000,000, and when it is considered that there may be twenty generations in one season, their fecundity passes into numbers far beyond our comprehension. Again, the importance of the subject is forcibly illustrated by the immense</p>
          
-         <head>Number of Species of Insects.</head>
+         </div><div><head>Number of Species of Insects.</head>
          
          <p>It is estimated that there are 300,000 in the United States. Some English authorities place the number in England at an average of six to each plant. Flint, of Massachusetts, estimated the number in that state as four kinds to each plant. Of the entire number of insects one-fourth are considered as cannibalistic and destroy other insects; of the remainder a few are beneficial, but the larger part are injurious. In our own state, according to Professor Aughey's investigations there are 150 species of insects that infest forest and cultivated trees. The apple, pear and peach have about 100; the grapevine has 35 injurious insects.</p>
          
-         <head>II.</head>
+         </div><div><head>II.</head>
          
          <head>Insectivorous Fowl and Their Haunts.</head>
          
          <p>Since we have so many species of insects, and some of them increase at such rapid rates, it may be asked why they do not become so numerous every year as to destroy everything. That matter seems to have been wisely arranged by the author of the universe. We have seen that one means of keeping the balance is by the number of insects that live on others-some by eating them entirely, some as parasites and others by depositing eggs in or on the bodies of their fellows and thus large numbers are destroyed. The birds, as we have seen, also aid to an extent that we do not appreciate. They are ever active in their work. They take but one at a time, it is true, but their aggregate work is often surprising. It is than a part of our duty to</p>
          
-         <head>Increase This Army of the Feathered Tribe</head>
+         </div><div><head>Increase This Army of the Feathered Tribe</head>
 
 
          <p>for the protection of ourselves and others. If we but examine nature, we may find some suggestions that will aid. Where man has not interfered there is generally such a balance preserved that we see but few of any kinds of insects. Man has in many places destroyed the natural breeding places of the birds. When forests are cleared away thousands of little snug building places are destroyed. A few trees may be left standing in a field, but they are the favorite resorts of many kinds that are enemies to those that are beneficial, and these are destroyed. Again, storms have greater power in isolated trees and small groves, and thousands are destroyed by storms bending the trees and emptying the young birds on the ground to perish. In prairie countries much is accomplished by planting groves to which they are attracted. The groves as they get older form excellent nesting places, and such places will have birds, while the farm without its grove or orchard will have but few. We have often thought of the difference between a home on the prairie surrounded by a grove, and one that had none. In the one place, on every beautiful spring and summer morning, the birds are singing merrily, making the place pleasant to every one that has a spark of the love of nature in him; while in the other place with no trees it is as still as death, and to one coming from a place of birds it seems as though some one was dead. We well remember our first spring in Nebraska; no cheering song birds were heard to make the scene attractive-no sound but the mournful "toom" of the prairie chicken was heard.</p>
@@ -89,22 +89,22 @@
          
          <p>Civilization has by another method been the means of increasing the number of insects. We have provided the most favorable means of insect development, while in a large portion of our country we have destroyed the natural breeding-places of the birds. We have increased the facilities for insect-development, by cultivating plants of the same kind close together, thus giving them their food more convenient for them than they formerly found it in nature's system of scattering and intermingling all kinds together. This may be illustrated as follows: Suppose that we wish to feed 100 chickens, and it takes a peck of grain to satisfy the, when thrown on the ground; but suppose the peck of grain were scattered over 100 acres and they were required to go over that area to get their food-we can readily see that many of them would soon perish of hunger. But this is the way we find the plants and their enemies related more or less in nature, and we have been the means to bring their food nearer to them by cultivating in fields. This of course we cannot avoid, but it suggests to us more emphatically the necessity of increasing the number of birds and insect-enemies. The important question to many in connection with this subject, is</p>
          
-         <head>What Birds Ought We To Encourage?</head>
+         </div><div><head>What Birds Ought We To Encourage?</head>
          
          <p>There are some that we entertain no doubts as to their utility in destroying insects; there are others that seem to do much injury themselves, and would seem to be not very useful. But there are many more useful ones than we might at first suppose. There are exceeding few of our Nebraska birds but are great insect-destroyers. Some of them, it is true, take some fruit for the services they render in keeping off insects; others take some grain; but they are not particular about taking the cultivated grain, and they frequently do us much good by taking the seeds of weeds much more than we might suppose. Even the purely gramniverous birds do us much service in the destruction of great quantities of noxious weed seeds. For the destroying of insects we would begin our list of birds by taking the</p>
          
-         <head>Domestic Fowls.</head>
+         </div><div><head>Domestic Fowls.</head>
          
          <p>Around the farm-buildings is a favorite place for insect development, and there we would keep our chickens. The number of grubs, bugs, etc., that a flock of chickens will consume in a season we think but few appreciate. Suppose the common number of 20 chickens are kept on the farm and that they only consume 20 insects each day for a season of 150 days. This would amount at the end of that time to over 72,000 actually consumed to say nothing about the many thousands more that were thus prevented from breeding. These taken from a few acres about the house must do much to keep the insects in subjection about the buildings. Then instead of begrudging them their few grains of corn per day we should gladly encourage them for consuming our insects. Turkeys-perhaps still more objectionable to some-we would have on our list. Allen in his "New American Farm Book," makes the assertion that a young turkey will destroy its weight of grasshoppers every three days. They take a wide range and the food of the young, especially, is largely of insects when they can get them.</p>
          
          <cit>
             
-            <bibl default="NO">January 30, 1878. <title>Omaha Republican</title> 20(186): 2. Part I. January 31, 1878. <title>Omaha Republican</title> 20(187): 2. Part II. Paper presented at society meeting.</bibl>
+            <bibl default="false">January 30, 1878. <title>Omaha Republican</title> 20(186): 2. Part I. January 31, 1878. <title>Omaha Republican</title> 20(187): 2. Part II. Paper presented at society meeting.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

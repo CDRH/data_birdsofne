@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00041">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00041">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Poem on Autumn Waterfowl Hunt near Pawlet].</title><title level="j">Omaha Sunday Bee</title><author>Madison, Peter.</author><date>1896-03-01</date><biblScope>page 15.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>[Poem on Autumn Waterfowl Hunt near Pawlet]</head>
          
@@ -246,12 +246,12 @@
          
          <cit>
             
-            <bibl default="NO">March 1, 1896. [Poem on fall waterfowl hunt near Pawlet.] <title>Omaha Sunday Bee</title> page 15.</bibl>
+            <bibl default="false">March 1, 1896. [Poem on fall waterfowl hunt near Pawlet.] <title>Omaha Sunday Bee</title> page 15.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

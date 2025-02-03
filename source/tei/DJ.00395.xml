@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00395">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00395">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">To Be Healthy and Wise Get Up With the Birds. Lessons in the Shades of Eventide as Well as Those in the Sunshine. After a Hot Summer Day How Welcome Is the Approach of Night.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1908-06-14</date><biblScope>43(37): 2-M.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-19">2006-06-19</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-19"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>To Be Healthy and Wise Get Up With the Birds</head>
          
@@ -82,12 +74,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. June 14, 1908. <title>Omaha Sunday World-Herald</title> 43(37): 2-M.</bibl>
+            <bibl default="false">Sandy Griswold. June 14, 1908. <title>Omaha Sunday World-Herald</title> 43(37): 2-M.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

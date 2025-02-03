@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00383">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00383">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Gun Club Banquet. The Most Successful Event of Its Kind Ever Held in Omaha.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1885-10-30</date><biblScope>p. 8.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-09-01"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-09-01"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Gun Club Banquet.</head>
          
@@ -63,7 +55,7 @@
          
          <p>Forty-two guests sat down at the annual banquet of the Gun club, which was held at the Millard hotel last evening. This number included besides the members of the club about a dozen invited guests. The table was set in oblong form and elegantly trimmed. At the head sat Mr. Jeff W. Bedford, with Hon. B.E.B. Kennedy and Judge Lake on his right and left respectively. Capt. Hughes occupied the opposite end, and ranged along either side were the remaining guests. The first duty before the assemblage was the discussion of the viands, which consisted of all the delicacies of the season, as will be shown by the following:</p>
          
-         <table width="300">
+         <table n="300">
             
             <row role="data">
                
@@ -162,12 +154,12 @@
          
          <cit>
             
-            <bibl default="NO">October 30, 1885. <title>Omaha Daily Republican</title> p. 8.</bibl>
+            <bibl default="false">October 30, 1885. <title>Omaha Daily Republican</title> p. 8.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

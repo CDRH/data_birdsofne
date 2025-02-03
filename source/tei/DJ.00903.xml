@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00903">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00903">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Thoughts That Come With a Perfect Autumn Day.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy and Sam Richmond.</author><date>1916-10-01</date><biblScope>52(1): 3-S. Story with poem.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Thoughts That Come With a Perfect Autumn Day</head>
          
@@ -150,12 +150,12 @@
          
          <cit>
             
-            <bibl default="NO">October 1, 1916. <title>Omaha Sunday World-Herald</title> 52(1): 3-S.</bibl>
+            <bibl default="false">October 1, 1916. <title>Omaha Sunday World-Herald</title> 52(1): 3-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

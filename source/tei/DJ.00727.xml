@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00727">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00727">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Reports of Abundant Upland Game Birds in the West].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-08-07</date><biblScope>33(311): 24. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Reports of Abundant Upland Game Birds in the West </head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. August 7, 1898. [Reports of Abundant Upland Game Birds in the West.] <title>Omaha Sunday World-Herald</title> 33(311): 24. Forest, Field and Stream.</bibl>
+            <bibl default="false">Sandy Griswold. August 7, 1898. [Reports of Abundant Upland Game Birds in the West.] <title>Omaha Sunday World-Herald</title> 33(311): 24. Forest, Field and Stream.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

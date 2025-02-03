@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00811">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00811">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Something About the Birds.</title><title level="j">Omaha Sunday Bee</title><author>Hub [pseud.].</author><date>1893-09-24</date><biblScope>page 18.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Something About the Birds.</head>
          
@@ -72,12 +72,12 @@
          
          <cit>
             
-            <bibl default="NO">September 24, 1893. <title>Omaha Sunday Bee</title> page 18.</bibl>
+            <bibl default="false">September 24, 1893. <title>Omaha Sunday Bee</title> page 18.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

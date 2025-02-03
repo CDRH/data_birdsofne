@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00386">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00386">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Habits of the Robin].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-03-19</date><biblScope>34(170): 21. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Habits of the Robin (1899)</head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. March 19, 1899. [Habits of the Robin.] <title>Omaha Sunday World-Herald</title> 34(170): 21.</bibl>
+            <bibl default="false">Sandy Griswold. March 19, 1899. [Habits of the Robin.] <title>Omaha Sunday World-Herald</title> 34(170): 21.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

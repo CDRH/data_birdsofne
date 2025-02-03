@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00766">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00766">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Duck Season Nears an End. Time for Killing Ends in This State Next Saturday. Few Omaha Hunters are Out. Tornado Keeps Many at Home Who Otherwise Might Have Enjoyed Some Shooting on Nebraska Waters.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1913-03-30</date><biblScope>42(41): 1-S.</biblScope></bibl></sourceDesc>
       
@@ -43,7 +43,7 @@
    <text>
 
       
-      <body>
+      <body><div>
 
          
          <head>Duck Season Nears an End</head>
@@ -60,7 +60,7 @@
          
          <p>A few good bags have been made this month, but a majority of the hunters have been returning with much below the limit. For the last week the Platte and Loup rivers have been filled with exceedingly large cakes of floating ice, which has made it next to impossible to hunt with any success or comfort. As soon as the rivers clear, however, providing they do so within the next few days, the latter moments of the duck shooting period should be exceptionally good, as the lesser ducks have yet to make their appearance in any numbers.</p>
          
-         <head>Jacksnipe Coming.</head>
+         </div><div><head>Jacksnipe Coming.</head>
          
          <p>The jacksnipe are just beginning to drop in and judging from the wide expanse of good feeding grounds made by the late rains and snows, the season should be exceptionally fine. The jacksnipe is recognized today as the rarest and most desirable of all our feathered game and consequently the gunners will be in clover. The open season on these little gallinagoes and their kindred, the yellowlegs, dowitchers, grass plovers and killdeers, continues on till May 1.</p>
          
@@ -68,12 +68,12 @@
          
          <cit>
             
-            <bibl default="NO">March 30, 1913. <title>Omaha Sunday Bee</title> 42(41): 1-S.</bibl>
+            <bibl default="false">March 30, 1913. <title>Omaha Sunday Bee</title> 42(41): 1-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

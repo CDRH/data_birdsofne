@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00429">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00429">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunting Geese and Ducks. The Village of Clarks and Its Notable Citizens. A Spring Morning on the Platte. Shooting Honkers From an Ice Blind—The Trip to Prairie Creek and the Sport That Was Enjoyed There.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1891-04-12</date><biblScope>20(293): 18. Portion of column.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-09-07"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-09-07"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunting Geese and Ducks.</head>
          
@@ -141,12 +133,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 12, 1891. <title>Omaha Sunday Bee</title> 20(293): 18. Portion of column.</bibl>
+            <bibl default="false">Sandy Griswold. April 12, 1891. <title>Omaha Sunday Bee</title> 20(293): 18. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00843">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00843">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Spring Is Coming [Horned Lark]. Jack Frost, Costumer.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-01-30</date><biblScope>56(16=18): 6-E. A bird editorial and outdoors editorial.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Spring Is Coming.</head>
          
@@ -60,7 +60,7 @@
          
          <p>It will do you a lot of good to go out into the open fields today and listen for the squeaky love-song of the horned lark, one of our most interesting birds.</p>
          
-         <head>Jack Frost, Costumer.</head>
+         </div><div><head>Jack Frost, Costumer.</head>
          
          <p>Jack Frost was costumer for Mother nature's winter children one night last week and my, how he must have worked! In the morning every branch, all the weeds, leafless heretofore, had the most beautiful crystal dress. On the tops of the cuts where the street cars ran were lines of fringy weed stalks, with pendent branches that nodded to the passengers as the cars went by, and tinkled a melody as they clashed together. They looked beautifully crystal-white against the gray sky, and above the steep clay bank where they stood. The tree branches rattled a gay greeting from the bank down which they formed a barricade. The pendent nest of a Baltimore oriole was surrounded by a crystal setting and a bunch of leaves that had valiantly clung to their bough were showing their russet brown through a glassy covering.</p>
          
@@ -68,12 +68,12 @@
          
          <cit>
             
-            <bibl default="NO">Editor [possibly Miles Greenleaf]. January 30, 1921. Spring Is Coming [Horned Lark]. <title>Omaha Sunday World-Herald</title> 56(16=18): 6-E. A bird editorial.</bibl>
+            <bibl default="false">Editor [possibly Miles Greenleaf]. January 30, 1921. Spring Is Coming [Horned Lark]. <title>Omaha Sunday World-Herald</title> 56(16=18): 6-E. A bird editorial.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

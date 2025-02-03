@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00276">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00276">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Fall Duck Shooting at the Lake Creek Marshes].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1901-12-08</date><biblScope>37(69): 23. Continues December 15, Sunday World-Herald 37(69): 23.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream</head>
          
@@ -138,12 +138,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. December 8, 1901. [Fall duck shooting at the Lake Creek marshes.] <title>Omaha Sunday World-Herald</title> 37(69): 23. Continues December 15, <title>Omaha Sunday World-Herald</title> 37(69): 23.</bibl>
+            <bibl default="false">Sandy Griswold. December 8, 1901. [Fall duck shooting at the Lake Creek marshes.] <title>Omaha Sunday World-Herald</title> 37(69): 23. Continues December 15, <title>Omaha Sunday World-Herald</title> 37(69): 23.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

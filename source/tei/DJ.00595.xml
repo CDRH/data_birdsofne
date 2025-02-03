@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00595">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00595">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Nebraska's Abundant Game.</title><title level="j">Forest and Stream</title><author>C. M. S.</author><date>1890-10-02</date><biblScope>35(11): 210.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-09"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-09"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,18 +47,18 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>Nebraska's Abundant Game.—South Omaha, Neb., Sept. 24.—last night, while eating supper, I looked out of the window and saw a covey of quail near my barn at the rear of the store. I got my gun and gave them a shot just as they were flushed by some boys, who had been chasing them up with slingshots. I never knew quail to be so plentiful as they are this fall. Last Saturday I saw several coveys of from twenty to forty birds. I cannot account for this, for no one pays any attention to the game laws. A month and more ago I met several parties on Sundays with quail and chickens among their bags of upland plover. The birds then were very small and hardly able to fly. Duck shooting has already begun; teal and mallards are here in large numbers. Some good bags were made last week at Honey Creek Lake and Stillwater. I expect to start Saturday on a ducking trip, and may have something to write about when I get back.—C. M. S.</p>
          
          <cit>
             
-            <bibl default="NO">October 2, 1890. <title>Forest and Stream</title> 35(11): 210.</bibl>
+            <bibl default="false">October 2, 1890. <title>Forest and Stream</title> 35(11): 210.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

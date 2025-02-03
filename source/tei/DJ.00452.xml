@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00452">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00452">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Industry, Patience and Alertness Requisites for the Student of Nature.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-01-29</date><biblScope>57(16=18): 15-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Industry, Patience and Alertness Requisites for the Student of Nature</head>
          
@@ -52,7 +52,7 @@
          
          <p>Of course, though, a vast deal depends upon your opportunities and advantages. To become a successful nature student one must be industrious, patient and alert - particularly the latter, and your interest be genuine, deep and abiding. There is nothing of the fad or caprice in the work. Nature cannot be studied either in a haphazard or perfunctory sort of way. One must be zealous and devoted in the pursuit of the knowledge he would attain, and in this quest, must cover as much territory as possible and penetrate all sorts o silent and out-of-the-way places. The wider the range the greater the possibilities. The object, too, will be much more readily obtained by the mastery of some good bird key - a scientific manual that will acquaint you with bird classification, and supply a truthful knowledge of the different families, the genera, species and sub-species; also give you both the common and scientific names and much about their individual and collective habits.</p>
          
-         <head>Good Treatise Valuable.</head>
+         </div><div><head>Good Treatise Valuable.</head>
          
          <p>A real bird student does not ignore some good treatise of this sort, even if their hopes are small of ever satisfactorily mastering the great study. While one should largely depend upon their own intelligence and discoveries, the help to e derived from the systematists will be found efficacious, indeed. The results of technical familiarity will likewise add much to that which comes naturally through your own efforts, and will be found a potent factor in the enlargement of your understanding.</p>
          
@@ -60,7 +60,7 @@
          
          <p>You are also apt to find it very trying on your faith and nerves, when you do meet a bird, which, you cannot place, by referring to the hazy storehouse of your memory, in pictorial or literature, you may have on your book shelf.</p>
          
-         <head>Field Glass Worth While.</head>
+         </div><div><head>Field Glass Worth While.</head>
          
          <p>A good field glass will be found of incalculable, in fact, indispensable, value, if you are able to possess one, for bear in mind that the study of birds, after they have been killed, as was the vogue of our earlier naturalists, is obsolete, in fact, almost universal taboo, excepting in cases of absolute necessity. Birds should be studied alive and in their native haunts, and in this, you will find a rarer, more charming and exciting pleasure.</p>
          
@@ -74,12 +74,12 @@
          
          <cit>
             
-            <bibl default="NO">January 29, 1922. <title>Omaha Sunday World-Herald</title> 57(16=18): 15-N.</bibl>
+            <bibl default="false">January 29, 1922. <title>Omaha Sunday World-Herald</title> 57(16=18): 15-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

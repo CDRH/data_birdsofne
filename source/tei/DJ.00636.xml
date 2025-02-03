@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00636">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00636">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,29 +32,21 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Omaha's Feathered Opera. Chat About the Birds that Will Make Life Brighter Very Soon. Members of the Woodland Choir. Thrush and Lark, Blue Bird and Jay Bird, Robin and Brown Thrasher, Woodpecker and Humming Bird and Their Kind.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous [?Sandy Griswold].</author><date>1891-04-12</date><biblScope>20(293): 10.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-09-07"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-09-07"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Omaha's Feathered Opera.</head>
          
@@ -116,12 +108,12 @@
          
          <cit>
             
-            <bibl default="NO">Anonymous [?Sandy Griswold]. April 12, 1891. <title>Omaha Sunday Bee</title> 20(293): 10.</bibl>
+            <bibl default="false">Anonymous [?Sandy Griswold]. April 12, 1891. <title>Omaha Sunday Bee</title> 20(293): 10.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

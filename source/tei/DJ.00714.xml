@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00714">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00714">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Rapid Disappearance of Native Birds].</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy, Sporting Editor.</author><date>1897-09-19</date><biblScope>p. 19.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-15">2006-06-15</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-15"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Ring-neck Pheasant—Rapid Disappearance of Native Birds (1897)</head>
          
@@ -62,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold, Sporting Editor. September 19, 1897. [Ring-neck Pheasant. Rapid Disappearance of Native Birds.] <title>Omaha Sunday Bee</title> p. 19.</bibl>
+            <bibl default="false">Sandy Griswold, Sporting Editor. September 19, 1897. [Ring-neck Pheasant. Rapid Disappearance of Native Birds.] <title>Omaha Sunday Bee</title> p. 19.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

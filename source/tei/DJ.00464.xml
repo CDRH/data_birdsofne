@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00464">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00464">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Jacksnipe Shooting in the Spring in the Omaha Vicinity].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1901-04-28</date><biblScope>36(210): 18.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -58,7 +58,7 @@
          
          <p>Few birds in the known world start so fierce a fire in the sportsman's heart as this little russet-colored rover of marsh and sky, whether springing with his strident cry from the oozy meadow at the dawn of spring, or heard high in the evening sky in the painted autumn time when he comes down from the chilling north. It makes no difference by which of his many names you call him. Jack, jacksnipe, Englishsnipe, Wilson snipe or common longbill, there is always an attraction and a charm about him that no true sportsman can resist. Much of this is in the defiant manner and seeming consciousness of superiority which lend so much charm to these lordly game birds, the Canada goose and sandhill crane. No gamer bird ever spread wing than our common little jacksnipe, and no greater marceau ever graced the table of gastronome or epicure. He not only equals the vaunted woodcock and universally admired quail, but in the delicacy of his flavor, in his intimitable succulency and delightful substantial qualities, he surpasses one and both of them, in fact, has no equal up or down the whole gamut of wild game, either domestic of foreign.</p>
          
-         <figure entity="AfternoonJacksnipeHunting">
+         <figure facs="AfternoonJacksnipeHunting">
             
             <figDesc>Caption: An afternoon with the jacks.</figDesc>
          
@@ -78,12 +78,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 28, 1901. [Jacksnipe Shooting in the Spring in the Omaha Vicinity]. <title>Omaha Sunday World-Herald</title> 36(210): 18. Portion of column.</bibl>
+            <bibl default="false">Sandy Griswold. April 28, 1901. [Jacksnipe Shooting in the Spring in the Omaha Vicinity]. <title>Omaha Sunday World-Herald</title> 36(210): 18. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00720">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00720">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Red-breasted Merganzer.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1913-01-19</date><biblScope>48(16): 2-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Red-Breasted Merganzer</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">William Greggs and Sandy Griswold. January 19, 1913. <title>Omaha Sunday World-Herald</title> 48(16): 2-S. Forest Field and Stream column.</bibl>
+            <bibl default="false">William Greggs and Sandy Griswold. January 19, 1913. <title>Omaha Sunday World-Herald</title> 48(16): 2-S. Forest Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

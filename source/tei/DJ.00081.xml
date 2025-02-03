@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00081">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00081">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Bird Notes Hard to Imitate; Nothing in Musical Art Quite Resembles Sounds of Nature.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-02-12</date><biblScope>57(17=20): 12-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Bird Notes Hard to Imitate; Nothing in Musical Art Quite Resembles Sounds of Nature</head>
          
@@ -56,7 +56,7 @@
          
          <p>With some birds a mastery of their calls will often enable the hunter to entice them back, but not so, the prairie chicken. The quail, however, is a bird easily lured and deceived by an imitation of their call, even by their "Bob, Bob White" in clover time, or their "oil-ee! oil-ee!" when the leaves are falling.</p>
          
-         <head>Bob White's Care in the Summertime.</head>
+         </div><div><head>Bob White's Care in the Summertime.</head>
          
          <p>Perchance there is little of the real love of nature in this, but no hunter will deny that his knowledge of the call of the birds has made him more profoundly conscious of the charms and witcheries of the great out-of-doors.</p>
          
@@ -68,13 +68,13 @@
          
          <p>But let me inform you, there is nothing in nature that resembles music. The suggestion of sustained sounds, which comprise a melody, is not heard in any bird song. There is constant portomenta, or sliding of sound, which blends one note with another, just as is done in human conversation, making a succession that may be highly pleasing, but it is not melody.</p>
          
-         <head>Music in the Call, Olee-ee! Oli-ee! ee! ee.</head>
+         </div><div><head>Music in the Call, Olee-ee! Oli-ee! ee! ee.</head>
          
          <p>And yet, in speaking of the quail, I must in a measure retract, for if there is any music in a bird's call, it is in that of Bob White. How the memory of the old time hunts must tingle the blood of the veteran sportsman. It surely does mine; though in all candor and truthfulness, I am today happy to know that the law in this state forbids their molestation. I can get thrill enough out of the memory of that strange and tender feeling that use to vibrate my being in the coming of the fall.</p>
          
          <p>When the almost solid green rammage of the woods up along the Old River Road, or along the Elkhorn, was yet untinged with gold; when the blue gentian had just begun to unfold its fringed petals, and down along the sedgy shores the chelone was opening its hoods of pinkish white, when from the slender spike of the linaria, still hung racemes of softest blue, and amidst the fluff of the fading thistles still gleamed the yellow and black of the goldfinch, was when that mystic emotion deepened in my heart with each recurring day. And then, finally, when, one evening, in the amber of a September gloaming, as you stood in the doorway of your farmer hunting host's cozy home, there came from the distant window, where the acrid berries of the sumach were darkening among their reddening leaves, came that music, yes, it was music - that "oil-ee! oil-ee! ee! ee!" that set your soul ablaze - the evening roll call of Bob White.</p>
          
-         <head>Cuckoo Almost Sings a Melody.</head>
+         </div><div><head>Cuckoo Almost Sings a Melody.</head>
          
          <p>But, really, what has nature done for us, or, more particularly, the musician? Well, I'll tell you. It has given us sound, not music. Nowhere does there fall upon our hearing, as we stroll through the wide world, such an arrangement of consecutive sounds as can be called a musical subject, or theme or melody.</p>
          
@@ -86,12 +86,12 @@
          
          <cit>
             
-            <bibl default="NO">February 12, 1922. <title>Omaha Sunday World-Herald</title> 57(17=20): 12-N.</bibl>
+            <bibl default="false">February 12, 1922. <title>Omaha Sunday World-Herald</title> 57(17=20): 12-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

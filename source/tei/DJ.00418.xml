@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00418">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00418">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -22,7 +22,7 @@
 
 
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -34,7 +34,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunters Expect a Harvest. Omaha Sportsmen Hie Themselves to Lake and Field. Ducks and Chickens Plentiful. Big Birds Put In an Appearance-Good Bags Are Looked For-Mrs. Stewart Accompanies Her Husband.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1912-10-13</date><biblScope>42(17): 4-S.</biblScope></bibl></sourceDesc>
       
@@ -44,7 +44,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunters Expect a Harvest</head>
          
@@ -82,12 +82,12 @@
          
          <cit>
             
-            <bibl default="NO">October 13, 1912. <title>Omaha Sunday Bee</title> 42(17): 4-S.</bibl>
+            <bibl default="false">October 13, 1912. <title>Omaha Sunday Bee</title> 42(17): 4-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00102">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00102">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Birds are Returning to Their Turner Park Home.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-04-30</date><biblScope>57(28=31): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Birds are Returning to Their Turner Park Home</head>
          
@@ -58,19 +58,19 @@
          
          <p>It is an abnormally large headed little bird, and bigger than either the white or redeye, with a blue gray turban and wing bars. In passing through, it moves about from tree to tree in an indolent manner, as if it didn't matter much when it reached the piney woods of the north. When it reaches its destination it is tuneful enough, in fact, lets go its joyous soul with as much freedom even, as its neighbor, the purple finch.</p>
          
-         <head>The Grackles.</head>
+         </div><div><head>The Grackles.</head>
          
          <p>The good old fashioned grackle. Well, he is almost everywhere, made extremely conspicuous by his ebony plumage and loquacious inclinations. Several pair nest in the low cedar trees in Turner park and are the delight of all the children, because they permit so much familiarity. They are among the earliest incomers from the south in the spring, many arriving in late February, excepting when the winter has been uncommonly severe.</p>
          
          <p>There are two kinds of grackle, the purple and the bronze, and both are frequenters here, the bronze fellow being the commonest and with us all summer. The difference, principally between the two, is in the brilliance of the iridescence of their black heads and backs, and ordinarily both are better know as crow blackbirds. They are the biggest black birds we have, with many of the Corvine characteristics. Their nests are a bulky mass of mud and grass, as compact as if made by a regular mason, and their flight is on a steady line, and much less wavey than others of its kind, while their call is lower and more husky than most blackbirds. Their lengthy tails are somewhat pointed, the inner feathers the shortest, and is keeled in flight, that is, it slopes from the center, giving it an odd look.</p>
          
-         <head>A Pair of Warblers.</head>
+         </div><div><head>A Pair of Warblers.</head>
          
          <p>We spoke about the black-headed warbler, a pair of which made a brief stop at Turner park a day or two since, as well as quite a number of the black and white warblers, which are familiar to all bird lovers. The bluehead, however, is known to but few, and his northern migrations are much commoner over eastern routes. By this time there must be many other kinds here or passing through, and later, after a little look around, we will try to tell you something of them.</p>
          
          <p>While we have many ornamental sycamores out along Farnam street in Turner park, it is not so often met with, excepting in sporadic sections out in the state. Therefore I was much interested to find it so really prolific, down along the old Missouri in the magnificent big woods of the Fontenelle Forest Reserve, walling up Camp Gifford of the Boy Scouts on the west, while on a little ramble down there Saturday, one week ago, with the Doctor himself. And that wasn't the only tree we found there that filled us with pleasurable delight, for there was the red and burr oak, the shellbark and pignut hickory, ashes, walnuts, hack berries and elms, which for size and grandeur, were almost breath-taking - and cottonwoods, too, a number of them that would require eight or ten men to span.</p>
          
-         <head>Sycamores at Best.</head>
+         </div><div><head>Sycamores at Best.</head>
          
          <p>But the sycamore - a favorite of our old Scioto boyhood days, with its many distinctive characteristics that make it so easy of recognition above all others, and just now to be seen at their best - now before the full enfoliation of the woods has eventuated.</p>
          
@@ -80,12 +80,12 @@
          
          <cit>
             
-            <bibl default="NO">April 30, 1922. <title>Omaha Sunday World-Herald</title> 57(28=31): 3-W. Spelling corrections made.</bibl>
+            <bibl default="false">April 30, 1922. <title>Omaha Sunday World-Herald</title> 57(28=31): 3-W. Spelling corrections made.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

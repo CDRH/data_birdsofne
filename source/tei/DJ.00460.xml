@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00460">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00460">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Jacks Have Gone.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1895-05-05</date><biblScope>p. 19.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-02"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-02"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,15 +47,15 @@
    
    <text>
       
-      <body>
+      <body><div>
          
-         <figure entity="JacksHaveGoneSketch">
+         <figure facs="JacksHaveGoneSketch">
             
             <figDesc>Snipe Shooting—The Jacks Have Gone hunter dog and game.</figDesc>
          
          </figure>
          
-         <head>The Jacks Have Gone.</head>
+         </div><div><head>The Jacks Have Gone.</head>
          
          <p>It is now safe to say that the spring shooting is practically over and the hammerless, so far as sport afield is concerned, can be oiled up and stored away until late in the summer, when the upland plover come in. The main body of wild fowl has been gone for weeks and the last of the jacks have departed within the last week, and no more will we hear his thrilling "skeap!" until the golden days of October once more break upon the world.</p>
          
@@ -75,12 +67,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. May 5, 1895. <title>Omaha Sunday Bee</title> p. 19.</bibl>
+            <bibl default="false">Sandy Griswold. May 5, 1895. <title>Omaha Sunday Bee</title> p. 19.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00167">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00167">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Chickadee at Elmwood Appreciates a Convenient Larder.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous: Miles Greenleaf and Billy Marsh.</author><date>1917-02-11</date><biblScope>52(20): 1-M, 3-M. Includes two pictures of a chickadee at the suet feeder.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Chickadee at Elmwood Appreciates a Convenient Larder</head>
          
@@ -73,12 +73,12 @@
          
          <cit>
             
-            <bibl default="NO">Anonymous. Miles Greenleaf and Billy Marsh. February 11, 1917. <title>Omaha Sunday World-Herald</title> 52(20): 1-M, 3-M.</bibl>
+            <bibl default="false">Anonymous. Miles Greenleaf and Billy Marsh. February 11, 1917. <title>Omaha Sunday World-Herald</title> 52(20): 1-M, 3-M.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

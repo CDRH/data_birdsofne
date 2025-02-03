@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00233">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00233">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">O, You Duck Hunt.</title><title level="j">Omaha Sunday World-Herald</title><author>Love, Ray E.</author><date>1911-02-02</date><biblScope>46(19): 10-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>O, You Duck Hunt.</head>
          
@@ -172,12 +172,12 @@
          
          <cit>
             
-            <bibl default="NO">February 2, 1911. <title>Omaha Sunday World-Herald</title> 46(19): 10-N.</bibl>
+            <bibl default="false">February 2, 1911. <title>Omaha Sunday World-Herald</title> 46(19): 10-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

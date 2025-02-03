@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00316">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00316">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,29 +32,21 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Flock of Bald Eagles. A Bunch of Fifty of These National Birds Seen Near Walker's Island.</title><title level="j">Omaha Weekly Herald</title><author>Maber, Nick.</author><date>1883-04-06</date><biblScope>18(27): 2. From the Sioux City Journal. Also in the Omaha Daily Republican April 6th.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
    
 
-<revisionDesc>
-<change>
-  <date value="2005-08-01"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-01"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
 
 
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Flock of Bald Eagles.</head>
          
@@ -76,12 +68,12 @@
          
          <cit>
             
-            <bibl default="NO">April 6, 1883.<title>Omaha Weekly Herald</title> 18(27): 2.</bibl>
+            <bibl default="false">April 6, 1883.<title>Omaha Weekly Herald</title> 18(27): 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

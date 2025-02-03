@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00274">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00274">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Fabled Days of Old in the Platte Valley. All Worldly Cares Went Whirling Skyward in the Vortex of Flame and Sparks From the Camp Fire.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1905-03-26</date><biblScope>40(177): 18. Picture of Griswold included with byline. Originally published 25 February 1900.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Fabled Days of Old in the Platte Valley</head>
          
@@ -68,12 +68,12 @@
          
          <cit>
             
-            <bibl default="NO">March 26, 1905. <title>Omaha Sunday World-Herald</title> 40(177): 18. Picture of Griswold included with byline. Much of story originally published 25 February 1900.</bibl>
+            <bibl default="false">March 26, 1905. <title>Omaha Sunday World-Herald</title> 40(177): 18. Picture of Griswold included with byline. Much of story originally published 25 February 1900.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

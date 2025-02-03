@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00925">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00925">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Day With the Uplands Makes the Blood Tingle. Out on Old Filmore's Fair Pastures, Where the Solidago Waves It's Golden Plumes.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1905-08-06</date><biblScope>40(310): 10.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-07-05">2006-07-05</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-07-05"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Day With the Uplands Makes the Blood Tingle</head>
          
@@ -130,12 +122,12 @@
          
          <cit>
             
-            <bibl default="NO">August 6, 1905. <title>Omaha Sunday World-Herald</title> 40(310): 10. Portion of column.</bibl>
+            <bibl default="false">August 6, 1905. <title>Omaha Sunday World-Herald</title> 40(310): 10. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

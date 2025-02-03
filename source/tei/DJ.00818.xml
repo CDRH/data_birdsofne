@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00818">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00818">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Song of the Western Brook. Blood in the Anglers' Veins Again Stirred by the Music.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1894-07-22</date><biblScope>p. 7. Includes two small sketches.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-11"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-11"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,13 +47,13 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Song of the Western Brook</head>
          
          <head>Blood in the Anglers' Veins Again Stirred by the Music.</head>
          
-         <figure entity="SongWesternBrook">
+         <figure facs="SongWesternBrook">
             
             <figDesc>Song of the western brook paragraph sketch.</figDesc>
          
@@ -71,7 +63,7 @@
          
          <p>Hay and wheat have been cut and the fairy golden rod nods its yellow furzy plumes to the gentle winds that perennially waft Nebraska's broad prairies, and the upland plovers are in and gorging themselves with seed, kernel and insect.</p>
          
-         <figure entity="SongWesternBrookPlover">
+         <figure facs="SongWesternBrookPlover">
             
             <figDesc>Song of the Western Brook plover sketch.</figDesc>
          
@@ -79,24 +71,24 @@
          
          <p>The upland plover is a glorious little fellow, in his gray mottled plumage, and is the one legitimate game bird that affords a break in the weary monotony of the close season between the departure of the ducks and snipe in April to the time when the chicken and grouse are lawful prey in August. His stay, however, is short-lived. He comes in about the 12th of July and remains and waxes fat until probably the 10th of August, when he once more spreads his long pointed pinions and continues his way on to the clime that knows no frost. So the sportsman that profits by this brief visit must be on the move early and late, and from the signs of the times it looks as if not many intend to let the opportunity pass unimproved. The club men are always delighted at the thought of once more turning from the artificial target to try their luck and skill on real flesh and feathers, the only true sport when you come right down to facts.</p>
          
-         <head>Across Odorous Meadows.</head>
+         </div><div><head>Across Odorous Meadows.</head>
          
          <p>Who can mention anything to compare with a day with a dog and gun. What is half so stirring, so healthful, so grand and exhilarating? A ramble through the golden wheat stubble and over the emerald hillside, with its burning yellows reds and blues, for upland plover even in these blistering days of July; a tramp across breezy and odorous meadow, or a morning or evening in the grassy valleys, with the multifarious perfumes of blooming land and gurgling stream; the music of the Bartramian's throat and wing; the flutter and life of the cicadae, or the thrilling song of the thrush or tanager filling the air all about you. Avaunt, with range and trap, with their petty jealousies and bickerings over competitive scores, when these intenser pleasures are spread before you with beneficient hand. It is always the same with the lover of nature—the true sportsman. His proclivities are inherited and inbred, and successful or unsuccessful in filling bag or creel, with gun or rod, he would not exchange one day's sweet commune with all outdoors, such as are his on days like these, for weeks and months at the scratch behind a trap loaded with a pigeon or blackbird made of asphaltum and clay. Once a sportsman, always a sportsman, and the whole twelvemonth contains no joy so great to him as the hour when he dons the picturesque habiliments of the field and sallies forth to try his dexterity on fin, fur or feather.</p>
          
          <p>Strictly speaking, the bird is not a plover, but that is neither here nor there, so long as we all recognize him by that name. They arrive here, as I said, 'long the second week in July and remain a short month. They breed from the latitude to the Saskatchewan and spend the fall and winter months across the borders of Mexico. When they come in here, the southern limits of their breeding grounds, from the north, they frequent mostly the wide upland downs and pastures where the turf has been cropped short by cattle, and where they experience little trouble in pursuit of seed or insect. Fallow fields, newly plowed grounds and cut hay lands are also favorite resorts, but it is useless to look for them near marshes or in wet low lands, for there is nothing maritime in their habits, wherein they differ from all true plover. It loves the open fields and cattle pastures where there is an abundance of the insect food on which it fattens, beetles, small coleopterous flies, grasshoppers and in the freshly upturned wheat fields, where worms, snails and grubs are to be found.</p>
          
-         <head>Haunts of the Bird.</head>
+         </div><div><head>Haunts of the Bird.</head>
          
          <p>The bird is suspicious, wary and shy, although it haunts scenes of domestication, and follows stock as naturally as a dog follows his master. They are difficult to approach on foot, and invariably flush at long range, say from forty-five to sixty yards, which, however, renders the sport keener, more deceptive and alluring. They go in scattered flocks and when rising from their feeding grounds go off stragglingly, one or two at a time, and in different directions, wheeling unexpectedly, vaulting and flying erratically over and about the field in which they were flushed, or arching on but a few hundred yards and alighting again. It is during this idiotic flight of their's that they are easiest killed, as they are as apt to come back right over you, emitting at short intervals that melodious and plaintive whistle as they are to dart by out of gun shot. This is a habit I have noticed in all the upland scolopacidae, never flying in large bodies like the redbreasted snipe, golden plover or other maritime birds of like appearance and structure. Their whistle is extremely mellow and sweet, and they send it forth both when running and flying. It is very deceptive and apt to fool the sportsman, as it has a remarkable quality of appearing to be sounded close at hand when in reality it is a long ways off. It sounds the same anywhere within a distance of a thousand yards. It is this note that generally informs the eager gunner that he is on the right scent, also that he is a moment or so too late, for on sounding this whistle at the approach of the enemy, the wary bird invariably takes wing. If wing-tipped the bird should be gathered before pursuing others, for they are extremely swift of foot and can hide on the meadow or in the plowed field in a way that is highly exasperating. Their beautiful mottled plumage assimilates closely with the different tinged grasses or herbs, or the dull soil of the parched plowed ground.</p>
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. July 22, 1894. <title>Omaha Sunday Bee</title> p. 7. Includes two small sketches.</bibl>
+            <bibl default="false">Sandy Griswold. July 22, 1894. <title>Omaha Sunday Bee</title> p. 7. Includes two small sketches.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

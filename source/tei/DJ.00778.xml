@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00778">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00778">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Shooters After Wild Fowl. Open Water and the Spring Flight Brings Out the Gunners in Numerous Force.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1903-03-15</date><biblScope>page 11.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Shooters After Wild Fowl</head>
          
@@ -64,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">March 15, 1903. <title>Omaha Sunday Bee</title> page 11.</bibl>
+            <bibl default="false">March 15, 1903. <title>Omaha Sunday Bee</title> page 11.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

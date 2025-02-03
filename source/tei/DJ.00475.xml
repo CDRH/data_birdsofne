@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00475">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00475">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The King of the Forest. Cherries and Wild Plums.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1922-09-17</date><biblScope>57(48=51): 14-E. Two nature editorials.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The King of the Forest.</head>
          
@@ -54,7 +54,7 @@
          
          <p>And we leave it to the squirrels to live in and love them.</p>
          
-         <head>Cherries and Wild Plums.</head>
+         </div><div><head>Cherries and Wild Plums.</head>
          
          <p>When Nebraska was young every stream was lined with wild plum bushes and the yield was larger than at any time since, say those who lived here in pioneer days. Equally were the valleys and hillsides covered with thick growths of wild cherries. The pioneers and the redmen gathered and prepared these two wild fruits in quantities for winter use. Then came civilization on a larger scale and both cherries and plums became scarcer as time passed, until today large plum patches and wild orchards of cherries are gone from the eastern and middle sections of Nebraska. Small plum patches and a few wild cherry bushes still remain. In the western part of the state plums and cherries, and grapes as well, are yet to be found in quantities.</p>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">Editor [possibly Miles Greenleaf]. September 17, 1922. <title>Omaha Sunday World-Herald</title> 57(48=51): 14-E. Two nature editorials.</bibl>
+            <bibl default="false">Editor [possibly Miles Greenleaf]. September 17, 1922. <title>Omaha Sunday World-Herald</title> 57(48=51): 14-E. Two nature editorials.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

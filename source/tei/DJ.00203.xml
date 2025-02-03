@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00203">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00203">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Crows Herald the Coming of Spring].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1902-04-13</date><biblScope>37(195): 18. Portion of Forest Field and Stream column.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-20">2006-06-20</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-20"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest Field and Stream</head>
          
@@ -72,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">April 13, 1902. [Crows Herald the Coming of Spring]. <title>Omaha Sunday World-Herald</title> 37(195): 18. Portion of column.</bibl>
+            <bibl default="false">April 13, 1902. [Crows Herald the Coming of Spring]. <title>Omaha Sunday World-Herald</title> 37(195): 18. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

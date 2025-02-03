@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00110">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00110">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Birds Welcome First Bright Day With Song.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1923-07-01</date><biblScope>58(40): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Birds Welcome First Bright Day With Song</head>
          
@@ -56,7 +56,7 @@
          
          <p>The bird was unquestionably fly-catching, for on diverse occasions we saw it nab an insect in the air, return to its running board, lay it down, peck it once or twice, and then gulp it down with evident relish, and continuing its running backwards and forwards in quest of some or the same sort.</p>
          
-         <head>Not True Flycatchers.</head>
+         </div><div><head>Not True Flycatchers.</head>
          
          <p>It is well known that there are quite a number of birds which are not scientifically recognized as true fly-catchers, but are inordinately fond of varying their menu with these flying-atoms of the air.</p>
          
@@ -70,7 +70,7 @@
          
          <p>The true fly-catchers, and we saw scores of them that Sunday morn, include the delightful tiny wood pewee, whose sad little plaint is all was greeting you in the quiet of the summer woods; the phoebe, who is prone to build its home beneath some old bridge or about the farms' outbuildings, is another, while the king bird, white-breasted, silvery piped, and bold, defiant and aggressive, is the bonafide monarch of them all. All of these varieties have large heads, bulky shoulders and, broad flat beaks, with hairy bristles, protruding from the base of their mandibles.</p>
          
-         <head>Our Busy Bee Bird.</head>
+         </div><div><head>Our Busy Bee Bird.</head>
          
          <p>The king bird will sit motionless, but always keenly alert, upon the top-most rail of an old fence, tall mullein stalk or other perch of vantage, until some unwary insectivorous victim comes whirring within the boundaries of his pasturage, when out he darts in pursuit. So adept is he, that it is many seconds before he has overtaken his quarry, seized it in the air, with an audible click of the bill, and in a sweeping curve returns to his watchtower to enjoy the fruits of his prowess.</p>
          
@@ -78,12 +78,12 @@
          
          <cit>
             
-            <bibl default="NO">. July 1, 1923. <title>Omaha Sunday World-Herald</title> 58(40): 3-W. Period word spellings corrected.</bibl>
+            <bibl default="false">. July 1, 1923. <title>Omaha Sunday World-Herald</title> 58(40): 3-W. Period word spellings corrected.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

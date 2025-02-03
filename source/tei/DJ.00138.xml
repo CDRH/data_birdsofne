@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00138">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00138">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">How It Came About that so Many English Sparrows are Swarming in Omaha These Days.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1878-01-25</date><biblScope>20(182): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>How It Came About that so Many English Sparrows are Swarming in Omaha These Days.</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">January 25, 1878. <title>Daily Republican</title> 20(182): 4.</bibl>
+            <bibl default="false">January 25, 1878. <title>Daily Republican</title> 20(182): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00700">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00700">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Protection of Game Birds].</title><title level="j">Omaha Sunday Bee</title><author>Samaba.</author><date>1897-02-14</date><biblScope>p. 7.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-15">2006-06-15</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-15"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>Omaha, Feburary 11.—To the Sporting Editor of The Bee: There seems to be no reference in your columns to house roll No. 27, by Grimes of Holt county, a bill introduced to prohibit in Nebraska the shooting of all kinds of feathered game for the term of five years. While perfectly willing to admit that the law would be attractive, if applied and actually enforced in regard to prairie chickens, I cannot concede that any necessity, expediency or advisability exists for the protection of the principal game, ducks, geese and quail. The Nebraska quail, while a hardy bird, capable of enduring almost any class of weather, still succumbs in large numbers to the effects of snow and ice combined, and the increase and propagation of this desirable game bird has been very little regarded by the onslaught of city and country sportsmen. The present game law, while covering a great many defects, is a dead letter and always will be without the provision of a game warden, whose duty if should be to see that the law is properly enforced.</p>
          
@@ -62,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">February 14, 1897. [Protection of Game Birds.] <title>Omaha Sunday Bee</title> p. 7.</bibl>
+            <bibl default="false">February 14, 1897. [Protection of Game Birds.] <title>Omaha Sunday Bee</title> p. 7.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00663">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00663">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Perilous Pleasure. Aside From Its Fascinations, Duck Hunting Has a Host of Ever Present Dangers. Good Advice to Young Sportsmen, Based on the Experience of an Old Hunter.</title><title level="j">Omaha Daily Republican</title><author>Anonymous.</author><date>1885-11-01</date><biblScope>page 5.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-09-01"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-09-01"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Perilous Pleasure.</head>
          
@@ -69,36 +61,36 @@
          
          <p>Omaha has always been noted for the number of young men who are excellent shots, and who like nothing better, when opportunity offers, than a duck-hunting expedition, in many instances extending their trips to neighboring states in pursuit of the noble mallard, delicate teal, sturdy red-head, and the dozen other varieties in which the west abounds during the season. These enterprising and successful young hunters will tell you that duck-hunting is a very fascinating sport, and they will add, if they happen to be in a pensive mood, that it is a terribly dangerous sport. The dangers of duck-hunting are manifold. Generally speaking, when a hunter enters the haunts of the wild ducks he is beyond the reach of aid, and must "sink or swim, survive or perish," by his own unaided efforts. Once into the wilds of the marshes, he is in danger of being drowned, shot and lost,—one and all.</p>
          
-         <head>Danger of Drowning.</head>
+         </div><div><head>Danger of Drowning.</head>
          
          <p>His safety depends on his keeping in his boat, and keeping his boat whole. This is no easy task. Many a man who can manage well a boat with oars in open water is subjected to an entirely new experience when he attempts to guide a frail, narrow, flat-bottomed hunting-skiff against the current of a river or through the mazes of a swamp. In many places he must stand erect, propelling his skiff by a long paddle or push-pole. As he poles his boat along, one moment his pole rests on firm bottom, and the next he is in deep water or the pole sinks into fathomless mud. Should he be unfortunate enough to lose his balance and fall in the chances are decidedly against him. He is heavily clad, wears rubber hip-boots, the water is cold, and even if the water be not over his head, there is no bottom. The fathomless mud of the marshes, which holds many a good gun, and the bones of many a brave man, affords no footing, and once in it, there is no escape. The treacherous, clinging grass of the marsh and the river-bank is scarce less deadly, fastening like the arms of the cuttle-fish to the limbs of the struggling swimmer, and dragging him down to the mud below, from which even his body will never be rescued. If he is careless with his gun, and shoots a hole in his boat, his plight is serious. If in deep water it will sink with him, and if in the marsh he must wait until his ingenuity can repair it or help arrives. If he shoots while in an awkward position in his boat, he may be tipped over by the recoil of his gun. If he wade into the marsh—this is possible in places—instead of going into a boat, his danger is almost as great. A single step may plunge him into a hole from which there is little chance of him extricating himself. The following occurrences, strictly true and of recent happening, will illustrate the danger of drowning:</p>
          
-         <head>Hair-breadth Escapes.</head>
+         </div><div><head>Hair-breadth Escapes.</head>
          
          <p>A young man, a member of the Omaha Gun club, waded into the marshes during the recent club hunt, after a duck which had fallen beyond the reach of his boat, taking his paddle with him. He stepped into a mud hole, and would have disappeared forever from sight had he not thrown his paddle across two tufts of marsh grass. His shouts attracted the attention of his companions, who arrived just as the water was up to his chin. He was rescued only by the most intelligent and strenuous effort, his companions pulling him out of his rubber hip-boots, which stuck fast in the mud.</p>
          
          <p>A minister, whom we may hear any Sunday in an Omaha pulpit, was hunting last fall with two companions. A sudden wind raised a heavy sea, which swamped their boat, sinking it bodily under them. They happened to be in four feet of water on the sandy side of the lake. Had the accident happened on the other side they would have drowned.</p>
          
-         <head>Keep Your Eye on the Gun.</head>
+         </div><div><head>Keep Your Eye on the Gun.</head>
          
          <p>The danger of being shot is also great—shot by the hunter's own carelessness, for it is no child's play to handle a double-barrelled shot-gun in a hunting boat,—and shot through the carelessness of other hunters. At certain seasons the marshes are alive with green hunters from the cities, who know nothing about shooting and who shoot at anything and everything. Many of them take along a rifle of large calibre and bang away at everything within sight. The writer once saw a man who was shooting with a rifle in the Florence swamps, driven at the muzzle of a half a dozen guns out of the marsh by enraged hunters, about whose ears his bullets had been whistling. When it is remembered that many of these men are so green they will shoot two barrels into a flock of wooden decoys, even when they see the hunter who owns them near by, it will be seen that there is no slight danger from the careless discharge of firearms in the hands of others. It would require too much space to enumerate a small part of the accidents which happen every year from the careless handling of guns while hunting in the marshes; one instance will do. Not long ago, at Blair, a man in getting out of his boat at evening pulled his gun out of the craft by the muzzle. The hammers caught and came down upon the cartridges, but they failed to explode. Two days later the same man did the same thing. This time they both exploded, tearing a hole in him large enough to stuff a hat in. His identity was never established.</p>
          
-         <head>Lost in the Marsh.</head>
+         </div><div><head>Lost in the Marsh.</head>
          
          <p>Last fall a young hunter from Omaha became bewildered and lost his way, and this is what he says about his experience: "I started into the marsh, just after they had found that dead man lying over his gun, face down in the mud. I've hunted a good deal, and I didn't think I could get lost. When I went in, I took my bearings carefully. I struck some good shooting, and it was dark before I knew it. I started home in what I thought to be the right direction, picking my way carefully and keeping a sharp lookout for mud-holes. By and by I struck a path and stepped out briskly, thinking I was all right. I walked for an hour or two and began to feel tired, being loaded with a gun, heavy hip-boots, and about a dozen mallards. All of a sudden it flashed across me that I had passed a certain muskrat home before, and that I was walking in a circle. I tell you the blood just curdled in my body. It was about 8 o'clock, and freezing cold. I knew it was sure death to stay in the marsh all night. I dropped a wad-box in the path, and kept on, trying to keep my courage up. By and by, when I had been walking perhaps twenty minutes, there lay the wad-box in the path. I thought of the dead man found the day before. I am a cool hand generally, and thought, my staying qualities were first-class, but I tell you the knowledge that I was lost in the marsh, and in all probability beyond the reach of aid, paralyzed me completely—took every particle of grit out of me. I could see dead men all around me, and I just began to holler for all I was worth and shot off my gun. Fortunately I had plenty of shells, and shot my gun every few minutes and yelled until my voice gave out. Just as I was giving up hope—I had only three shells left—I heard a faint hello. Sweet! It was an angel's voice, straight from heaven. I yelled again and fired both barrels, one after the other. By and by I saw the glimmer of a lantern, and pretty soon an old gray-bearded man appeared. 'Well, what's the matter with you,' said he. 'I want to get out of this,' said I. "I can't say I blame you much,' said he. He showed me the path, and I tell you it wasn't forty feet from where I was standing. I had been walking in a circle for two hours. If he had demanded it I would have signed a contract for all I had or expected to make in the next year to get out of that marsh. The man was a queer old chap. When I left him I offered him a good-sized bill. 'No, sir,' said he gravely. "It's all right, and I don't want nothin'; but if I was you I'd say my prayers to-night; it ain't twice a year that a man is within hearin' distance of the place you was in when I heard you yellin' at this time o' night.'</p>
          
-         <head>Pointers.</head>
+         </div><div><head>Pointers.</head>
          
          <p>These experiences would seem to contain much good advice. Don't overload your boat, keep out of the way of fool hunters, keep in your boat, keep the muzzle of your gun above the water line of your skiff, get within familiar ground before dark, and above all things have a companion if possible within hearing distance. You may kill just as many ducks if you disregard these hints; but you run a great risk of not eating them. Always leave your name and address at the place where you get your boat. In case anything happens to you, your friends may at least know the worst, and there is nothing so bad as suspense.</p>
          
          <cit>
             
-            <bibl default="NO">November 1, 1885. <title>Omaha Daily Republican</title> page 5.</bibl>
+            <bibl default="false">November 1, 1885. <title>Omaha Daily Republican</title> page 5.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00208">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00208">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Days With the Ducks Among the Old Sand Hills.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1921-11-06</date><biblScope>57(6): 4-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Days With the Ducks Among the Old Sand Hills</head>
          
@@ -90,12 +90,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. November 6, 1921. <title>Omaha Sunday World-Herald</title> 57(6): 4-W.</bibl>
+            <bibl default="false">Sandy Griswold. November 6, 1921. <title>Omaha Sunday World-Herald</title> 57(6): 4-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

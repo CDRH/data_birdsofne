@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00617">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00617">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,28 +32,20 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Notes on Nebraska Birds.</title><title level="j">Ornithologist and Oologist</title><author>Taylor, W. Edgar and A.H. Van Vleet.</author><date>1888-04-01</date><biblScope>13: 49-51. Continues: November 1888, 13: 169-172; and November 1889, 14: 163-165.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-23"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-23"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
   
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Notes on Nebraska Birds.</head>
          
@@ -347,12 +339,12 @@
          
          <cit>
             
-            <bibl default="NO">April, 1888. Ornithologist and <title>Oologist</title> 13: 49-51. Continues: November 1888, 13: 169-172; and November 1889, 14: 163-165.</bibl>
+            <bibl default="false">April, 1888. Ornithologist and <title>Oologist</title> 13: 49-51. Continues: November 1888, 13: 169-172; and November 1889, 14: 163-165.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

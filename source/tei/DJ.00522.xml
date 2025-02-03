@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00522">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00522">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Dad and Mrs. Martin and Their Family Life. Bird Happiness and Domesticity as Seen From the Fontenelle Window. Beautiful Specimen of the Swallow Family in Douglas Street Domain.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1918-07-28</date><biblScope>53(43): 12-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Dad and Mrs. Martin and Their Family Life</head>
          
@@ -56,7 +56,7 @@
          
          <p>Monday last, in the golden glow of eventide, I watched, from my window high up in the Fontenelle, a pair of purple martins giving their four awkward, half clothed little fledglings, their first instructions in the art of aerial navigation. They had all alighted, papa, momma and the four kiddies, on the topmost railing of the iron sign on the roof of the Strand picture theater. It was evidently their first time abroad, and while we did not know where they came from, we knew that it must have been from the martinry up under the northern eaves of the City Hall, where a colony of martins have spent the summer, with the exception of one year, ever since the erection of this stately old castle, for I have kept note of them with unremitting care every season.</p>
          
-         <head>An Interesting Year.</head>
+         </div><div><head>An Interesting Year.</head>
          
          <p>But briefly let me tell you something about this, the largest, the most beautiful and interesting of all the swallow family, for nowadays a large proportion of our most devoted bird students know little about them, as they are not nearly as common as they were fifty years ago, or before the arrival of the irascible English sparrow, who, before the passage of many years, had taken possession of nearly every martin box and every martin rendezvous in the land, and from many localities they disappeared absolutely.</p>
          
@@ -68,19 +68,19 @@
          
          <p>Monday evening, when we first saw the birds on the top railing of the Strand sign, the four illy feathered youngsters were there alone. At the first glance I suspected they were fledglings by their uncertain flutterings to maintain their perch, and the timid cheepings they kept uttering. My binoculars soon convinced me that I was correct.</p>
          
-         <head>Daddy Martin Easy to Find.</head>
+         </div><div><head>Daddy Martin Easy to Find.</head>
          
          <p>While watching the daddy martin - one can tell him instantly by his svelte shape and dark plumage - veered in from the air somewhere, the youngsters flapping him a vigorous welcome. He quickly sidled up to the nearest baby, nudging him along, rather rudely, I thought, toward his brothers and sisters, and from the manner he was raising and dropping his ebony wings, I instinctively felt that he was trying to induce, the youngster to launch forth and try his wings. But the little fellow turned a deaf ear to all his blandishments, until the mother bird darted in from out of some where and actually butted him off the perch. Instead of fluttering and tumbling helplessly to the roof, as I looked for him to do, of the theater. He spread his streaked pinions and followed his mother, who had quickly swooped gracefully before him. After a turn or two up over Douglas street, with the male bird chirping encouragement close behind, they curved up and lit, in a great flutter, on the top of the Brandeis building. Once the little one was safely planted the two old birds opened up with a very fusillade of shrill, peremptory calls and chirpings as if endeavoring to coax the other youngsters across the tantalizing stretch of empty air between them and the Strand's top, and while the fledglings, on their part, stretched their scrawny, half naked necks, and flapped their wings, they refused to budge.</p>
          
          <p>Again the male bird sailed out into the open and as he swept in graceful curves around and over his timorous flock, they all set up a petulant clamor, and finally the old male suddenly dove and flicked the tip of his burnished wings in the very face of one of the babies, it tilted awkwardly forward, settled back, tilted again, and then launched its little form into space. Old daddy Martin saw it, and was quickly by its side, and so, did the mother, too, from the Brandeis roof, and while she also took to wing, she wisely left the pilotage to her liege lord. Down he curved, light as a zephyr, over the street, gamely followed by the youngster, down to within a few yards of the pavement itself. But this was too venturesome for the little one. He was too near the black asphaltum roadway, and the hurrying automobiles and pedestrians. The glare and blare and general movement disconcerted him, and appreciating his embarrassment the mother darted to his rescue. She checked him up short, and as he turned to rise, she mounted quickly above him and chirruped him up higher where he could see better and have more room.</p>
          
-         <head>A Cunning Mate.</head>
+         </div><div><head>A Cunning Mate.</head>
          
          <p>As he joined her, she swept around and over him in circles, whistling and piping advice and comfort, and then getting again fully under way, she curved up to the Brandeis roof, and together they nestled beside the first little adventurer.</p>
          
          <p>In the mean time Daddy Martin had returned to the couple on the Stand sign, where he was again urging one of the pair to make the plunge. ANd the mother, watching them from the roof top across the street, feeling, no doubt, that the babies needed maternal encouragement, she darts away, low down over Eighteenth street, and then, with a sharp up-slide gains the sign's railing on the theater roof, and once more butts one of the little ones off into space. With a cheery call she sets her wings and shoots downward over the roof, and passes swiftly over the street, valiantly followed, but somewhat laboriously, I imagined, anyway, by the baby. Whistling in his delight the male quickly follows, and the last of the fledgling quartet, probably frightened at the thought of being left alone on that dizzy height, simply falls off the railing, catches himself on outstretched wings, and righting himself, sails forth and along in daddy's wake just as if it wasn't any trick at all, and he had only been foolin' all the time.</p>
          
-         <head>Whole Family Lined Up.</head>
+         </div><div><head>Whole Family Lined Up.</head>
          
          <p>In a few moments the whole family was lined up on the edge of the Brandeis roof top, and the whole performance was gone over again and again, one youngster being taken at a time, and given his first instruction in aerial navigation. Back and forth in their studious maneuvers, between the Strand's tall sign and the Brandeis roof top and round-about they were kept busy by the parent birds for over an hour, but finally, as the shades of eventide deepened, once more they lined up all together on the Brandeis building, a happy, twittering little family, well cared for and at peace with the whole big world.</p>
          
@@ -88,12 +88,12 @@
          
          <cit>
             
-            <bibl default="NO">July 28, 1918. <title>Omaha Sunday World-Herald</title> 53(43): 12-N.</bibl>
+            <bibl default="false">July 28, 1918. <title>Omaha Sunday World-Herald</title> 53(43): 12-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

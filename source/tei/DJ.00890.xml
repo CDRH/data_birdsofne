@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00890">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00890">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Sweet Spring Time for Sportsman].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy and A. Hazleton.</author><date>1900-03-25</date><biblScope>35(175): 20. Portion of Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-19">2006-06-19</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-19"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -152,12 +144,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. March 25, 1900. [Sweet Spring Time for Sportsman]. <title>Omaha Sunday World-Herald</title> 35(175): 20. Portion of column.</bibl>
+            <bibl default="false">Sandy Griswold. March 25, 1900. [Sweet Spring Time for Sportsman]. <title>Omaha Sunday World-Herald</title> 35(175): 20. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

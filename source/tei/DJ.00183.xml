@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00183">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00183">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Collecting Bird's Eggs.</title><title level="j">Omaha Sunday World-Herald</title><author>Rengler, Mrs. L.A. and Sandy Griswold.</author><date>1918-06-16</date><biblScope>53(37): 12-W. Forest Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest Field and Stream</head>
          
@@ -60,12 +60,12 @@
          
          <cit>
             
-            <bibl default="NO">Mrs. L.A. Rengler and Sandy Griswold.	June 16, 1918. <title>Omaha Sunday World-Herald</title> 53(37): 12-W. Portion of Forest Field and Stream.</bibl>
+            <bibl default="false">Mrs. L.A. Rengler and Sandy Griswold.	June 16, 1918. <title>Omaha Sunday World-Herald</title> 53(37): 12-W. Portion of Forest Field and Stream.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

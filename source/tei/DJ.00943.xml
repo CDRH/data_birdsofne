@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00943">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00943">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Wandering up the Legendary Old River Road].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1918-09-29</date><biblScope>53(52): 8-N. Forest Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest Field and Stream</head>
          
@@ -95,12 +95,12 @@
          
          <cit>
             
-            <bibl default="NO">September 29, 1918. [Wandering up the Legendary Old River Road]. <title>Omaha Sunday World-Herald</title> 53(52): 8-N. Forest Field and Stream.</bibl>
+            <bibl default="false">September 29, 1918. [Wandering up the Legendary Old River Road]. <title>Omaha Sunday World-Herald</title> 53(52): 8-N. Forest Field and Stream.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

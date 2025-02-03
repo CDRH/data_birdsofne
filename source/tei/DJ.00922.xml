@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00922">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00922">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Summer Upland Plover Hunt Southwest of Omaha Along the Papio Bottoms].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-07-23</date><biblScope>34(296): 18. A portion of the Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -88,12 +88,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. July 23, 1899. [Summer Upland Plover Hunt Southwest of Omaha Along the Papio Bottoms.] <title>Omaha Sunday World-Herald</title> 34(296): 18. A portion of the Forest, Field and Stream column.</bibl>
+            <bibl default="false">Sandy Griswold. July 23, 1899. [Summer Upland Plover Hunt Southwest of Omaha Along the Papio Bottoms.] <title>Omaha Sunday World-Herald</title> 34(296): 18. A portion of the Forest, Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

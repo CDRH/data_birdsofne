@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00612">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00612">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,29 +32,21 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Notes From Nebraska.</title><title level="j">Ornithologist</title><author>Kline, H. A.</author><date>1883-01-01</date><biblScope>8(1): 18-19.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
    
 
-<revisionDesc>
-<change>
-  <date value="2005-08-01"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-01"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
 
 
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Notes from Nebraska.</head>
          
@@ -76,12 +68,12 @@
          
          <cit>
             
-            <bibl default="NO">1883. <title>Ornithologist</title> 8(3): 18-19.</bibl>
+            <bibl default="false">1883. <title>Ornithologist</title> 8(3): 18-19.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

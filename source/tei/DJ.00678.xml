@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00678">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00678">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,23 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">On the Platte.</title><title level="j">Forest and Stream</title><author>Polk, Burr H.</author><date>1885-09-17</date><biblScope>25(8): 144-145. Also: 9/24, 25(9): 165-166. Game Bag and Gun.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-
-<change>
-  <date value="2005-08-25"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-25"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -56,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Game Bag and Gun.</head>
          
@@ -84,7 +75,7 @@
          
          <p>My belief is also that, upon the whole, the river Platte is the best territory for hunting geese in the world. The river is peculiarly attractive to that fowl. It is broad and shallow and showy, filled with little and big flat sandbars, flowing for hundreds of miles in a country not overburdened with lakes or rivers, and right across the track of the millions of geese in their journeys north and south, and through a territory teeming with grain to be had for picking it up. The geese begin making their appearance from the 20th to the 25th of October, and mostly remain here till severe weather drives them southward. Some come earlier and many hurry on south, but the bulk of them linger along till the streams hereabouts freeze up. They are not here long before they become fat as pigs and the young ones are especially delicious. During their stay in the fall very few are lost by spoiling. Three years ago a party of five of us killed 313 at Foote's in five days shooting. They were all left sitting on the bars night and days around the blinds for decoys. They were brought home and expressed to friend around, 200 of them going into consumption here, and we heard of only two that were at all tainted. In the spring, when the shooting is infinitely better, the case is different. One than can't count on his game for more than a day or two. This same Burlington party went to Foote's last spring, killing some 160 geese, all of which spoiled but ten. Spring shooting by parties from abroad should be discontinued. As I went back to the Platte after the dates described herein, I will give the account of that trip in another letter.</p>
          
-         <head>On the Platte.-II.</head>
+         </div><div><head>On the Platte.-II.</head>
          
          <p>The best of shots have their misses. The best of hunters often make poor bags. One cannot capture game unless the game be there to capture. Such thoughts as these combined no doubt keep the ardent sportsman from taking on a cargo of disgust when he makes a failure on one of his tours, and induce him to try his hand again at the first opportunity and with renewed and redoubled vigor.</p>
          
@@ -140,12 +131,12 @@
          
          <cit>
             
-            <bibl default="NO">September 17, 1885. <title>Forest and Stream</title> 25(8): 144-145. Also: 9/24, 25(9): 165-166.</bibl>
+            <bibl default="false">September 17, 1885. <title>Forest and Stream</title> 25(8): 144-145. Also: 9/24, 25(9): 165-166.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

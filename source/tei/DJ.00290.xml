@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00290">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00290">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Feast of Game. The Grand Supper of the Omaha Sportsmen's Club at the Grand Central Last Evening. To Bring the Ladies Out, It is Supposed to Have Dancing Added to the Attractions of the Next Supper.</title><title level="j">Omaha Daily Republican</title><author>Omaha Sportsmen's Club.</author><date>1877-10-23</date><biblScope>20(104): 1.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Feast of Game.</head>
          
@@ -52,7 +52,7 @@
          
          <p>The annual game supper of the Omaha Sportsmen's Club took place at the Grand Central hotel last evening. The doors of the dining hall were opened at about 8:45 o'clock, and in a few minutes every seat at the table was occupied. There was a goodly representation of ladies. The bill of fare was as follows:</p>
          
-         <head>Menu.</head>
+         </div><div><head>Menu.</head>
          
          <head>Soup.</head>
          
@@ -62,25 +62,25 @@
          
          <p>Mallard. Widgeon. Green Wing Teal. Red Head. Wood. Blue Wing Teal. Pin-tail. Gadwall. Shoveller. Ruddy. Bald Plate.</p>
          
-         <head>Entries.</head>
+         </div><div><head>Entries.</head>
          
          <p>Pate of Small Game, a la Chasseuer. Salmi of Scorp. Compote of Teal Duck. Red-breasted Snipe Gilse, Sauce Chasseur.</p>
          
          <p>Yellow Shank Snipe, a la mode. Wilson Snipe on Toast. Sand-pipers on Toast. Roast Ring-necks P'que.</p>
          
-         <head>Vegetables.</head>
+         </div><div><head>Vegetables.</head>
          
          <p>Mashed Potatoes. Sweet Potatoes. Boiled Onions. Stewed Tomatoes. Hubbard Squash.</p>
          
-         <head>Special Course.</head>
+         </div><div><head>Special Course.</head>
          
          <p>Kennedy's Woodcock, in all Styles. Hughes' Coons, Oppossum Style. Sutphen's Goose, Stuffed with Grasshopper.</p>
          
-         <head>Pastry and Desert.</head>
+         </div><div><head>Pastry and Desert.</head>
          
          <p>Snow Pudding, with Vanilla Custard. Lady Cake. Sponge Cake. Victoria Biscuit. Marachino Jelly. Vanilla Ice Cream. Rum Jelly. Nuts. Raisins. Fruit.</p>
          
-         <head>Coffee.</head>
+         </div><div><head>Coffee.</head>
          
          <p>Capt. Smith, of the losing side, presided.</p>
          
@@ -88,12 +88,12 @@
          
          <cit>
             
-            <bibl default="NO">October 23, 1877. <title>Omaha Daily Republican</title> 20(104): 1.</bibl>
+            <bibl default="false">October 23, 1877. <title>Omaha Daily Republican</title> 20(104): 1.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

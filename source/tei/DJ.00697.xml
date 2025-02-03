@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00697">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00697">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Promise of Wonderful Year in Laggard Spring.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-04-09</date><biblScope>57(25=28): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Promise of Wonderful Year in Laggard Spring</head>
          
@@ -58,7 +58,7 @@
          
          <p>As I have always found them, these mid-April days should prove an almost unspeakable joy, but when May comes, then you may begin to look for all the beauties of wood and field in earnest. They will increase daily.</p>
          
-         <head>May Outdoor Month.</head>
+         </div><div><head>May Outdoor Month.</head>
          
          <p>To the lover of our wild flowers and our wild birds, May is the one supreme month of the whole twelve, and all those who can, should spend as many of them out of doors as possible.</p>
          
@@ -68,13 +68,13 @@
          
          <p>And yet, while I am apprehensive that the present Sunday will not produce the results any normal season should produce, a trip up the old path should not fail, should the day prove at all favorable, to carry you in amongst the subtle harmonies of the bursting spring, a commingling of the most delicate sounds that will undoubtedly endeavor to weave a tissue of soothing melody and enchanting color - the low murmur of the hurrying river, the sussuruss of the soft breezes among the filming vegetation and the sweet consonance of the many little voices from the late arrivals in the tree tops, the thrilling call of the redbird, the gurgling of the robin, the "too-loo-loo" of the bluejay or that long, flute-like resonant mating call of the ever glorious yellow hammer, mingling with the seeking pipings of our first warblers.</p>
          
-         <head>Hues and Odors.</head>
+         </div><div><head>Hues and Odors.</head>
          
          <p>The blending hues, too, of the striving vernal forces will be found as finely trilling as their odors and their melodies - over the alders a shimmering sheen of faintest blue; over the willows a topaz glimmer with an almost invisible lacing of scarlet, and in the furzy involucres of the maples and the lindens a veiling of pink just as magical and just as wonderful, while along the distant bluffs side and all the expansive uplands, a mist of green, an illusive smudge of cobalt, which in mid-May days empurples all the atmosphere.</p>
          
          <p>Time flies, however; it never ceases, and the days will soon come when we will behold the golden club, with its yellow argosies and green leaves floating on the waters, the wild ginger with its peppery breath, its maroon flowers at the base of the leaves; the blood root, most delicate and dainty of our bogland plants, with its pure white blossoms and a root that bleeds red when you break it; the lady's slippers, marigolds and moccasin flowers, the wild orchids, the most lovely of all floral creations; the iris, so common along all the valley road's low, wet places, with their deep purple ornaments; the pitcher plants, with their trumpet-shaped leaves and dark red blooms. And the ferns, in endless variety, unfurling their fronds, many of them weeks ago before the sun had melted the snows on their mossy beds, and so on forever, it seems, it will be but a profusion of wild splotches of color and fragrance that one only dreams of, and only really sees, only in such favored places as these I have vaguely endeavored to picture for you.</p>
          
-         <head>Yellow-Hammer Must Wait.</head>
+         </div><div><head>Yellow-Hammer Must Wait.</head>
          
          <p>I haven't attempted to tell you all - that would require omniscience - it is only hints I have given, but once more I abjure to get thee hence, get into the open as early and often as possible. Get in touch with the birds, the wild flowers, the trees, the weeds and waters, the hills, the valleys and the clouds and the sky. This is their time as well as ours, and even though you do not know one hundredth part of the blossoms you find, by name, name them yourself; they'll smell just as sweet, and when anyone tells you that the Indian turnip is an Arisaema Iriphyllum, laugh at 'em, and tell them that they are off their base, that your grandmother always told you that it was nothin' but an injun turnip.</p>
          
@@ -84,12 +84,12 @@
          
          <cit>
             
-            <bibl default="NO">April 9, 1922. <title>Omaha Sunday World-Herald</title> 57(25=28): 3-W.</bibl>
+            <bibl default="false">April 9, 1922. <title>Omaha Sunday World-Herald</title> 57(25=28): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

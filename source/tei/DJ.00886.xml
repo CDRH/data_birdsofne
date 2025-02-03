@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00886">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00886">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Two Kinds of Swans.</title><title level="j">Omaha Sunday World-Herald</title><author>Campfield, Jno. N. and Sandy Griswold.</author><date>1913-02-23</date><biblScope>48(21): 2-S. Forest Field and Stream column.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Two Kinds of Swans.</head>
          
@@ -52,12 +52,12 @@
          
          <cit>
             
-            <bibl default="NO">Jno. N. Campfield and Sandy Griswold. February 23, 1913. <title>Omaha Sunday World-Herald</title> 48(21): 2-S. Forest, Field and Stream column.</bibl>
+            <bibl default="false">Jno. N. Campfield and Sandy Griswold. February 23, 1913. <title>Omaha Sunday World-Herald</title> 48(21): 2-S. Forest, Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

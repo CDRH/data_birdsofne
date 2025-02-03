@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00099">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00099">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Birds of Omaha. A List of the Species Observed In and About the City of Omaha.</title><title level="j"/><author>Anonymous.</author><date/><biblScope>Unpublished manuscript. Miscellaneous pages. Available at the library of the Nebraska Ornithologists' Union at the University of Nebraska State Museum.</biblScope></bibl></sourceDesc>
       
@@ -42,13 +42,13 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Birds of Omaha.</head>
          
          <p>A list of the species observed in and about the city of Omaha.</p>
          
-         <head>The Diving Birds</head>
+         </div><div><head>The Diving Birds</head>
          
          <list type="simple">
             
@@ -68,7 +68,7 @@
          
          </list>
          
-         <head>The Long-winged Swimmers</head>
+         </div><div><head>The Long-winged Swimmers</head>
          
          <list type="simple">
             
@@ -92,7 +92,7 @@
          
          </list>
          
-         <head>The Totipalmate Swimmers</head>
+         </div><div><head>The Totipalmate Swimmers</head>
          
          <list type="simple">
             
@@ -114,7 +114,7 @@
          
          </list>
          
-         <head>The Short-winged Swimmers</head>
+         </div><div><head>The Short-winged Swimmers</head>
          
          <list type="simple">
             
@@ -191,7 +191,7 @@
          
          </list>
          
-         <head>The Herons, Bitterns, Ibises, etc.</head>
+         </div><div><head>The Herons, Bitterns, Ibises, etc.</head>
          
          <list type="simple">
             
@@ -221,7 +221,7 @@
          
          </list>
          
-         <head>The Cranes, Rails, etc.</head>
+         </div><div><head>The Cranes, Rails, etc.</head>
          
          <list type="simple">
             
@@ -251,7 +251,7 @@
          
          </list>
          
-         <head>The Shore Birds</head>
+         </div><div><head>The Shore Birds</head>
          
          <list type="simple">
             
@@ -333,7 +333,7 @@
          
          </list>
          
-         <head>The Gallinaceous Birds</head>
+         </div><div><head>The Gallinaceous Birds</head>
          
          <list type="simple">
             
@@ -347,7 +347,7 @@
          
          </list>
          
-         <head>The Pigeons and Doves</head>
+         </div><div><head>The Pigeons and Doves</head>
          
          <list type="simple">
             
@@ -359,7 +359,7 @@
          
          </list>
          
-         <head>The Birds of Prey</head>
+         </div><div><head>The Birds of Prey</head>
          
          <list type="simple">
             
@@ -449,7 +449,7 @@
          
          </list>
          
-         <head>The Cuckoos, etc.</head>
+         </div><div><head>The Cuckoos, etc.</head>
          
          <list type="simple">
             
@@ -465,7 +465,7 @@
          
          </list>
          
-         <head>The Woodpeckers, etc.</head>
+         </div><div><head>The Woodpeckers, etc.</head>
          
          <list type="simple">
             
@@ -493,7 +493,7 @@
          
          </list>
          
-         <head>The Goatsuckers, Swifts, etc.</head>
+         </div><div><head>The Goatsuckers, Swifts, etc.</head>
          
          <list type="simple">
             
@@ -515,7 +515,7 @@
          
          </list>
          
-         <head>The Perching Birds</head>
+         </div><div><head>The Perching Birds</head>
          
          <list type="simple">
             
@@ -671,12 +671,12 @@
          
          <cit>
             
-            <bibl default="NO">Anonymous 1899. Actual date not known. <title level="u">Unpublished manuscript</title>. Miscellaneous pages. Available at the library of the Nebraska Ornithologists' Union at the University of Nebraska State Museum. Scientific names have not been included.</bibl>
+            <bibl default="false">Anonymous 1899. Actual date not known. <title level="u">Unpublished manuscript</title>. Miscellaneous pages. Available at the library of the Nebraska Ornithologists' Union at the University of Nebraska State Museum. Scientific names have not been included.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

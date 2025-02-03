@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00856">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00856">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Spring's First Harbinger.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1909-02-28</date><biblScope>44(22): 4-S. Forest Field and Stream.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-23">2006-06-23</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-23"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -76,7 +68,7 @@
          
          <p>Caw! Caw! Caw! A harsh but ever welcome cry to lovers of the woods and fields in the somber days of early spring.</p>
          
-         <head>The Spring Shooting.</head>
+         </div><div><head>The Spring Shooting.</head>
          
          <p>The reports we have received from various sources would seem to indicate that the season about to open will be a very favorable one for wild fowling. It is perhaps too soon to pronounce upon this point, for owing to the variableness of the weather up to this time, the birds have made their appearance in only scattering or sporadic flocks. Way back in the early part of February there was quite a big issue, including pintails, mallards and teal, came north, but the severe weather that swooped down upon us about the second week in the month, sent them all scurrying southward again. Since then only pintails have ventured so far up as this, and there has been little or no shooting anywhere. The Canada geese, however, have come in in unusual numbers, and some good sport has been enjoyed both on the Platte and up the Big Muddy. Sunday morning last some ten or a dozen big flocks of geese were seen harrowing the upper spaces over the city on their way north.</p>
          
@@ -84,12 +76,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold, editor. February 28, 1909. <title>Omaha Sunday World-Herald</title> 44(22): 4-S. Portion of Forest Field and Stream column.</bibl>
+            <bibl default="false">Sandy Griswold, editor. February 28, 1909. <title>Omaha Sunday World-Herald</title> 44(22): 4-S. Portion of Forest Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

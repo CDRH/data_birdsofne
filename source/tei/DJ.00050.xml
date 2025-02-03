@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00050">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00050">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Beautiful Study of Ornithology and Color of Bird Plumage].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1900-09-16</date><biblScope>35(350): 23.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. September 16, 1900. [Beautiful Study of Ornithology and Color of Bird Plumage]. <title>Omaha Sunday World-Herald</title> 35(350): 23. Portion of column.</bibl>
+            <bibl default="false">Sandy Griswold. September 16, 1900. [Beautiful Study of Ornithology and Color of Bird Plumage]. <title>Omaha Sunday World-Herald</title> 35(350): 23. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00130">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00130">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">In the Broad and Alluring Fields of Nebraska With the Upland Plover.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, S.G.V.</author><date>1904-07-10</date><biblScope>39(284): 22. Includes a drawing.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-20">2006-06-20</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-20"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>In the Broad and Alluring Fields of Nebraska With the Upland Plover</head>
          
@@ -88,7 +80,7 @@
          
          <p>Next to the jacksnipe and Bob White, the upland plover takes his place in the Nebraska sportsman's heart. He comes now, in a season which all his congeners, save the turtle dove, are reveling in distant climes, and offers a magnet but few gunners find themselves able to withstand. His sweet alarum is on the night winds, and if you listen tonight you will probably hear it liltering sweetly down from the starry vault above.</p>
          
-         <figure entity="PloverBroadHayfields">
+         <figure facs="PloverBroadHayfields">
             
             <figDesc>Plover on borad hay fields.</figDesc>
          
@@ -110,12 +102,12 @@
          
          <cit>
             
-            <bibl default="NO">July 10, 1904. <title>Omaha Sunday World-Herald</title> 39(284): 22. Includes a drawing of two plover.</bibl>
+            <bibl default="false">July 10, 1904. <title>Omaha Sunday World-Herald</title> 39(284): 22. Includes a drawing of two plover.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00585">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00585">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Nebraska Game.</title><title level="j">Forest and Stream</title><author>Griswold, Sandy.</author><date>1895-03-23</date><biblScope>44(12): 228.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-02"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-02"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
 
@@ -59,7 +51,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Nebraska Game.</head>
          
@@ -73,12 +65,12 @@
          
          <cit>
             
-            <bibl default="NO">March 23, 1895. <title>Forest and Stream</title> 44(12): 228.</bibl>
+            <bibl default="false">March 23, 1895. <title>Forest and Stream</title> 44(12): 228.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

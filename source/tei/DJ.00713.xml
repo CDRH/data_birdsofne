@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00713">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00713">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Rainy Day Hike to Child's Point].</title><title level="j"/><author>Shoemaker, Frank H.</author><date>1900-09-16</date><biblScope>Unpublished manuscript. Shoemaker Collection, University of Nebraska, Love Library Archives.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Rainy Day Hike to Child's Point </head>
          
@@ -134,12 +134,12 @@
          
          <cit>
             
-            <bibl default="NO">Frank H. Shoemaker. <title level="u">Unpublished manuscript</title>. Shoemaker Collection, University of Nebraska, Love Library Archives.</bibl>
+            <bibl default="false">Frank H. Shoemaker. <title level="u">Unpublished manuscript</title>. Shoemaker Collection, University of Nebraska, Love Library Archives.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00869">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00869">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">States Sportsmen. The Twelfth Annual Convention and Tournament of the Nimrods of the State of Nebraska. The Association Expresses Itself as Decidedly in Favor of the Abolition of Spring Shooting.</title><title level="j">Omaha Republican</title><author>Anonymous.</author><date>1886-06-09</date><biblScope>page 1.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-06-13"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-13"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>States Sportsmen.</head>
          
@@ -74,12 +66,12 @@
          
          <cit>
             
-            <bibl default="NO">June 9, 1886. <title>Omaha Daily Republican</title> page 1. State tournament results not included.</bibl>
+            <bibl default="false">June 9, 1886. <title>Omaha Daily Republican</title> page 1. State tournament results not included.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

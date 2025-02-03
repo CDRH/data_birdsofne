@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00554">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00554">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Says One Month Enough to Hunt Prairie Chickens.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-09-24</date><biblScope>57(49=52): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Says One Month Enough to Hunt Prairie Chickens</head>
          
@@ -52,7 +52,7 @@
          
          <p>To start with, to give the birds something like a fair chance with the gunner, October is the ideal month for the sport. By the time this period rolls round the young birds are fully feathered, strong of wing, and pretty well inured to the dangers that beset them, and, therefore, have some sort of a chance, thought slender it be, of matching their wits against those of the gunner. And more than this, in October the birds reach the very acme of their gastronomic attractiveness, and so far as the real provident sportsman goes, he is satisfied with the present rules and regulations governing the shooting.</p>
          
-         <head>Plenty of Sport.</head>
+         </div><div><head>Plenty of Sport.</head>
          
          <p>To be permitted to ramble afield during the whole of this matchless month they are quite sure to get all the sport they desire, or should be allowed to indulge in, anyway.</p>
          
@@ -60,7 +60,7 @@
          
          <p>With the fairly liberal season now vouchsafed, there is little doubt but what all conscientious lovers of this, the grandest of all field shooting, in the estimation of many, with the ever increasing pressure for conservation will become absolutely satisfied.</p>
          
-         <head>The Ideal Month.</head>
+         </div><div><head>The Ideal Month.</head>
          
          <p>Yet, as I said before, and I include all time from the moment the chicks chip the shell to the time they "pack" in immense bunches for protection against the oncoming cold and snow, that the rare month of October is the one proper and ideal month for their pursuit by the gunner.</p>
          
@@ -68,7 +68,7 @@
          
          <p>Side by side with some beloved comrade, and the old dog, companion of many a glorious and memorable hunt, ranging out in front of you, or quartering this way or that, you tramp the teeming spaces; the bedraggled pasture lands, up the sere sandhills and down the chequered draws, and in the hazy, sensuous atmosphere of the rarest climate between the two oceans, find a happy refinement of glorious exhilaration that you could not even dream of back in the late days of sweltering August or early September.</p>
          
-         <head>Surrounding Charms.</head>
+         </div><div><head>Surrounding Charms.</head>
          
          <p>Besides the unalloyed pleasure you experience from the fact that you are engaged in an honest recreation, there is still greater delight you derive from the surrounding charms of the waning autumn days.</p>
          
@@ -78,7 +78,7 @@
          
          <p>To such a chicken hunter the morning and evening jubilate of the meadowlark as he struts before you through the dessicated sunflower stalks, or stands proudly erect on those cream-colored pillars of his, on fence post or corn-shock, never sounds half so delightful or melodious.</p>
          
-         <head>Glories of Autumn.</head>
+         </div><div><head>Glories of Autumn.</head>
          
          <p>The rudy vested robin, now marshalling for the long pilgrimage, hops festively along the dank bank of creek, or swale, or goes undulating over the yellowing hayfield, emitting from yellow beak that sharp staccato farewell, is an incident to always be recollected. The modest but gaily tinted flowers of the autumn-time, the aster, the adder's tongue, Indian plume, wild parsnip and lobelia stare up into your face as you stroll along, like old time friends.</p>
          
@@ -88,12 +88,12 @@
          
          <cit>
             
-            <bibl default="NO">September 24, 1922. <title>Omaha Sunday World-Herald</title> 57(49=52): 3-W.</bibl>
+            <bibl default="false">September 24, 1922. <title>Omaha Sunday World-Herald</title> 57(49=52): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

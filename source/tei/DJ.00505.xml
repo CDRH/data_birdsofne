@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00505">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00505">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Lore of Bird-life at Hackberry Lake].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1902-04-27</date><biblScope>37(209): 18.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>[Lore of Bird-life at Hackberry Lake]</head>
          
@@ -70,12 +70,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 27, 1902. [Lore of bird-life at Hackberry Lake.] <title>Omaha Sunday World-Herald</title>	37(209): 18. Scribed during the March wild fowl hunt at Stilwell's ranch on the lake.</bibl>
+            <bibl default="false">Sandy Griswold. April 27, 1902. [Lore of bird-life at Hackberry Lake.] <title>Omaha Sunday World-Herald</title>	37(209): 18. Scribed during the March wild fowl hunt at Stilwell's ranch on the lake.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

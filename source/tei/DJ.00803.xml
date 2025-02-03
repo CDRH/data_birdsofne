@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00803">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00803">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Have You Seen a Snowy Owl Lately? Lots of These Strange Birds are Wintering in Nebraska This Year - We Have the Evidence.</title><title level="j">Omaha Sunday World-Herald</title><author>Greenleaf, Miles.</author><date>1918-01-20</date><biblScope>53(16): 3-M. Includes a picture of stuffed owls in display at the Northwestern School of Taxidermy.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Have You Seen a Snowy Owl Lately?</head>
          
@@ -74,12 +74,12 @@
          
          <cit>
             
-            <bibl default="NO">January 20, 1918. <title>Omaha Sunday World-Herald</title> 53(16): 3-M. Includes a picture of stuffed owls in display at the Northwestern School of Taxidermy.</bibl>
+            <bibl default="false">January 20, 1918. <title>Omaha Sunday World-Herald</title> 53(16): 3-M. Includes a picture of stuffed owls in display at the Northwestern School of Taxidermy.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

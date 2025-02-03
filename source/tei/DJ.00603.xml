@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00603">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00603">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Night in Our Sanctum. Our Sanctum Again.</title><title level="j">Omaha Arrow</title><author>Johnson, J.E. or Jno. W. Pattison, Editors and Proprietors.</author><date>1854-07-28</date><biblScope>1(1): 2. Also September 8, 1854, Arrow 1(4): 2.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Night in Our Sanctum.</head>
          
@@ -50,18 +50,18 @@
          
          <p>The night stole on and we in the most comfortable manner in the world - and editors have a faculty of making themselves comfortable together - crept between art and nature - our blanket and buffalo, to sleep and perchance to dream, "of battles, sieges, fortunes and perils, the imminent deadly breech." To dream land we went. The busy hum of business from factories and the varied branches of mechanism from Omaha city, reached our ears. The incessant rattle of innumberable drays over the paved streets, the steady tramp of ten thousand of an animated, enterprising population, the hoarse orders fast issued from the crowd of steamers upon the levee loading with the rich products of the state of Nebraska and unloading the fruits species and products of other climes and soils greeted our ears. Far away from toward the setting sun came telegraphic dispatches of improvements, progress and moral advancement upon the Pacific coast. Cars full freighted with teas, silks, &amp;c., were arriving from thence and passing across the stationary channel of the Missouri with lightning speed hurrying on to the Atlantic seaboard. The third express train on the Council Bluffs and Galveston R.R. came thundering close by us with a shrill whistle that brought us to our feet knife in hand. We rubbed our eyes, looked into the darkness beyond to see the flying train. They had vanished, and the shrill second neigh of our lariated horses gave indication of danger near. The hum of business, in and around the city had also vanished and the same rude camp fires were before us. We slept again and daylight stole upon us refreshed and ready for another days labor.</p>
          
-         <head>Our Sanctum Again.</head>
+         </div><div><head>Our Sanctum Again.</head>
          
          <p>Again we write in our sanctum though not as at first upon the stump of our first fallen tree. Our cabin is partially reared and near it we have selected a shady tree from whose boughs we have interwoven a cool, dry and delightful bower. A rustic mat formed of poles with the green soft grass for a cushion and an umbrageous limb as a table upon which our portfolio rests. We have been out scrambling through the bushes to gather some of the delicious and juicy plums that grow in wild profusion around us. The reverberating echoes of the axe of the distant squatter mingled with the noontide anthem of the wildwood warbler falls upon our ear as the sound of merry music. In the distance upon the river we see the approach of the noisy steamer disturbing nature's lovely seclusion with its clicking machinery and clouds of steam and smoke whilst in the background smokes the great camp fire over which broils a brace of quails and a plump duck for our mid-day meal.Our rude buffalo hammock hangs high over our head in the branches of the tree a safe retreat from the stinging bite of the mosquitoes which evening swarm in great abundance. The rude village of the Omaha with a few acres of luxurious maize and other vegetables stand by the skirt of timber far away to the westward upon the banks of a clear pure stream of nature's choicest beverage. These sturdy sons of the prairie forest have just returned from their summer hunt to see what their Great Father at Washington has sent them. They look sorrowful and cast down, for they are soon to leave the lands and graves of their forefathers forever to sojourn and leave their children upon the lands selected for them by the pale faces, whilst the saxon race shall plough up the very graves of their dearest kindred and leave their bones to bleach upon the surface of the fertile soil. Even now the restive white man has reared his claim cabin upon the very site of the last village of these poor though noble and fast fading savages. They anxiously await the stipulated payments from our government, soon after which they will bid adieu to these pleasant lands. An hour later. We have just returned from a chase after a flock of wild turkeys that had the impudence to invade our sanctum for which we have cruelly punished them by taking one of their number for a quiet squatter supper. The other half score took wing and away to the thick foliage choosing to take their turn upon our rude wooden spit at a future time, to which terms we manfully agreed and returned with enough for the present. A fine hickory tree that is a near neighbor to our sanctum is bountifully loaded down with the rich choice nut which that tree produces. Nor is it alone for within the range of our eye we see many of the kind in like manner with drooping boughs from the weight of fruit. Our cook sounds the alarm whistle for dinner and we hasten to devour the dainty morsels for which our sharpened appetites are well prepared from the labor and rambles of the forepart of the day. Come forth from the east and south, ye dainty idling dyspeptics take a blanket and bed and board with us and by degrees accustom yourselves to follow us in labor and in three months we will turn you out a hale and healthy man with a good claim in Nebraska and a cabin for the winter.</p>
          
          <cit>
             
-            <bibl default="NO">Johnson, J.E. or Jno. W. Pattison, Editors and Proprietors. July 28, 1854. <title>Omaha Arrow</title> 1(1): 2. Also September 8, 1854, Arrow 1(4): 2.</bibl>
+            <bibl default="false">Johnson, J.E. or Jno. W. Pattison, Editors and Proprietors. July 28, 1854. <title>Omaha Arrow</title> 1(1): 2. Also September 8, 1854, Arrow 1(4): 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

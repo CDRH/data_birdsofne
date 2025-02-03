@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00440">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00440">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">How to Hunt. Three Business Men Invent an Ice-house. Incidents on a Nebraska Marsh. The Foolishness of the Average City Sportsman—The Charm of Camping Out and Telling Big Lies by the Fire.</title><title level="j">Omaha Daily World</title><author>Nye, Fred.</author><date>1887-03-12</date><biblScope>2(171): 2.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-06-13"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-06-13"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>How to Hunt.</head>
          
@@ -76,12 +68,12 @@
          
          <cit>
             
-            <bibl default="NO">March 12, 1887. <title>Omaha Daily World</title> 2(171): 2.</bibl>
+            <bibl default="false">March 12, 1887. <title>Omaha Daily World</title> 2(171): 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00166">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00166">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Chickadee (Parus atricapillus) in Eastern Nebraska.</title><title level="j">Osprey</title><author>Carriker, M.A., Jr.</author><date>1900-05-01</date><biblScope>4(9): 138.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-22">2006-06-22</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-22"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Chickadee (Parus atricapillus) in Eastern Nebraska.</head>
          
@@ -98,7 +90,7 @@
          
          <p>From the data of forty-seven sets, the number of eggs in the set ranges as follows:</p>
          
-         <table width="250">
+         <table n="250">
             
             <row role="data">
                
@@ -168,12 +160,12 @@
          
          <cit>
             
-            <bibl default="NO">May 1900. <title>Osprey</title> 4(9): 138.</bibl>
+            <bibl default="false">May 1900. <title>Osprey</title> 4(9): 138.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00182">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00182">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,28 +32,20 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Club Hunt. Three Days Annual Rustle of the Omaha Sportsmen's Club.</title><title level="j">Omaha Daily Bee</title><author>Omaha Sportsmen's Club.</author><date>1881-04-09</date><biblScope>10(238): 4. Morning edition.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-08-04"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofreading from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-04"><name>Katharine Potter</name> Proofreading from Source</change></revisionDesc>
 
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Club Hunt.</head>
          
@@ -61,23 +53,23 @@
          
          <p>A special meeting of the Omaha Sportsmen's Club was held Thursday at the club rooms over Collins &amp; Petty's store, for the purpose of making arrangements for the annual club hunt. The subject of the time of the hunt was the subject of lively discussion. It was finally determined to change the usual.</p>
          
-         <head>Time of the Hunt,</head>
+         </div><div><head>Time of the Hunt,</head>
          
          <p>and also to make it practically a three day's hunt instead of one day, and to fix it for Wednesday, Thursday and Friday, April 13th, 14th and 15th. The sides are to register at Collins &amp; Petty's on Wednesday morning after 6 o'clock and the last man is to be on hand with his bag of game by 6 o'clock of the Friday evening following. Where men are delayed by unavoidable accidents and make it clear that this was the cause of their delay, their game will be received at a later hour in the evening. Instead of being, as in the past, a "man against man" hunt, it will be a side hunt. Each member of the defeated side must, as a penalty, pay three dollars into the club treasury. The game will be counted on Friday evening.</p>
          
-         <head>The Game</head>
+         </div><div><head>The Game</head>
          
          
          <p>will be counted in the usual manner, geese ranging from 8 to 12, according to the variety, and ducks from 1 to 5. Canada geese are the only variety which score at 12, and canvas back, buff breasted, merganser and dusky ducks at 5. Hawks and owls also count 5 each. The varieties of game which count highest are sand-hill crane, 15, and swans and eagles, 25. The numerous varieties of smaller game, which make up a greater part of every bag, count proportionately. Game is said by the old sportsmen to be very plenty, and with a three days hunt it is probable that an enormous quantity of game will be secured.</p>
 
          <cit>
             
-            <bibl default="NO">Anonymous. April 9, 1881. <title>Omaha Morning Bee</title> 10(238): 4. Morning edition. Members of the team sides not included.</bibl>
+            <bibl default="false">Anonymous. April 9, 1881. <title>Omaha Morning Bee</title> 10(238): 4. Morning edition. Members of the team sides not included.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

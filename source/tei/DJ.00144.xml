@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00144">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00144">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Catalogue of Nebraska Birds Arranged According to the Check List of the American Ornithological Union.</title><title level="j"/><author>Taylor, W. Edgar.</author><date>1888-01-01</date><biblScope>Annual Report of the Nebraska State Board of Agriculture for 1887. Pg. 111-118.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>State Board of Agriculture</head>
          
@@ -76,7 +76,7 @@
          
          <p>The species and varieties are numbered consecutively, the numbers in parentheses [or brackets] referring to the check list of the American Ornithological Union, 1868.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Podicipidae. Grebes.</hi>
          
@@ -88,7 +88,7 @@
          
          <p>3 (6), Podilymbus Podiceps, Linn. Pied-billed Grebe. Migratory; rare.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Urinatoridae. Loons.</hi>
          
@@ -96,7 +96,7 @@
          
          <p>4 (7), Urinator Imber, Gunn. Loon. Migratory; common. Arrive the first of April and in September or October.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Laridae. Gulls and Terns.</hi>
          
@@ -122,7 +122,7 @@
          
          <p>14 (77), Hydrochelidon Nigra Surinamensis, Gmel. Black Tern. Migratory; common. Summer resident; rare. Arrive about the first of May and October.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Phalacrocoracidae. Cormorants.</hi>
          
@@ -130,7 +130,7 @@
          
          <p>15 (120), Phalacrocorax Cilophus, Sw. &amp; Rich. Double-crested Cormorant, P. Perhaps passing through the state in April and November.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Pelecanidae. Pelicans.</hi>
          
@@ -138,7 +138,7 @@
          
          <p>16 (125), Pelecanus Erythrorhynchos, Gmel. American White Pelican. Migratory; abundant. Arrive in April, May, and in October and November.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Anatidae. Ducks, Geese and Swan.</hi>
          
@@ -198,7 +198,7 @@
          
          <p>43 (181), O. Buccinnator, Rich. Trumpeter Swan. Migratory; rare. Arrives in April and October.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Ardeidae. Herons, Bitterns, etc.</hi>
          
@@ -218,7 +218,7 @@
          
          <p>49 (203), Nycticorax Violaceus, Linn. Yellow-crowned Night Heron, P. Probably a rare summer resident.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Gruidae. Cranes.</hi>
          
@@ -228,7 +228,7 @@
          
          <p>51 (205), G. Mexicana, Mull. Sandhill Crane. Migratory; abundant. Arrive in March and in the fall.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Rallidae. Rails, Gallinules and Coots.</hi>
          
@@ -248,7 +248,7 @@
          
          <p>58 (224), Phalaropus Tricolor, Vieill. Wilson's Phalarope. Migratory; common. Found in the state from last of April till September.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Recurvirostridae. Avocets and Stilts.</hi>
          
@@ -256,7 +256,7 @@
          
          <p>59 (225), Recurvirostra Americana, Gmel. American Avocet. Migratory; abundant. Summer resident; rare.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Scolopacidae. Snipes, Sandpipers, etc.</hi>
          
@@ -306,7 +306,7 @@
          
          <p>81 (266), N. Borealis, Forst. Eskimo Curlew. Migratory; abundant. Arrive in April, May, and October.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Charadriidae. Plovers.</hi>
          
@@ -324,7 +324,7 @@
          
          <p>87 (281), A. Montana, Towns. Mountain Plover. Migratory; abundant in Western Nebraska. Summer resident, common. Arrives in May and September.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Tetraonidae. Grouse, Partridges, etc.</hi>
          
@@ -344,7 +344,7 @@
          
          <p>94 (310), Meleagris Gallopavo, Linn. Wild Turkey. Formerly an abundant resident, but rapidly disappearing.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Columbidae. Pigeons.</hi>
          
@@ -354,7 +354,7 @@
          
          <p>96 (316), Zenaidura Macroura, Linn. Mourning Dove. Summer resident; abundant. Arrives in April and leaves in September.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Cathartidae. American Vultures.</hi>
          
@@ -362,7 +362,7 @@
          
          <p>97 (325), Cathartes Aura, Linn. Turkey Vulture. Summer resident; common. Arrive in April and leave in September.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Falconidae. Vultures, Falcons, Hawks, Eagles, etc.</hi>
          
@@ -408,7 +408,7 @@
          
          <p>117 (360), F. Sparverius, Linn. American Sparrow Hawk. Abundant during spring, summer, and fall, and probably during the winter.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Strigidae. Barn Owls.</hi>
          
@@ -416,7 +416,7 @@
          
          <p>118 (365). Strix Pratincola, Bonap. American Barn Owl. An occasional summer resident.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Bubonidae. Horned Owls, etc.</hi>
          
@@ -436,7 +436,7 @@
          
          <p>125 (378), Speotyto Cunicularia Hypogaea, Bonap. Burrowing Owl. Abundant during spring, summer, and fall, and probably remains during the winter.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Psittacidae.</hi>
          
@@ -444,7 +444,7 @@
          
          <p>126 (382), Conurus Carolinensis, Linn. Carolina Paroquet. Formerly abundant, even in eastern Nebraska. Now rare, if found in the state.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Cuculidae. Cuckoos, Anis, etc.</hi>
          
@@ -454,7 +454,7 @@
          
          <p>128 (388), C. Rrythrophthalmus, Wils. Black-billed Cuckoo. Summer resident, somewhat rare. Arrives in May and leaves in September.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Alcedinidae. Kingfishers.</hi>
          
@@ -462,7 +462,7 @@
          
          <p>129 (390), Ceryle Alcyon, Linn. Belted Kingfisher. A very common summer resident.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Picidae. Woodpeckers.</hi>
          
@@ -486,7 +486,7 @@
          
          <p>138 (413), C. Cafer, Gmel. Red-shafted Flicker. Found in the summer and late fall.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Caprimulgidae. Goat-suckers, etc.</hi>
          
@@ -498,7 +498,7 @@
          
          <p>141 (420), Chordeiles Virginianus, Gmel. Nighthawk. Summer resident; common. Arrives in May and in September.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Micropodidae. Swifts.</hi>
          
@@ -506,7 +506,7 @@
          
          <p>142 (423), Chaetura Pelagica, Linn. Chimney Swift. Summer resident; common. Arrive in May.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Trochilidae. Hummingbirds.</hi>
          
@@ -514,7 +514,7 @@
          
          <p>143 (428), Trochilus Colubris, Linn. Ruby-throated Humming-bird. Summer resident; common.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Tyrannidae. Tyrant Flycatchers.</hi>
          
@@ -542,7 +542,7 @@
          
          <p>154 (467), E. Minimus, Baird. Least Flycatcher. Migratory; common. Summer resident; occasional. Arrive in May.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Alaudidae. Larks.</hi>
          
@@ -554,7 +554,7 @@
          
          <p>157 (474c), O. Alpestris Arenicola, Hensh. Desert Horned Lark. Resident; common.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Corvidae. Crows, Jays, Magpies, etc.</hi>
          
@@ -572,7 +572,7 @@
          
          <p>163 [491], Picicorvus Columbianus, Wils. Clarke's Nutcracker. Only found in the western part of the state, Aughey.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Icteridae. Blackbirds, Orioles, etc.</hi>
          
@@ -602,7 +602,7 @@
          
          <p>175 [511b], Quiscalus Quiscula Aeneus, Ridgw. Bronzed Grackle. Summer resident; common. Probably remains in the state during the winter.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Fringillidae. Finches, Sparrows, etc.</hi>
          
@@ -700,7 +700,7 @@
          
          <p>221 [605], Calamospiza Melanocorys, Stejn. Lark Bunting. Summer resident; common. Probably arrives in May.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Tanagridae. Tanagers.</hi>
          
@@ -712,7 +712,7 @@
          
          <p>224 [610], P. Rubra, Linn. Summer Tanager. Summer resident; rare. Arrives in May.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Hirundinidae. Swallows.</hi>
          
@@ -732,7 +732,7 @@
          
          <p>231 [617], Stelgidopteryx Serripennis, Aud. Rough-winged Swallow. Summer resident; common.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Ampelidae. Waxwings.</hi>
          
@@ -742,7 +742,7 @@
          
          <p>233 [619], A. Cedorum, Vieill. Cedar Waxwing. An irregular resident; generally common.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Laniidae. Shrikes.</hi>
          
@@ -752,7 +752,7 @@
          
          <p>235 [622a], L. Ludovicianus Excubitorides, Swains. White-rumped Shrike. Summer resident; abundant. Arrive in April and found as late as September.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Vireonidae. Vireos.</hi>
          
@@ -770,7 +770,7 @@
          
          <p>241 [633], V. Bellii, Aud. Bell's Vireo. Summer resident; rare.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Mniotillidae. Wood-Warblers.</hi>
          
@@ -852,7 +852,7 @@
          
          <p>279 [687], Sciophaga Ruticilla, Linn. American Redstart. Summer resident; common. Arrive in May.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Motacillidae. Wagtails.</hi>
          
@@ -862,7 +862,7 @@
          
          <p>281 [700], A. Spragueii, Aud. Sprague's Pipit. One specimen mentioned by Baird.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Troglodytidae. Wrens, Thrashers, etc.</hi>
          
@@ -890,7 +890,7 @@
          
          <p>292 [725], C. Palustris, Wils. Long-billed Marsh Wren. Summer resident; rare. Arrives in May.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Certhiidae. Creepers.</hi>
          
@@ -898,7 +898,7 @@
          
          <p>293 [726], Certhia Familiaris Americana, Bonap. Brown Creeper. Found a nest of this bird in a knot hole near Dakota City, June, 1865, Aughey.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Paridae. Nuthatches and Tits.</hi>
          
@@ -920,7 +920,7 @@
          
          <p>301 [738], P. Gambeli, Ridgw. Mountain Chickadee. Mentioned by baird as collected in August.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Sylviidae. Warblers, Kinglets, Gnatcatchers.</hi>
          
@@ -930,7 +930,7 @@
          
          <p>303 [749], R. Calendula, Linn. Ruby-crowned Kinglet. Migratory; rare. Arrive in April and May.</p>
          
-         <head>
+         </div><div><head>
             
             <hi rend="italic">Family Turdidae. Thrushes, Solitaires, Stonechats, Bluebirds, etc.</hi>
          
@@ -958,12 +958,12 @@
          
          <cit>
             
-            <bibl default="NO">1888. <title>Annual Report of the Nebraska State Board of Agriculture for 1887</title> Pages 111-118.</bibl>
+            <bibl default="false">1888. <title>Annual Report of the Nebraska State Board of Agriculture for 1887</title> Pages 111-118.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

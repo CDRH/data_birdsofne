@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01005">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.01005">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,29 +32,21 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Wounded While Hunting.</title><title level="j">Omaha Daily World-Herald</title><author>Editor.</author><date>1891-04-10</date><biblScope>26(192): 3. With market report of game prices.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
    
 
-<revisionDesc>
-<change>
-  <date value="2005-06-28"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-06-28"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Wounded While Hunting.</head>
          
@@ -62,28 +54,28 @@
          
          <cit>
             
-            <bibl default="NO">April 10, 1891. <title>Omaha Morning World-Herald</title> 26(192): 3.</bibl>
+            <bibl default="false">April 10, 1891. <title>Omaha Morning World-Herald</title> 26(192): 3.</bibl>
          
          </cit>
          
-         <head>Home Markets.</head>
+         </div><div><head>Home Markets.</head>
          
          <head>The Local Produce Market Quotations Corrected Daily.</head>
          
          <p>Thursday Evening, April 9.—These quotations and comments are given by Branch &amp; Co. The receipts of all kinds of produce are very light and hardly enough to supply the market. Good goods sell rapidly. Strawberries are coming in small quantities on account of the frosts in the south. There is not enough for the demand. Game receipts are heavier and prices are declining. The pleasant weather is increasing the demand for fruit.</p>
          
-         <head>Game.</head>
+         </div><div><head>Game.</head>
          
          <p>Ducks— Mallards, per doz. $2.50; red heads, per doz. $2.25@2.50; canvas backs, per doz. $3.00@4.00; teals, per doz, $1.25; mixed per doz. $1.25. Geese—Canadian, per doz. $4.50; gray Brandt, per doz. $2.50@3.00; white Brandt, per doz. $2.00.</p>
          
          <cit>
             
-            <bibl default="NO">April 10, 1891. <title>Omaha Morning World-Herald</title> 26(192): 6.</bibl>
+            <bibl default="false">April 10, 1891. <title>Omaha Morning World-Herald</title> 26(192): 6.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

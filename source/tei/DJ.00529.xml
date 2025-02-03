@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00529">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00529">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Ed Maurer is Taken by Game Wardens. Manager Clark of the Milliard Pays a Fine of Two Hundred Dollars for Keeping Game.</title><title level="j">Omaha Morning Bee</title><author>Anonymous.</author><date>1911-05-10</date><biblScope>40(279): 11.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Ed Maurer is Taken by Game Wardens</head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">May 10, 1911. <title>Omaha Morning Bee</title> 40(279): 11.</bibl>
+            <bibl default="false">May 10, 1911. <title>Omaha Morning Bee</title> 40(279): 11.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

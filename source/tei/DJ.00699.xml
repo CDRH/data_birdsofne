@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00699">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00699">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Protection for the Birds. Professor Bruner Explains Why It Should be Given. Render Man a Great Service in Destroying the Insects Which Feed upon Growing Crops. The Birds Alone Destroy 1,000,000 Insects of Injurious Species During a Single Growing Season.</title><title level="j">Omaha Sunday World-Herald</title><author>Bruner, Lawrence.</author><date>1899-03-05</date><biblScope>34(156): 17.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Protection for the Birds.</head>
          
@@ -92,12 +92,12 @@
          
          <cit>
             
-            <bibl default="NO"> March 5, 1899. <title>Omaha Sunday World-Herald</title> 34(156): 17.</bibl>
+            <bibl default="false"> March 5, 1899. <title>Omaha Sunday World-Herald</title> 34(156): 17.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>
