@@ -33,11 +33,19 @@
   <xsl:param name="site_url"/>
   
   <xsl:variable name="newline" select="'&#x0A;'"/>
-  <xsl:variable name="title" select="//teiHeader//bibl/title[1]"/>
+  <xsl:variable name="title">
+    <xsl:choose>
+      <xsl:when test="contains(//teiHeader//bibl/title[1],':')">
+        <xsl:value-of select="substring-before(//teiHeader//bibl/title[1],':')"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="//teiHeader//bibl/title[1]"/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
   <xsl:variable name="pubDate" select="//teiHeader//bibl/date"/>
   <xsl:variable name="document" select="tokenize(base-uri(.),'/')[last()]"/>
-  
-  <xsl:variable name="liquid_var">{{ base_url | relative_url }}</xsl:variable>
+  <xsl:variable name="galleryDoc" select="'../../source/authority/gallery.xml'"/>
 
   <!-- ==================================================================== -->
   <!--                            OVERRIDES                                 -->
@@ -45,9 +53,11 @@
   
   <!-- Create front matter (YML) header -->
   <xsl:template match="/">
+    <xsl:variable name="apos"><xsl:text>'</xsl:text></xsl:variable>
+    <xsl:variable name="doubleQuote"><xsl:text>"</xsl:text></xsl:variable>
     <xsl:text>---</xsl:text>
     <xsl:value-of select="$newline"/>
-    <xsl:text>title: </xsl:text><xsl:value-of select="$title"/>
+    <xsl:text>title: </xsl:text><xsl:value-of select="replace(replace(replace($title,'\[',''),'\]',''),$doubleQuote,'')"/>
     <xsl:value-of select="$newline"/>
     <xsl:text>document: </xsl:text><xsl:value-of select="$document"/>
     <xsl:value-of select="$newline"/>
@@ -59,7 +69,7 @@
       <xsl:choose>
         <xsl:when test=". = preceding::author"/>
         <xsl:otherwise>
-          <xsl:text>"</xsl:text><xsl:value-of select="$authorName"/><xsl:text>"</xsl:text>
+          <xsl:text>"</xsl:text><xsl:value-of select="replace(replace(replace($authorName,'\[','('),'\]',')'),$doubleQuote,$apos)"/><xsl:text>"</xsl:text>
           <xsl:if test="$count != 0"><xsl:text>,</xsl:text></xsl:if>
         </xsl:otherwise>
       </xsl:choose>
@@ -75,10 +85,27 @@
     <xsl:value-of select="$newline"/>
     <xsl:value-of select="$newline"/>
     
+    <div id="Content">
     <xsl:for-each select="//cit">
       <p class="cit"><xsl:apply-templates/></p>
     </xsl:for-each>
     <xsl:apply-templates/>
+    
+    <xsl:if test="document($galleryDoc)//entry[child::id = substring-before($document,'.xml')]">
+      <h2 class="rel-img">Related Images:</h2>
+      <div id="images">
+        <xsl:for-each select="document($galleryDoc)//entry[child::id = substring-before($document,'.xml')]">
+          <a>
+            <xsl:attribute name="href"><xsl:text>{{ '/gallery/</xsl:text><xsl:value-of select="@id"/><xsl:text>.html' | absolute_url }}</xsl:text></xsl:attribute>
+            <img>
+              <xsl:attribute name="src"><xsl:text>{{ '/assets/images/small/</xsl:text><xsl:value-of select="@id"/><xsl:text>.jpg' | absolute_url }}</xsl:text></xsl:attribute>
+            </img>
+          </a>
+          <xsl:text>&#160;&#160;</xsl:text>
+        </xsl:for-each>
+      </div>
+    </xsl:if>
+    </div>
   </xsl:template>
   
   <xsl:template match="text//p">
@@ -86,7 +113,10 @@
   </xsl:template>
   
   <xsl:template match="text//head">
-    <h2 class="normal"><xsl:apply-templates/></h2>
+    <xsl:choose>
+      <xsl:when test="not(preceding::head)"><h1><xsl:apply-templates/></h1></xsl:when>
+    <xsl:otherwise><h2><xsl:apply-templates/></h2></xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
   
   <xsl:template match="cit"/>
