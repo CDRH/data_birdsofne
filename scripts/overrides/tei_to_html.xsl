@@ -57,7 +57,7 @@
     <xsl:variable name="doubleQuote"><xsl:text>"</xsl:text></xsl:variable>
     <xsl:text>---</xsl:text>
     <xsl:value-of select="$newline"/>
-    <xsl:text>title: </xsl:text><xsl:value-of select="replace(replace(replace($title,'\[',''),'\]',''),$doubleQuote,'')"/>
+    <xsl:text>title: </xsl:text><xsl:value-of select="replace(replace(replace($title,'\[','('),'\]',')'),$doubleQuote,'')"/>
     <xsl:value-of select="$newline"/>
     <xsl:text>document: </xsl:text><xsl:value-of select="$document"/>
     <xsl:value-of select="$newline"/>
@@ -120,5 +120,57 @@
   </xsl:template>
   
   <xsl:template match="cit"/>
+  
+  <xsl:template match="list">
+    <p class="list">
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+  
+  <xsl:template match="list/item">
+    <xsl:apply-templates/>
+    <br/>
+  </xsl:template>
+  
+  <xsl:template match="table">
+    <p/>
+    <table border="1">
+      <xsl:apply-templates/>
+    </table>
+  </xsl:template>
+  
+  <xsl:template match="row">
+    <tr role="data">
+      <xsl:apply-templates/>
+    </tr>
+  </xsl:template>
+  
+  <xsl:template match="cell">
+    <td class="cell">
+        <xsl:apply-templates/>
+    </td>
+  </xsl:template>
+  
+  <xsl:template match="hi[@rend='italic']">
+    <i><xsl:apply-templates/></i>
+  </xsl:template>
+  
+  <xsl:template match="quotation">
+    <p>
+        <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+  
+  <xsl:template match="figure">
+    <center>
+      <img>
+        <xsl:attribute name="src"><xsl:text>{{ '/assets/images/</xsl:text><xsl:value-of select="@entity"/><xsl:text>.jpg' | absolute_url }}</xsl:text></xsl:attribute>
+        <xsl:attribute name="alt">
+          <xsl:apply-templates select="figDesc"/>
+        </xsl:attribute>
+        <xsl:attribute name="border">1</xsl:attribute>
+      </img>
+    </center>
+  </xsl:template>
   
 </xsl:stylesheet>
