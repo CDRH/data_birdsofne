@@ -162,15 +162,16 @@
   </xsl:template>
   
   <xsl:template match="figure">
-    <center>
-      <img>
-        <xsl:attribute name="src"><xsl:text>{{ '/assets/images/</xsl:text><xsl:value-of select="@entity"/><xsl:text>.jpg' | absolute_url }}</xsl:text></xsl:attribute>
+    <xsl:variable name="desc" select="child::figDesc"/>
+      <img width="400">
+        <xsl:attribute name="src"><xsl:text>/assets/images/</xsl:text><xsl:value-of select="@facs"/><xsl:text>.jpg</xsl:text></xsl:attribute>
         <xsl:attribute name="alt">
-          <xsl:apply-templates select="figDesc"/>
+          <xsl:value-of select="$desc"/>
         </xsl:attribute>
         <xsl:attribute name="border">1</xsl:attribute>
       </img>
-    </center>
+    <span class="fig-caption"><xsl:value-of select="$desc"/></span>
+    <span class="fig-link">[<a href="/assets/images/{@facs}.jpg">Full size</a>]</span>
   </xsl:template>
   
 </xsl:stylesheet>
