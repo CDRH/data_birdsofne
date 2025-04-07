@@ -96,9 +96,9 @@
       <div id="images">
         <xsl:for-each select="document($galleryDoc)//entry[child::id = substring-before($document,'.xml')]">
           <a>
-            <xsl:attribute name="href"><xsl:text>{{ '/gallery/</xsl:text><xsl:value-of select="@id"/><xsl:text>.html' | absolute_url }}</xsl:text></xsl:attribute>
+            <xsl:attribute name="href"><xsl:text>../gallery/</xsl:text><xsl:value-of select="@id"/><xsl:text>.html</xsl:text></xsl:attribute>
             <img>
-              <xsl:attribute name="src"><xsl:text>{{ '/assets/images/small/</xsl:text><xsl:value-of select="@id"/><xsl:text>.jpg' | absolute_url }}</xsl:text></xsl:attribute>
+              <xsl:attribute name="src"><xsl:text>../assets/images/small/</xsl:text><xsl:value-of select="@id"/><xsl:text>.jpg</xsl:text></xsl:attribute>
             </img>
           </a>
           <xsl:text>&#160;&#160;</xsl:text>
@@ -164,14 +164,14 @@
   <xsl:template match="figure">
     <xsl:variable name="desc" select="child::figDesc"/>
       <img width="400">
-        <xsl:attribute name="src"><xsl:text>/assets/images/</xsl:text><xsl:value-of select="@facs"/><xsl:text>.jpg</xsl:text></xsl:attribute>
+        <xsl:attribute name="src"><xsl:text>../assets/images/</xsl:text><xsl:value-of select="@facs"/><xsl:text>.jpg</xsl:text></xsl:attribute>
         <xsl:attribute name="alt">
           <xsl:value-of select="$desc"/>
         </xsl:attribute>
         <xsl:attribute name="border">1</xsl:attribute>
       </img>
     <span class="fig-caption"><xsl:value-of select="$desc"/></span>
-    <span class="fig-link">[<a href="/assets/images/{@facs}.jpg">Full size</a>]</span>
+    <span class="fig-link">[<a href="../assets/images/{@facs}.jpg">Full size</a>]</span>
   </xsl:template>
   
 </xsl:stylesheet>
