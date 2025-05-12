@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00542">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00542">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Migration. [Wild Geese Traveling Southward - Quail Very Plentiful].</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1860-10-17</date><biblScope>3(201): 3.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Migration.</head>
          
@@ -52,13 +52,13 @@
          
          <cit>
             
-            <bibl default="NO">Editor. October 17, 1860. Migration. [Wild Geese Traveling Southward - Quail Very Plentiful]. <title>Omaha Daily Republican</title> 3(201): 3.</bibl>
+            <bibl default="false">Editor. October 17, 1860. Migration. [Wild Geese Traveling Southward - Quail Very Plentiful]. <title>Omaha Daily Republican</title> 3(201): 3.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
 
    
    </text>
 
-</TEI.2>
+</TEI>

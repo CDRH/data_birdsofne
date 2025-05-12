@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00438">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00438">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunting Wild Birds in Parks and Green Woods that Abound Near Omaha. The Boom of the Gun is No Longer Heard in the Woods Near Omaha, But in its Place Bird Hunters Search Diligently with Lead Pencil, Notebook and Camera, While About Flit the Featheredâ€¦</title><title level="j">Omaha Sunday World-Herald</title><author>Greenleaf, Miles.</author><date>1914-06-07</date><biblScope>49(36): 4-M. Includes three pictures of the men afield and three pictures of mounted birds.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunting Wild Birds in Parks and Green Woods that Abound Near Omaha</head>
          
@@ -50,7 +50,7 @@
          
          <p>For those who may wish to study the birds of Nebraska, the government offers a pamphlet called "Fifty Common Birds of Farm and Orchard," published with Farmers' Bulletin No. 513 by the Department of Agriculture. Senator Hitchcock or Congressman Lobleck or any member of Congress can furnish copies of this pamphlet upon application. While some of the birds dealt with in this pamphlet will not be found here, most of them are fairly common in this section, and the descriptions and identifications are as nearly perfect as could be.</p>
          
-         <head>By Miles Greenleaf.</head>
+         </div><div><head>By Miles Greenleaf.</head>
          
          <p>Despite the recent law enacted by Uncle Sam, the spring hunting in the vicinity of Omaha has been great this year. Never were the birds more docile nor more beautiful. In the past three Sundays we have averaged between thirty and forty birds a trip, and this but little west of Elmwood park. And what are our weapons? - Why - lead pencils!</p>
          
@@ -60,7 +60,7 @@
          
          <p>It was Marsh, anyhow, who first made bird-bugs out of the estimable Mr. Neely and the writer of this swarm of words. It took him a long time to do it - but he did it.</p>
          
-         <head>Beginning the Record.</head>
+         </div><div><head>Beginning the Record.</head>
          
          <p>One day when we were out on a long hike, and the snow was up to our knees, Billy, apparently went into a cataleptic convulsion on the Big Pappio bridge on West Center street. He grabbed out his mysterious book and began to scribble violently therein. In was January, 1912, and bitter cold. We figured he was suffering from thermometeritis, and were preparing to overpower him when he pointed into a nearby thicket and gasped:</p>
          
@@ -240,7 +240,7 @@
          
          <p>Very naturally, as the spring arrives and the weather warms up the song birds increase in numbers. You know pretty well what to expect and can refresh your memory by a glance at your notebook under the similar entry of the year before. But even with this expectancy the game has an additional charm. Omaha is situated in the Missouri valley, which is a veritable highway for birds passing between the south and the north, which always stay close to some stream. Thus a lead pencil hunter is always on the alert for new or strange birds that may drop off to pass the time of day while en route one way or another. There are scores of varieties of warblers and to identify them is most difficult, so the notebook prowler generally has to admit himself baffled in half a dozen cases at least when on the summer trail.</p>
          
-         <head>Weather Affects Changes.</head>
+         </div><div><head>Weather Affects Changes.</head>
          
          <p>One might think that the game would drag in the winter, when the more brilliantly colored songsters are off the job hereabouts, but it is just such instances as the unexpected appearance of the cardinal in a snowdrift, previously mentioned, that makes the sport good. It is interesting to see the birds come and go as the weather becomes too warm or too cool.</p>
          
@@ -258,7 +258,7 @@
          
          <p>The hunting itself is the most fun. Most everybody takes you for bird assassins and the inquiry is generally, "What'd you get, boys?" You tell 'em you got thirty birds, and they ask to see 'em. Then you pull out your notebook and they march away in disgust. You are branded as gibbering idiots - but you know better.</p>
          
-         <head>Tale of a Northern Shrike.</head>
+         </div><div><head>Tale of a Northern Shrike.</head>
          
          <p>Lately our party has been blessed, or otherwise, by the presence of one going through the throes of being a bridegroom. The gent referred to was the aforesaid Attorney Robert D. Neely. With the crowning event of his bright career staring him in the face, he wandered through the woods with us in a sublime trance - tangled himself up in the wild grapevines and butted his head into stalwart trees that had come there first and objected to being pushed around. To him all pretty birds were feminine and all of more modest hue were masculine, which is not the case.</p>
          
@@ -286,12 +286,12 @@
          
          <cit>
             
-            <bibl default="NO">June 7, 1914. <title>Omaha Sunday World-Herald</title> 49(36): 4-M. Includes three pictures of the men afield and three pictures of mounted bird skins.</bibl>
+            <bibl default="false">June 7, 1914. <title>Omaha Sunday World-Herald</title> 49(36): 4-M. Includes three pictures of the men afield and three pictures of mounted bird skins.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

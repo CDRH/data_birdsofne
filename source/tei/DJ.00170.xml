@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00170">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00170">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">In the Chicken Fields After the Season Opens. An Unusual Scarcity of Birds and What Brought it About. A Picture to Delight the Eyes of the True Sportsman.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1908-09-27</date><biblScope>43(52): 10. Theatrical and Society section.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>In the Chicken Fields After the Season Opens</head>
          
@@ -80,7 +80,7 @@
          
          <p>"But look! There is Old Sport on a dead stand, over there on the edge of that wave of wild flax. Careful now-lets both make a double!"</p>
          
-         <head>A Charming Hunter's Home.</head>
+         </div><div><head>A Charming Hunter's Home.</head>
          
          <p>The Langley Lodge, spoken of in another article in this issue, and where with Gerard, T.J. Foley and his son, Sidney, and Ray Welch, I spent a pleasant week bassing and real shooting, recently, is presided over by Clem Langley and his estimable wife. It is a hunter's home and general store combined, and situated as it is, in the heart of the charming lake country of Brown county, is one of the most charming resorts to be found anywhere throughout the great west. Clem Langley is a thoroughgoing sportsman-both angler and shot-and one of the best fellows in the world. Those who visit this place during the fishing and shooting season, will make no mistake. Enders lake, which lies, like a huge sparkling gem at the lodge's very door, is teeming with black bass, and the adjacent lakes, marshes and sloughs are favorite grounds for all kinds of wild fowl.</p>
          
@@ -90,12 +90,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. September 27, 1908. <title>Omaha Sunday World-Herald</title> 43(52): 10. Theatrical and Society section. Also: A Charming Hunter's Home. In Forest, Field and Stream column.</bibl>
+            <bibl default="false">Sandy Griswold. September 27, 1908. <title>Omaha Sunday World-Herald</title> 43(52): 10. Theatrical and Society section. Also: A Charming Hunter's Home. In Forest, Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

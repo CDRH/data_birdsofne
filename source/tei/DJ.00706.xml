@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00706">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00706">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Quail Hunting is Quite Expensive. At Least a Boston Man Found it So While Out with Some of His Omaha Friends. Caught Without a License.</title><title level="j">Omaha Daily Bee</title><author>Bee Reporter.</author><date>1915-11-10</date><biblScope>45(124): 1.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Quail Hunting is Quite Expensive</head>
          
@@ -56,7 +56,7 @@
          
          <p>Last week Mr. Bachelor, in company with W.M. Burgess, Myron Learned, Frank Hamilton, Fred Hamilton and Fred Montmorency, five prominent Omahans, went out to Benkelman, Neb., to enjoy a few days of quail shooting. Mr. Bachelor had heard glorious tales of the excellent quail shooting in the Cornhusker state, so a private car was fitted out and the party started out.</p>
          
-         <head>Quail Not Considerate.</head>
+         </div><div><head>Quail Not Considerate.</head>
          
          <p>Everything was lovely. Mr. Bachelor was heard to complain that the quail were not very considerate towards huntsmen, because they flew too high, until one evening when the party were enjoying the evening in the private car following a day of shooting. Then it happened.</p>
          
@@ -78,12 +78,12 @@
          
          <cit>
             
-            <bibl default="NO">November 10, 1915. <title>Omaha Daily Bee</title> 45(124): 1.</bibl>
+            <bibl default="false">November 10, 1915. <title>Omaha Daily Bee</title> 45(124): 1.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

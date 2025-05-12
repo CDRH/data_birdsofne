@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00533">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00533">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Memory of a Hunters Haven on the Fabled Platte.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1912-01-07</date><biblScope>47(15): 2-S.</biblScope></bibl></sourceDesc>
       
@@ -42,23 +42,23 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Memory of a Hunters Haven on the Fabled Platte</head>
          
          <p>The West hotel out at Clarks on the legendary old Platte. How the mention of that old hostelrie brings up the memories of the long ago. While it is still in existence, it is a different place than it was a quarter of a century back, much changed now from what it was when I first went out there with every recurring fall and spring.</p>
          
-         <head>The Old Lodge at Clarks.</head>
+         </div><div><head>The Old Lodge at Clarks.</head>
          
          <p>What a glorious, old-fashioned hunter's resort it was, to be sure, and how sand and yet how pleasant it is to recall the days that I have spent there. As regularly as the years rolled round, spring, summer, autumn or winter, a happy and joyous lot of hunters congregated there, hunters who never dreamed of going any place else, knowing full well, as they did, of the warmth and welcome awaiting them, and of the good shooting that was always their portion there, whether on geese or ducks, chicken or quail, upland or golden plover, sicklebilled or Esquimo curlew. In those dim but beloved old days, what stories, jokes and merry hours passed around in that crude little old bar room, as the office of all country hotels were in those times designated. At night, after the day in the field or on the river or Prairie creek, how the shifting firelight flickered over the faces of those made one by that bond of sympathy that exists in its full intensity among just such men-men who had discovered that a spring or autumn day upon the wild and sprawling river, or in the broad fields forming the upland beyond, and the content in the old tavern at night, lurked the deepest joys that life could offer. How the cruel early March nor'wester would shriek around the corners of that flimsy old board structure, batting at the loose casements like ravenous wolves, wailing down the broad chimney like a soul that is lost, and moaning off, lower and lower, down the icy road leading to the frozen Platte, but only lulling its happy inmates to deeper slumber. March nor'wester or November nor'easter, was only melody to their ears. In the early hours of the morning, long before the first pearl of dawn had begun to run along the rim of the eastern horizon, the duck hunters, bundled to suffocation, almost, in woolen sweaters and canvas togs, would issue from the front door, crawl shivering into the waiting wagon, and then off down the bleak old road to the river.</p>
          
-         <head>Fabled Days Were They.</head>
+         </div><div><head>Fabled Days Were They.</head>
          
          <p>Ducks and geese were wondrously plentiful in those fabled old times, and it was seldom that a day's total ever failed to foot up, in that radiant old bar room at night, close to three figures.</p>
          
          <p>But those incomparable old days have long since been numbered with the dearest of memories, only to be recalled in the jealousy of secret hours when the old hunter's heart beat to the tune of the long ago-when only one wish pervades his mind-a wish to once more see the old scenes in all their familiar beauty; the low sweeps of waving willows, in the __ of that ever struggling, ever striving, twisting, __ing and hoarse old river-to hear the dull roar __ the darkened air and the mellow call of the __ geese high up in the fathomless vault overhead. Vainly he may plead, the relentless tide of dead years lie between his wish and its fulfillment, for nothing is left to him but the wan specter of the past, the dim shadows of pleasures that will come no more. For such an one-the old hunter-it is only to you, oh, rolling Platte, and to you, dear old hunter's haven, with your riant lights, your laughter and your comfort and content, and all the sweet, solacing memories that cluster around you, it is to you-farewell!</p>
          
-         <head>Awakening Happy Memories.</head>
+         </div><div><head>Awakening Happy Memories.</head>
          
          <p>Nothing revives happy memories of the past more vividly than a visit, after long years of absence, to the scenes of the days that have gone. It likewise affords an effective horological appreciation of the old Latin axiom, that "tempus fugits," and at the same time unwelcomly forces upon one the realization that he is growing older. I have been there lately, many, many times, but in my dreams only, and of course, stopped at the West hotel.</p>
          
@@ -68,7 +68,7 @@
          
          <p>Old Uncle George. He died a dozen years or more ago, and his death was lamented sincerely from one end of the state to the other, by the old-timers who had oft and again congregated around the cheerful blaze in his little old office, and smoked and drank and cracked their quips and told their stories of the days up or down the fretful river with the geese and ducks, or off in the briary fields and thin woods with the chicken and the quail.</p>
          
-         <head>Twenty-five Years Ago.</head>
+         </div><div><head>Twenty-five Years Ago.</head>
          
          <p>A quarter of a century ago, Clarks was the rendezvous of more well-known sportsmen than any other one place in this section of the great west, and in those romantic, old days I have idled away many golden hours there with such personages as the late lamented General George Crook, Indian fighter, sportsman, ornithologist, nature master and gentleman; with John Petty, another of the salt and these years over the divide; Judges B.E.B. Kennedy, Dundy and Ogden; Drs. George L. Miller, Gailbraith, Peabody, Richardson and Little; "Hank" Hathaway, John Collins, George A. Hoagland, Henry Homan, Captain Ray, Johnny Hardin, Captain and Billy Townsend, H.A. Penrose, J.M. Gillan, Myron Learned, Skip Dundy, George Small, Eddie George, Ray Welch, Will Pixley, Wilber Fawcett, George Tzschuck, John Weaver, Bill Simeral, Tom Foley, George Scribner, Fred Blake and scores and scores of others whose names just now evade me. Such days of sport, such scenes of exhilaration, such camaraderie, will they ever be known again, ever dawn upon the strained vision save as the images of mournful phantasmagoria?</p>
          
@@ -80,27 +80,27 @@
          
          <p>I have had prime cock shooting on the tangly lowlands west of Lancaster, and also about Hall's on the sweeping Kankakee, and yet old John would hold me enrapt for hours in the warp and woof of his wonderous stories.</p>
          
-         <head>Old John's Early Gunning.</head>
+         </div><div><head>Old John's Early Gunning.</head>
          
          <p>Before the pure white of the blood root illuminated the sodden leaves-almost before the purling note of that dearest of all the dear harbingers of the lovely spring time, the blue-bird, or the oom-oom-boom-oom! of the prairie chicken sounded again from the distant knoll, John said he used to roam with his pointer along the southern slopes, near the spring runs and open bogs, down below the ancient hamlet of Bellevue, not to meet the woodcock, with his roaring muzzle-loader on his return from the south, but to make sure that he had arrived and would be ready for the gun when the hot days of July came around. Where the racemes of the squirrel-brush lit up the leafless thickets, what a thrill those little holes made by the woodcock's long bill sent through the hunter's soul. How often he hunted, he used to tell us, day by day, to find the bird that made them, and again visited the scene in the evening, and hear him sing his only song of love and spring time, and when the snowy involucre of the wild crabapple tree lit up the darkening woods, and the liquid tones of the brown thrush would make the fall of the night so sweet, long would old John linger about the spot of the woodcock's tryst. But that is another story, as Kipling would say.</p>
          
-         <head>The Call of the Wild Geese.</head>
+         </div><div><head>The Call of the Wild Geese.</head>
          
          <p>And then out at the old West house, how we used to stop our stories short in he middle, while gathered around the hot stove, as the faint honk, auh-unh! of the wild goose came falling from the dark sky from some voyaging flock! It would come faintly to our ears and we would listen intently till nothing further came to us but the whining wind around the gables. And then more stories, and then to bed, to sleep and dream of the coming morrow.</p>
          
          <p>Interesting beyond all others was the early hour of daybreaking, before the light paled the lustre of the morning star, when the east began to warm into vague hints of the coming day, when out at Clark's we were up and on the way to the shooting grounds.</p>
          
-         <head>On the River in the Early Morn.</head>
+         </div><div><head>On the River in the Early Morn.</head>
          
          <p>What a weird, wondrous stillness seemed to be resting along the ice-fettered river and over the nude willows, when we reached the shore. The faint winds of night had all stolen away, and left absolute quiet behind. A world of barren shadows. Everything was moveless and fathomless, and dark the immensity of the over arching heavens. Vibrating through the cold, trenchant air, however, there came the low merigenous murmur of the rushing waters beneath the ice, imbuing the atmosphere with some inexplicable power of canny whisper, until the sharp quack of a keen-eyed mallard, drifting athwart the black skies, would bring us to life and action.</p>
          
-         <head>Black Storms of March.</head>
+         </div><div><head>Black Storms of March.</head>
          
          <p>When one of those black March storms come stalking onto us in the early spring, there were few so hardy and indurated but who longed to be back in that little cozy old hotel office with its, to us, fragrant coal oil lamps and flaming cannon stove. In the evening, sometimes in the glow of the dying day the storm would come rolling across, swiftly blotting out all color, hurrying us across the icy expanse, dragging our lines of dead geese and ducks, into the willow thicket and straw-filled wagon, and back through the black night, home-the West hotel. Along in the later hours the shrieking winds around the house would wake us, hurtling against the window panes with the force of chilled shot. But what cared we for this wild, fierce raving of the weather-a moment's listening, then over we rolled, to sleep and dream again.</p>
          
          <p>Then came the morning faint and gray, with the air full of flying scud, and a chill that reached the marrow of one's bones. But we would go down to the river, weather or no weather, and find it one illimitable waste of neutral-tinted vapor. Overhead the voice of the stubborn storm would come the querulous cries of countless ducks and geese, eddying and tossing high in the gale, or huddled wherever they could find shelter under towhead of shelving shore. We all knew, we old timers, that is was going to be a great morning for the birds. There was an unwritten law among we hardened river haunters that told us this. At the falling off of such a storm there were almost sure to be legions of distraught wild fowl flying up and down, across and back again, over that savage river.</p>
          
-         <head>When You Want to Sleep.</head>
+         </div><div><head>When You Want to Sleep.</head>
          
          <p>There is one delusion which is familiar to all duck hunters, pristine and modern-that is the incomprehensibly short space of time between going to bed at night at a shooting lodge and the rout out in the morning. We sometimes were willing to swear we had not been asleep fifteen minutes, measured by the time dial of our discontent.</p>
          
@@ -110,7 +110,7 @@
          
          <p>If the outer door happened to be opened but a moment, the cry of distant geese was heard, and in another hour we were, cold and shivering, on the river. Darkness still veiled the earth when the decoys were all out with heads upwind. The scanty brush blind rearranged from the tousling the night wind had given it, and then a wait till it was light enough to shoot.</p>
          
-         <head>Cries in the Dark.</head>
+         </div><div><head>Cries in the Dark.</head>
          
          <p>From what portion of the heavens came that low, guttural fall, faint and far away, but growing nearer and nearer, though impenetrable to our overtaxed vision? Lucky geese-they passed us close enough to hear the wiff, wiff, wiff, of their strong wings, hidden by the sheltering dark before dawn.</p>
          
@@ -118,7 +118,7 @@
          
          <p>And then-</p>
          
-         <head>The Coming of the Day.</head>
+         </div><div><head>The Coming of the Day.</head>
          
          <p>Now the warm light was reddening the eastern sky. A great shaft of rose-tinted vapor, like a halo from the brow of Helios, shot up toward the zenith. Across the gray expanse of hillocky ice and snow slanted silvery rays, and when we looked again the distant sandhills were no longer murky splotches and the morning broke.</p>
          
@@ -126,7 +126,7 @@
          
          <p>But we wouldn't quit-only with the evening's twilight, and then with other burdens than those with which we were freighted in the morning, in happiness we made our way back to the warmth and comfort, and the thousands of good things that awaited us, always under Uncle George's hospitable roof.</p>
          
-         <head>Home in the Twilight.</head>
+         </div><div><head>Home in the Twilight.</head>
          
          <p>As we jogged along, in contented silence up the old willow bordered road, a sable crow or two would flap his silent way to roost across the now blue vault above, and chilling and sadly came the yipping of the coyote along the darkening valley from the hillside beyond. The storm had vanished with the day, and as we climbed the low hill sloping down to the river, we could see a glimmer along its ragged surface, pink and topaz, from the reflected sunlight against the light lace work of clouds still sweeping in broken columns across the heavens above. Far down the lonely valley the low woods lay darkly blue, while the higher points of the rolling shores long held a lingering tinge, crimsoned from the sunken sun, as if unwilling to give up the day.</p>
          
@@ -134,12 +134,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. January 7, 1912. <title>Omaha Sunday World-Herald</title> 47(15): 2-S.</bibl>
+            <bibl default="false">Sandy Griswold. January 7, 1912. <title>Omaha Sunday World-Herald</title> 47(15): 2-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

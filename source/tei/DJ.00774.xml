@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00774">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00774">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Seven Shooters.</title><title level="j">Norfolk Times</title><author>Editor.</author><date>1881-08-17</date><biblScope>1(39): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,13 +42,13 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Nimrods Attention!</head>
          
          <p>The Prairie fowl is yours, shoot, slay and gather them in.</p>
          
-         <head>Seven Shooters.</head>
+         </div><div><head>Seven Shooters.</head>
          
          <p>Monday evening's train on the U.P. brought to the City, Gen. R.R. Livingston, Dr. Samuel Chapman, and Capt. Bennet of Plattsmouth, Hon. J.B. Barnes of Ponca, H.D. Rogers, Dr. G.W. Wilkinson and Isaac Powers Esq. of Dakota City, who came hither, with purpose foul and on pleasure bent. Tuesday morning found them astir at an early hour ready for the sportive fray and it is said that the mortality among the prairie chickens was dreadful to behold.</p>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">August 17, 1881. <title>Norfolk Times</title> 1(39): 4.</bibl>
+            <bibl default="false">August 17, 1881. <title>Norfolk Times</title> 1(39): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

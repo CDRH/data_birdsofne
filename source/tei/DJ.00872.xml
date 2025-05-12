@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00872">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00872">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">One of Stout's Mysteries.</title><title level="j">Omaha Sunday World-Herald</title><author>Stout, Edward.</author><date>1909-02-21</date><biblScope>44(21): 4-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>One of Stout's Mysteries.</head>
          
@@ -66,12 +66,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold and Edward Stout. February 21, 1909. One of Stout's Mysteries. <title>Omaha Sunday World-Herald</title> 44(21): 4-S.</bibl>
+            <bibl default="false">Sandy Griswold and Edward Stout. February 21, 1909. One of Stout's Mysteries. <title>Omaha Sunday World-Herald</title> 44(21): 4-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

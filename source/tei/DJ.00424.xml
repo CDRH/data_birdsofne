@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00424">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00424">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunters Find Poor Picking. Weather Has Been Altogether Too Pleasant to Bag Water Fowl. Quail Season is Now Open. For Fifteen Days Nimrods May Scour the Fields of Nebraska for Bob White - Many Hunters Go to the Fields.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1912-11-03</date><biblScope>42(20): 4-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunters Find Poor Picking</head>
          
@@ -58,7 +58,7 @@
          
          <p>Sportsmen, nevertheless, are extracting some solace from the fact that the open season for quail is now on, and the most of them are looking to the brush and stubble for their remaining fall sport. The season begins November 1 and will be on until November 15. So those who are counting on a day with Bob White had better not defer their outing too long or they will get cheated all together. As was noted in these columns last Sunday, quail are scarce at their best, but reports from different points up along the Elkhorn road show that they are in some places quite plentiful. Along the brushy creek ways about Stanton, they are said to be about as plentiful as ever and some fair bags have always been made by the shooters in that vicinity. There are lots of birds said t be found along the hedges and in the thickets near Oxford and west of Fairmont and Geneva and several left for the latter grounds friday evening.</p>
          
-         <head>Along the Niobrara.</head>
+         </div><div><head>Along the Niobrara.</head>
          
          <p>There are slathers of birds it is said up in the rocky and almost inaccessible canyons along the Niobrara, where the cover is always fine, but the shooting is so different, all being on the same order, that even the best shots find it a hard thing to make anything like a satisfactory bag.</p>
          
@@ -82,12 +82,12 @@
          
          <cit>
             
-            <bibl default="NO">November 3, 1912. <title>Omaha Sunday Bee</title> 42(20): 4-S.</bibl>
+            <bibl default="false">November 3, 1912. <title>Omaha Sunday Bee</title> 42(20): 4-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

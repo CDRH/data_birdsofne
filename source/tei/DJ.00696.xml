@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00696">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00696">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Professor Aughey on Insectivorous Birds.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1876-12-12</date><biblScope>19(149): 1.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Professor Aughey on Insectivorous Birds.</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">December 12, 1876. <title>Omaha Daily Republican</title> 19(149): 1.</bibl>
+            <bibl default="false">December 12, 1876. <title>Omaha Daily Republican</title> 19(149): 1.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

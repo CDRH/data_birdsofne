@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00171">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00171">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">One Day Chicken Shoot Told a Pleasant Way. Recalling the Blessed Memories of a Trio of Omaha's Earliest Sportsmen.</title><title level="j">Omaha Sunday World-Herald</title><author>White, A.T.</author><date>1908-08-09</date><biblScope>43(45): 2-M. Reprinted February 1, 1914. Sunday World-Herald 49(18): 2-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>One Day Chicken Shoot Told a Pleasant Way.</head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">A.T. White. August 9, 1908. <title>Omaha Sunday World-Herald</title> 43(45): 2-M. Reprinted: An Old Nebraskan. February 1, 1914. <title>Omaha Sunday World-Herald</title> 49(18): 2-S. Forest Field and Stream column.</bibl>
+            <bibl default="false">A.T. White. August 9, 1908. <title>Omaha Sunday World-Herald</title> 43(45): 2-M. Reprinted: An Old Nebraskan. February 1, 1914. <title>Omaha Sunday World-Herald</title> 49(18): 2-S. Forest Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

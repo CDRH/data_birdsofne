@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00184">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00184">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Coming Carnival of Bird-Murder in Omaha. Also: To Whom It May Concern - The Bird Murdering Festival.</title><title level="j">Omaha Weekly Herald</title><author>Editor.</author><date>1882-05-19</date><biblScope>17(33): 8. Two editorials.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-01"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-01"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Coming Carnival of Bird-Murder in Omaha.</head>
          
@@ -63,7 +55,7 @@
          
          <p>These knights of the murderous shot-gun have powerfully assisted the mercenary sneaks who trap the quail and prairie-chickens to exterminate these beautiful birds from our country, thus inflicting great damage upon the farmers, whose useful friend and beautiful neighbors they were. But this does not satisfy them. They must now go at the tame pigeon, as innocent and beautiful a bird as walks the air, to gratify this unholy and barbarous passion for killing. We denounce the practice of these matches in bird-murder as unworthy of the respectable citizens who engage in them. These men ought to respect the widespread and growing sentiment that is wounded and hurt by them, and which demands that they shall cease. There are, we are glad to know, many members of this association who despise these matches in bird-murder, and we ask them to make themselves heard and felt in putting them down as cruel and barbarous and utterly inconsistent with a true and manly sport.</p>
          
-         <head>To Whom It May Concern - The Bird Murdering Festival.</head>
+         </div><div><head>To Whom It May Concern - The Bird Murdering Festival.</head>
          
          <p>Special notice is hereby given to the managers of the coming bird-slaughter in this city that if the Society for the Prevention of Cruelty to Animals can find no law to stop the coming slaughter it will prosecute and punish every man or set of men who shall bring thousands of pigeons here to half starve of thirst and hunger by the brutes who are hired to cage and torture them. There is, we believe, a state law under which this can be done if the bird-murdering festival goes on outside of the city limits and there is an ordinance under which, by the good help of Judge Benecke, it can be done if this performance is to go on inside of those limits. A friend of the cause will furnish whatever money may be needed to test this matter in the courts having jurisdiction of these cases, and it is already in the hands of a lawyer who will give it prompt and proper attention.</p>
          
@@ -71,12 +63,12 @@
          
          <cit>
             
-            <bibl default="NO">Editor. May 19, 1882. <title>Omaha Weekly Herald</title> 17(33): 8. Two editorials.</bibl>
+            <bibl default="false">Editor. May 19, 1882. <title>Omaha Weekly Herald</title> 17(33): 8. Two editorials.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

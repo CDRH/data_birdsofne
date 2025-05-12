@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00599">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00599">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Our Bird Neighbors - 400 Species in Nebraska. More Than Half of American Birds in This State - President of the Audubon Society Tells of Them, Their Habits, Songs, Plumage, and Where and How They May be Found Around Omaha.</title><title level="j">Omaha Sunday World-Herald</title><author>Towne, Dr. Solon R.</author><date>1911-07-16</date><biblScope>46(42): 3-M. With a picture of Towne and mounts of four species.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Our Bird Neighbors - 400 Species in Nebraska</head>
          
@@ -58,7 +58,7 @@
          
          <p>Burroughs says: "One sees not what is before the eyes, but what is behind him." Attention creates interest.</p>
          
-         <head>Number of Birds.</head>
+         </div><div><head>Number of Birds.</head>
          
          <p>An educator of prominence ten years since, having given no attention to birdlife, judged there were as many as thirty kinds of birds in Nebraska. The list prepared for authorities at our university gives 400 species out of the 768 given in the latest American list. Some fifty are found only near the west end of the state, while seventy-five are only occasionally seen. The 275 are common. Some of these do not nest, only being noted during migration. A half dozen have lately (November, 1910) been added by John T. Zimmer, namely Rocky mountain pine grosbeak, cassin purple finch, western tree sparrow, pink-sided junco, mountain tree sparrow, western evening grosbeak. The Greenland wheater was seen, but without a specimen cannot be added to our list.</p>
          
@@ -72,7 +72,7 @@
          
          <p>In the Bird Lore magazine annually a Christmas bird census is published as observed over the country. Two hundred and fifteen observers reported last time.</p>
          
-         <head>Winter Birds.</head>
+         </div><div><head>Winter Birds.</head>
          
          <p>At Omaha such a list would be about as follows:</p>
          
@@ -90,7 +90,7 @@
          
          <p>A beautiful oak tree in the middle of Shirley street east of Hanscom park was cut down in 1898. Its rings showed it to be 125 years old, being born with our nation in 1776. Said Mr. Enos Mills at a lecture here, "The oak has 400 kinds of enemies" - not all insects of course, but at only one a day how many bird visits are necessary to protect that oak?</p>
          
-         <head>Value in Nebraska.</head>
+         </div><div><head>Value in Nebraska.</head>
          
          <p>How valuable is birdlife to a comparatively tree less state, where our Mr. Morton took for a motto: "Plant Trees" and instituted Arbor day.</p>
          
@@ -124,7 +124,7 @@
          
          <p>Both were heard here at Hillaire on March 2, 1911. Soon the cardinal, too, begins his music so largely made up of slides up or down the scale, and the handsome fellow in black and white with broad sides of buff, scratching so vigorously among the old leaves, is the towhee or chewink calling his name. March 24, 1903, March 16, 1906, March 23, 1907, March 25, 1908 are some of my records.</p>
          
-         <head>Early Arrivals.</head>
+         </div><div><head>Early Arrivals.</head>
          
          <p>The same week for three successive years has come the fox sparrow, another leaf scratcher. he gets his name from his color. The flicker screams his joy to all within a mile. He saves his soft entreating "fli-icker, fli-icker" for the lady to whom he bows and bows at nesting time. And then off they go for a round about flight of ten minutes without a stop.</p>
          
@@ -144,7 +144,7 @@
          
          <p>The sparrows are favorites with me, but Peabody is one of the nicest. Our lark sparrow joins the choir.</p>
          
-         <head>Warbler Family.</head>
+         </div><div><head>Warbler Family.</head>
          
          <p>Another choice family of about twenty-five, mostly migrant, showing great variety in color, some very handsome, is the warbler family. Chapman devoted a large fine volume to them, to be seen in our public library. All but one, winter beyond the Gulf of Mexico, and with leaf opening, move forth taking sixty days to cross the United States, their chief business being to take the caterpillars that hatch to eat the leaf.</p>
          
@@ -160,7 +160,7 @@
          
          <p>The scarlet tanager with black wings is much less known, but though slightly smaller, is just as brilliant. His song reminds one of the robin, but has a buzz with it that tells you he's coming, long before you see him. The male indigo bunting is just the deepest blue possible. The cherry of polite birds, who passes food to his neighbor, is most exquisitely finished in bronze, with a yellow band across the tail.</p>
          
-         <head>Very Polite Birds.</head>
+         </div><div><head>Very Polite Birds.</head>
          
          <p>Our family once witnessed this polite act. Berries of mountain ash were the food and two passed them forward and back several times before final disposal. Dr. Forbush of Massachusetts would say their crops were overfull, leaving no room for the last berry.</p>
          
@@ -184,11 +184,11 @@
          
          <p>"We in the east have the hermit thrush, but with your western meadow lark you do not need him" he said. His is an early arrival. March 11 is the date for 1911. Thus we get months of his world famed song.</p>
          
-         <head>How He Started.</head>
+         </div><div><head>How He Started.</head>
          
          <p>When in my youth a lady mentioned the ability of her husband to know by the call most of the common birds, it seemed a wonderful accomplishment. We recognize human friends even when the voice is minimized over the phone. After twenty-five years with these friends the voice becomes the usual means of recognition.</p>
          
-         <head>How to Know Them.</head>
+         </div><div><head>How to Know Them.</head>
          
          <p>Make a list of those you know and add to it. In 1886, after noting flowers, trees and shrubs in a country doctor's drive (of the latter two, a hundred varieties), I simply said: "I will study birds." With the constant varying of road and stream and foliage in Massachusetts bird life is prominent. hearing a song next day on a familiar drive, I labeled it a robin. But, no, "It's too rapid and like a whistle." Approaching cautiously, "Head and above, black, some white, underneath white, but on breast large rose path; bill, long and white." A stranger. Williams' little pamphlet named him from these marks the rose-breasted grosbeak, sure enough.</p>
          
@@ -196,17 +196,17 @@
          
          <p>A plain opera glass brings the bird half way toward you and saves much time. If one merely chooses a quiet spot and waits he is often surprised at his successes. One cannot hasten in making birds or children your friends.</p>
          
-         <head>How to Look at Them.</head>
+         </div><div><head>How to Look at Them.</head>
          
          <p>The Audubon magazine was published as the organ of the movement by the Forest and Stream company. In April, 1888, Florence A. Merriam, (now noted) wrote "Fifty Common Birds and How to Know Them." Her books, with like title, was in our library. She told of orchard, field, meadow and woods and which birds inhabited each. Size, compared with robin, came next. Colors, giving six or eight classes, as blue back, yellow breast or throat, red head, etc. Songs, flight, marked habits, whether walkers when on ground, shape of bill, place of nest, as ground, tree, in holes, about homes, in bushes, low trees; lastly birds that flock when not nesting.</p>
          
-         <head>When to Study.</head>
+         </div><div><head>When to Study.</head>
          
          <p>Morning is the active part of the birdday. Their song is more frequent than and they allow a much nearer approach. The climax may be at sunrise, but in warm weather the king bird, robin and dickcissel begin by 4 a.m., others following directly. In May activity keeps up well into the day, especially if cool or cloudy. To note fifty varieties by 9 or 10 in the morning would be good work. To have fixed upon one new bird makes a morning a success.</p>
          
          <p>When studying a bird as unknown note his size, general color and any special marks. Get color of head, look for wing bars of white. Note the bill and method of flight. Fix in mind by tone or rhythm his song. It is often well to write these points down till you get to your book.</p>
          
-         <head>Where to Tramp.</head>
+         </div><div><head>Where to Tramp.</head>
          
          <p>Go along our boulevards or in any city park.</p>
          
@@ -224,7 +224,7 @@
          
          <p>Everybody will enjoy the study and many enjoy it immensely. It calls out one's faculties. Attention, discrimination and judgment must be at command at once; order and classification or arrangement follow, and there grows up within one an appreciation of life, of character and beauty.</p>
          
-         <head>Bird Houses.</head>
+         </div><div><head>Bird Houses.</head>
          
          <p>Anywhere except "close in" some care may be given to birdlife. An empty starch box with a one inch hole in it may attract the wren family.</p>
          
@@ -244,12 +244,12 @@
          
          <cit>
             
-            <bibl default="NO">July 16, 1911. <title>Omaha Sunday World-Herald</title> 46(42): 3-M. With a picture of Towne and mounts of four species. Spelling corrections made.</bibl>
+            <bibl default="false">July 16, 1911. <title>Omaha Sunday World-Herald</title> 46(42): 3-M. With a picture of Towne and mounts of four species. Spelling corrections made.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

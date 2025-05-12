@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00334">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00334">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,20 +32,12 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Our Game Birds. An Off-hand Address by the President of the State Sportsmen's Association.</title><title level="j">Omaha Weekly Herald</title><author>Morton, J. Sterling.</author><date>1879-05-23</date><biblScope>14(34): s2.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
-      <revisionDesc>
-      <change>
-        <date value="2005-08-88"/>
-          <respStmt>
-      	<name>Katharine Potter</name>
-          </respStmt>
-          <item>Proofread from Source</item>
-      </change>
-      </revisionDesc>
+      <revisionDesc><change when="2005-08"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
             
       
            
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Our Game Birds.</head>
          
@@ -71,12 +63,12 @@
          
          <cit>
             
-            <bibl default="NO">May 23, 1879. <title>Omaha Weekly Herald</title> 14(34): s2.</bibl>
+            <bibl default="false">May 23, 1879. <title>Omaha Weekly Herald</title> 14(34): s2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

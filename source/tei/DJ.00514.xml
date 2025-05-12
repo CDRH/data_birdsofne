@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00514">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00514">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Sandhills Magpie.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1910-04-03</date><biblScope>45(27): 10-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Sandhills Magpie.</head>
          
@@ -70,18 +70,18 @@
          
          </list>
          
-         <head>A Most Enjoyable Outing.</head>
+         </div><div><head>A Most Enjoyable Outing.</head>
          
          <p>Of all the pleasurable spring hunts I have enjoyed during the past quarter of a century none were more replete with good things than the one from which I returned a few days ago. Conrad Young and a more sterling sportsmen or better fellow never lived, of this city, was with me, and at Seneca we were joined by two other princes of the realm, Tom McCawley and Sime Elwood, and there proceeded to the Milton Hanna ranch, some eighteen miles to the north, on the clear, cold, gushing, trout-laden Big Creek, which was our headquarters. Lucky devils, indeed. In all the sandhills region there is no more harming haven for the ardent gunner than the Hanna ranch, and the days we spent there were fraught with nothing but happiness. We were also the guests of Frank Lee, one of the big ranchers northeast of Brownlee, for a couple of days, and he, too, gave us a most royal time. We found the birds fairly plentiful and had no difficulty in keeping our own table and that of our nearest neighbors well supplied. The weather was just like June, and while this precluded all shooting but just what was necessary, it did not interfere with our general felicity-our chub fishing in Big Creek, long exploring drives among the distant lakes and hills, in an atmosphere as exhilarating as champagne, our grand rallying levees in the evening, our kodak work, our coyote chase, prairie fire night-all combining in a perfect saturnalia of joy. Redheads were unusually plentiful in and about Alkali lake, but we infrequently molested them, eleven birds being our biggest bag, and that was made the morning we left.</p>
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 3, 1910. Sunday World-Herald 45(27): 10-W.</bibl>
+            <bibl default="false">Sandy Griswold. April 3, 1910. Sunday World-Herald 45(27): 10-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

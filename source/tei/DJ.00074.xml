@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00074">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00074">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Bird Life As Asset of a City, Told Realty. Dr. Towne Says Birds and Trees Live Side by Side and Scores Their Enemies. Will Not Condemn Squirrel. Cats and Boys With Slingshots Birds' Enemies.</title><title level="j">Omaha Sunday World-Herald</title><author>Towne, Solon R.</author><date>1915-04-18</date><biblScope>50(29): 9-E.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Bird Life As Asset of a City, Told Realty</head>
          
@@ -64,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">Solon R. Towne. April 18, 1915. <title>Omaha Sunday World-Herald</title> 50(29): 9-E.</bibl>
+            <bibl default="false">Solon R. Towne. April 18, 1915. <title>Omaha Sunday World-Herald</title> 50(29): 9-E.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

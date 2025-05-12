@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00832">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00832">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Sportsmanship. The Grand Spring Attack Upon the Feathered Game. Counting the Game Yesterday - Major Thornburgh's Side the Victors.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1878-04-20</date><biblScope>13(155): 8.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Sportsmanship.</head>
          
@@ -52,7 +52,7 @@
          
          <p>the spring hunt of the Omaha Sportsmen's Club came off on Thursday, and the game was counted yesterday at Collins &amp; Petty's sportsmen's depot, corner of Douglas and Fourteenth streets. A crowd of the sportsmen and their friends were present to witness the counting and examine the game. The latter was on the whole in fine condition, and made a grand display when laid out for examination. The ground hunted over was about the same as last fall, nearly all the members of the club having their favorite hunting grounds, which they visit at each hunt. The scores of each contestant were as follows.</p>
          
-         <head>Thornburg's Side.</head>
+         </div><div><head>Thornburg's Side.</head>
          
          <p>J.W. Petty-19 Hutchins geese, 152; 1 Canada goose, 12; 1 crane, 15; 1 scaup duck, 1; 1 K.D. plover, 1-181.</p>
          
@@ -68,7 +68,7 @@
          
          <p>Maj. Thornburg-13 Hutchins' geese, 104; 3 teal ducks, 3; 1 shoveller duck, 1-108.</p>
          
-         <head>Capt. R.N. Withnell's Side.</head>
+         </div><div><head>Capt. R.N. Withnell's Side.</head>
          
          <p>R.N. Withnell-6 Hutchins' geese-48.</p>
          
@@ -188,12 +188,12 @@
          
          <cit>
             
-            <bibl default="NO">Herald writer. April 20, 1878. <title>Omaha Daily Herald</title> 13(155): 8. Article repeated April 21, 1878.</bibl>
+            <bibl default="false">Herald writer. April 20, 1878. <title>Omaha Daily Herald</title> 13(155): 8. Article repeated April 21, 1878.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

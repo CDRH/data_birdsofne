@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00550">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00550">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Missouri Slope Fifty Years Ago. No Place in the United States Then Afforded Such Opportunities for Wildfowl Shooting as the Number of Ducks and Geese Ran Well Into Billions.</title><title level="j">Forest and Stream</title><author>Babbitt, Charles H.</author><date>1918-09-01</date><biblScope>87(9): 522-523.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Missouri Slope Fifty Years Ago</head>
          
@@ -122,12 +122,12 @@
          
          <cit>
             
-            <bibl default="NO">September 1, 1918. <title>Forest and Stream</title> 87(9): 522-523. Includes a portrait of the author.</bibl>
+            <bibl default="false">September 1, 1918. <title>Forest and Stream</title> 87(9): 522-523. Includes a portrait of the author.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00272">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00272">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Novel Experience at Waubonsie - Fowl Hunting Recollection from Forney's Lake].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1901-04-21</date><biblScope>36(203): 18. Portion of Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest Field and Stream</head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 21, 1901. [Novel Experience at Waubonsie - Fowl Hunting Recollection from Forney's Lake]. <title>Omaha Sunday World-Herald</title> 36(203): 18. Portion of column.</bibl>
+            <bibl default="false">Sandy Griswold. April 21, 1901. [Novel Experience at Waubonsie - Fowl Hunting Recollection from Forney's Lake]. <title>Omaha Sunday World-Herald</title> 36(203): 18. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

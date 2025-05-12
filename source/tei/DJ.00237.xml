@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00237">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00237">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Ducks and Grouse in Western Nebraska.</title><title level="j">Omaha Sunday Bee</title><author>Sweet, Ernest.</author><date>1907-11-17</date><biblScope>37(22): 4-S.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-23">2006-06-23</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-23"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Ducks and Grouse in Western Nebraska</head>
          
@@ -86,12 +78,12 @@
          
          <cit>
             
-            <bibl default="NO">November 17, 1907. <title>Omaha Sunday Bee</title> 37(22): 4-S.</bibl>
+            <bibl default="false">November 17, 1907. <title>Omaha Sunday Bee</title> 37(22): 4-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00016">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00016">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Among the Sandhills of N.W. Nebraska.</title><title level="j">Nidiologist</title><author>Trostler, Isador S.</author><date/><biblScope>3: 8-9, 21-22.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-18"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-18"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Among the Sandhills in N.W. Nebraska</head>
          
@@ -119,12 +111,12 @@
          
          <cit>
             
-            <bibl default="NO">1895. <title>Nidiologist</title> 3: 8-9, 21-22.</bibl>
+            <bibl default="false">1895. <title>Nidiologist</title> 3: 8-9, 21-22.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

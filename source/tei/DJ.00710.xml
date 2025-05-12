@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00710">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00710">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Quinnebogg Woods and Their Night Herons.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1919-06-01</date><biblScope>54(35): 14-E.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Quinnebogg Woods and Their Night Herons</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. June 1, 1919. <title>Omaha Sunday World-Herald</title> 54(35): 14-E.</bibl>
+            <bibl default="false">Sandy Griswold. June 1, 1919. <title>Omaha Sunday World-Herald</title> 54(35): 14-E.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

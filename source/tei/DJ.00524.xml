@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00524">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00524">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Maryott Teal Painting at Townsend's Gun Store in Omaha].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-07-02</date><biblScope>34(275): 7. Portion of Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream</head>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. July 2, 1899. [Maryott teal painting at Townsend's gun store in Omaha.] <title>Omaha Sunday World-Herald</title> 34(275): 7. Forest, Field and Stream column.</bibl>
+            <bibl default="false">Sandy Griswold. July 2, 1899. [Maryott teal painting at Townsend's gun store in Omaha.] <title>Omaha Sunday World-Herald</title> 34(275): 7. Forest, Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00742">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00742">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Robin Red Breast Spring Harbinger. Groh Interviews the Cheerful Fellow, Who is Perched in a Cherry Tree. Wife to Come Back Later.</title><title level="j">Omaha Morning Bee</title><author>Groh, A.R.</author><date>1917-02-13</date><biblScope>46(205): 9.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Robin Red Breast Spring Harbinger</head>
          
@@ -66,7 +66,7 @@
          
          <p>"Thank you," he said, "but you must remember that our nests aren't steam heated and the frozen ground makes our feet numb. That's why I'm sitting in the tree."</p>
          
-         <head>Gathers Up Crumbs.</head>
+         </div><div><head>Gathers Up Crumbs.</head>
          
          <p>"What in the world do you live on at this time of year?" I asked.</p>
          
@@ -80,7 +80,7 @@
          
          <p>Robin smiled.</p>
          
-         <head>Finds Old Nest.</head>
+         </div><div><head>Finds Old Nest.</head>
          
          <p>"Why, certainly," he said.</p>
          
@@ -90,7 +90,7 @@
          
          <p>"Just a minute and I'll get you some crumbs," I said.</p>
          
-         <head>Prefers Bugs.</head>
+         </div><div><head>Prefers Bugs.</head>
          
          <p>"These crumbs are very good," said Robin. "Still, as I remarked before, I look forward to the good old worms and bugs."</p>
          
@@ -104,12 +104,12 @@
          
          <cit>
             
-            <bibl default="NO">February 13, 1917. <title>Omaha Morning Bee</title> 46(205): 9.</bibl>
+            <bibl default="false">February 13, 1917. <title>Omaha Morning Bee</title> 46(205): 9.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><result type="gallery">
+    <entry id="bon.img.000">
+        <name type="common">Black Rosy-finch</name>
+        <name type="sci">Leucosticte atrata</name>
+        <ref ids="DJ.00099"/>
+
+        <id>DJ.00099</id>
+        <caption>
+            <name type="common">Black Rosy Finch</name>
+            <name type="sci">Leucosticte atrata</name>
+        </caption>
+        <desc>Adult male, spring plumage, before t.p.</desc>
+    </entry>
+
+    <entry id="bon.img.001">
+        <name type="common">Wood Thrush</name>
+        <name type="sci">Hylocichla mustelina</name>
+        <ref
+            ids="DJ.00447 DJ.00086 DJ.00325 DJ.00842 DJ.00679 DJ.00389 DJ.00190 DJ.00438 DJ.00091 DJ.00301 DJ.00156"/>
+        <id>DJ.00447</id>
+        <id>DJ.00086</id>
+        <id>DJ.00325</id>
+        <id>DJ.00842</id>
+        <id>DJ.00679</id>
+        <id>DJ.00389</id>
+        <id>DJ.00190</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00301</id>
+        <id>DJ.00156</id>
+        <caption>
+            <name type="common">Wood Thrush</name>
+            <name type="sci">Turdus mustelinus</name>
+        </caption>
+        <desc>p.8</desc>
+    </entry>
+
+    <entry id="bon.img.002">
+        <name type="common">American Robin</name>
+        <name type="sci">Turdus migratorius</name>
+        <ref
+            ids="DJ.01004 DJ.00086 DJ.00952 DJ.00325 DJ.00151 DJ.00840 DJ.00513 DJ.00541 DJ.00358 DJ.00563 DJ.00618 DJ.00799 DJ.00679 DJ.00813 DJ.00389 DJ.00642 DJ.00190 DJ.00168 DJ.00438 DJ.00091 DJ.00894 DJ.00156 DJ.00943 DJ.00363 DJ.00462 DJ.00447 DJ.00988 DJ.00025 DJ.00031 DJ.00098 DJ.00955 DJ.00627 DJ.00102 DJ.00743"/>
+
+        <id>DJ.01004</id>
+        <id>DJ.00086</id>
+        <id>DJ.00952</id>
+        <id>DJ.00325</id>
+        <id>DJ.00151</id>
+        <id>DJ.00840</id>
+        <id>DJ.00513</id>
+        <id>DJ.00541</id>
+        <id>DJ.00358</id>
+        <id>DJ.00563</id>
+        <id>DJ.00618</id>
+        <id>DJ.00799</id>
+        <id>DJ.00679</id>
+        <id>DJ.00813</id>
+        <id>DJ.00389</id>
+        <id>DJ.00642</id>
+        <id>DJ.00190</id>
+        <id>DJ.00168</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00894</id>
+        <id>DJ.00156</id>
+        <id>DJ.00943</id>
+        <id>DJ.00363</id>
+        <id>DJ.00462</id>
+        <id>DJ.00447</id>
+        <id>DJ.00988</id>
+        <id>DJ.00025</id>
+        <id>DJ.00031</id>
+        <id>DJ.00098</id>
+        <id>DJ.00955</id>
+        <id>DJ.00627</id>
+        <id>DJ.00102</id>
+        <id>DJ.00743</id>
+
+        <caption>
+            <name type="common">Robin</name>
+            <name type="sci">Turdus migratorius</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.24</desc>
+    </entry>
+
+    <entry id="bon.img.003">
+        <name type="common">Gray Catbird</name>
+        <name type="sci">Dumetella carolinensis</name>
+        <ref
+            ids="DJ.00009 DJ.00086 DJ.00325 DJ.00842 DJ.00013 DJ.00329 DJ.00679 DJ.00389 DJ.00086 DJ.00190 DJ.00438 DJ.00091 DJ.00301 DJ.00156 DJ.00363"/>
+        <id>DJ.00009</id>
+        <id>DJ.00086</id>
+        <id>DJ.00325</id>
+        <id>DJ.00842</id>
+        <id>DJ.00013</id>
+        <id>DJ.00329</id>
+        <id>DJ.00679</id>
+        <id>DJ.00389</id>
+        <id>DJ.00086</id>
+        <id>DJ.00190</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00301</id>
+        <id>DJ.00156</id>
+        <id>DJ.00363</id>
+        <caption>
+            <name type="common">Cat Bird</name>
+            <name type="sci">Galeoscoptes carolinensis</name>
+            <desc>Adult</desc>
+        </caption>
+        <desc>Adult, p.52</desc>
+    </entry>
+
+    <entry id="bon.img.004">
+        <name type="common">Eastern Bluebird</name>
+        <name type="sci">Sialia sialis</name>
+        <ref
+            ids="DJ.00613 DJ.00952 DJ.00325 DJ.00842 DJ.00541 DJ.00358 DJ.00487 DJ.00714 DJ.00389 DJ.00190 DJ.00438 DJ.00091 DJ.00523 DJ.00894 DJ.00156 DJ.00363 DJ.00988 DJ.00955 DJ.00500"/>
+
+        <id>DJ.00613</id>
+        <id>DJ.00952</id>
+        <id>DJ.00325</id>
+        <id>DJ.00842</id>
+        <id>DJ.00541</id>
+        <id>DJ.00358</id>
+        <id>DJ.00487</id>
+        <id>DJ.00714</id>
+        <id>DJ.00389</id>
+        <id>DJ.00190</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00523</id>
+        <id>DJ.00894</id>
+        <id>DJ.00156</id>
+        <id>DJ.00363</id>
+        <id>DJ.00988</id>
+        <id>DJ.00955</id>
+        <id>DJ.00500</id>
+
+        <caption>
+            <name type="common">Blue Bird</name>
+            <name type="sci">Sialia sialis</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.62</desc>
+    </entry>
+
+    <entry id="bon.img.005">
+        <name type="common">Carolina Wren</name>
+        <name type="sci">Thryothorus ludovicianus</name>
+        <ref ids="DJ.00389"/>
+
+        <id>DJ.00389</id>
+
+        <caption>
+            <name type="common">Florida Mocking Wren</name>
+            <name type="sci">Thryothorus ludovicianus miamensis</name>
+            <desc>Adult</desc>
+        </caption>
+        <desc>Adult, p.142</desc>
+    </entry>
+
+    <entry id="bon.img.006">
+        <name type="common">Yellow Warbler</name>
+        <name type="sci">Dendroica petechia</name>
+        <ref ids="DJ.00086 DJ.00086 DJ.00842 DJ.00389 DJ.00086 DJ.00190 DJ.00438 DJ.00091 DJ.00301"/>
+
+        <id>DJ.00086</id>
+        <id>DJ.00086</id>
+        <id>DJ.00842</id>
+        <id>DJ.00389</id>
+        <id>DJ.00086</id>
+        <id>DJ.00190</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00301</id>
+
+        <caption>
+            <name type="common">Summer Yellow Bird</name>
+            <name type="sci">Dendroica aestiva</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.222</desc>
+    </entry>
+    <!--
+<entry id="bon.img.007">
+<name type="common">Cerulean Warbler</name>
+<name type="sci">Dendroica cerulea</name>
+<caption>
+    <name type="common">Cerulean Warbler</name>
+    <name type="sci">Dendroica caerulea</name>
+    <desc>Adult male</desc>
+</caption>
+<desc>Adult male, p.234</desc>
+</entry>
+-->
+
+    <entry id="bon.img.008">
+        <name type="common">Blackburnian Warbler</name>
+        <name type="sci">Dendroica fusca</name>
+        <ref ids="DJ.00098 DJ.00086"/>
+
+        <id>DJ.00098</id>
+        <id>DJ.00086</id>
+
+        <caption>
+            <name type="common">Blackburnian Warbler</name>
+            <name type="sci">Dendroica blackburniae</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.236</desc>
+    </entry>
+    <!--
+<entry id="bon.img.009">
+<name type="common">Black-throated Green Warbler</name>
+<name type="sci">Dendroica virens</name>
+<caption>
+    <name type="common">Black-throated Green Warbler</name>
+    <name type="sci">Dendroica virens</name>
+    <desc>Adult male</desc>
+</caption>
+<desc>Adult male, p.260</desc>
+</entry>
+-->
+
+    <entry id="bon.img.010">
+        <name type="common">Scarlet Tanager</name>
+        <name type="sci">Piranga olivacea</name>
+        <ref
+            ids="DJ.00098 DJ.00086 DJ.00842 DJ.00679 DJ.00389 DJ.00438 DJ.00091 DJ.00894 DJ.00156 DJ.00943"/>
+
+        <id>DJ.00098</id>
+        <id>DJ.00086</id>
+        <id>DJ.00842</id>
+        <id>DJ.00679</id>
+        <id>DJ.00389</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00894</id>
+        <id>DJ.00156</id>
+        <id>DJ.00943</id>
+
+        <caption>
+            <name type="common">Scarlet Tanager</name>
+            <name type="sci">Pyranga rubra</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.434</desc>
+    </entry>
+
+    <entry id="bon.img.011">
+        <name type="common">House Finch</name>
+        <name type="sci">Carpodacus mexicanus</name>
+        <ref ids="DJ.00098"/>
+
+        <id>DJ.00098</id>
+
+        <caption>
+            <name type="common">Crimson House-finch</name>
+            <name type="sci">Carpodacus rhodocolpus</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.466</desc>
+    </entry>
+
+    <entry id="bon.img.012">
+        <name type="common">American Goldfinch</name>
+        <name type="sci">Carduelis tristis</name>
+        <ref
+            ids="DJ.00319 DJ.00086 DJ.00325 DJ.00842 DJ.00660 DJ.00099 DJ.00389 DJ.00190 DJ.00438 DJ.00091 DJ.00175 DJ.00156 DJ.00167 DJ.00363 DJ.00447 DJ.00098 DJ.00627 DJ.00216"/>
+
+        <id>DJ.00319</id>
+        <id>DJ.00086</id>
+        <id>DJ.00325</id>
+        <id>DJ.00842</id>
+        <id>DJ.00660</id>
+        <id>DJ.00099</id>
+        <id>DJ.00389</id>
+        <id>DJ.00190</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00175</id>
+        <id>DJ.00156</id>
+        <id>DJ.00167</id>
+        <id>DJ.00363</id>
+        <id>DJ.00447</id>
+        <id>DJ.00098</id>
+        <id>DJ.00627</id>
+        <id>DJ.00216</id>
+
+        <caption>
+            <name type="common">American Goldfinch</name>
+            <name type="sci">Chrysomitris tristis</name>
+            <desc>Adult</desc>
+        </caption>
+        <desc>Adult male, p. 472</desc>
+    </entry>
+    <!--
+<entry id="bon.img.013">
+<name type="common">"Dusky" Seaside Sparrow</name>
+<name type="sci">Ammospiza maritima</name>
+<caption>
+    <name type="common">Black and White Sea-side Finch</name>
+    <name type="sci">Ammodromus nigrescens</name>
+    <desc>Adult</desc>
+</caption>
+<desc>Adult, p.560</desc>
+</entry>
+-->
+
+    <entry id="bon.img.014">
+        <name type="common">White-throated Sparrow</name>
+        <name type="sci">Zonotrichia albicollis</name>
+        <ref ids="DJ.00099 DJ.00086 DJ.00389 DJ.00894 DJ.00447"/>
+
+        <id>DJ.00099</id>
+        <id>DJ.00086</id>
+        <id>DJ.00389</id>
+        <id>DJ.00894</id>
+        <id>DJ.00447</id>
+
+        <caption>
+            <name type="common">White-throated Sparrow</name>
+            <name type="sci">Zonotrichia albicollis</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.573</desc>
+    </entry>
+
+    <entry id="bon.img.015">
+        <name type="common">Dark-eyed Junco</name>
+        <name type="sci">Junco hyemalis</name>
+        <ref
+            ids="DJ.00091 DJ.00086 DJ.00842 DJ.00660 DJ.00813 DJ.00099 DJ.00389 DJ.00438 DJ.00091 DJ.00167 DJ.00159 DJ.00447 DJ.00216"/>
+
+        <id>DJ.00091</id>
+        <id>DJ.00086</id>
+        <id>DJ.00842</id>
+        <id>DJ.00660</id>
+        <id>DJ.00813</id>
+        <id>DJ.00099</id>
+        <id>DJ.00389</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00167</id>
+        <id>DJ.00159</id>
+        <id>DJ.00447</id>
+        <id>DJ.00216</id>
+
+        <caption>
+            <name type="common">Snow Bird</name>
+            <name type="sci">Junco hyemalis</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.580</desc>
+    </entry>
+
+    <entry id="bon.img.016">
+        <name type="common">Song Sparrow</name>
+        <name type="sci">Melospiza melodia</name>
+        <ref
+            ids="DJ.00447 DJ.00086 DJ.00325 DJ.00099 DJ.00389 DJ.00091 DJ.00894 DJ.00156 DJ.00363 DJ.00447 DJ.00216 DJ.00110"/>
+
+        <id>DJ.00447</id>
+        <id>DJ.00086</id>
+        <id>DJ.00325</id>
+        <id>DJ.00099</id>
+        <id>DJ.00389</id>
+        <id>DJ.00091</id>
+        <id>DJ.00894</id>
+        <id>DJ.00156</id>
+        <id>DJ.00363</id>
+        <id>DJ.00447</id>
+        <id>DJ.00216</id>
+        <id>DJ.00110</id>
+
+        <caption>
+            <name type="common">Song Sparrow</name>
+            <name type="sci">Malospiza melodia</name>
+            <desc>Adult</desc>
+        </caption>
+        <desc>Adult, p.18</desc>
+    </entry>
+
+    <entry id="bon.img.017">
+        <name type="common">Dickcissel</name>
+        <name type="sci">Spiza americana</name>
+        <ref ids="DJ.00098 DJ.00086 DJ.00842 DJ.00016 DJ.00190 DJ.00438 DJ.00091 DJ.00301"/>
+
+        <id>DJ.00098</id>
+        <id>DJ.00086</id>
+        <id>DJ.00842</id>
+        <id>DJ.00016</id>
+        <id>DJ.00190</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00301</id>
+
+        <caption>
+            <name type="common">Black-throated Bunting</name>
+            <name type="sci">Euspiza Americana</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.66</desc>
+    </entry>
+
+    <entry id="bon.img.018">
+        <name type="common">Rose-breasted Grosbeak</name>
+        <name type="sci">Pheucticus ludovicianus</name>
+        <ref
+            ids="DJ.00245 DJ.00086 DJ.00579 DJ.00638 DJ.00679 DJ.00389 DJ.00086 DJ.00190 DJ.00438 DJ.00091 DJ.00156 DJ.00098"/>
+
+        <id>DJ.00245</id>
+        <id>DJ.00086</id>
+        <id>DJ.00579</id>
+        <id>DJ.00638</id>
+        <id>DJ.00679</id>
+        <id>DJ.00389</id>
+        <id>DJ.00086</id>
+        <id>DJ.00190</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00156</id>
+        <id>DJ.00098</id>
+
+        <caption>
+            <name type="common">Rose-breasted Grosbeak</name>
+            <name type="sci">Hedymeles ludovicianus</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.70</desc>
+    </entry>
+
+    <entry id="bon.img.019">
+        <name type="common">Indigo Bunting</name>
+        <name type="sci">Passerina cyanea</name>
+        <ref ids="DJ.00245 DJ.00086 DJ.00190 DJ.00091 DJ.00156 DJ.00363"/>
+
+        <id>DJ.00245</id>
+        <id>DJ.00086</id>
+        <id>DJ.00190</id>
+        <id>DJ.00091</id>
+        <id>DJ.00156</id>
+        <id>DJ.00363</id>
+
+        <caption>
+            <name type="common">Indigo Bird</name>
+            <name type="sci">Cyanospiza cyanea</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.82</desc>
+    </entry>
+
+    <entry id="bon.img.020">
+        <name type="common">Northern Cardinal</name>
+        <name type="sci">Cardinalis cardinalis</name>
+        <ref
+            ids="DJ.00099 DJ.00086 DJ.00638 DJ.00813 DJ.00099 DJ.00438 DJ.00438 DJ.00091 DJ.00894 DJ.00156 DJ.00943 DJ.00363 DJ.00346 DJ.00031 DJ.00098 DJ.00248 DJ.00216"/>
+
+        <id>DJ.00099</id>
+        <id>DJ.00086</id>
+        <id>DJ.00638</id>
+        <id>DJ.00813</id>
+        <id>DJ.00099</id>
+        <id>DJ.00438</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00894</id>
+        <id>DJ.00156</id>
+        <id>DJ.00943</id>
+        <id>DJ.00363</id>
+        <id>DJ.00346</id>
+        <id>DJ.00031</id>
+        <id>DJ.00098</id>
+        <id>DJ.00248</id>
+        <id>DJ.00216</id>
+
+        <caption>
+            <name type="common">Crested Red Bird</name>
+            <name type="sci">Cardinalis virginianus</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.100</desc>
+    </entry>
+
+    <entry id="bon.img.021">
+        <name type="common">Bobolink</name>
+        <name type="sci">Dolichonyx oryzivorus</name>
+        <ref ids="DJ.00156 DJ.00325 DJ.00842 DJ.00016 DJ.00099 DJ.00190 DJ.00091"/>
+
+        <id>DJ.00156</id>
+        <id>DJ.00325</id>
+        <id>DJ.00842</id>
+        <id>DJ.00016</id>
+        <id>DJ.00099</id>
+        <id>DJ.00190</id>
+        <id>DJ.00091</id>
+
+        <caption>
+            <name type="common">Bob-o-link</name>
+            <name type="sci">Dolichonyx oryzivorus</name>
+            <desc>Adult male in spring</desc>
+        </caption>
+        <desc>Adult male in spring, p.148</desc>
+    </entry>
+
+    <entry id="bon.img.022">
+        <name type="common">Baltimore Oriole</name>
+        <name type="sci">Icterus galbula</name>
+        <ref
+            ids="DJ.00098 DJ.00086 DJ.00325 DJ.00842 DJ.00579 DJ.00618 DJ.00099 DJ.00389 DJ.00190 DJ.00438 DJ.00091 DJ.00301 DJ.00156"/>
+
+        <id>DJ.00098</id>
+        <id>DJ.00086</id>
+        <id>DJ.00325</id>
+        <id>DJ.00842</id>
+        <id>DJ.00579</id>
+        <id>DJ.00618</id>
+        <id>DJ.00099</id>
+        <id>DJ.00389</id>
+        <id>DJ.00190</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00301</id>
+        <id>DJ.00156</id>
+
+        <caption>
+            <name type="common">Baltimore Oriole</name>
+            <name type="sci">Icterus baltimore</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.194</desc>
+    </entry>
+
+    <!--
+<entry id="bon.img.023">
+  <name type="common">"Brewster's" Warbler</name> 
+  <name type="sci">Vermivora chysoptera x pinus (identification uncertain)</name> 
+<caption>
+    <name type="common">White-throated Warbler</name>
+    <name type="sci">Helminthophaga leucobronchialis</name>
+    <desc>Adult male</desc>
+</caption>
+<desc>Adult male, p.272</desc>
+</entry>
+-->
+
+
+    <entry id="bon.img.024">
+        <name type="common">Blue Jay</name>
+        <name type="sci">Cyanocitta cristata</name>
+        <ref
+            ids="DJ.00079 DJ.00086 DJ.00842 DJ.00195 DJ.00513 DJ.00013 DJ.00358 DJ.00121 DJ.00329 DJ.00487 DJ.00799 DJ.00813 DJ.00099 DJ.00389 DJ.00190 DJ.00168 DJ.00438 DJ.00091 DJ.00894 DJ.00156 DJ.00363 DJ.00447 DJ.00988 DJ.00988 DJ.00031 DJ.00994 DJ.00627 DJ.00102 DJ.00623"/>
+
+        <id>DJ.00079</id>
+        <id>DJ.00086</id>
+        <id>DJ.00842</id>
+        <id>DJ.00195</id>
+        <id>DJ.00513</id>
+        <id>DJ.00013</id>
+        <id>DJ.00358</id>
+        <id>DJ.00121</id>
+        <id>DJ.00329</id>
+        <id>DJ.00487</id>
+        <id>DJ.00799</id>
+        <id>DJ.00813</id>
+        <id>DJ.00099</id>
+        <id>DJ.00389</id>
+        <id>DJ.00190</id>
+        <id>DJ.00168</id>
+        <id>DJ.00438</id>
+        <id>DJ.00091</id>
+        <id>DJ.00894</id>
+        <id>DJ.00156</id>
+        <id>DJ.00363</id>
+        <id>DJ.00447</id>
+        <id>DJ.00988</id>
+        <id>DJ.00988</id>
+        <id>DJ.00031</id>
+        <id>DJ.00994</id>
+        <id>DJ.00627</id>
+        <id>DJ.00102</id>
+        <id>DJ.00623</id>
+
+        <caption>
+            <name type="common">Blue Jay</name>
+            <name type="sci">Cyanura cristata</name>
+            <desc>Adult</desc>
+        </caption>
+        <desc>Adult, p.272</desc>
+    </entry>
+    <!--
+<entry id="bon.img.025">
+<name type="common">Whip-poor-will</name>
+<name type="sci">Caprimulgus vociferous</name>
+<caption>
+    <name type="common">Whip-poor-will</name>
+    <name type="sci">Antrostomus vociferus</name>
+    <desc>Adult male</desc>
+</caption>
+<desc>Adult male, p.412</desc>
+</entry>
+-->
+
+    <entry id="bon.img.026">
+        <name type="common">Ruby-throated Hummingbird</name>
+        <name type="sci">Archilochus colubris</name>
+        <ref ids="DJ.00385 DJ.00086 DJ.00099 DJ.00091"/>
+
+        <id>DJ.00385</id>
+        <id>DJ.00086</id>
+        <id>DJ.00099</id>
+        <id>DJ.00091</id>
+
+        <caption>
+            <name type="common">Ruby-throat Humming Bird</name>
+            <name type="sci">Trochilus colubris</name>
+            <desc>Adult male, p.448</desc>
+        </caption>
+        <desc>Adult male, p.448</desc>
+    </entry>
+    <!--
+<entry id="bon.img.027">
+<name type="common">Williamson's sapsucker</name>
+<name type="sci">Sphyrapicus thyroideus</name>
+<caption>
+    <name type="common">Williamson's Woodpecker</name>
+    <name type="sci">Sphyropicus thyroideus</name>
+    <desc>Adult male, p.544</desc>
+</caption>
+<desc>Adult male, p.544</desc>
+</entry>
+
+-->
+
+    <!--
+<entry id="bon.img.028">
+<name type="common">Red-headed Woodpecker</name>
+<name type="sci">Melanerpes erythrocephalus</name>
+<caption>
+    <name type="common">Red-headed Woodpecker</name>
+    <name type="sci">Melanerpes erythrocephalus</name>
+    <desc>Adult male</desc>
+</caption>
+<desc>Adult male, p.564</desc>
+</entry>
+-->
+
+    <entry id="bon.img.029">
+        <name type="common">Carolina Parakeet</name>
+        <name type="sci">Conuropsis carolinensis</name>
+        <ref ids="DJ.00784"/>
+
+        <id>DJ.00784</id>
+
+        <caption>
+            <name type="common">Parakeet</name>
+            <name type="sci">Conurus carolinensis</name>
+            <desc>Adult</desc>
+        </caption>
+        <desc>Adult, p.586</desc>
+    </entry>
+    <!--
+<entry id="bon.img.030">
+  <name type="common">"Lawrence's" Warbler</name> 
+  <name type="sci">Vermivora chysoptera x pinus (identification uncertain)</name> 
+<caption>
+    <name type="common">Lawrence's Warbler</name>
+    <name type="sci">Helminthophaga lawrencii</name>
+    <desc>Adult male</desc>
+</caption>
+<desc>Adult male, before t.p.</desc>
+</entry>
+-->
+
+    <!--
+<entry id="bon.img.031">
+  <name type="common">Eastern Screech Owl. Red morph</name> 
+  <name type="sci">Megascops asio</name> 
+<caption>
+    <name type="common">Florida Screech Owl</name>
+    <name type="sci">Scops asio floridanus</name>
+    <desc>Adult: rufous dress</desc>
+</caption>
+<desc>Adult: rufous dress, p.50</desc>
+</entry>
+-->
+
+    <!--
+<entry id="bon.img.032">
+<name type="common">Ferruginous Pygmy-Owl</name>
+<name type="sci">Glaucidium brasilianum</name>
+<caption>
+    <name type="common">Ferruginous Pigmy Owl</name>
+    <name type="sci">Glaucidium ferrugineum</name>
+    <desc>Adult: gray dress</desc>
+</caption>
+<desc>Adult: gray dress, p.80</desc>
+</entry>
+-->
+
+    <entry id="bon.img.033">
+        <name type="common">Burrowing Owl</name>
+        <name type="sci">Athene cunicularia</name>
+        <ref ids="DJ.00099 DJ.00842 DJ.00612 DJ.00136 DJ.00620"/>
+
+        <id>DJ.00099</id>
+        <id>DJ.00842</id>
+        <id>DJ.00612</id>
+        <id>DJ.00136</id>
+        <id>DJ.00620</id>
+
+        <caption>
+            <name type="common">Florida Burrowing Owl</name>
+            <name type="sci">Speotyto floridanus</name>
+            <desc>Adult</desc>
+        </caption>
+        <desc>Adult, p.90</desc>
+    </entry>
+
+    <entry id="bon.img.034">
+        <name type="common">Merlin</name>
+        <name type="sci">Falco columbarius</name>
+        <ref ids="DJ.00216 DJ.00842 DJ.00501"/>
+
+        <id>DJ.00216</id>
+        <id>DJ.00842</id>
+        <id>DJ.00501</id>
+        <caption>
+            <name type="common">Richardson&apos;s Merlin</name>
+            <name type="sci">Falco richardsoni</name>
+            <desc>Adult male</desc>
+        </caption>
+        <desc>Adult male, p.148</desc>
+    </entry>
+    <!--
+<entry id="bon.img.035">
+<name type="common">Inca Dove</name>
+<name type="sci">Columbina inca</name>
+<caption>
+    <name type="common">Inca Dove</name>
+    <name type="sci">Scardafella inca</name>
+    <desc>Adult male</desc>
+</caption>
+<desc>Adult male, p.386</desc>
+</entry>
+-->
+
+   </result>
+</TEI>

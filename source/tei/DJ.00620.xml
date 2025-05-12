@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00620">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00620">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Notes on Some Birds of Gage Co., Neb.</title><title level="j">Oologist</title><author>Pearse, A.S.</author><date>1896-02-01</date><biblScope>8(2): 15-16.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-07-21"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-07-21"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Notes on Some Birds of Gage Co., Neb.</head>
          
@@ -65,7 +57,7 @@
          
          <p>They were paired on Feb. 24, 1895. * (*I am pretty sure that they remain paired throughout the year, but I have not enough data to be positive.) I watched one pair who had been feeding quietly, then suddenly would fly up and flutter about each other in the air for about a minute and then alight and go on feeding. I also observed a pair doing this on Feb. 10th. On March 17th I found a nest containing one egg, which was deserted a few days afterwards. Jan. 6, 1896, I examined a stomach which contained small seeds and sand.</p>
          
-         <head><hi rend="smallcaps">The Flicker</hi></head>
+         </div><div><head><hi rend="smallcaps">The Flicker</hi></head>
          
          <p>Is a common resident, a few remaining with us all winter. <hi rend="italic">Colaptes cafer</hi> is commoner in the fall and winter than <hi rend="italic">C. auratus</hi>.</p>
          
@@ -77,7 +69,7 @@
          
          <p>Sept. 8, 1895, examined a stomach that contained wild grapes.</p>
          
-         <head><hi rend="smallcaps">The Lark Bunting</hi></head>
+         </div><div><head><hi rend="smallcaps">The Lark Bunting</hi></head>
          
          <p>Is common during the breeding season in the pastures.</p>
          
@@ -87,7 +79,7 @@
          
          <p>In 1895 I first observed them on May 11th, when they were abundant in the pastures, the males singing their beautiful soaring song. They were last seen July 13th.</p>
          
-         <head><hi rend="smallcaps">The Burrowing Owl</hi>.</head>
+         </div><div><head><hi rend="smallcaps">The Burrowing Owl</hi>.</head>
          
          <p>I did not meet this species until 1895. I found two colonies both of about 20 birds (judging from the number of holes in use). The burrows were in pastures, which had a sandy soil under the turf. They were usually about 6 feet long while some were as long as ten.</p>
          
@@ -99,12 +91,12 @@
          
          <cit>
             
-            <bibl default="NO">February 1896. <title>Oologist</title> 8(2): 15-16.</bibl>
+            <bibl default="false">February 1896. <title>Oologist</title> 8(2): 15-16.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

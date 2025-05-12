@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00321">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00321">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Forest, Field and Stream. February Days].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-02-05</date><biblScope>34(129): 24.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -110,12 +110,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. February 5, 1899. [Forest, Field and Stream. February Days.] <title>Omaha Sunday World-Herald</title> 34(129): 24.</bibl>
+            <bibl default="false">Sandy Griswold. February 5, 1899. [Forest, Field and Stream. February Days.] <title>Omaha Sunday World-Herald</title> 34(129): 24.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

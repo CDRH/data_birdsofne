@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00416">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00416">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunters, Attention!</title><title level="j">Merna Record</title><author>Fenner &amp; Co.</author><date>1890-10-16</date><biblScope>4(48): 1.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunters, Attention!</head>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">Fenner &amp; Co. October 16, 1890. <title>Merna Record</title> 4(48): 1.</bibl>
+            <bibl default="false">Fenner &amp; Co. October 16, 1890. <title>Merna Record</title> 4(48): 1.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

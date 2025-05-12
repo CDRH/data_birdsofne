@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00492">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00492">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Lesson of the Spring.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1923-04-15</date><biblScope>58(29): 10-E. A nature editorial.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Lesson of the Spring.</head>
          
@@ -58,12 +58,12 @@
          
          <cit>
             
-            <bibl default="NO">Editor [possibly Miles Greenleaf]. April; 15, 1923. <title>Omaha Sunday World-Herald</title> 58(29): 10-E. A nature editorial.</bibl>
+            <bibl default="false">Editor [possibly Miles Greenleaf]. April; 15, 1923. <title>Omaha Sunday World-Herald</title> 58(29): 10-E. A nature editorial.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

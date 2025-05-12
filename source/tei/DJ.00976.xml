@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00976">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00976">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">On a Wild Goose Chase. How Some Omaha Sports Spent Easter Sunday Shooting on a Sandbar. Mike Marley's Hospitality - At the Camp - In the Pits - At Dinner - Story of a Great Day.</title><title level="j">Omaha Sunday World-Herald</title><author>World-Herald staff writer.</author><date>1890-04-13</date><biblScope>25(194): 20. Three illustrations included.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-02"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-02"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>On a Wild Goose Chase.</head>
          
@@ -71,7 +63,7 @@
          
          <p>"You misunderstand me, dear boy. I did not intend the invitation as a personal attack. It was not a mere pleasantry. No. I am in earnest, sure. Me and Judge Blair and Dave Stubbs intend to go to River Sioux, Ia., this week for a goose hunt. We will camp on the banks of the Sioux about seven miles north of the town and shall remain about a week. We are fixed for it too. Got everything we could think of that is desirable to make camp life pleasant, even luxurious. Eh? It's in Iowa. Oh, yes I know. Now promise you'll come up spend Easter with us." After thinking a [missing] thoughts, the artist promised to go. Equipped with a camera and ten dry [missing] he started for River Sioux station. He had been informed by McGrew that Dave Stubbs might be on that train and to look out for him, as a wagon would be at the depot to meet them and transport them some six miles across country to Mr. Marley's farm house, where Mac had arranged they were to stay all night. Stubbs and the artist alighted on opposite sides of the train when it stopped at their destination.</p>
          
-         <figure entity="WildGooseChaseCamp">
+         <figure facs="WildGooseChaseCamp">
             
             <figDesc>goose hunt camp and folk</figDesc>
          
@@ -105,7 +97,7 @@
          
          <p>"It's a fine mornin' and they are flying terrible high," said John Marley. "There are some Canada's coming from the north," and down went John in a crouching attitude.</p>
          
-         <figure entity="WildGooseChaseBlind">
+         <figure facs="WildGooseChaseBlind">
             
             <figDesc>pit blind on a sandbar</figDesc>
          
@@ -137,12 +129,12 @@
          
          <cit>
             
-            <bibl default="NO">April 13, 1890. <title>Omaha Sunday World-Herald</title> 25(194): 20. Three illustrations included.</bibl>
+            <bibl default="false">April 13, 1890. <title>Omaha Sunday World-Herald</title> 25(194): 20. Three illustrations included.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

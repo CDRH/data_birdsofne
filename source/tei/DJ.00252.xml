@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00252">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00252">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Editorial on the Slaughter of Song Birds].</title><title level="j">Wheeler County Independent</title><author>Editor.</author><date>1897-04-29</date><biblScope>7(14): 1.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-07-21"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-07-21"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>[Editorial on the Slaughter of Song Birds.]</head>
          
@@ -63,13 +55,13 @@
          
          <cit>
             
-            <bibl default="NO">Editor. April 29, 1897. [Untitled editorial on the slaughter
+            <bibl default="false">Editor. April 29, 1897. [Untitled editorial on the slaughter
 of song birds.] <title>Wheeler County Independent</title> 7(14): 1. An editorial.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

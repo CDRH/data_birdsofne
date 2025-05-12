@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00228">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00228">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Don't Kill the Birds. The Sportsmen Agree not to Kill the Quail.</title><title level="j">Omaha Weekly Herald</title><author>Anonymous.</author><date>1877-02-09</date><biblScope>12(16): s2.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Don't Kill the Birds.</head>
          
@@ -56,18 +56,18 @@
          
          <p>It has been argued by the anti-bird men that all the fowl in existence could not eat up a Nebraska crop of grasshoppers. We don't know whether they could or not, but birds are more valuable for their war on insects than on grasshoppers. Every variety labors continually to rid us of the insects that collect in trees and at the roots of plants, and even the ugly crow eats more grubs in a day that grains of corn. Every facility should be afforded them for hatching, instead of allowing the boys to prowl around Sundays bird's-nesting, and we are glad to state that by mutual consent our sportsmen have agreed to give the quails a rest this year. The brief respite given them last winter has resulted in a large increase, and if we leave them alone another season, this beautiful bird will become very plentiful. Professor Aughey has made a very interesting calculation demonstrating that the quail is more profitable as an insectivorous bird than as a article on toast, and the sport of killing them is small compared to their actual value as insect warriors. Last summer during a visit to Central Park in New York, a gentleman informed us that a few years ago the trees in the park were rapidly dying off from the ravages of insects. A few pairs of English sparrows, not larger than our snow birds were secured, and at that time they had multiplied so rapidly as to render the life of a bug exceedingly uncertain in Central Park. The gallant little fellows could be seen on every limb and twig, hunting for their natural enemies, and he thought they alone saved the trees. In the event of no legislation on the subject, the next best thing will be to take the thing into our own hands. Every man can protect and encourage the birds on his own lands, which it is certainly his duty to do. While we like to prowl about with a shotgun ourselves occasionally, we will willingly confine our unerring aim to mud hens in the spring and fall, if it will help the insect question, and we believe every man in the county feels the same way.</p>
          
-         <head>An Appeal for the Birds.</head>
+         </div><div><head>An Appeal for the Birds.</head>
          
          <p>In The Herald's Lincoln letter yesterday, our correspondent spoke of the danger of not passing the bill to spare the birds-that it might be put off so long that it could not be passed this session, or if passed, so amended that it would be useless. The Herald is at loss to conceive how any true sportsman who has the interests of the State at heart, is not willing to forego the pleasure he derives in hunting, for the space of three years, that an experiment known and believed to be of great value to any agricultural people, may be tried. We happen to know that there is a great deal of feeling on this subject throughout the State and the farmers in various sections have organized into societies to arrest and prosecute those who may be found shooting birds on their premises. There is not a farmer in the State, who understands the question, who is opposed to this legislation to save the birds. This is pre-eminently an agricultural State and whatever conduces to the prosperity of the farmers, tends also to the prosperity of every other citizen.</p>
          
          <cit>
             
-            <bibl default="NO">February 9, 1877. <title>Omaha Weekly Herald</title> 12(16): s2.</bibl>
+            <bibl default="false">February 9, 1877. <title>Omaha Weekly Herald</title> 12(16): s2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

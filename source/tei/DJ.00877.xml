@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00877">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00877">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Successful Sports. Return of the Hunters. A Fine Lot of Game Bagged and Brought In - The Count for Points - Banquet To-night.</title><title level="j">Omaha Republican</title><author>Anonymous.</author><date>1886-10-23</date><biblScope>p. 5.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Successful Sports.</head>
          
@@ -70,7 +70,7 @@
          
          <p>At 3 o'clock yesterday all the members of the two sides having reported, the count of the game commenced and for nearly three hours it was carried on. Never has there been such a fine lot of game as was displayed in the store room of Collins, Gordon &amp; Kay. And the closeness of the contest shows how skilled the gentlemen are who represented the opposing teams. Hunts have occurred heretofore, but there has never been such a successful one on account of the endless variety of the game shot. The following is a complete record of the points made by the contestants.</p>
          
-         <head>Worley's Side.</head>
+         </div><div><head>Worley's Side.</head>
          
          <p>General George S. Smith hunted at Bartlett, Ia., and bagged the following:</p>
          
@@ -716,7 +716,7 @@
          
          <p>Grand total Worley's side 1503 points, defeating the Hardin side by 35 points.</p>
          
-         <head>Hardin's Side.</head>
+         </div><div><head>Hardin's Side.</head>
          
          <p>C.A. Penrose and John J. Hardin had a fine day's shooting at Missouri Valley Junction, with the following result:</p>
          
@@ -1240,12 +1240,12 @@
          
          <cit>
             
-            <bibl default="NO">October 23, 1886. <title>Omaha Republican</title> p. 5.</bibl>
+            <bibl default="false">October 23, 1886. <title>Omaha Republican</title> p. 5.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

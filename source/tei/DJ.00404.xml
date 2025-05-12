@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00404">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00404">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Honkings From the Platte.</title><title level="j">Forest and Stream</title><author>Wolfe, W.M.—Shoshone.</author><date>1889-04-04</date><biblScope>32(11): 212.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-11"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-11"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,11 +46,11 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Honkings From the Platte.</head>
          
-         <p>Kearney, Nebraska, March 15.—The proper nomenclature of geese and brant is, to me, a regular "13-14-15" puzzle. It has been my hope that with specific names arranged according to the A.O.U. check list the problem would be simplified, but I have found that the problem would be simplified, but I have found that the only way to do is to determine the species by careful study, without reference to geographical distribution as given be recognized manuals, and then to let local sportsmen decide as to local names. We have, in central Nebraska, as spring and fall visitants, five anserine species, known locally as the "Canada goose," "Mexican goose," "white goose," "speckled brant" and "black-winged brant." Some of these are easily identified, the first being <hi rend="italic">Branta canadensis</hi> (Linn.); second, <hi rend="italic">B. c. hutchinsii</hi> (Sw. and Rich.), though why it should be called Mexican instead of Hutchin's goose I cannot imagine. The speckled brant almost corresponds with <hi rend="italic">Anser albifrons gambeli</hi> (Hartl.), but the upper parts seem to be rather a dove color. <hi rend="italic">Chen hyperboria</hi> (Pall.) will answer for black-winged brant, but should we not have <hi rend="italic">C. c&#156;rulescens</hi> (Linn.) or does not the blue goose fly so far west of the Mississippi? The white goose I have never shot. In the air it appears perfectly white, and those who have shot it say that it is white with the exception of yellowish feathers upon the neck. Feet yellow. It is extremely rare and shy. From the description given by those who claim to have handled the bird, I cannot make any satisfactory determination of the species, though it seems to be a <hi rend="italic">Chen</hi>.</p>
+         <p>Kearney, Nebraska, March 15.—The proper nomenclature of geese and brant is, to me, a regular "13-14-15" puzzle. It has been my hope that with specific names arranged according to the A.O.U. check list the problem would be simplified, but I have found that the problem would be simplified, but I have found that the only way to do is to determine the species by careful study, without reference to geographical distribution as given be recognized manuals, and then to let local sportsmen decide as to local names. We have, in central Nebraska, as spring and fall visitants, five anserine species, known locally as the "Canada goose," "Mexican goose," "white goose," "speckled brant" and "black-winged brant." Some of these are easily identified, the first being <hi rend="italic">Branta canadensis</hi> (Linn.); second, <hi rend="italic">B. c. hutchinsii</hi> (Sw. and Rich.), though why it should be called Mexican instead of Hutchin's goose I cannot imagine. The speckled brant almost corresponds with <hi rend="italic">Anser albifrons gambeli</hi> (Hartl.), but the upper parts seem to be rather a dove color. <hi rend="italic">Chen hyperboria</hi> (Pall.) will answer for black-winged brant, but should we not have <hi rend="italic">C. c&#x9c;rulescens</hi> (Linn.) or does not the blue goose fly so far west of the Mississippi? The white goose I have never shot. In the air it appears perfectly white, and those who have shot it say that it is white with the exception of yellowish feathers upon the neck. Feet yellow. It is extremely rare and shy. From the description given by those who claim to have handled the bird, I cannot make any satisfactory determination of the species, though it seems to be a <hi rend="italic">Chen</hi>.</p>
          
          <p>My midwinter notes closed with the extremely cold wave of Feburary 22, and the consequent southern flight of all game and ducks. The 23rd was warm, and the next day was quite springlike. On Feburary 25, Canadas and Hutchin's geese returned in considerable numbers. Two flocks flew over the Platte and probably did not alight before reaching the Loup. Since then geese have become more numerous each day. The same week brought a few mallards and a great number of pintails. Duck hunters are compelled for the present to devote themselves to the pintails. As yet there are no teal. On March 4 speckled brant began to arrive, and on this date I saw the first robin of the season. Six days later came the black-winged brant, and with them meadowlarks put in an appearance.</p>
          
@@ -74,12 +66,12 @@
          
          <cit>
             
-            <bibl default="NO">April 4, 1889. <title>Forest and Stream</title> 32(11): 212.</bibl>
+            <bibl default="false">April 4, 1889. <title>Forest and Stream</title> 32(11): 212.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

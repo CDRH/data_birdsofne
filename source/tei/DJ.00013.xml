@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00013">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00013">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,28 +32,20 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Among the Birds and Bees. Three Romantic but Little Frequented Suburban Resorts. Where Omahans Can Rusticate. A Delightful Row up the Big Papillion River—A Day of Perfect Summer Quiet—Ruser's Park and Irvington.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1889-07-21</date><biblScope>19(32): 13.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-23"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-23"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Among the Birds and Bees.</head>
          
@@ -65,7 +57,7 @@
          
          <p>The stereotyped thing for those who can beg, buy or borrow a carriage is a drive to the fort, to the Bluffs, to Bellevue or out the "military road." Sunday after Sunday, holiday after holiday each Darby with his Joan revisits the same scenes utterly and doubtless blissfully oblivious of the fact that there are other drives and walks about Omaha leading to romantic nooks, dells and bowers possessing at least the charm of novelty. Those who have left these well-beaten highways, have, perhaps, a few miles west of the city, where the Big Papillion twists and doubles upon itself, come upon</p>
          
-         <head>Kruse's Mill.</head>
+         </div><div><head>Kruse's Mill.</head>
          
          <p>It is a perfect spot for the peaceful enjoyment of one of these languid, golden summer days. Coming down into the valley there opens to the traveler one of the most beautiful landscapes in the state. A heavy growth of maple, box elder, and willows borders the winding stream, with here and there a gleam of silver through the foliage. Immediately below is the valley with its many-hued fields of grain from the dark green of the corn to the golden yellow of the ripening oats. Beyond the stream to the west a mile or so away the hills rise in gentle swells dotted over with grazing cattle and the groves and orchards of the farmers. The lungs eagerly drink in the delicious fragrance of the myriad of prairie flowers and the humming of invisible insects, the distant call of the plowmen, the cooing of the doves and the strange tinkling note of the meadow lark are a divine lullaby hushing to rest all care and trouble.</p>
          
@@ -73,22 +65,22 @@
          
          <p>If the miller has not been using too much water we may take one of the boats and row up the stream for a mile or more. The river winds and twists and doubles upon itself in a most startling manner, but the current is sluggish and rowing is a pleasure. The trees almost meet over our heads and the banks are covered with a dense growth of vegetation of almost tropical luxuriance. The blue-coated kingfishers gleam in the sunshine, as with their shrill cry they fly up the stream before us. Blue jays, catbirds, meadow larks, doves, wrens, brown thrushes, blackbirds and hundreds of others make the air musical. Now and then a muskrat, or, possibly, a mink, glides stealthily along the muddy bank and silently vanishes in the water, to appear again behind us. At every turn, and the turns are innumerable, new beauties of color and outline open before us. Here a spring, pure and clear, gushes out from under the dark shadow of a dense growth of ferns and brake and tinkles into the stream. A little further and the trees are gracefully festooned and wreathed with wild grape vines, with sprays trailing in the water. After heavy rains the river is likely to be rather murky, but by moonlight it is perfect. It is possible that all this might after a time grow monotonous, but to the city ears, wearied with the clatter of the pavements, this delicious stillness, broken only by the music of birds and bees, is an inexpressible relief, and one can scarcely imagine anything more perfect than this grove, this river, these lights and shades, with perhaps a hammock and novel and a long, long summer day of the dolce far niente.</p>
          
-         <head>Ruser's Park.</head>
+         </div><div><head>Ruser's Park.</head>
          
          <p>A quiet day can be spent here almost any time except Sunday. There is a beautiful garden with a profusion of flowers, settees, tables, well kept walks and beer galore. There is a bowling alley, rather weather-worn, two or three pavilions, and a good shooting range with electric enunciators. This is the favorite resort of the Germans, and on one of their gala days, which generally fall on Sunday, the grove presents a most animated appearance. Over on the slope of the hill an amateur base ball nine hammers flies and fouls for the delectation of a swarm of white-gowned, pink-sashed admirers; to the right the sheutzen verein blazes away at the row of targets; a steaming, perspiring throng of terpsichoreans whirl about on the dancing platform to the strains of a brass band; hordes of children crowd about the swings or chase up and down the walks; under the trees and at all the tables are delegations of both sexes busily engaged in the absorption of beer and the discussion of ham sandwiches. The surrounding scenery varied with grove and orchard, hill and valley, is very beautiful, and the road winding about the hills, over bridges and through avenues of cottonwood and maple furnishes a most enjoyable drive.</p>
          
-         <head>Irvington.</head>
+         </div><div><head>Irvington.</head>
          
          <p>The drive here is out over Walnut Hill and along the military road through some of the most picturesque and fertile country in the vicinity of Omaha. Irvington itself is merely a hamlet boasting of a postoffice, a store or two, a blacksmith shop and a school. It is a sort of "cross roads" where the farmers congregate for their mail and the discussion of crops and politics. There are groves of magnificent trees on every side, and the solitary street is shaded by tall cottonwoods. The charm of the place is its perfect, peaceful quietness. It is a relaxation and rest to let your horse saunter up the street and drink at the public watering trough while two or three coatless individuals examine you from the porch of the general store across the street. The air is laden with the scents of flowers and melodious with the songs of birds. Bees are humming in the adjoining garden and the droning of the children's voices floats out through the school house window. It would only need the blue line of the mountains in the distance to lead one to imagine himself in some peaceful, sleepy, New England village. Here too, the hammock and novel are the two things needful to perfect bliss.</p>
          
          <cit>
             
-            <bibl default="NO">Anonymous. July 21, 1889. <title>Omaha Sunday Bee</title> 19(32): 13.</bibl>
+            <bibl default="false">Anonymous. July 21, 1889. <title>Omaha Sunday Bee</title> 19(32): 13.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

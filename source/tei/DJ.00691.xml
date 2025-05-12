@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00691">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00691">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Prairie Chickens.</title><title level="j">Omaha Nebraskian</title><author>Anonymous.</author><date>1859-10-08</date><biblScope>5(38): 3.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Prairie Chickens.</head>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">October 8, 1859. <title>Omaha Nebraskian</title> 5(38): 3.</bibl>
+            <bibl default="false">October 8, 1859. <title>Omaha Nebraskian</title> 5(38): 3.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

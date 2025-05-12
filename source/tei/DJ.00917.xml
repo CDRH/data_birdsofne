@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00917">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00917">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Our Trip to Birdland.</title><title level="j">Omaha Sunday Bee</title><author>Johnson, Frances.</author><date>1909-06-13</date><biblScope>38(52): part 4, page 2.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-23">2006-06-23</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-23"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Our Trip to Birdland.</head>
          
@@ -60,7 +52,7 @@
          
          <p>(This poem is based on a recent birding trip by two Busy Bees.)</p>
          
-         <head>I.</head>
+         </div><div><head>I.</head>
          
          <list type="simple">
             
@@ -84,7 +76,7 @@
          
          </list>
          
-         <head>II.</head>
+         </div><div><head>II.</head>
          
          <list type="simple">
             
@@ -108,7 +100,7 @@
          
          </list>
          
-         <head>III.</head>
+         </div><div><head>III.</head>
          
          <list type="simple">
             
@@ -132,7 +124,7 @@
          
          </list>
          
-         <head>IV.</head>
+         </div><div><head>IV.</head>
          
          <list type="simple">
             
@@ -154,7 +146,7 @@
          
          </list>
          
-         <head>V.</head>
+         </div><div><head>V.</head>
          
          <list type="simple">
             
@@ -178,12 +170,12 @@
          
          <cit>
             
-            <bibl default="NO">June 13, 1909. <title>Omaha Sunday Bee</title> 38(52): part 4, page 2.</bibl>
+            <bibl default="false">June 13, 1909. <title>Omaha Sunday Bee</title> 38(52): part 4, page 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

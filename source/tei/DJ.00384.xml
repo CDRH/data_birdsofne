@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00384">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00384">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Gunner's Harvest Moon.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1890-11-09</date><biblScope>20(144): 13. Portion of column.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-10"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-10"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Gunner's Harvest Moon.</head>
          
@@ -62,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">Sporting Editor [Sandy Griswold]. November 9, 1890. <title>Omaha Sunday Bee</title> 20(144): 13. Portion of column.</bibl>
+            <bibl default="false">Sporting Editor [Sandy Griswold]. November 9, 1890. <title>Omaha Sunday Bee</title> 20(144): 13. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

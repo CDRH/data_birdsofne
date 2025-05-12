@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00063">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00063">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Bird Bill Re-committed. It Will Probably be Defeated by Delays.</title><title level="j">Omaha Daily Herald</title><author>Herald editor.</author><date>1877-02-02</date><biblScope>12(96): 2.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Bird Bill Re-committed.</head>
          
@@ -58,7 +58,7 @@
          
          <p>Lincoln, Neb., February 1, 1877.-There was the liveliest kind of a debate yesterday over Crawford's bill, the first introduced in the session-to</p>
          
-         <head>Protect Birds</head>
+         </div><div><head>Protect Birds</head>
          
          <p>from relentless destruction. The champions of this eminently wise measure were Crawford, North, Ferguson, Crans, Brown, Bryant, Birkhanser, Holt, Pepoon and Dawes. Chapman favored the bill in a somewhat curious kind of a way, not at all satisfactory to its other friends. He argued for an exemption for snipe from protection, on the ground that they were her only a short time in the spring of the year, and said they were of no service in destroying injurious insects, as they always remain in the vicinity of marshy ground, and added that there were only about 200 snipe in the entire State. In replying Birkhanser made a good point on Chapman by saying that is there were but 200 snipes in Nebraska, humanity required that these birds should be included in the provisions of the bill, in order that sportsmen should not run their legs off hunting them up. Pepoon came out strong for the bill, making some forcible remarks. In fact, Pepoon is one of the strong members of the Senate. he is not a handsome, showy man, as some of the rest of us are, but he is the personification of good sense. If those Pawnee county people are alive to their best interests, they will give Pepoon a permanent situation as a law-maker.</p>
          
@@ -68,12 +68,12 @@
          
          <cit>
             
-            <bibl default="NO">Herald editor. February 2, 1877. <title>Omaha Daily Herald</title> 12(96): 2.</bibl>
+            <bibl default="false">Herald editor. February 2, 1877. <title>Omaha Daily Herald</title> 12(96): 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

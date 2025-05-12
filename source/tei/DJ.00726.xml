@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00726">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00726">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Reminiscences of Hunting at the Lugenbeel Marshes].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-07-24</date><biblScope>33(297): 24. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Reminiscences of Hunting at the Lugenbeel Marshes </head>
          
@@ -78,12 +78,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. July 24, 1898. [Reminiscences of Hunting at the Lugenbeel Marshes.] <title>Omaha Sunday World-Herald</title> 33(297): 24. Forest, Field and Stream.</bibl>
+            <bibl default="false">Sandy Griswold. July 24, 1898. [Reminiscences of Hunting at the Lugenbeel Marshes.] <title>Omaha Sunday World-Herald</title> 33(297): 24. Forest, Field and Stream.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

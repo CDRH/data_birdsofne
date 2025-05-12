@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00091">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00091">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Birds Found in Woods Near Omaha are Interesting. The Hunting of Warblers With Notebook and Field Glass Becoming a Fad and Leads to Delightful Revelations-Partial List of Beauties that Visit this Section Given by One Who Knows - Sign of Songstersâ€¦</title><title level="j">Omaha Sunday World-Herald</title><author>Greenleaf, Miles.</author><date>1915-08-29</date><biblScope>50(48): 1-M. Includes one picture and nine examples of mounted birds.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Birds That May be Found in Woods Near Omaha are Interesting</head>
          
@@ -60,7 +60,7 @@
          
          <p>Birds - birds to the Nth power!</p>
          
-         <head>Flocks of Birds.</head>
+         </div><div><head>Flocks of Birds.</head>
          
          <p>Besides the usual August songsters we ran into a veritable flock of Myrtle warblers and American redstarts, the former being extremely unusual at this time of the year. Brilliant in plumage and strangely tame, these beauties fairly flirted with the party of exploration, and seemed likely at times to perch on the end of our field glasses.</p>
          
@@ -72,7 +72,7 @@
          
          <p>To begin with, since it has been stated above that more birds have been identified in Nebraska than in any other state, it might be well to name those which can be seen in no more accessible retreat than Elmwood park and the immediate vicinity. The following list is taken from weekly observations by the writer, the new birds being registered and numbered as they first came in:</p>
          
-         <head>Schedule of Birds</head>
+         </div><div><head>Schedule of Birds</head>
          
          <list type="simple">
             
@@ -266,7 +266,7 @@
          
          </list>
          
-         <head>Supplementary List.</head>
+         </div><div><head>Supplementary List.</head>
          
          <p>(Including birds seen shortly before January 1) (or in past twelve months:)</p>
          
@@ -292,7 +292,7 @@
          
          </list>
          
-         <head>A Remarkable List.</head>
+         </div><div><head>A Remarkable List.</head>
          
          <p>This is a remarkable list - not because we recorded it, but because it could so easily be duplicated by nearly any other layman after but a few weeks of study in the outlands. There are but few birds mentioned in the main list of seventy-three that cannot be seen in the same territory at the proper time of nearly any year. The yellow breasted chat is rather unusual hereabout of late and the black-billed cuckoo is far outnumbered by his brother, the yellow bill. The rusty blackbird is likewise pretty elusive, but the rest should be fairly easy.</p>
          
@@ -310,7 +310,7 @@
          
          <p>Enough of the English sparrow! Fitz is interested in them - but different here! Let's talk about something more agreeable.</p>
          
-         <head>The Gull Roams Far.</head>
+         </div><div><head>The Gull Roams Far.</head>
          
          <p>Take the Franklin gull, which you are likely to see almost any day about our fields, especially in the spring and fall. This strange seabird is named after the famous and martyred British arctic explorer and should stay up there where he belongs. But he doesn't.</p>
          
@@ -322,7 +322,7 @@
          
          <p>At least no joints in his neck! For he will see you first and will follow you as you circle the tree - follow you with his head, without moving his body! Then, like an elevator, he will easily slide down into the hollow of the stump upon which he has been perching. It is impossible to look at a screech owl, stuffed or otherwise, without thinking of elevators - he descends so evenly and smoothly.</p>
          
-         <head>The Belted Kingfisher.</head>
+         </div><div><head>The Belted Kingfisher.</head>
          
          <p>In describing the birds whose photographs appear above, thanks to the Northwestern School of Taxidermy, it would be a mistake to overlook the Belted Kingfisher, the kingly fisherman so easily found in these parts. He may be readily identified by his harsh rattle in flight, and you all know how he sits on some stump or convenient limb until he sees a frog or fish in the water below. Then there is a headlong dive, a splash - and the prey has disappeared into Dr. Kingfisher's department of the interior.</p>
          
@@ -336,7 +336,7 @@
          
          <p>Continuing this somewhat rambling series of bird incidents, calculated only to stimulate interest in the sport, the Nebraska mockingbird must be mentioned. He isn't a mockingbird in name, but he certainly is in nature, for the catbird has no mean skill at mimicry.</p>
          
-         <head>Catbird is a Mimic.</head>
+         </div><div><head>Catbird is a Mimic.</head>
          
          <p>A week or so ago the writer was observing a big, flaming cardinal singing away in the very densest part of a very heavy tree. His "What cheer! What cheer! Whew!" was hypnotizing and the queerest part of it all was that there seemed to be a quavering, undecided echo to the song. After several minutes a catbird was discovered in a bush beneath the tree, diligently studying the cardinal song and attempting to imitate it. He didn't do any slouch of a job, either, for his warble would have been a pretty fair Baroda variety had it been possessed of the strength and punch of the real cardinal carol.</p>
          
@@ -354,12 +354,12 @@
          
          <cit>
             
-            <bibl default="NO">August 29, 1915. <title>Omaha Sunday World-Herald</title> 50(48): 1-M. Includes one picture and ten examples of mounted birds.</bibl>
+            <bibl default="false">August 29, 1915. <title>Omaha Sunday World-Herald</title> 50(48): 1-M. Includes one picture and ten examples of mounted birds.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

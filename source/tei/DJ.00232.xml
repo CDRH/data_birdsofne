@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00232">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00232">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Duck Hunting on Marshes Near City. Nimrods Out in Large Numbers Seeking Elusive Fowl.</title><title level="j">Omaha Morning Bee</title><author>Anonymous.</author><date>1920-10-26</date><biblScope>50(112): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Duck Hunting on Marshes Near City</head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">October 26, 1920. <title>Omaha Morning Bee</title> 50(112): 4.</bibl>
+            <bibl default="false">October 26, 1920. <title>Omaha Morning Bee</title> 50(112): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00780">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00780">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Duck Shooting Among the Sioux.</title><title level="j">Omaha Sunday Bee</title><author>Lowrey, J.H.</author><date>1894-11-11</date><biblScope>page 19.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Duck Shooting Among the Sioux.</head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">November 11, 1894. <title>Omaha Sunday Bee</title> page 19.</bibl>
+            <bibl default="false">November 11, 1894. <title>Omaha Sunday Bee</title> page 19.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

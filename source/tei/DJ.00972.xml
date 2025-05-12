@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00972">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00972">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Wild Birds Lured to Protect Native Trees in Unique Way. How Omaha Man Solved the Problem by Making Mr. Woodpecker and Family Take Up a Permanent Residence Along With Other Feathered Enemies of Destructive Worms and Bugs.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1912-08-18</date><biblScope>47(47): 3-M. Includes three pictures.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Wild Birds Lured to Protect Native Trees in Unique Way</head>
          
@@ -54,7 +54,7 @@
          
          <p>They did not intend to retain the two acres, but when the wives and children pre-empted the grove of 200 or more black locust trees and elms and maples the men concluded the tract should be preserved. That meant protection of the trees from their wickedest enemy, the borer. Better no trees at all than a grove of leafless dead timber. Natural enemies of the borers were few and their tenancy uncertain. Mr. Adams, the discoverer of this earthly paradise, studied into it.</p>
          
-         <head>Just Two Safeguards.</head>
+         </div><div><head>Just Two Safeguards.</head>
          
          <p>"There are only two things that will get a borer out of a tree - a knife and a woodpecker," he says. Consulting with Prof. Lawrence Bruner, Nebraska's naturalist and entomologist, and naturalists of other western states, confirmed him in his belief that to gather wild birds - specifically the woodpecker and chickadee - was the safeguarding of the trees.</p>
          
@@ -64,7 +64,7 @@
          
          <p>That outlaw bird, the English sparrow, has not ventured to try dislodging this strong colony, and the winter feeding of the sparrow, whose diet is not worms or even insects, but only seeds and grain - is not helped out by the winter commissary.</p>
          
-         <head>Sparrows Headed Off.</head>
+         </div><div><head>Sparrows Headed Off.</head>
          
          <p>To coax the birds to stay through or at least to the winter season and to come early in the spring if they migrate, "food bells" of meal and glass are swung from trees. The sparrow will not go near a swinging thing and thus he gets no grain from the bells. Strips of bacon or fat are put up beside the bells at first to induce the birds whose presence is desired to come to the bells. This gives them meat diet and the warmth they would lack if they were strict vegetarians, perforce.</p>
          
@@ -76,7 +76,7 @@
          
          <p>From their windows the dwellers in this block see Fairacres to the west, the Field club golf course directly across the asphalt on Pacific street and long distances in other directions - for this eminence is one of the highest in Douglas county. It combines city life and advantages with the atmosphere and surroundings of country homes. And there is the never-ending pleasure of attracting and protecting the wild birds and maintaining the shelterwood for the birds.</p>
          
-         <head>Three Charming Homes.</head>
+         </div><div><head>Three Charming Homes.</head>
          
          <p>Possibly a word about the three residences that this delightful grove and its landscape gardening afford surrounding and background.</p>
          
@@ -86,7 +86,7 @@
          
          <p>Ralph Sunderland's abode is English gothic is style, with a touch of the Dutch in the wide eaves, plastered beneath. The house is unique in that it seems to grow from the grass, the walls continuing up from grade line to roof without any break whatever for a watertable. The brick is of brown tapestry effect with rich oriental shades, a great number of distinct hues, but harmonized by heavy deep brown mortar joints. The heavy growth of shrubbery is well placed and seems in form a connecting link between the tall house and the expansive lawn which rolls gently to the streets. The large living room has an observation window, the dining room is heavy with paneled work, a large built-in buffet reaching across the room. The loggier reception hall and vestibule are interesting, and in the basement is a billiard room with a large fireplace.</p>
          
-         <head>A High Point.</head>
+         </div><div><head>A High Point.</head>
          
          <p>Thirty-seventh and Pacific is said to be the highest point in Douglas county and the view afforded carries the eye across several successive series of hills, which lie within a radius of from ten to fifteen miles. The property in this block overlooks the Field club links, which give the same effect as a beautifully kept park. Many automobiles bring their machines to a halt in response to the Field club sign, "Stop! Look at the view."</p>
          
@@ -96,12 +96,12 @@
          
          <cit>
             
-            <bibl default="NO">Anonymous. August 18, 1912. <title>Omaha Sunday World-Herald</title> 47(47): 3-M. Includes three pictures.</bibl>
+            <bibl default="false">Anonymous. August 18, 1912. <title>Omaha Sunday World-Herald</title> 47(47): 3-M. Includes three pictures.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

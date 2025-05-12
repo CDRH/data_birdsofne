@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00461">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00461">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Jack Snipe Hunting and Sportsmen's Fever].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-10-09</date><biblScope>34(9): 23. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-15">2006-06-15</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-15"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -72,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. October 9, 1898. [Jack Snipe Hunting and Sportsmen's Fever.] <title>Omaha Sunday World-Herald</title> 34(9): 23.</bibl>
+            <bibl default="false">Sandy Griswold. October 9, 1898. [Jack Snipe Hunting and Sportsmen's Fever.] <title>Omaha Sunday World-Herald</title> 34(9): 23.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

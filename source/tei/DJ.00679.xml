@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00679">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00679">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Plea for the Young Birds. Robbing of Nests in Omaha Destructive of Fine Species.</title><title level="j">Omaha Sunday World-Herald</title><author>Whinnery, J. Carroll.</author><date>1899-06-11</date><biblScope>34(254): 6.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Plea for the Young Birds</head>
          
@@ -64,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">J. Carroll Whinnery. June 11, 1899. <title>Omaha Sunday World-Herald</title> 34(254): 6.</bibl>
+            <bibl default="false">J. Carroll Whinnery. June 11, 1899. <title>Omaha Sunday World-Herald</title> 34(254): 6.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

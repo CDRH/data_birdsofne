@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00759">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00759">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Scenes of an Omaha Shooting Party's Outing in the Sandhills - a Woman's Sport.</title><title level="j">Omaha Sunday World-Herald</title><author>[Griswold, Sandy].</author><date>1911-10-15</date><biblScope>47(3): 3-M. Includes five pictures.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Scenes of an Omaha Shooting Party's Outing in the Sandhills --- A Woman's Sport</head>
          
@@ -52,7 +52,7 @@
          
          <p>In September a party consisting of Mr. and Mrs. Pixley, Mr. and Mrs. Fred Hamilton and Jarvis and Casper Offut went on a hunting trip. They went to Hyannis, and there a small cavalcade was organized, the party taking along a cook, drivers and another man. They drove sixteen miles into a lake region, and there camped. Six tents were pitched and there, with a most complete "headquarters," the hunting was begun.</p>
          
-         <head>Out of Doors the Best.</head>
+         </div><div><head>Out of Doors the Best.</head>
          
          <p>"Oh, I think this the finest kind of sport," said Mrs. Pixley, after returning to Omaha. "We were there two weeks, and that wasn't long enough. There is so much excitement to it, and it is so healthy being in the open, and tramping across the country. Then we had a fine cook, so that when we came in tired we had the most delicious meals.</p>
          
@@ -120,12 +120,12 @@
          
          <cit>
             
-            <bibl default="NO">[Sandy Griswold?]. October 15, 1911. <title>Omaha Sunday World-Herald</title> 47(3): 3-M. Includes five pictures. Obvious typographic errors corrected.</bibl>
+            <bibl default="false">[Sandy Griswold?]. October 15, 1911. <title>Omaha Sunday World-Herald</title> 47(3): 3-M. Includes five pictures. Obvious typographic errors corrected.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00666">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00666">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Peters Seeks to Protect Wild Fowl in State. Omaha Sportsman Interests Congressman Lobeck in Passing Enabling Act of Treaty with Canada.</title><title level="j">Omaha Sunday Bee</title><author>Snyder, Edgar S.</author><date>1918-04-21</date><biblScope>47(45): 8-A.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Peters Seeks to Protect Wild Fowl in State</head>
          
@@ -58,7 +58,7 @@
          
          <p>"There is nothing better for a man than close communion with nature, and I am working hard to encourage everything that pertains to game protection. At present every one is so concerned in the war that we can do nothing towards introducing into the state some new wild fowl to beautify our prairies. I hope that after the war we will be able to bring in some pheasants to take the place of the prairie chickens, which are rapidly disappearing.</p>
          
-         <head>To Protect Birds.</head>
+         </div><div><head>To Protect Birds.</head>
          
          <p>"Our winters are so severe that before bringing in the fowl we must plant more brush that will grow quickly so the birds will have a haven in the heavy storms. There must be numerous kinds of edible seeds planted. Its a big proposition and we will not undertake it until later, but this enabling act, whereby the birds will be protected from the breeding grounds to the warmer climates where they pass the winter, will do much toward restoring flocks of birds that have been depleted."</p>
          
@@ -66,7 +66,7 @@
          
          <p>The act, which is known by its short title of the "Migratory Bird Treaty Act" makes it unlawful to hunt, take, capture, kill, attempt to take, capture or kill, possess, offer for sale, offer to purchase, deliver for shipment, ship, cause to be shipped, deliver for transportation, etc., and migratory bird included in the terms of the convention or any part, nest or egg of any such bird.</p>
          
-         <head>Houston is Interested.</head>
+         </div><div><head>Houston is Interested.</head>
          
          <p>Any violation of the act is a misdemeanor and submits the offending party to a fine of $500 or not more than six months imprisonment. The act also empowers the secretary of agriculture to employ persons and means to enforce its provisions.</p>
          
@@ -74,7 +74,7 @@
          
          <p>"Not very many years ago vast numbers of waterfowl and shorebirds nested within the limits of the United States, especially in the far west, but the extension of agriculture, and particularly the draining on a large scale of swamps and meadows, together with improved firearms and a vast increase in the number of sportsmen, have so altered conditions that comparatively few migratory game birds nest within our limits. The greater part of the supply still remaining, the value of which must be estimated at millions of dollars, breed largely in the Canadian provinces and consist of birds that winter within or to the south of the United States and journey back and forth in autumn and spring across our territory.</p>
          
-         <head>Millions of Sportsmen.</head>
+         </div><div><head>Millions of Sportsmen.</head>
          
          <p>"That a great number of people in the United States are interested in the protection of our migratory with birds is evidenced by the fact that there are about 5,000,000 sportsmen in this country, and their number is steadily increasing. These men are all dependent upon the continuance of our supply of wild fowl for their sport, and a very large number of them are in consequence taking an active interest in the present treaty. In addition, the value of the proper protection of our migratory insectivorous birds is of the deepest interest to farmers for the practical assistance they give in destroying insects injurious to crops.</p>
          
@@ -82,12 +82,12 @@
          
          <cit>
             
-            <bibl default="NO">April 21, 1918. <title>Omaha Sunday Bee</title> 47(45): 8-A.</bibl>
+            <bibl default="false">April 21, 1918. <title>Omaha Sunday Bee</title> 47(45): 8-A.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

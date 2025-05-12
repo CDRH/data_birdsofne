@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00457">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00457">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Intimate Terms With the Winter Trees Along the Ancient River Road].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1923-01-14</date><biblScope>58(16): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>[Intimate Terms With the Winter Trees Along the Ancient River Road]</head>
          
@@ -52,13 +52,13 @@
          
          <p>As with the birds and the little four-footers of our modern forests, I have long been in most intimate terms with the wintry trees and I might add those of summer, too, and while my arboreal knowledge is not nearly as extensive as I might desire, I am well enough posted to enjoy myself among them in any season, but none more so than in the period of snow and cold.</p>
          
-         <head>Up the Old Road.</head>
+         </div><div><head>Up the Old Road.</head>
          
          <p>Only last Sunday I made the trip, companionless, to one of my favorite regions in the good old summer time, up along the ancient river road, with its rocky, yet wooded escarpment guarding it to the west, and the broad expanse of the icy Missouri on the east. Despite the rough and laborious going, I had my usual good time, much better when all by myself, than I could have had with any companion who does not partake of the spirit that actuates me in my frequent searches for knowledge, happiness and enjoyment.</p>
          
          <p>There are few persons, whether imbred with the enthusiasm of the out-of-doors, or not, who can not name at least a few of our indigenous trees by examining their foliage, but when they have shed their leaves only those who have made a study of them, who inherently love them, can tell the names of the commonest of those stately guardians of our woods and parks.</p>
          
-         <head>In the Wintry Woods.</head>
+         </div><div><head>In the Wintry Woods.</head>
          
          <p>While it is, of course, only the real nature student that braves all sorts of weather in the pursuit of their penchant, rambling away over the hills and through the bleak and snow-clad valleys, with the same enthusiasm that marks their summer sorties, most persons only think of the trees in winter, if they think of them at all, as dead and dreary, lonely and bare, with neither charm or attractiveness of any sort or kind.</p>
          
@@ -69,19 +69,19 @@
          
          <p>Much is hidden in the huge bole and largest branches of any big tree in the suave season, but when they are stripped of their draperies in the rigorous period, it is easy to investigate every detail of their anatomy and to behold how marvelously the limbs and twigs are grown, how the buds for the spring's outburst are all preparing to answer the call.</p>
          
-         <head>The Pallid Cottonwoods.</head>
+         </div><div><head>The Pallid Cottonwoods.</head>
          
          <p>There is no reason, I believe, to inform you that that tall fellow over there, this side that clump of pallid barked cottonwoods, is an elm. Those limbs lifting themselves up in graceful curves, the spray of the adolescent twigs, arching your pathway through the park, and, in fact, that tout ensemble of these, our most familiar of all the city's arboretums, as well as frequent sentinels throughout all our wooded domains, are familiar to everybody. But you never have loitered, have you, to look carefully over the twigs and the buds, noticed how the infinitesimal joints of the summer's growth show what headway the branches have made, or thought of the scars left by the leaves when they dropped to the ground in October and yet left perceptible the buds for the coming season.</p>
          
-         <head>Allanthus and Locust.</head>
+         </div><div><head>Allanthus and Locust.</head>
          
          <p>And those other chums, the sylph-like and graceful maples. They show you many things that the elms do not, with their buds along the twigs opposite each other, like the ashes, instead of alternate, like the walnuts and the oaks. And of these other trees, observe also, how the limbs grow, whether upward at an acute angle, as with the maples, at nearly right angles with the bole itself, as do most of the oaks, or drooping as with the willows, the lindens and the lower growths, or forming a rounded head os somewhat course branches, like the allanthus and the locust.</p>
          
-         <head>The Ladies of Them All.</head>
+         </div><div><head>The Ladies of Them All.</head>
          
          <p>Look close at the bark of the white ash, and see how it is broken into rough diamond-shaped markings, look at the dark, gray, tight bark of the hardy hornbeam; it looks like steel, and is almost as hard. The cottonwoods and the sycamores fairly shine among the darker trees of our woods and parks; and the transplanted white birches, the ladies of them all, with their soft, satiny coating, that peels off so easily, as does that of his bigger relatives up in the north woods, and of which the Indians used to and do yet, for that matter, make their fishing and hunting canoes. The commoner birch, the gray, is also called white, but its black triangles under the limbs where they join the main trunk, give it away.</p>
          
-         <head>Pals of a Cold Day.</head>
+         </div><div><head>Pals of a Cold Day.</head>
          
          <p>Truly, there is much happiness in being able to call a tree by name when you meet it in the woods, and do not overlook it, the winter trees are the most companionable pals on a cold day, like last Sunday, that you can have on a solitary ramble, and afford good shelter against the raw winds that will persist in coming down from the north.</p>
          
@@ -91,11 +91,11 @@
          
          <p>Many familiar with the trees in winter can tell you the names of them as far as they can see them, even when they resemble a mere etching, cutting sharply against the background sky in the far distance.</p>
          
-         <head>And the Evergreens.</head>
+         </div><div><head>And the Evergreens.</head>
          
          <p>The green fellows that wear their livery the year round are almost black masses in the winter time against the gray of the wind-shorn trees of the other kind; the pines, the cedars, the firs, hemlocks and others of the propinquity add a wonderful bit of color against the snow - where we have them - and make the branches of their bare neighbors stand out with sturdy distinctness.</p>
          
-         <head>Old Woman Picks Her Geese.</head>
+         </div><div><head>Old Woman Picks Her Geese.</head>
          
          <p>You can study the trees all the year, of course, but at this season they repay you best and offer you an intenser companionship.</p>
          
@@ -105,12 +105,12 @@
          
          <cit>
             
-            <bibl default="NO">January 14, 1923. <title>Omaha Sunday World-Herald</title> 58(16): 3-W.</bibl>
+            <bibl default="false">January 14, 1923. <title>Omaha Sunday World-Herald</title> 58(16): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

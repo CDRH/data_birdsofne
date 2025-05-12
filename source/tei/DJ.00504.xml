@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00504">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00504">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Looking Back Through the Mists of a Quarter of a Century.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1919-05-11</date><biblScope>54(32): 12-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Looking Back Through the Mists of a Quarter of a Century</head>
          
@@ -50,7 +50,7 @@
          
          <p>With the frogs still merrily twanging their mandolins down about the wet fringes of the meadow lands and the redwings calling their sweet kong-kong-karees from the lacey willows, one's mind will go back to the joyous springs of other days. But it is no use, there is nothing doing anymore in the entrancing vernal season, for the memory of bygone shooting days is all the law has left us, and in them we must find the curcease. It has all simmered down to looking back and looking forward now in the spring time, and yet we are glad. The rapid and inevitable disappearance of our game is bringing with it the wisdom of Solomon and the patience of Job. We are content now to eschew the excitement of days on the bog and in reedy blind, and extract our happiness out of the days of old, and looking forward to the good times the autumn now can only hold for us.</p>
          
-         <head>A Problem to Be Solved.</head>
+         </div><div><head>A Problem to Be Solved.</head>
          
          <p>The problem of saving the wild game that has been spared to us, in this and other sections of the country, is still a difficult one to solve, but it is, in a considerable measure being brought about by the universal law now in vogue and numerous other measures that are being experimented with. The providing of wildfowl sanctuaries in both the north and south and east and west sections of the country, is proving of incalculable and invaluable benefit, and yet the problem of saving the wild game that has been spared to us is still a difficult one to solve, but it is being brought about in a considerable measure by the universal law that we are now employing, and which has been advocated in these columns for over twenty years, and the many other remedies that have been and are being tried. But there must be no further lagging on the part of the sportsmen in the fuller protection of these wild things in their last possible haunts, which are one of the choicest heritages of the people, and must not be permitted to pass into oblivion. But after all has been said the outlook for next fall's duck and goose, as well as jack-snipe shooting should show, at least, some improvement over that of the last half dozen season. With a good nesting season, plentiful feed, and a fair water supply, these are the conditions that will bring the birds down from the north in fairly increased numbers, at least, but it is doubtful. The fact is I never expect to see any more birds, if as many, as we have been seeing during the pst six or eight years.</p>
          
@@ -58,11 +58,11 @@
          
          <p>I can close my eyes, now, looking back - say over a span of twenty-five years - and see sights that would cause the verdant sportsman of the day to doubt his senses. Even as I write, through a blur of accompanying memory, I trace a picture that fairly sets my own heart a-thumping.</p>
          
-         <head>A Scene of the Long Ago.</head>
+         </div><div><head>A Scene of the Long Ago.</head>
          
          <p>Along the bottom lands of legendary old Prairie creek, a three hours' drive north of the old ducking rendezvous at Clarks, out on the sprawling Platte, in October. The cattails had faded to a rusty brown, save where the unbridled winds had torn them asunder and sent their cottony filaments flying in all directions, and shades of gray were creeping everywhere over the thin stretches of rice, of smartweed and belated flags; the last seedless disk of the hardiest sunflower had lowered its rattling husks nearer to the ground, while the keen northwest wind was whistling dolefully through the scattered ragweed and over the frowsy prairies, when, in an old ramshackle farm wagon, Sam Richmond - dear, dead and gone - myself and several kindred spirits, were jogging along the old buffalo trail on the south shores of that famous old stream. In the crossing of every swail or estuary to the creek, from one to a score of jacksnipe would flush from under the horses feet and with that well known "scaipe" of theirs, dart away out over the prairie and around back of us, where they would again settle down to their boring for food in the musky loam. Long, straggling myriads of yellowlegs would sound their tinkling trumpets and stream away from every stretch of back water on either side of the creek, while golden plover in big, crescent-shaped flocks, swept over the lowlands. Sandpipers of four or five varieties, were whisking here, there and everywhere, and the air was never void of their fretful pipings. It was plain enough to any old wild fowler, or tramper of the sloughs, that these birds had seldom been shot at or molested, for they were there in countless numbers and as tame as the domestic fowl in your barnyard. Big blue cranes, flapped lazily from this sandy point and that and small herons and brown bitterns hardly took the trouble to leave as we passed, almost within reach of the driver's long gad.</p>
          
-         <head>What Sam Told Us.</head>
+         </div><div><head>What Sam Told Us.</head>
          
          <p>The frosts had been early that long ago fall, way up in the polar breeding grounds of the wild fowl, the waders and the geese, and Sam said the northern flight had been on for more than a week and, on noticing a long dotted line coming in over the hills, he said that within an hour the evening flight from the fields and the river would begin, and that he would show me the sight of my whole ducking career.</p>
          
@@ -70,7 +70,7 @@
          
          <p>We were several miles from the spot Sam had chosen for our camping ground and the shadows from the low sandhills to the west were reaching out to enormous lengths over the plains to the east as the golden red sun dipped toward the horizon. When the birds began to come in to these extensive nocturnal feeding and roosting grounds along the tortuous creek, it was not in scattered and attenuated flocks, such as you yet occasionally see in this same region, but in companies, regiments, brigades, battalions and divisions, thousands and thousands of them, until the eye actually grew tired in tracing the ceaseless and incredible march across the skies.</p>
          
-         <head>Birds in the Afterglow.</head>
+         </div><div><head>Birds in the Afterglow.</head>
          
          <p>There were more ducks in sight in the afterglow of that golden October afternoon to ne sweep of the eye around the firmament, than the young hunter of today will see in all the rest of his life, if he goes duck hunting every day in the year and tramps from the first tinge of pearl in the east until the shadows settle over the hills at night.</p>
          
@@ -82,30 +82,30 @@
          
          <p>"The most of these ducks," said Sam, "are northern birds that have been in here for a week past and have learned that these Prairie creek bottoms are a sanctuary that they cannot find anywhere along the Platte of among the big sandhill lakes. Few hunters ever come up here to hunt, because they can kill all the birds they want without the expense and trouble of this long drive, and the birds seem to know it, and they come in here to rest at night by countless millions. The sight tomorrow morning, when the birds begin to leave for the big cornfields and sloughs again, will be just as interesting and just as thrilling as it is this evening. Just look there, to the north. Did you ever see any ducks before, Sandy? and Sam pointed off to the north, where a vast army of wild fowl, many of them undoubtedly just in from the far north, come marching down the darkening sky. Almost endless lines, but mere dots against the deep cerulean of the northern firmament, at first, then well defined birds came widening out and gliding down into that fabled valley. Rising, seemingly, out of the black horizon, in over-whelming masses, hanging for a moment in the crimson sky as they cleared the hills, then bearing down into that fairy vale until it fairly vibrated with quacking hordes.</p>
          
-         <head>Where the Bison Used to Roam.</head>
+         </div><div><head>Where the Bison Used to Roam.</head>
          
          <p>Over the whitened bluffs to the west, where the former grazing grounds of the bison rolled into a vast expanse of prairie, they came in unabated numbers, no longer in broken lines, but in one continuous on-sweeping avalanche of feathers, and swifter than the night wind itself, countless groups of others came riding in on the last sheets of gleaming gold fire from the fast sinking sun.</p>
          
          <p>But there were other birds there besides the ducks, for the vault above was filled with feathered travelers of many hues and many kinds. "MOrning and evening flight" - how incredible this must all sound to the youthful wild fowler of today. Little idea, indeed, can he conjure up of one of our autumn camps out on the old Platte, a quarter of a century ago.</p>
          
-         <head>Our Tents Among the Willows.</head>
+         </div><div><head>Our Tents Among the Willows.</head>
          
          <p>Back in the cleared spot among the willows stands our tents, which in the darkness of night gleamed out like snow banks, excepting when lit up by the huge pile of driftwood, plentifully scattered about us on all sides, which blazed high before their open flaps. I can still see the glare from our campfire reaching out over the river until the stripped cottonwoods on the opposite bank stretched forth their skeleton arms as if to embrace our glowing bivouac. Often by this campfire light, too, have I seen the white collars on the necks of the old Canadas drifting through the night above, and plainly distinguished the glossy greenhead of the mallards as they barely swept the willow tops.</p>
          
          <p>But before darkness has enveloped the water-streaked valley the evening flight is on - that surely is a picture to make his eyes bulge.</p>
          
-         <head>In the Light of the Sinking Sun.</head>
+         </div><div><head>In the Light of the Sinking Sun.</head>
          
          <p>On the blue of the heavens the light from the sunken sun is splintered into millions of fragments, with everything above the distant hills in clear outline, while over all the vale below rests that pallid glow that intensifies the brilliant colors in the air, but throws a creepy gloom over the shaded nooks and crannies. From the vanished orb of day rose leaves radiate into the zenith, while the upper sky on the east would change into tawny gold and darksome green. North and south the blue vault would be shaded with delicate tints, shifting into topaz toward the center of the limitless dome. Far in the east would be reared turrets and towers of richest umber fringed with fire; while to the west rolled waves of gleaming copper, banks of fleecy yellow and streams of lemon and violet. Over this stage would pour that incalculable army that I have attempted to pencil of the winged hots that twenty years ago made the heart of the most stoical sportsman leap with a new life it never knew before.</p>
          
          <cit>
             
-            <bibl default="NO">May 11, 1919. <title>Omaha Sunday World-Herald</title> 54(32): 12-N.</bibl>
+            <bibl default="false">May 11, 1919. <title>Omaha Sunday World-Herald</title> 54(32): 12-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00066">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00066">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">"Bird Day" for Nebraska.</title><title level="j">Omaha Sunday World-Herald</title><author>World-Herald Editor.</author><date>1899-01-15</date><biblScope>34(107): 4.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-06-07"/>
-    <respStmt>
-	<name>Karin Dalziel</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-07"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>"Bird Day" for Nebraska.</head>
          
@@ -83,12 +75,12 @@
          
          <cit>
             
-            <bibl default="NO">World-Herald Editor. January 15, 1899. <title>Omaha Sunday World-Herald</title> 34(107): 4.</bibl>
+            <bibl default="false">World-Herald Editor. January 15, 1899. <title>Omaha Sunday World-Herald</title> 34(107): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

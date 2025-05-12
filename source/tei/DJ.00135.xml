@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00135">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00135">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Laurence Bruner. An Interesting Visit to the Young Naturalist.</title><title level="j">Omaha Daily Herald</title><author>X.</author><date>1879-07-30</date><biblScope>9(244): 2.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-18"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-18"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Laurence Bruner.</head>
          
@@ -77,12 +69,12 @@
          
          <cit>
             
-            <bibl default="NO">July 30, 1879. <title>Omaha Daily Herald</title> 9(244): 2.</bibl>
+            <bibl default="false">July 30, 1879. <title>Omaha Daily Herald</title> 9(244): 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

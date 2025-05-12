@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00630">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00630">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">An Old Fashioned Snipe Hunt.</title><title level="j">Omaha Daily Herald</title><author>Snipe Till You Can't Rest.</author><date>1868-03-19</date><biblScope>3(144): 3.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>An Old Fashioned Snipe Hunt.</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">Snipe Till You Can't Rest. March 19, 1868. <title>Omaha Daily Herald</title> 3(144): 3.</bibl>
+            <bibl default="false">Snipe Till You Can't Rest. March 19, 1868. <title>Omaha Daily Herald</title> 3(144): 3.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

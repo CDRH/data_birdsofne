@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00122">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00122">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Bohemian Waxwings.</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1921-11-20</date><biblScope>57(8): 10-E. A bird editorial.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Bohemian Waxwings.</head>
          
@@ -60,12 +60,12 @@
          
          <cit>
             
-            <bibl default="NO">Editor [possibly Miles Greenleaf]. November 20, 1921. <title>Omaha Sunday World-Herald</title> 57(8): 10-E. A bird editorial.</bibl>
+            <bibl default="false">Editor [possibly Miles Greenleaf]. November 20, 1921. <title>Omaha Sunday World-Herald</title> 57(8): 10-E. A bird editorial.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

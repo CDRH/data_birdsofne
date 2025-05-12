@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00779">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00779">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Shooting Along the Platte. Now and In the Wondrous Days of the Olden Time. Wild Geese in Countless Hordes. Clarks and Its Famous Men - Anser Canadensis and His Snowy Confrere - A One Day's Shoot on the Tortuous Stream.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1895-11-24</date><biblScope>p. 18.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-16"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-16"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
 
@@ -59,7 +51,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Shooting Along the Platte.</head>
          
@@ -131,12 +123,12 @@
          
          <cit>
             
-            <bibl default="NO">November 24, 1895. <title>Omaha Sunday Bee</title> p. 18.</bibl>
+            <bibl default="false">November 24, 1895. <title>Omaha Sunday Bee</title> p. 18.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

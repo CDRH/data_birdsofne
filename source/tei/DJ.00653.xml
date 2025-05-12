@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00653">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00653">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Passenger Pigeon (Ectopistes migratorius) in Wisconsin and Nebraska.</title><title level="j">Auk</title><author>Deane, Ruthven.</author><date>1898-04-01</date><biblScope>15(2): 184-185.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>
             
@@ -52,12 +52,12 @@
          
          <cit>
             
-            <bibl default="NO">April 1898. Auk 15(2): 184-185.</bibl>
+            <bibl default="false">April 1898. Auk 15(2): 184-185.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

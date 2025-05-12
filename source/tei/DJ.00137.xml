@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00137">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00137">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Birds Busy Courting and Homebuilding These Days.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-04-02</date><biblScope>57(24=27): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Birds Busy Courting and Homebuilding These Days</head>
          
@@ -58,7 +58,7 @@
          
          <p>The ways of the birds are so changeful and so countless, so full of beauty, wonder and sagacity, that almost any real student can give you, as experienced as you may be, a new idea or a new bit of information, which, until the moment, you deemed impossible.</p>
          
-         <head>Bird Fever Lasts.</head>
+         </div><div><head>Bird Fever Lasts.</head>
          
          <p>Once you contract the bird fever, you need not think to get rid of it, for it is one malady of the quickened pulse for which there is no febrifuge. I began to chase the birds and to search out their arboreal and leafy quietudes when but an urchin of 6, and maybe less, and yet the fires kindled in those juvenescent days are still ablaze, aye, even fiercer and more mandatory than ever. While new things come slower and in smaller quantities, as you travel along the road of life, with its arabesque of shine and shadow, I am one of those lucky ones who are always finding something new and attractive and am as ardent and painstaking student today as I was when first this penchant made itself manifest. There are but few springs, summers, falls or winters that slip away nowadays without having added to my invaluable store of knowledge of the birds.</p>
          
@@ -70,7 +70,7 @@
          
          <p>Every man, woman and child with a touch of poetry in their makeup, and with a heart in consonance with all that is beautiful and harmonious in life, love the birds and the flowers, the woods and the waters, the hills and the plains, the skies, clouds, storms and calms, although there understanding of them is pitifully meager.</p>
          
-         <head>Old Friend Returns.</head>
+         </div><div><head>Old Friend Returns.</head>
          
          <p>The longed for return of a bird well known - like the robin on my window sill - is a matter of even great and grave concern, and as this is his third year back, the feeling is intenser than ever. This robin came to my window the first fall of my present residence, just north of Turner park, and he has come back each spring since, and has remained in close comradeship all through each recurring summer, and till late in the fall. We know him, beyond all doubt, by a round, white spot above his right eye - the scar tissue, probably of some old wound or hurt, or maybe a natural blemish, but whatever it is, it is the mark by which we know him beyond all chances of doubt. However, we would know him even if he did not have this mark - know him through his wonderful neighborliness and by the fact that he knows us as well as we know him. For instance, through the whole hour and a half of Wednesday's snowfall, he squatted upon our sill, where we set a table for him daily, as contentedly as a cat on a rug before the blazing fireplace. He is an old bird, and I hardly think he has many more summers to spend with us, but how we would miss him is a springtime did come and he did not.</p>
          
@@ -80,12 +80,12 @@
          
          <cit>
             
-            <bibl default="NO">April 2, 1922. <title>Omaha Sunday World-Herald</title> 57(24=27): 3-W.</bibl>
+            <bibl default="false">April 2, 1922. <title>Omaha Sunday World-Herald</title> 57(24=27): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

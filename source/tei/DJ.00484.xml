@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00484">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00484">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Last of the Whoopers and a Recall of Early Days.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1910-01-09</date><biblScope>45(15): 10-N. Forest Field and Stream. Includes a picture portrait of Griswold.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest Field and Stream</head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. January 9, 1910. The last of the whoopers and a recall of early days. <title>Omaha Sunday World-Herald</title> 45(15): 10-N. Includes a picture portrait of Griswold.</bibl>
+            <bibl default="false">Sandy Griswold. January 9, 1910. The last of the whoopers and a recall of early days. <title>Omaha Sunday World-Herald</title> 45(15): 10-N. Includes a picture portrait of Griswold.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

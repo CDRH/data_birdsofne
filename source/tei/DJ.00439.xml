@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00439">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00439">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunt Supper. Annual Game Hunt of the Sportsmen's Club. At the Grand Central Last Evening - Their Bill of Fare - Ladies Present for the First Time.</title><title level="j">Omaha Daily Republican</title><author>Omaha Sportsmen's Club.</author><date>1875-10-16</date><biblScope>18(102): 4. Similar report October 16, 1875. Omaha Daily Herald 10(318): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunt Supper.</head>
          
@@ -54,21 +54,21 @@
          
          <p>The following was the menu:</p>
          
-         <head>Oyster Soup.</head>
+         </div><div><head>Oyster Soup.</head>
          
          <p>Roast ducks with jelly-Mallard, pin-tail, gadwall, dusky, merganser, wood, red-head, widgeon, blue-winged teal, green-winged teal.</p>
          
          <p>Assorted game-Snow goose, apple sauce, pinnated grouse, clapper rail, Virginia rail, yellow-shank snipe, golden plover.</p>
          
-         <head>Entrees.</head>
+         </div><div><head>Entrees.</head>
          
          <p>Pate of Small Game, a la Chasseur, Compote of Mallard Duck, Salmi of Wood Duck, Wilson Snipe on Toast, Chaux Froid of Prairie Chicken, Red-breasted Snipe on Toast.</p>
          
-         <head>Vegetables.</head>
+         </div><div><head>Vegetables.</head>
          
          <p>Mashed Potatoes, Sweet Potatoes, Boiled Onions, Stewed Tomatoes, Hubbard Squash.</p>
          
-         <head>Pastry and Dessert.</head>
+         </div><div><head>Pastry and Dessert.</head>
          
          <p>Snow Pudding with Vanilla Custard, Lady Cake, Sponge Cake, Victoria Biscuit, Maraschino Jelly, Rum Jelly, Neapolitan Ice, Nuts, Raisins, Fruit, Coffee.</p>
          
@@ -80,12 +80,12 @@
          
          <cit>
             
-            <bibl default="NO">October 16, 1875. Omaha Daily Republican 18(102): 4. Similar report October 16, 1875. <title>Omaha Daily Herald</title> 10(318): 4.</bibl>
+            <bibl default="false">October 16, 1875. Omaha Daily Republican 18(102): 4. Similar report October 16, 1875. <title>Omaha Daily Herald</title> 10(318): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

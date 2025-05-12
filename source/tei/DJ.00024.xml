@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00024">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00024">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Annual Spring Wild Fowl Shoot at Stilwell's Ranch].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1903-04-12</date><biblScope>39(184): 23. Repeated April 18, 1903 as "Ducks among the Sand Hills" in Forest and Stream 55(16): 306.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -88,12 +88,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 12, 1903. [Annual spring wild fowl shoot at Stilwell's ranch.] Sunday World-Herald 39(184): 23. Forest Field and Stream column. Repeated April 18, 1903 as "Ducks among the Sand Hills" in <title>Forest and Stream</title> 55(16): 306.</bibl>
+            <bibl default="false">Sandy Griswold. April 12, 1903. [Annual spring wild fowl shoot at Stilwell's ranch.] Sunday World-Herald 39(184): 23. Forest Field and Stream column. Repeated April 18, 1903 as "Ducks among the Sand Hills" in <title>Forest and Stream</title> 55(16): 306.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

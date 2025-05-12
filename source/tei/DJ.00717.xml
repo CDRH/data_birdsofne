@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00717">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00717">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -21,7 +21,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -33,27 +33,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Rattler [Kingfisher Habits].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1916-04-09</date><biblScope>51(28): 6-E. A bird editorial.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-26">2006-06-26</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-26"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Rattler.</head>
          
@@ -79,12 +71,12 @@
          
          <cit>
             
-            <bibl default="NO">Editor [possibly Miles Greenleaf]. April 9, 1916. The Rattler [Kingfisher Habits]. <title>Omaha Sunday World-Herald</title> 51(28): 6-E. A bird editorial.</bibl>
+            <bibl default="false">Editor [possibly Miles Greenleaf]. April 9, 1916. The Rattler [Kingfisher Habits]. <title>Omaha Sunday World-Herald</title> 51(28): 6-E. A bird editorial.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

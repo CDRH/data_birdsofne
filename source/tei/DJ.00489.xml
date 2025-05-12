@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00489">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00489">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">An Old Day Legend of the Curo Springs. Fountains of Health to the Early Settlers and the Red Men. A Story Handed Down by the Late Lamented Dr. Link.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1910-08-28</date><biblScope>45(48): 7-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>An Old Day Legend of the Curo Springs</head>
          
@@ -74,12 +74,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. August 28, 1910. <title>Omaha Sunday World-Herald</title> 45(48): 7-N. Forest Field and Stream.</bibl>
+            <bibl default="false">Sandy Griswold. August 28, 1910. <title>Omaha Sunday World-Herald</title> 45(48): 7-N. Forest Field and Stream.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

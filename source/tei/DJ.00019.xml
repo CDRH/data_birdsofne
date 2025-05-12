@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00019">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00019">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Annual Fall Hunt. Of the Omaha Sportsmen's Club. Who Were Out and Where they Hunted - Count of the Game.</title><title level="j">Omaha Daily Republican</title><author>Editor.</author><date>1881-10-22</date><biblScope>p. 8.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-08-08"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-08"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Annual Fall Hunt.</head>
          
@@ -68,7 +60,7 @@
          
          <p>Messrs. Mills, Petty and Brucker hunted geese near Clark's Station; Messrs. Krug and Homan hunted at Silver creek; Mr. Preston at Bartlett; B.E.B. Kennedy and Judge Lake at Horse Shoe lake; R.N. Withnell, John Withnell and George Arbuthnot at Honey creek, J.M. Lytle at Elkhorn; J.F. McCartney at Norfolk; and Dr. Peabody at Stillwater. The following is the count of game.</p>
          
-         <head>Capt. Mills' Report.</head>
+         </div><div><head>Capt. Mills' Report.</head>
          
          <p>Geo. T. Mills-8 Hutchison geese, 64; 4 Canada geese, 12; 1 hawk, 5; 5 yellow legs, 5. Total, 86.</p>
          
@@ -92,7 +84,7 @@
          
          <p>Total, 751.</p>
          
-         <head>Capt. Krug's Side.</head>
+         </div><div><head>Capt. Krug's Side.</head>
          
          <p>Wm. Krug-8 snow geese, 64; 1 Hutchison goose, 8; 1 teal, 1; 1 snipe, 5. Total, 75.</p>
          
@@ -114,12 +106,12 @@
          
          <cit>
             
-            <bibl default="NO">October 22, 1881. <title>Omaha Daily Republican</title> p. 8.</bibl>
+            <bibl default="false">October 22, 1881. <title>Omaha Daily Republican</title> p. 8.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

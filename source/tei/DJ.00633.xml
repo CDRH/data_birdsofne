@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00633">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00633">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Omaha and the Crow.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1892-01-31</date><biblScope>21(228): 16.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Omaha and the Crow.</head>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. January 31, 1892. Nebraska Sunday Bee 21(228): 16.</bibl>
+            <bibl default="false">Sandy Griswold. January 31, 1892. Nebraska Sunday Bee 21(228): 16.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

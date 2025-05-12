@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00026">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00026">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Another View of the Game Law. A Commission Merchant Gives his Ideas on the Subject.</title><title level="j">Omaha Daily Bee</title><author>Merchant, Commission.</author><date>1876-01-07</date><biblScope>5(166): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Another View of the Game Law.</head>
          
@@ -84,12 +84,12 @@
          
          <cit>
             
-            <bibl default="NO">Commission Merchant. Friday, January 7, 1876. <title>Omaha Morning Bee</title> 5(166): 4.</bibl>
+            <bibl default="false">Commission Merchant. Friday, January 7, 1876. <title>Omaha Morning Bee</title> 5(166): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

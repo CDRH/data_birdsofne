@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00707">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00707">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Quail Not Very Plentiful. Hunters Not Able to Land Bags of Any Material Size. Duck Flight is Scattered. Real Cold Days Would Set the Birds in Motion, Although it is Thought Most of Them Have Gone South.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1912-11-10</date><biblScope>42(21): 3-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Quail Not Very Plentiful</head>
          
@@ -86,12 +86,12 @@
          
          <cit>
             
-            <bibl default="NO">November 10, 1912. <title>Omaha Sunday Bee</title> 42(21): 3-S.</bibl>
+            <bibl default="false">November 10, 1912. <title>Omaha Sunday Bee</title> 42(21): 3-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

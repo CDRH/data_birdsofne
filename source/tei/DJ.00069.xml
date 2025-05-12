@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00069">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00069">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Bird Fauna of the Salt Basin, near Lincoln.</title><title level="j">Forest and Stream</title><author>Hunter, J.S.</author><date>1899-12-30</date><biblScope>54: 527. Proceedings of the Nebraska Ornithologists Union 1:18-21.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-16">2006-06-16</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-16"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Bird Fauna of "The Lake."</head>
          
@@ -262,28 +254,28 @@
          
          <cit>
             
-            <bibl default="NO">December 30, 1899. <title>Forest and Stream</title> 54: 527.</bibl>
+            <bibl default="false">December 30, 1899. <title>Forest and Stream</title> 54: 527.</bibl>
          
          </cit>
          
-         <head>Bird Fauna of the Salt Basin.</head>
+         </div><div><head>Bird Fauna of the Salt Basin.</head>
          
          <p>A few miles west of Lincoln is a small lake about three-quarters of a mile long and half a mile wide, covering about two hundred acres. The banks slope gradually to the water, and are covered with a scant growth of grass. The water averages between two and three feet in depth. This body of water is called by hunters "The Lake", and by society people "Burlington Beach". It is a semi-natural lake. Formerly there was a salt basin, in which there was very little water and a great deal of mud. Then a scheme was devised to make a lake for a pleasure resort, so across the lower end of the basin a dam was built, and at the upper end a channel dug connecting with Oak Creek. The water is very salty and supports comparatively little plant or animal life.</p>
          
          <p>But during the fall and spring migrations of the water fowl it seems to be a very attractive spot for them. During the two seasons there is scarcely a day but that one may see one or more flocks of ducks or geese, and numerous shore birds. There is solittle concealment that the ducks do not have much trouble in keeping out of range of a gun. Most ducks are killed from boats. Two local hunters the past fall killed 157 ducks of various species during six afternoons in a boat. Days when, in a twenty or thirty miles' tramp along the creeks one will not see a duck, there will be several nice flocks at the lake. I have seen quite often as many as four or five thousand ducks on the water at one time.</p>
          
-         <head>Discussion.</head>
+         </div><div><head>Discussion.</head>
          
          <p>Dr. H. B. Ward: "It is perhaps a very minor point, but of some importance in accounting for the birds at the lake, that the water is comparatively rich in the minute life upon which many of the water-birds feed extensively. It has been found that the amount. of such material in the water is relatively large, although the visible animal and plant life of the lake is small. I do not doubt that the water-birds find pretty good feeding there in spite of the apparent barrenness of the water."</p>
          
          <cit>
             
-            <bibl default="NO">1900. Proceedings of the Nebraska Ornithologists Union 1:18-21. Scientific names included with this version.</bibl>
+            <bibl default="false">1900. Proceedings of the Nebraska Ornithologists Union 1:18-21. Scientific names included with this version.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

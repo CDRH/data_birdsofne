@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00583">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00583">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Nebraska Flight.</title><title level="j">Forest and Stream</title><author>H.</author><date>1890-05-15</date><biblScope>34(17): 330.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-04-25"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-04-25"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,18 +47,18 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>THE NEBRASKA FLIGHT.—Edgar, Neb., May 9.—<hi rend="italic">Editor<title>Forest and Stream</title></hi>: Our hunters have been having plenty of good shooting for some time. First came ducks and geese in large numbers, and then about three weeks ago the annual flight of the Eskimo curlew (<hi rend="italic">Numenius borealis</hi>) commenced. The birds have been in great abundance this season. At first they were poor, but later were very fat and fine; they are leaving now. Edgar appears to be in the center of a small piece of country in which they light, and they do not appear to visit other parts of the State. Snipe shooting has also been good.-H.</p>
          
          <cit>
             
-            <bibl default="NO">May 15, 1890. <title>Forest and Stream</title> 34(17): 330.</bibl>
+            <bibl default="false">May 15, 1890. <title>Forest and Stream</title> 34(17): 330.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

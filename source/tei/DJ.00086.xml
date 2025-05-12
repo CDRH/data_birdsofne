@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00086">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00086">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Birds of Childs' Point Region.</title><title level="j"/><author>Shoemaker, Frank H.</author><date/><biblScope>Unpublished manuscript. Shoemaker Collection, University of Nebraska-Lincoln archives.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Birds of Childs' Point Region</head>
          
@@ -52,7 +52,7 @@
          
          <p>This section is known locally as the Childs' Point region for want of distinguishing terms for its various portions, though strictly speaking, the "Point" is a small part of the area so designated. Rounded by the river, and embracing areas so distinct in character - sandbars, bottomlands, marshes, occasional small bodies of open water, dense thickets, timberland of diverse character, and open fields - this region is peculiarly fitted to attract a great variety of birds.</p>
          
-         <head>Species</head>
+         </div><div><head>Species</head>
          
          <p>Pied-billed Grebe. Occasionally found in marsh below Coffin Spring.</p>
          
@@ -366,14 +366,14 @@
          
          <cit>
             
-            <bibl default="NO">
+            <bibl default="false">
                
                <title level="u">Unpublished manuscript</title>. Shoemaker Collection, University of Nebraska-Lincoln archives.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

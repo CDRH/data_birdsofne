@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00847">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00847">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">On the Spring Duck Shoot in Nebraska's Sand Hills. Observations of Nature Between Seasons and the Living Things of the Wild.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1909-04-11</date><biblScope>44(28): 2-S. Also: 4/18, 44(29): 2-S; 4/25, 44(30): 2-S; 5/2, 44(31): 2-S; 5/9, 44(32): 2-S; 5/16, 44(33): 2-S, 3-S; 5/23, 44(34): 2-S, 4-S; 5/30, 44(35): 2-S, 4-S; 6/6, 44(36): 2-S, 4-S; 6/13, 44(37): 2-S, 4-S; 6/20, 44(38): 2-S, 4-S. With sketches.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>On the Spring Duck Shoot in Nebraska's Sand Hills</head>
          
@@ -94,7 +94,7 @@
          
          <p>"There is our shooting box," exclaimed Tom enthusiastically, pointing out to me a circular contrivance in the center of the lake, "and you bet we will have a great shoot out there before we are many hours older."</p>
          
-         <head>Story of the Duck Hunt in the Sand Hills</head>
+         </div><div><head>Story of the Duck Hunt in the Sand Hills</head>
          
          <table>
             
@@ -102,7 +102,7 @@
                
                <cell role="data" cols="1" rows="1">
                   
-                  <figure entity="SpringDuckShootCanvasback">
+                  <figure facs="SpringDuckShootCanvasback">
                      
                      <figDesc>Flock of canvasback at Swan lake sink box.</figDesc>
                   
@@ -188,7 +188,7 @@
          
          <p>"Well, Sandy," said Tom, "that was a fine double, and I see you haven't forgotten how to hold that old Parker, But down! Here they come-they are cans!"</p>
          
-         <head>A Great Day's Shooting of Canvasback at Swan Lake</head>
+         </div><div><head>A Great Day's Shooting of Canvasback at Swan Lake</head>
          
          <p>I quickly located the approaching birds at Tom's admonition-a soft gray line-probably thirty of them against the whitish clouds, yet like meteors cleaving the air our way.</p>
          
@@ -196,13 +196,13 @@
          
          <p>The flight of the canvasback is something to be marveled at always. No other bird that I know of cuts the trenchant air with half his lightning speed. He is surely the racer of the skies. On any kind of a mission he goes through space anywhere from eighty to one hundred miles an hour. If he has business in view and has to get there on time, he leaves at least two miles a minute behind him, and does it easily at that. If you doubt this statement just shoot at the leader of a flock of canvasback sometimes when they are on a business errand, and be convinced. Shot travels pretty fast, especially out of the end of those matchless Peters shells, and if you are lucky enough to cut out a bird, take close notice and see if it isn't the tenth or eleventh one back of the leader, which you covered, as they flashed by. Generally, it is an old drake, who has commanded many an arctic voyage, you find in the lead of a string of canvasback. But this is not invariably the case, and it is not a rare thing to find some wise old hen acting as the pilot, in fact, a female is most always the leader of a bunch containing a majority of hens. Just why this is, I have never been able to determine.</p>
          
-         <table width="450">
+         <table n="450">
             
             <row role="data">
                
                <cell role="data" cols="1" rows="1">
                   
-                  <figure entity="SpringDuckShootGeese">
+                  <figure facs="SpringDuckShootGeese">
                      
                      <figDesc>Geese coming in over hills at Swan lake.</figDesc>
                   
@@ -256,7 +256,7 @@
          
          <p>"Don't be in a hurry," whispered McCawley, "they are unsuspicious and are not going to fly. Just watch and see what they do."</p>
          
-         <head>Shooting Canvasback at Swan Lake</head>
+         </div><div><head>Shooting Canvasback at Swan Lake</head>
          
          <p>And then for a moment after the flock of canvasback had lit on the waters in front of our box, they sat perfectly still. Then they began to move with the almost imperceptible motion of a thistle down upon the calm water, first to this side and then to that, inspecting their wooden prototypes curiously, half-suspiciously all the time. Finally, as there seemed to be no occasion for alarm, the whole bunch, and there must have been fully three dozen of them, converged slowly together, then timidly began approaching the decoys. Now they would halt and glide off to one side, then back again, as if yet afraid to approach too near. Suddenly, as they bunched well together again, and looked as if they might jump at any second, McCawley whispered:</p>
          
@@ -316,7 +316,7 @@
          
          <p>The big flock broke, as into a thousand whizzing fragments, and as they darted, like streaks into the upper currents, McCawley and I looked on, only in the most unutterable disgust, never attempting to get in a shot-we were too exasperated for that.</p>
          
-         <head>With McCawley in the Sinkbox</head>
+         </div><div><head>With McCawley in the Sinkbox</head>
          
          <p>Although the sandhills trapper had spoiled a fine shot for us, the birds were so plentiful that we were over our pique in a moment or two.</p>
          
@@ -376,7 +376,7 @@
          
          <p>"Well, do you want them all, or will you go in and get a bite of grub? Cracky, I never saw anything like the shooting you fellows did when that great mass of birds got in motion. Dick, I saw the whole show from a hay rack off there, and I tell you, it was as good as being with you. At that, we didn't do so bad this morning along the shore. We got something like a dozen mallards and a half dozen other birds. But get in-they've all cleared out for Mother Lake. We'll go to the house an' eat, 'bout 4 o'clock, we'll come out again, and you bet those birds will all be back this evening. Say do you know most of your birds are canvasback. Steady, now, take the seat in the Stern, Sandy, and we're off.</p>
          
-         <head>A March Sunset on Swan Lake</head>
+         </div><div><head>A March Sunset on Swan Lake</head>
          
          <p>Instead of the storm, which we had all been expecting, brewing over our particular neighborhood, it passed around off to the north, and the afternoon was but a pleasant mixture of sunshine and shadow, the air being aromatic with the sweets of marsh and plain extracted by the falling moisture to the north.</p>
          
@@ -440,7 +440,7 @@
          
          <p>Sime joins me and we tie our birds into two bunches and start through the darkness up the lake. Rounding the point at Merganzer Heaven, Elwood gave a long quavering halloo, which was answered by Tom and Dick out in the box. Ten minutes later Sime is rowing out for the boys, and soon, all together, laden with the spoils of the evening flight, we start for the lodge. All safe and sound at last, we found Merz and Bud awaiting us, with a steaming hot meal on the table, and, after a smile all round at that same old Yellowstone bottle, we fall to and again we do most ample justice to the culinary achievements of our genial host. Following, come pipes, quips, stories and song, and then to bed and righteous and life-restoring slumber, to the soothing whisper of the restless winds and the distant chorus of the hillside coyotes.</p>
          
-         <head>One Day Along Big Creek</head>
+         </div><div><head>One Day Along Big Creek</head>
          
          <p>Interested always in getting all the sport out of a hunt possible, after the grand shoot of the previous day, the ever-provident McCawley, realizing that we had more birds than we could use or give away during the next few days, said we would pass up the wild fowl the next day and for a change drive over on a little exploring expedition along Big Creek.</p>
          
@@ -524,7 +524,7 @@
          
          <p>"Well, I can't help that, but all of those birds crossing over the hills east there, are mallards, old yellowleg mallards, at that, and it is the biggest flight we've had thus far this spring."</p>
          
-         <head>Shooting From the Sandhill's Top</head>
+         </div><div><head>Shooting From the Sandhill's Top</head>
          
          <p>"You say those birds crossing the hills there, in the east," remarked Elwood, in response to Merz' assertion that the big flight over the hills between Coyote and Horseshoe lakes were yellowleg mallards-"well, I wish you would tell me what a yellowleg mallard is?"</p>
          
@@ -542,7 +542,7 @@
                
                <cell role="data" cols="1" rows="1">
                   
-                  <figure entity="SpringDuckShootGeeseDepart">
+                  <figure facs="SpringDuckShootGeeseDepart">
                      
                      <figDesc>Morning departure of geese from Swan lake.</figDesc>
                   
@@ -594,7 +594,7 @@
          
          <p>No pleasanter hours are there than those spent around the genial cow-chip fire in the kitchen stove of a western sandhill sod house, than those spent by a party of duck hunters after a successful day's sport, and a roast canvasback dinner, such as Billy Merz served to us the night in question. We really felt uncommonly good. The arduous sport of the morning, and the afternoon with the catfish in the shallows, and a general loaf about the ranch, supplemented in the early evening with one of my own inimitable Yellowstone cocktails, had given us all an enormous appetite, and when we gathered around Billy's steaming and savory table, we were a jocund crew, indeed. A dozen canvasback, baked with the delicacy of a French chef, richly browned and swimming in ruddy pieces, shirred eggs, crisp potato squares, ground cherry marmalade, old fashioned green tomato pickles and a golden nectar brewed from a mixture of Mocha and Java, was the spread that made our eyes pop out like butternuts. It is needless to mention the fact that we did full justice to the feast. As we arose an hour later, rubbing with luxuriant complacency our distended victualing departments, Merz needed no further testimonial as to the merits of his culinary achievement. That simple, vigorous rubbing of the palm of the hand over the rotund abdomen, was more eloquent than the most perfect knowledge of philology would have enabled even the greatest gastronome in the land to have expressed his extreme approbation of Billy's catering capabilities.</p>
          
-         <head>The Morning and Evening Flight at Swan Lake</head>
+         </div><div><head>The Morning and Evening Flight at Swan Lake</head>
          
          <p>"Hoopla! Breakfast is now ready in the dining car." That was Rancher Merz's regular cry at the break of day, as he stood at the foot of the low stairs leading to the loft where we hunters slept. He was punctual and methodical about his culinary duties as a $10,000 chef in a big metropolitan hotel, and his matutinal announcement did not vary ten minutes at any time during our stay in the sandhills. On the morning in question the frescoes of dawn had not yet melted into the gold of the rising sun when we were all out in the open air. Soon, however, the crest of the distant sandhills broke into rosey fire and the pearl gray brightened into a mellow landscape of plain and creek and lake.</p>
          
@@ -646,7 +646,7 @@
          
          <p>Lounging around the blazing fire that evening, what a joyous time we had, between snacks, and with our pipes and our little historical recollections of the day. The hours sped away on rosy pedals, and it was nearly 1 when we finally sought the hay.</p>
          
-         <head>A Day in the Hole on Long's Island</head>
+         </div><div><head>A Day in the Hole on Long's Island</head>
          
          <p>Joyously promising was the next morning, and in accordance with our plans, laid the night before, McCawley, Elwood, Bullock and myself, drove over to Long's lake, where on the previous day, Elwood and Bullock had made their great kill. Arriving at the lake, myriads of ducks arose and circled around over the nearby hills. Many passed over the wagon, before we alighted, within easy range, but McCawley would not allow us to take a crack at them, saying that it would drive them off and spoil our shooting later in the morning. As we sat there canvassing the subject of how we would locate ourselves, Sime said that it would be better for him and Dick to drive on up to the Murphy marsh and leave McCawley and I at Long's lake.</p>
          
@@ -676,7 +676,7 @@
          
          <p>On the clear sky, which now completed the canopy in the eastern heavens, the dying sun's days were rapidly following in the wake of the flying clouds and all over the firmament the light from the struggling west was shattered into a millions fragments, resting like a pallid glow over the darkening lake and prairie. From the now shaking sun strokes of rose and topaz light pointing like beamed arrows from the mouth of the huge quiver, up into the glowing zenith, made a weird spectacle, while the clear heavens along the east changed by the increasing contrast into pale lemon fringed with purple and green. North and south, the jagged scud held sway, while blue archipelagoes dotting the shifting surface line whitescape on a stormy sun, as the last reflected rays of sunshine struck them, floated above about us. Never had I seen a more exquisite moment in the sandhills. Tom and I were more engrossed with the changing scenes about us than we were with the flight of the ducks. We shot occasionally and killed a few more birds, but made no especial effort in this line, as we already had more than we could possibly use. At dark we had the last one retrieved and were waiting out on the shore where Sime and Bullock drove up with the wagon. We were quickly aboard and, as we drove home that evening the last vestige of a cloud had disappeared from the heavens and everything pointed to a pleasant day on the morrow. Elwood and Bullock had fared even better than Tom and I, in that marvelous shooting action of the day, and their pile of birds in the wagon box told well enough that they were duck shooters of the mean calibre. We were boisterous and jocund as we trailed along the local valley road through the last fading light from the east and the coyote began his nocturnal chant, before we had gotten well under way, but Sime's have been a magnificent team and we felt as if we had not ridden more than a mile or two when we drew up in front of Merz's sod lodge door, and found mine beat and Bud awaited us, the former with a broad smile and the latter with the Yellowstone bottle and class of course.</p>
          
-         <head>Last Day in the SandhillsSandhills—So, Adios</head>
+         </div><div><head>Last Day in the SandhillsSandhills—So, Adios</head>
          
          <p>Never have I enjoyed a day more fully than I did our last one in the sandhills. There was a cool gray light hovering over Swan lake when we emerged from the lodge in the early dawn of the morning, but the open water beyond the rush line stretched away like a sheet of glass. The domes of the distant sandhills at the east end rose indistinctly, as if reared in the air, with dark changing pictures below them. The atmosphere was fresh, almost to chilliness, yet sweet with the first odors of the vernal season. The sod hostelry looked ghostly and the prairie, stretching way behind it, forbidding and glooming. A lone coyote squatted on his haunches on the nearest hill to the east, and yawped and yipped in defiance of our presence. There were no ducks in the air but an osprey was curving around over the lake in extended spirals, evidently watching for an available chance for a duck breakfast.</p>
          
@@ -696,7 +696,7 @@
                
                <cell role="data" cols="1" rows="1">
                   
-                  <figure entity="SpringDuckShootThreeGeese">
+                  <figure facs="SpringDuckShootThreeGeese">
                      
                      <figDesc>Three geese jump from pond on road to Seneca.</figDesc>
                   
@@ -732,12 +732,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 11, 1909. <title>Omaha Sunday World-Herald</title> 44(28): 2-S. Also: 4/18, 44(29): 2-S; 4/25, 44(30): 2-S; 5/2, 44(31): 2-S; 5/9, 44(32): 2-S; 5/16, 44(33): 2-S, 3-S; 5/23, 44(34): 2-S, 4-S; 5/30, 44(35): 2-S, 4-S; 6/6, 44(36): 2-S, 4-S; 6/13, 44(37): 2-S, 4-S; 6/20, 44(38): 2-S, 4-S. With sketches.</bibl>
+            <bibl default="false">Sandy Griswold. April 11, 1909. <title>Omaha Sunday World-Herald</title> 44(28): 2-S. Also: 4/18, 44(29): 2-S; 4/25, 44(30): 2-S; 5/2, 44(31): 2-S; 5/9, 44(32): 2-S; 5/16, 44(33): 2-S, 3-S; 5/23, 44(34): 2-S, 4-S; 5/30, 44(35): 2-S, 4-S; 6/6, 44(36): 2-S, 4-S; 6/13, 44(37): 2-S, 4-S; 6/20, 44(38): 2-S, 4-S. With sketches.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00783">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00783">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Shooting Paradise About Omaha - Woodcock in July].</title><title level="j">Omaha Sunday World-Herald</title><author>Sportsman, Old [pseud.].</author><date>1900-03-11</date><biblScope>35(161): 23. Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Shooting Paradise About Omaha - Chicken and Fowl - Woodcock in July </head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">Old Sportsman [pseud.]. March 11, 1900. [Shooting Paradise About Omaha - Woodcock in July.] <title>Omaha Sunday World-Herald</title> 35(161): 23. Forest, Field and Stream column.</bibl>
+            <bibl default="false">Old Sportsman [pseud.]. March 11, 1900. [Shooting Paradise About Omaha - Woodcock in July.] <title>Omaha Sunday World-Herald</title> 35(161): 23. Forest, Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00468">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00468">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Judge Lake's Hunting. A Wounded Buck Turned on Him. The Judicial Nimrod Relates a Thrilling Adventure at Florence Lake in Which His Dog Saved Him.</title><title level="j">Omaha Daily Herald</title><author>Lake, Judge.</author><date>1889-03-09</date><biblScope>p. 3.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-11"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-11"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Judge Lake's Hunting.</head>
          
@@ -72,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">March 9, 1889. <title>Omaha Daily Herald</title>, p. 3.</bibl>
+            <bibl default="false">March 9, 1889. <title>Omaha Daily Herald</title>, p. 3.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

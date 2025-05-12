@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00318">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00318">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,31 +32,23 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Flying on Swans.</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1899-03-05</date><biblScope>page 8. Includes a sketch.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-16">2006-06-16</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-16"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Flying on Swans.</head>
          
-         <figure entity="FlyingSwansTaleGraphic">
+         <figure facs="FlyingSwansTaleGraphic">
             
             <figDesc>Indian and swans of flying swan tale</figDesc>
          
@@ -112,12 +104,12 @@
          
          <cit>
             
-            <bibl default="NO">March 5 1899. <title>Omaha Sunday Bee</title> page 8.</bibl>
+            <bibl default="false">March 5 1899. <title>Omaha Sunday Bee</title> page 8.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

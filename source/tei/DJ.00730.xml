@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00730">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00730">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Return of the Birds.</title><title level="j">Omaha Sunday World-Herald</title><author>Crane, Dr. Frank.</author><date>1913-03-16</date><biblScope>48(24): 2-E.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Return of the Birds</head>
          
@@ -90,12 +90,12 @@
          
          <cit>
             
-            <bibl default="NO">March 16, 1913. <title>Omaha Sunday World-Herald</title> 48(24): 2-E.</bibl>
+            <bibl default="false">March 16, 1913. <title>Omaha Sunday World-Herald</title> 48(24): 2-E.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

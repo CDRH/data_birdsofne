@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00323">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00323">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,28 +32,20 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Forest, Field and Stream. [Woodcock Habits in the Haunts].</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1892-07-31</date><biblScope>22(43): 10. Column portion of sports page.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-11"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-11"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
   
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -77,12 +69,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. July 31, 1892. [Woodcock Habits]. <title>Omaha Sunday Bee</title> 22(43): 10. Column portion of sports page.</bibl>
+            <bibl default="false">Sandy Griswold. July 31, 1892. [Woodcock Habits]. <title>Omaha Sunday Bee</title> 22(43): 10. Column portion of sports page.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

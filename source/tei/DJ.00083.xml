@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00083">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00083">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Bird Sanctuaries in Omaha's Cemeteries. Three Companies Promise State Audubons to Help Protect Songsters in Future. Bird Lovers Meet at Library and Lay Plans - Works of Audubon Discussed.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1916-01-23</date><biblScope>51(17): 3-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Bird Sanctuaries in Omaha's Cemeteries</head>
          
@@ -64,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">Anonymous. January 23, 1916. <title>Omaha Sunday World-Herald</title> 51(17): 3-N.</bibl>
+            <bibl default="false">Anonymous. January 23, 1916. <title>Omaha Sunday World-Herald</title> 51(17): 3-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

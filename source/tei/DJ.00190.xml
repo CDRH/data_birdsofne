@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00190">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00190">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Composite List of the Species of Birds Observed by Members of the Nebraska's Ornithologists' Union at the Salt Basin near Lincoln, Lancaster County, Nebraska. Sunday, May 22, 1904.</title><title level="j"/><author>Nebraska Ornithologists' Union members.</author><date>1904-05-22</date><biblScope>Printed pamphlet. 3 pages.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Composite List of the Species of Birds Observed by Members of the Nebraska's <title>Ornithologist</title>s' Union at the Salt Basin</head>
          
@@ -352,14 +352,14 @@
          
          <cit>
             
-            <bibl default="NO">
+            <bibl default="false">
                
                <title>Nebraska Ornithologists' Union</title>. 1904. <title>Nebraska Ornithologists' Union</title>, Lincoln. Printed pamphlet. 3 pp.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

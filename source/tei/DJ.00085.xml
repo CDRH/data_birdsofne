@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00085">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00085">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Birds Bagged. The Annual Hunt of the Omaha Sportsmen's Club. A Vigorous Blazing Away That Brought Down the Game.</title><title level="j">Omaha Weekly Herald</title><author>Omaha Sportsmen's Club.</author><date>1880-04-02</date><biblScope>15(27): 7. On March 27th in Omaha Daily Herald.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-08-08"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-08"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Birds Bagged.</head>
          
@@ -106,12 +98,12 @@
          
          <cit>
             
-            <bibl default="NO">April 2, 1880. Omaha Weekly Herald 15(27): 7. On March 27th in <title>Omaha Daily Herald</title>.</bibl>
+            <bibl default="false">April 2, 1880. Omaha Weekly Herald 15(27): 7. On March 27th in <title>Omaha Daily Herald</title>.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

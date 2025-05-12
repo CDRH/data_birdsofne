@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01013">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.01013">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Beautiful Birds.</title><title level="j">Omaha Daily Herald</title><author>J.C. Crawford</author><date>1877-11-24</date><biblScope>13(36): 2.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-25"/>
-    <respStmt>
-	<name>Anastasia Smallcomb</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-25"><name>Anastasia Smallcomb</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,14 +47,15 @@
    
    <text>
       
-      <body>
+      <body><div>
          
-         <head>The Beautiful Birds</head>.
+         <head>The Beautiful Birds.</head>
 
          <head>Hon. J.C. Crawford on Bird-Killing at State Fairs.</head>
 
 <p>Hon. J.C. Crawford is the author of the new law for the protection of birds in this State, and also its ablest champion in and out of the Legislature.  We have resurrected the following letter which he wrote to Secretary Wheeler which will explain itself:</p>
 
+      </div><div>
 <dateline>West Point, September 27, 1877.<lb/>
 Hon. D.H. Wheeler, Secretary State Board of Agriculture.</dateline>
 
@@ -80,9 +73,9 @@ Hon. D.H. Wheeler, Secretary State Board of Agriculture.</dateline>
 <p>J.C. Crawford.</p>
 
 <cit>
-<bibl default="NO">November 24, 1877. <title>Omaha Daily Herald</title> 13(36): 2.</bibl>
+<bibl default="false">November 24, 1877. <title>Omaha Daily Herald</title> 13(36): 2.</bibl>
 </cit>
 
-</body>
+</div></body>
 </text>
-</TEI.2>
+</TEI>

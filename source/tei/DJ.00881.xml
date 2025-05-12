@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00881">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00881">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Summer Birds Here Searching for Homes. Spring's Morning Orchestra Now Greets Ear of the Early Riser. Picking Their Mates.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1921-03-20</date><biblScope>56(25): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Summer Birds Here Searching for Homes</head>
          
@@ -64,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">March 20, 1921. <title>Omaha Sunday World-Herald</title>	56(25): 3-W.</bibl>
+            <bibl default="false">March 20, 1921. <title>Omaha Sunday World-Herald</title>	56(25): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

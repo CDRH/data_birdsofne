@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00221">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00221">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Dickey Bird Chirps. The Opening of the Spring Wild Fowl Shooting Season.</title><title level="j">Omaha Sunday Bee</title><author>Sporting Editor [Sandy Griswold].</author><date>1891-03-15</date><biblScope>20(267): 16. Portion of column.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Dickey Bird Chirps.</head>
          
@@ -78,12 +78,12 @@
          
          <cit>
             
-            <bibl default="NO">Sporting Editor [Sandy Griswold]. March 15, 1891.	<title>Omaha Sunday Bee</title> 20(267): 16. Portion of column.</bibl>
+            <bibl default="false">Sporting Editor [Sandy Griswold]. March 15, 1891.	<title>Omaha Sunday Bee</title> 20(267): 16. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

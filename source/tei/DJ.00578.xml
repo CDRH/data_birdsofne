@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00578">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00578">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Nebraska [Note on the Abundance of Prairie Chickens Near Tecumseh].</title><title level="j">Forest and Stream</title><author>Barnes, E.R.</author><date>1874-10-08</date><biblScope>3: 140.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>
             
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">October 3, 1874. <title>Forest and Stream</title> 3: 140.</bibl>
+            <bibl default="false">October 3, 1874. <title>Forest and Stream</title> 3: 140.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

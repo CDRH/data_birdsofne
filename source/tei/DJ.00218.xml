@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00218">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00218">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Description of the Breeding Plumage of Chadbourne's Field Sparrow (Spizella arenacea), With Evidence of its Specific Distinctness.</title><title level="j">Auk</title><author>Merriam, C. Hart.</author><date>1888-10-01</date><biblScope>5: 402-403.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-06-08"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-06-08"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
 
@@ -58,7 +50,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Description of the Breeding Plumage of Chadbourne's Field Sparrow (<hi rend="italic">Spizella arenacea</hi>), With Evidence of its Specific Distinctness.</head>
          
@@ -297,12 +289,12 @@ Measurements</hi>.*—Culmen from base, 10 mm.; culmen from nostril, 7 mm.; wing
          
          <cit>
             
-            <bibl default="NO">October 1888. <title>Auk</title> 5: 402-403.</bibl>
+            <bibl default="false">October 1888. <title>Auk</title> 5: 402-403.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

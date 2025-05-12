@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00642">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00642">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Outdoor Sport at Cutoff Lake—Gunners and Fishing Parties].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1901-04-14</date><biblScope>36(196): 18.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-20">2006-06-20</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-20"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -72,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. April 14, 1901. [Outdoor Sport at Cutoff Lake—Gunners and Fishing Parties]. <title>Omaha Sunday World-Herald</title> 36(196): 18. Portion of column.</bibl>
+            <bibl default="false">Sandy Griswold. April 14, 1901. [Outdoor Sport at Cutoff Lake—Gunners and Fishing Parties]. <title>Omaha Sunday World-Herald</title> 36(196): 18. Portion of column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

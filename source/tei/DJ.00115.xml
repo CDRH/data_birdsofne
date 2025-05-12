@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00115">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00115">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">In the Blind at Eventide Waiting for the Flight. A Graphic Picture of Wild Fowl Shooting in the Marshes of the Sandhills.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1906-10-14</date><biblScope>42(2): E-7.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>In the Blind at Eventide Waiting for the Flight.</head>
          
@@ -96,12 +96,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. October 14, 1906. <title>Omaha Sunday World-Herald</title> 42(2): E-7.</bibl>
+            <bibl default="false">Sandy Griswold. October 14, 1906. <title>Omaha Sunday World-Herald</title> 42(2): E-7.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

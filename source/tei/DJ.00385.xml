@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00385">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00385">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,20 +32,12 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A New Habitat of the Black-throated Rock Swift, Micropus Melanoleucus.</title><title level="j">Science</title><author>Barbour, Erwin H.</author><date>1892-10-21</date><biblScope>20(507): 235-236.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
-   <revisionDesc>
-<change>
-  <date value="2005-06-28"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+   <revisionDesc><change when="2005-06-28"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
    </teiHeader>
 
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head><hi rend="bold">A New Habitat of the Black-Throated Rock Swift, Micropus Melanoleucus.</hi></head>
          
@@ -134,12 +126,12 @@
          
          <cit>
             
-            <bibl default="NO">October 21, 1892. <title>Science</title> 20(507): 235-236.</bibl>
+            <bibl default="false">October 21, 1892. <title>Science</title> 20(507): 235-236.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

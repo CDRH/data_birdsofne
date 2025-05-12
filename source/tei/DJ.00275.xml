@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00275">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00275">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Faded Glories of the Platte; A Tale of Mystic Times.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1921-01-30</date><biblScope>56(16): 5-W. Includes a picture of Crook's Island. Also: 2/6, 59(19): 5-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Faded Glories of the Platte; A Tale of Mystic Times</head>
          
@@ -142,12 +142,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. January 30, 1921. <title>Omaha Sunday World-Herald</title> 56(16): 5-W. Includes a picture of Crook's Island. Also: 2/6, 59(19): 5-W.</bibl>
+            <bibl default="false">Sandy Griswold. January 30, 1921. <title>Omaha Sunday World-Herald</title> 56(16): 5-W. Includes a picture of Crook's Island. Also: 2/6, 59(19): 5-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

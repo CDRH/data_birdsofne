@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01020">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.01020">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Remarkable Shooting.</title><title level="j">Omaha Daily Herald</title><author/><date>1878-04-23</date><biblScope>13(157): 8.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-26"/>
-    <respStmt>
-	<name>Anastasia Smallcomb</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-26"><name>Anastasia Smallcomb</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Remarkable Shooting.</head>
 
@@ -66,9 +58,9 @@
 <p>Mr. John W. Petty, of Collins &amp; Petty, gun dealers of this city, has arranged to shoot a match with Doctor Carver next Thursday, April 25th, for $800, Doctor Carver $500 to Mr. Petty's $300, Mr. Petty to use a shot gun at 18 yards rise, and the Doctor to use his rifle, each to shoot at 500 glass balls.  This will be the most interesting shooting match ever witnssed in this county, and we may expect to meet sportsmen from all over the State to witness it.</p>
 
 <cit>
-<bibl default="NO">April 23, 1878.  <title>Omaha Daily Herald</title> 13(157): 8.  Paragraph on pending shooting match not included.</bibl>
+<bibl default="false">April 23, 1878.  <title>Omaha Daily Herald</title> 13(157): 8.  Paragraph on pending shooting match not included.</bibl>
 </cit>
 
-</body>
+</div></body>
 </text>
-</TEI.2>
+</TEI>

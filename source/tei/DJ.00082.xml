@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00082">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00082">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Birds About Broken Bow.</title><title level="j">Omaha Sunday World-Herald</title><author>Morgan, Frances C.</author><date>1922-11-26</date><biblScope>58(9): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Birds About Broken Bow.</head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">November 26, 1922. <title>Omaha Sunday World-Herald</title> 58(9): 3-W.</bibl>
+            <bibl default="false">November 26, 1922. <title>Omaha Sunday World-Herald</title> 58(9): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00125">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00125">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Notes on the Breeding of the Prothonotary Warbler.</title><title level="j">Proceedings of the Nebraska Ornithologists' Union</title><author>Carriker, M.A., Jr.</author><date>1901-10-01</date><biblScope>2: 42-44.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Notes on the Breeding of the Prothonotary Warbler</head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">October 1901. <title>Proceedings of the Nebraska Ornithologists' Union</title> 2: 42-44.</bibl>
+            <bibl default="false">October 1901. <title>Proceedings of the Nebraska Ornithologists' Union</title> 2: 42-44.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

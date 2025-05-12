@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00020">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00020">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Annual Hunt. Captain Homan's Party Victorious - The Count of Yesterday - Incidents of the Hunt.</title><title level="j">Omaha Weekly Herald</title><author>Editor.</author><date>1871-11-08</date><biblScope>7(5): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Annual Hunt.</head>
          
@@ -54,7 +54,7 @@
          
          <p>It will be seen that from pressing business engagements, a good many members of the club did not go to the hunt at all. It is one of the rules of the club, that when any one does not go, the game killed by his immediate opponent in the other wing of the club shall not be counted. The following is the actual count of game brought in by the party of Captain Henry A. Homan, who, it will be seen, were victors:</p>
          
-         <table width="250">
+         <table n="250">
             
             <row role="data">
                
@@ -156,7 +156,7 @@
          
          <p>The following is the count of Captain Geo. T. Mills' party:</p>
          
-         <table width="250">
+         <table n="250">
             
             <row role="data">
                
@@ -264,12 +264,12 @@
          
          <cit>
             
-            <bibl default="NO">November 8, 1871. <title>Omaha Weekly Herald</title> 7(5): 4.</bibl>
+            <bibl default="false">November 8, 1871. <title>Omaha Weekly Herald</title> 7(5): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00507">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00507">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Lost on the Prairie -- A Chicken Hunt by Moonlight.</title><title level="j">Omaha Daily Bee</title><author>Miscellaneous participants.</author><date>1874-08-28</date><biblScope>4(60): 3.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Lost on the Prairie - A Chicken Hunt by Moonlight.</head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">Saturday, August 28, 1874. <title>Omaha Morning Bee</title> 4(60): 3.</bibl>
+            <bibl default="false">Saturday, August 28, 1874. <title>Omaha Morning Bee</title> 4(60): 3.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00716">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00716">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Rare Sport in Nebraska. Skill and Patience Tested in Wild Goose Shooting. Characteristics of the Game. Remarkable Caution and Phenomenal Memory Displayed - Experience on the Loup and Niobrara Rivers.</title><title level="j">Omaha Daily Bee</title><author>Anonymous.</author><date>1891-11-04</date><biblScope>21(139): 8. From Outing.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-09-07"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-09-07"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Rare Sport in Nebraska.</head>
          
@@ -125,12 +117,12 @@
          
          <cit>
             
-            <bibl default="NO">Anonymous. November 4, 1891. <title>Omaha Daily Bee</title> 21(139): 8. From Outing.</bibl>
+            <bibl default="false">Anonymous. November 4, 1891. <title>Omaha Daily Bee</title> 21(139): 8. From Outing.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00637">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00637">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">"The Omaha Sportsman's Club." The First Day in the Field.</title><title level="j">Nebraska Tri-Weekly Republican</title><author>Anonymous.</author><date>1863-03-30</date><biblScope>5(76): 2. Published at Omaha City.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>"The Omaha Sportsman's Club." The First Day in the Field.</head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">March 30, 1863. <title>Nebraska Tri-Weekly Republican</title> 5(76): 2. Published at Omaha City.</bibl>
+            <bibl default="false">March 30, 1863. <title>Nebraska Tri-Weekly Republican</title> 5(76): 2. Published at Omaha City.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

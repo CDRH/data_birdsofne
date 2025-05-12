@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00142">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00142">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Carolina Parakeet near Brownville on a Missouri River Island</title><title level="j">Proceedings of the Nebraska Ornithologists' Union</title><author>Furnas, Robert W.</author><date>1902-12-01</date><biblScope>3: 107.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Carolina Paroquet</head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">December 1902. <title>Proceedings of the Nebraska Ornithologists' Union</title> 3: 107. Proceedings of the third annual meeting.</bibl>
+            <bibl default="false">December 1902. <title>Proceedings of the Nebraska Ornithologists' Union</title> 3: 107. Proceedings of the third annual meeting.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

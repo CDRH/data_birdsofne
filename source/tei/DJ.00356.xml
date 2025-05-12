@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00356">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00356">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Glories of Autumnal Days on the Metz Ranch.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1914-10-18</date><biblScope>50(3): 3-S. Continues: 10/25, 50(4): 3-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Glories of Autumnal Days on the Metz Ranch</head>
          
@@ -190,12 +190,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy	Griswold. October 18, 1914. <title>Omaha Sunday World-Herald</title> 50(3): 3-S. Continues: 10/25, 50(4): 3-S.</bibl>
+            <bibl default="false">Sandy	Griswold. October 18, 1914. <title>Omaha Sunday World-Herald</title> 50(3): 3-S. Continues: 10/25, 50(4): 3-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

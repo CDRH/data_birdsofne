@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00215">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00215">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Delightful April Days Along Old Mormon Trail.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1923-04-01</date><biblScope>58(27): 4-W. Portions of article previously used 5 May 1918.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Delightful April Days Along Old Mormon Trail</head>
          
@@ -52,13 +52,13 @@
          
          <p>Usually April is one of the months of the most irresistible enchantment, with the arrival of the majority of our summer birds and the bloom of our earliest and most beautiful wild wood plants.</p>
          
-         <head>A Favored State.</head>
+         </div><div><head>A Favored State.</head>
          
          <p>Few people, save those obsessed with the flora and fauna of the quiet places of wood and field, have but a meager conception of the manifold delights of a ramble in the lovely hours of early spring, but when once the benefits of the indulgence is appreciated it becomes a habit that will never lose its pleasant phases.</p>
          
          <p>Although Nebraska is distinctly a prairie state, it is one of the most prolific in its floral and faunal treasures of any in the nation, and no section in this favored land offers a more alluring invitation to the student of these matters than the river road and its contiguous territory.</p>
          
-         <head>Most Picturesque of All.</head>
+         </div><div><head>Most Picturesque of All.</head>
          
          <p>From that ancient Mormon haven, Florence, quaint and beautiful as in the days of its origin, way up to the bewillowed shores of Stillwater, and the storm-scarred shores of the rolling Missouri, this old trail, trodden into a beaten path by the feet of Indian and wild animals, long before the venturesome Mormon came, is, and has always been, one continuous panorama of exquisite pictures, with the silvery sinuosities of the river flashing on the one side, and the artistic lace work of the wooded bluffs swaying on the other.</p>
          
@@ -68,7 +68,7 @@
          
          <p>Today the summer birds are fast coming in and it will soon be warbler time, and the bluebird and the robin, the jay, woodpecker, cardinal and yellowhammer, willed be joined by tanager, chewink, oriole, rosebreasted and Baltimore, phoebe, nuthatch and that swarm of little glittering choirists too numerous to even attempt to name.</p>
          
-         <head>Sweethearts of the Wild.</head>
+         </div><div><head>Sweethearts of the Wild.</head>
          
          <p>And more, too, for just now the most venturesome of all our vernal flowers are unfolding their bright faces to the outer world - violet, clatonia, windflower, squirrelcup, bluet, marigold, adder's tongue, crowsfeet, and, like the birds, scores of others equally tinted and sweet breathed, but too plentiful to mention.</p>
          
@@ -86,18 +86,18 @@
          
          </list>
          
-         <head>And Across the Old Trail.</head>
+         </div><div><head>And Across the Old Trail.</head>
          
          <p>Across the old trail, and bordering the ever turgid and curving stream, are greening pastures and glowing fields, with their sluices, swales and covert cul-de-sacs, where the yellow adder's tongue in all its wild loveliness and gracefulness and beauty will now glow soulfully through the whole of this paradisical period, along with the marsh marigold, in broad plats, a little less frail and dazzling than some of its kinsfolk, but just as entrancing and dear. A little higher up, where the kind-faced cows browse and tramp, will be found the foxglove, digitalis purpurea, defiantly, also rearing their attractive heads - a veritable mine of glorious things for the lovers of the outdoor world.</p>
          
          <cit>
             
-            <bibl default="NO">April 1, 1923. <title>Omaha Sunday World-Herald</title> 58(27): 4-W. Portions of column  used on 5 May 1918 and on 19 Apr 1908.</bibl>
+            <bibl default="false">April 1, 1923. <title>Omaha Sunday World-Herald</title> 58(27): 4-W. Portions of column  used on 5 May 1918 and on 19 Apr 1908.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

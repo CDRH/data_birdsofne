@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00146">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00146">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Bird Notes From St. Catherine Hospital]. Likes the Bluejay Best. A Pathetic Little Story.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1916-11-26</date><biblScope>52(9): 10-W. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest Field and Stream</head>
          
@@ -66,11 +66,11 @@
          
          <p>Just before the first dawn, a liquid note is heard, followed by a bewildering long trill; next a chirp, a few sweet notes and then a perfect rapture of full-throated melody, changing wonderfully every second or two. The dear bird seems so delighted to be alive that it cannot suppress its glad tunefulness, and often for five minutes, without stopping for more than a few seconds at a time, it will pour out such rich and mellifluous notes that a bird lover wonders how that tiny throat could possibly produce the exquisite harmony and keep it up for an hour or more, without break or intermission. The singer seems to be overflowing with happiness all the time. It will sing at the top of its voice sometimes while flying from one high point to another, and often may be heard from this towering spruce, a few moments later fro the top of another. My birds lingered in the oaks out in the hospital yard for nearly an hour that morning, and then disappeared and I saw them no more.</p>
          
-         <head>A Rare Visitor Here.</head>
+         </div><div><head>A Rare Visitor Here.</head>
          
          <p>In response to H.L.B. of Silver Creek I will say that the bird he sends me for identification is a Western grebe, rare in this section of the country, and during the pst quarter of a century I have encountered but three or four of the species. This Silver Creek bird was about two-thirds the size of a fully-matured loon, which it greatly resembles in all details, save the coloration of the plumage. Above, it was a blackish gray, with a pale edging to the feathers, darkening on the hind neck and top of the head; the lower region gray; quills ashen brown, bases of the primaries and most of the secondaries white; below, from bill to tail, pure silken white, with dark touches on the sides; bill obscurely olivaceous brighter along the edges and tip.</p>
          
-         <head>Likes the Bluejay Best.</head>
+         </div><div><head>Likes the Bluejay Best.</head>
          
          <p>34 Lafayette Apartment, Oct. 20. - To Sandy Griswold, Sporting Editor of the World-Herald: I always read your delightfully entertaining articles in the forest, field and stream department of Sunday's World-Herald with the utmost interest. The robin, I notice, is the most discussed of all our birds, and I cannot refrain from writing to you and telling you how I adore the bluebird - our bluejay. He is my favorite and you must give us a story on him some of these days. I cannot understand how a bird with such gorgeous plumage can be the saucy fellow he is, and deserves the abuse that is heaped upon his pretty head. To me he always seems to bring a cheery message, and I stop in admiration whenever I see him.</p>
          
@@ -78,7 +78,7 @@
          
          <p>No excuses necessary, my dear Mrs. R., and some time soon I'll tell you what I think of the bluejay, also one of my prime favorites despite his bad name. - Sporting Editor.</p>
          
-         <head>A Pathetic Little Story.</head>
+         </div><div><head>A Pathetic Little Story.</head>
          
          <p>And, en passant, all this unqualified arraignment of this luckless member of the bird tribe from across the water, reminds one of a most interesting and pathetic incident that came under my observation one bitter cold day last January in my own dooryard out in the village of Dundee.</p>
          
@@ -88,12 +88,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. November 26, 1916. [Bird Notes From St. Catherine Hospital]. Likes the Bluejay Best. A Pathetic Little Story. <title>Omaha Sunday World-Herald</title> 52(9): 10-W. Forest, Field and Stream.</bibl>
+            <bibl default="false">Sandy Griswold. November 26, 1916. [Bird Notes From St. Catherine Hospital]. Likes the Bluejay Best. A Pathetic Little Story. <title>Omaha Sunday World-Herald</title> 52(9): 10-W. Forest, Field and Stream.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

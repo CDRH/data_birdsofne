@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00084">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00084">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">What a Bird Sanctuary Does for Human Family.</title><title level="j">Omaha Sunday World-Herald</title><author>Shannon, Elizabeth Poppleton.</author><date>1916-06-04</date><biblScope>51(36): 7-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>What a Bird Sanctuary Does for Human Family</head>
          
@@ -50,7 +50,7 @@
          
          <p>At present birds are fluttering into our kitchen nearly every morning, the known and the unknown. The houseman came first, familiar friend; then a sort of a dictionary bird called the "prothonotary warbler;" it was a relief to know that he spends his winters in Central America.</p>
          
-         <head>By Reputation.</head>
+         </div><div><head>By Reputation.</head>
          
          <p>I never met a tufted titmouse. The only one I know is Tittlebat Titmouse, whose famous toilette, consuming one whole chapter, may be read in "Ten Thousand a Year." I know that the bird lists always end in a general mention of the nuthatches and the titmice, like the "and others" of the society column, or the stoats and the weasels of the "Wind in the Willows," which I have just finished reading all over again.</p>
          
@@ -58,7 +58,7 @@
          
          <p>I have lived for twenty years in the summertimes at Oakland farm, my father's summer home, which he gave to me. It is a place delightfully free from modern improvements, being, up to the present date, "The House of a Thousand Candles." In the stillness of the early spring days, the birds grow confident, and only toward the last of May the robin has to fly suddenly from her nest at the sound of my footstep on the porch. Once I climbed up and looked too long at her brood and they all flew suddenly to the ground. A day too soon, so there were four helpless robins on my hands. Perhaps you have done that.</p>
          
-         <head>A Grand Chorus.</head>
+         </div><div><head>A Grand Chorus.</head>
          
          <p>I have never heard, anywhere, such singing as there is at the farm. The catbird, the brown thrasher on the tip-top of the Scotch pines in the evening, the Baltimore oriole with his stirring and insistent call; you can't help going to hunt up his flash of orange yellow. Six blackbirds split off from the convention and decided to stay this year. We don't like them, except that they remind me of their red-winged relations in Arizona, where the desert is; the desert that you love so well when you come to know it well.</p>
          
@@ -66,7 +66,7 @@
          
          <p>I am entire sympathy with the cat crusade, although I once liked cats and had, one summer, five sitting tranquilly on my back steps. Mother, daughter and three grand-children were they; all alike, a beautiful composition of black, white and yellow. But one tragic hour when I released poor, wedged Dicky from the bars of his cage and carried gentle, housewifely little Jennie (the companion of many journeys) to her grave under the lilac, I became an enemy of cats (all but Henrietta).</p>
          
-         <head>Where the Baths Serve.</head>
+         </div><div><head>Where the Baths Serve.</head>
          
          <p>Many years ago, Judge Davis said, in low, rumbling tones, as we stood drinking at the well, "Where do the birds get their water?" A new responsibility fell at that moment on our souls. The other day we made a new bath beside the well. We braced a broad cottonwood chunk with round stones and placed a wide, shallow pan on it. A flat stone we laid in the pan where the bees, too, can sip their water and not drown helplessly. Under the syringa bush is a more cityfied bath, classic in shape and yellow-ivory in hue, but not so loved by the birds as the one homemade.</p>
          
@@ -78,12 +78,12 @@
          
          <cit>
             
-            <bibl default="NO">June 4, 1916. <title>Omaha Sunday World-Herald</title> 51(36): 7-N.</bibl>
+            <bibl default="false">June 4, 1916. <title>Omaha Sunday World-Herald</title> 51(36): 7-N.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

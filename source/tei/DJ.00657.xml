@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00657">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00657">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Passing of the Summer Duck—The Loveliest of Them All.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1919-06-29</date><biblScope>54(39): 10-E.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Passing of the Summer Duck - The Loveliest of Them All</head>
          
@@ -86,12 +86,12 @@
          
          <cit>
             
-            <bibl default="NO">June 29, 1919. <title>Omaha Sunday World-Herald</title> 54(39): 10-E. Obvious typographic errors changed.</bibl>
+            <bibl default="false">June 29, 1919. <title>Omaha Sunday World-Herald</title> 54(39): 10-E. Obvious typographic errors changed.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00520">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00520">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Billy Marsh Birdologist and his Notebook. Forty Years' Study of Wild Life Around Omaha.</title><title level="j">Omaha Sunday World-Herald</title><author>Greenleaf, Miles.</author><date>1917-11-11</date><biblScope>53(6): 1-M. Includes two pictures of Marsh.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Billy Marsh Birdologist and his Notebook.</head>
          
@@ -58,7 +58,7 @@
          
          <p>Ever since he was old enough to trudge alone through the woods or over the fields in an around Omaha, Billy has kept a complete record of the birds he saw on such expeditions, and these old records, now in precious possession of his wife, are convincing evidence of the sincerity of his love for the songsters.</p>
          
-         <head>Began at 10 Years.</head>
+         </div><div><head>Began at 10 Years.</head>
          
          <p>The first bird record was taken by Billy Marsh when he was 10 years old, but the beginning of his complete data on such trips came in 1883, when at the age of 16. This and succeeding censuses taken for several years included - think it of Marsh! - not only the names of the birds seen, but also the number of eggs taken from nests! He blushes when shown those records now, but, as he explains:</p>
          
@@ -66,7 +66,7 @@
          
          <p>The youthful Marsh made his records in an old-fashioned "composition book," and they were kept up, day by day, until the end of the month, when the account was totalled to show the number of varieties and the number of specimens seen or taken.</p>
          
-         <head>In Billy's Note Book.</head>
+         </div><div><head>In Billy's Note Book.</head>
          
          <p>In these old composition books are notations to tickle the memories of other "old-timers" of Omaha, for some of the spots mentioned by Billy during his ornithological tramps have long since been forgotten by those titles.</p>
          
@@ -80,7 +80,7 @@
          
          <p>Among other entries are those of explorations at "Griffin's Farm," which lay about half a mile southwest of the Field club of today, and at Lyon's inn. It would appear that Billy's spelling was at fault in the later item, for the Lion Inn was on Center street more than a quarter century ago, near the present entrance to West Lawn cemetery, and had the big figure of a lion hanging outside as a sign. It backed up into deep woods full of birds and nests.</p>
          
-         <head>Poor Farm Woods.</head>
+         </div><div><head>Poor Farm Woods.</head>
          
          <p>Then there was "The Graveyard" - Twenty-fifth and St. Mary's avenue; the Cottonwoods" - probably lying along the river down south; the "Poor Farm Woods" - where the north section of the Field club golf links now extend, but which was than a trackless forest; the "Deaf and Dumb Woods" - near the present site of that institution - and many other localities mentioned in Mr. Marsh's first bird hunt records.</p>
          
@@ -90,7 +90,7 @@
          
          <p>Some of the old fashioned names for common birds noted in Marsh's first records are interesting to amateur ornithologists of today, having long since been discarded. There is the "Black Throated Bunting" - now the Dickcissel; the "Yellowbird" - now the Yellow Warbler; and the "Crow Blackbird" - now the Bronzed Grackle. Grass Finch, Lark Finch and Titmouse are names you seldom hear about Omaha nowadays - but Little Billy found 'em.</p>
          
-         <head>His Museum at Home.</head>
+         </div><div><head>His Museum at Home.</head>
          
          <p>The inside of Billy Marsh's room in his present home looks like that of some great bird museum. The walls are covered with photographs taken by himself of birds, nests and eggs, while there are scores of specimens of the birds and their nests - the latter only taken when the songsters have finished with them.</p>
          
@@ -104,12 +104,12 @@
          
          <cit>
             
-            <bibl default="NO">November 11, 1917. <title>Omaha Sunday World-Herald</title> 53(6): 1-M. Includes two pictures of Marsh.</bibl>
+            <bibl default="false">November 11, 1917. <title>Omaha Sunday World-Herald</title> 53(6): 1-M. Includes two pictures of Marsh.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

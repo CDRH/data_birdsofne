@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00449">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00449">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Real Indian Summer Comes Only After Squaw Winter.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-11-05</date><biblScope>58(6): 3-W. Half of Forest Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Real Indian Summer Comes Only After Squaw Winter</head>
          
@@ -74,12 +74,12 @@
          
          <cit>
             
-            <bibl default="NO">November 5, 1922. <title>Omaha Sunday World-Herald</title> 58(6): 3-W. Half of Forest Field and Stream.</bibl>
+            <bibl default="false">November 5, 1922. <title>Omaha Sunday World-Herald</title> 58(6): 3-W. Half of Forest Field and Stream.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

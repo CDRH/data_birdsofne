@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00347">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00347">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Geese, Ducks, Plover, Snipe and Prairie-chickens Brought into the City].</title><title level="j">Omaha Daily Herald</title><author>Anonymous.</author><date>1868-10-18</date><biblScope>4(16): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Geese, Ducks, Plover, Snipe and Prairie-chickens Brought into Omaha (October 1868) </head>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO"> Sunday Morning, Oct. 18, 1868. [Geese, Ducks, Plover, Snipe and Prairie-chickens Brought into the City.] <title>Omaha Daily Herald</title> 4(16): 4.</bibl>
+            <bibl default="false"> Sunday Morning, Oct. 18, 1868. [Geese, Ducks, Plover, Snipe and Prairie-chickens Brought into the City.] <title>Omaha Daily Herald</title> 4(16): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

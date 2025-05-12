@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00607">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00607">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">On the North and South Branches of the Loup Fork.</title><title level="j">Omaha Weekly Tribune</title><author>Lempriere, C.</author><date>1871-05-06</date><biblScope>1(40): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>On the North and South Branches of the Loup Fork.</head>
          
@@ -64,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">May 6, 1871. <title>Omaha Weekly Herald</title> 1(40): 4.</bibl>
+            <bibl default="false">May 6, 1871. <title>Omaha Weekly Herald</title> 1(40): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

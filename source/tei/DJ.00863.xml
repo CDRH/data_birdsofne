@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00863">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00863">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Spring Sport. Changes of the Flight of Ducks This Season. The Fun of "Cornfield" Shooting Along the Platte - Decoys Much in Use to Draw the Innocent Birds Into Range - The Shooting at its Height.</title><title level="j">Omaha Weekly Herald</title><author>Sportsmen commentators.</author><date>1883-03-30</date><biblScope>18(26): 3.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-18"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-18"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Spring Sport.</head>
          
@@ -73,12 +65,12 @@
          
          <cit>
             
-            <bibl default="NO">March 30, 1883. <title>Omaha Weekly Herald</title> 18(26): 3.</bibl>
+            <bibl default="false">March 30, 1883. <title>Omaha Weekly Herald</title> 18(26): 3.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

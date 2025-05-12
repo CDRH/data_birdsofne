@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00496">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00496">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">In That Little Old Canvas Palace on the Romantic Loup.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1914-08-09</date><biblScope>49(53): 3-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>In That Little Old Canvas Palace on the Romantic Loup</head>
          
@@ -104,12 +104,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. August 9, 1914. <title>Omaha Sunday World-Herald</title> 49(53): 3-S.</bibl>
+            <bibl default="false">Sandy Griswold. August 9, 1914. <title>Omaha Sunday World-Herald</title> 49(53): 3-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

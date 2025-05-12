@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00456">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00456">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">An Interesting Little Letter.</title><title level="j">Omaha Sunday World-Herald</title><author>Wiley, E.</author><date>1918-06-02</date><biblScope>53(35): 11-W.</biblScope></bibl></sourceDesc>
       
@@ -42,13 +42,13 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>An Interesting Little Letter.</head>
          
          <cit>
             
-            <bibl default="NO">E. Wiley. June 2, 1918. <title>Omaha Sunday World-Herald</title> 53(35): 11-W. Forest Field and Stream.</bibl>
+            <bibl default="false">E. Wiley. June 2, 1918. <title>Omaha Sunday World-Herald</title> 53(35): 11-W. Forest Field and Stream.</bibl>
          
          </cit>
          
@@ -70,8 +70,8 @@
          
          <p>I never hunted or fished as a sportsman but more as a pot hunter, as it was the meat we wanted in those days. It's no fun for me to play a fish in the water. When they struck for me, they came on shore quite suddenly or went submarining to another neighborhood. That's all there was to it.</p>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

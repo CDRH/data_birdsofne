@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00506">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00506">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Lost Gun. A Prairie Chicken Hunting Story.</title><title level="j">Omaha Daily Bee</title><author>Anonymous.</author><date>1873-08-04</date><biblScope>3(39): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Lost Gun.</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">August 4, 1873. <title>Omaha Morning Bee</title> 3(39): 4.</bibl>
+            <bibl default="false">August 4, 1873. <title>Omaha Morning Bee</title> 3(39): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

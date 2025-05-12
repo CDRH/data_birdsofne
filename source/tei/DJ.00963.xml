@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00963">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00963">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Dr. Whinnery's Collection Proves Him the Real "Bird Man."</title><title level="j">Omaha Sunday Bee</title><author>Anonymous.</author><date>1911-09-10</date><biblScope>41(12): 1 in home magazine section. With several pictures.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Dr. Whinnery's Collection Proves Him the Real "Bird Man"</head>
          
@@ -56,7 +56,7 @@
          
          <p>So the life of the birdman as well as that of the fisherman and huntsman has its ups and downs.</p>
          
-         <head>The Doctor's Enthusiasm - His Collection.</head>
+         </div><div><head>The Doctor's Enthusiasm - His Collection.</head>
          
          <p>The doctor's enthusiasm, however, never wanes even in spite of the "downs." His interest in birds began when he was a small boy and has waxed stronger with the years. During his active life as a dentist, the doctor could not give as much time as he wished to his bird interests, but now that he has retired h will ride his hobby to his heart's content. He has now 300 of the 400 known varieties of Nebraska birds, and his ambition now is to add those kinds, which his collection lacks and to complete the pairs of which he has only the male by adding the female bird.</p>
          
@@ -64,7 +64,7 @@
          
          <p>The stories of Dr. Whinnery's birds are not merely "bird stories." He has the "goods." There may be some collectors who have a finer assemblage of game birds, of swimmers, of waders or perchers, or those of some other order or family; but all kinds considered, the doctor's collection takes the blue ribbon. His home is a veritable bird museum. Two rooms are given over entirely to the collection, arranged in movable cases. A frieze of birds borders the walls, which are hung with bird pictures, and the bookcases and table are filled with books of bird lore.</p>
          
-         <head>Stories of Crane and Pelican.</head>
+         </div><div><head>Stories of Crane and Pelican.</head>
          
          <p>The first bird which one sees n entering Dr. Whinnery's home on North Thirtieth street is a tall, stately crane standing in a corner. The doctor carefully flicks a speck of dust from his beauty's wings and tells you this is a whooping crane, the greatest bird in North America and growing very scarce. He took this particular crane south of Atkinson, as it was journeying northward with five other cranes.</p>
          
@@ -72,19 +72,19 @@
          
          <p>First came the leaders of the flock - four old birds - to look over the lake and keeping high out of gunshot. having decided that the lake was a good place to alight, the leaders went back, and in about an hour returned with the whole flock, which formed a semi-circle on the lake, with the old birds at the end of the line, their object being to crowd the fish in to shore. Before the pelicans had a chance to get any fish, the doctor took one from the bunch, threw it over his shoulder and was lugging it home when seven good-sized fish fell out of its pouch. The big water bird had carried the fish in its pouch from the last lake which the flock had visited.</p>
          
-         <head>Water and Land Birds in Collection.</head>
+         </div><div><head>Water and Land Birds in Collection.</head>
          
          <p>In two long glass cases are the brownish and grayish-colored water birds - the bitterns; the marsh-inhabiting rails and more aquatic toots; the wading shore birds, snipes and sandpipers; the diving birds - the grebes; the swimmers, the gulls and terns, the ducks and geese.</p>
          
          <p>Then come the land birds, a large array looking as natural as if living on their perches. In one section are the hawks with their sharp curved claws, those birds of prey which the doctor explains are really the farmers' friends, because they kill the small rodents which destroy the crops. Next sit the wise-looking owls, most noticeable among them being the great horned owl with outstretched wings, and the snowy white owl, a fluffy white bird which the doctor took near Lyons, on its way from Canada to a warmer clime.</p>
          
-         <head>Brilliant Plumage of Smaller Birds.</head>
+         </div><div><head>Brilliant Plumage of Smaller Birds.</head>
          
          <p>Most colorful of all are the smaller birds. AMong these is the red-headed woodpecker with his deep-red head and neck and black back and tail. Beside him sits his relative, the red-shafted flicker, which is found more often in Dakota and the Black Hills than in Nebraska. Here also is the ruby-throated hummingbird with its throat of metallic ruby-red and upper parts of metallic green, which lives in the honeysuckles and trumpet flowers and hums with its vibrating wings - the tiniest bird in the whole assemblage.</p>
          
          <p>Among the most beautiful are the perching birds - the scarlet tanager with his fire-red body, black wings and tail, who sits beside his modest wife, who wears a dull olive-green dress; the ruby-crowned kinglet with its ruby-colored crown patch; the redstart, with deep salmon feathers on tail and breast, and his relative, the yellow-breasted chat.</p>
          
-         <head>Skow Goes on Bird Jaunts.</head>
+         </div><div><head>Skow Goes on Bird Jaunts.</head>
          
          <p>Dr. Whinnery has some rare birds among the perchers - a tufted titmouse with its conspicuous crest and a Bohemian waxwing, a southern member of the sociable though silent family of waxwings, which rarely visits the Antelope state.</p>
          
@@ -94,7 +94,7 @@
          
          <p>Sometimes the birds play tricks on these devoted birdmen. Doctor Whinnery tells how his friend Skow was fooled by a chickadee. The two were in the woods together, when Skow, who knows the notes of the birds around, pricked up his ears at a new bird-note which he had never heard before. They waited and listened and finally heard the note again. They located the owner of the call and were chagrined to find that it was only a common little chickadee which had struck a brand new note.</p>
          
-         <head>Bird Study for Nebraska Children.</head>
+         </div><div><head>Bird Study for Nebraska Children.</head>
          
          <p>One does not talk with Dr. WHinnery very long before discovering that one of his beliefs is that more attention should be given to bird study in the public schools in Omaha. he believes that these feathered creatures which are everywhere around us - in our gardens and orchards, in wood and field and sky - and some of which are here at all times of the year, are not given the importance which is theirs by right. If he had his way the study of ornithology should be on the curriculum of all the schools and every boy and girl in Omaha would be given a chance to study bird life. His idea of starting this study is to have as complete a collection of Nebraska birds as possible for their use, and to start a system of adding to the collection the varieties it lacks.</p>
          
@@ -108,12 +108,12 @@
          
          <cit>
             
-            <bibl default="NO">September 10, 1911. <title>Omaha Sunday Bee</title> 41(12): 1 in home magazine section. With several pictures. Typographic errors corrected.</bibl>
+            <bibl default="false">September 10, 1911. <title>Omaha Sunday Bee</title> 41(12): 1 in home magazine section. With several pictures. Typographic errors corrected.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

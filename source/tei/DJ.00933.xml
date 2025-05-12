@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00933">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00933">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Valley Wild Bird Club is Pushing Conservation Under Guidance of Miss Mutz.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1916-05-28</date><biblScope>51(35): 4-E. Includes a picture of the teacher and the class of students.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Valley Wild Bird Club is Pushing Conservation Under Guidance of Miss Mutz.</head>
          
@@ -52,7 +52,7 @@
          
          <p>Down at Valley, Neb., there has been organized the Valley Bird club, which work was inaugurated by Miss Dorothy Hope Mutz, teacher of the third and fourth grades. When the club was organized she drew up a constitution and set of rules, which govern the work of the members. The regulations are:</p>
          
-         <head>What Members Promise.</head>
+         </div><div><head>What Members Promise.</head>
          
          <p>We, the following promise: First. To protect all useful birds. Second. To encourage birds to nest in Valley, by providing food in bad weather and by making at least one bird house and placing it in a convenient place for the birds. Third. To feed the winter birds that stay. Fourth. To aid them in building nests by putting out bits of string, feathers, etc.</p>
          
@@ -64,12 +64,12 @@
          
          <cit>
             
-            <bibl default="NO">May 28, 1916. <title>Omaha Sunday World-Herald</title> 51(35): 4-E. Includes a picture of the teacher and the class of students.</bibl>
+            <bibl default="false">May 28, 1916. <title>Omaha Sunday World-Herald</title> 51(35): 4-E. Includes a picture of the teacher and the class of students.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

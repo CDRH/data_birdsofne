@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00829">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00829">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,28 +32,20 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Sports of the Dog Days. A Glorious Day With the Upland Plover.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1890-08-03</date><biblScope>20(46): 9.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-11"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-11"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
   
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Sports of the Dog Days.</head>
          
@@ -95,12 +87,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. August 3, 1890. <title>Omaha Sunday Bee</title> 20(46): 9. Opening sports page story.</bibl>
+            <bibl default="false">Sandy Griswold. August 3, 1890. <title>Omaha Sunday Bee</title> 20(46): 9. Opening sports page story.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

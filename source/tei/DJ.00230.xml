@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00230">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00230">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Dream. Dedicated to Sandy G[riswold].</title><title level="j">Omaha Sunday World-Herald</title><author>Chittenden, Frank.</author><date>1923-12-30</date><biblScope>59(13): 3-W. A poem.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Dream.</head>
          
@@ -184,12 +184,12 @@
          
          <cit>
             
-            <bibl default="NO">December 30, 1923. <title>Omaha Sunday World-Herald</title> 59(13): 3-W. A Forest and Stream Letter Box feature.</bibl>
+            <bibl default="false">December 30, 1923. <title>Omaha Sunday World-Herald</title> 59(13): 3-W. A Forest and Stream Letter Box feature.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

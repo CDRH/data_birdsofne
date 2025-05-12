@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.01017">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.01017">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Ad Infinitum!</title><title level="j">Omaha Daily Herald</title><author/><date>1877-10-23</date><biblScope>13(8): 4.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2006-05-25"/>
-    <respStmt>
-	<name>Anastasia Smallcomb</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-25"><name>Anastasia Smallcomb</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Ad Infinitum!</head>
 
@@ -72,10 +64,10 @@
 <p>The feast was in every respect a success and nothing occurred to mar the unmixed enjoyment of the evening.</p>
 
 <cit>
-<bibl default="NO">October 23, 1877. <title>Omaha Daily Herald</title> 13(8): 4.</bibl>       
+<bibl default="false">October 23, 1877. <title>Omaha Daily Herald</title> 13(8): 4.</bibl>       
 </cit>
 
 
-</body>
+</div></body>
 </text>
-</TEI.2>
+</TEI>

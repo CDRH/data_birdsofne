@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00035">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00035">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Audubon's Birthday Will be Observed in Schools.</title><title level="j">Omaha Morning Bee</title><author>Anonymous.</author><date>1918-04-25</date><biblScope>47(267): 24.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Audubon's Birthday Will be Observed in Schools</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">April 25, 1918. <title>Omaha Morning Bee</title> 47(267): 24.</bibl>
+            <bibl default="false">April 25, 1918. <title>Omaha Morning Bee</title> 47(267): 24.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

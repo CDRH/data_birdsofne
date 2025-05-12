@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00434">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00434">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunting Season Nears End. Most of the Game Birds Have Moved to Their Winter Home. Rabbit Hunting is Still Left. Local Hunters Have Little Luck in Their Efforts to Bag Some Game of Any Kind During the Last Week.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1912-12-08</date><biblScope>42(25): 3-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunting Season Nears End</head>
          
@@ -96,17 +96,17 @@
          
          </list>
          
-         <head>First Taste of Winter.</head>
+         </div><div><head>First Taste of Winter.</head>
          
          <p>At last old Boreas has succeeded in breaking the charm, and with Thursday morning came the first real taste of wintry weather and end of one of the longest drawn-ut autumns we have had for many years. With the advent of this somewhat blizzardly change came the news of the best flight of ducks along the Platte and down the Missouri that has been noticed since the first movement among the locally-bred birds away back in September. That it will be but of brief duration, however, is very probable, as it is only the birds that have been routed out of their feeding places on the lakes and about the marshes back in the hills by the freezing of the waters and the sealing up of their feeding places. With any considerable snowfall the birds will also be driven from the rivers, notwithstanding that the swift currents may keep them open for some considerable time yet, for with the cornfields frozen hard and the grasses and winter wheat covered with snow they will be pushed on by sheer hunger, if nothing else.</p>
          
          <p>Of course it requires the severest kind of cold weather to make the last of the hardy mallards pack up and get out, for there seems to be some particular quantity of feed that they find in this region that makes them extremely loth to quit, and the Canada geese will not leave until forced to go, by accumulating snows. They are the strongest and most rugged of all the wild fowl family, and can find sustenance by means of their strong bills long after the ducks could obtain nothing at all.</p>
          
-         <head>Birds in Fine Condition.</head>
+         </div><div><head>Birds in Fine Condition.</head>
          
          <p>The hunter who goes out in these bleak December days, we are told by old hands at the business, and is favored with a bit of luck, finds the birds bigger, heavier and more desirable in every way than at any other period during the season. But such hunters are in the vast minority, for it requires unusual fortitude to screw one's courage up to the sticking point during such raw, blustering weather as came in with the cold winds of Thursday morning. Lying in a blind for hours, shivering and hoping against hope, for an occasional shot, is too much of a good thing, and there will be but precious few hardy enough to take a chance. Therefore it may be said once and for all that the hunting season for the fall of 1912 is over on all sorts of game with the exception of the cottontail, who is available all through the winter time.</p>
          
-         <head>Hunting Rabbits is Fun.</head>
+         </div><div><head>Hunting Rabbits is Fun.</head>
          
          <p>An old fashioned rabbit hunt is not to be sneezed at, as any lad with a good yellow cur will tell you. With a good tracking snow, no matter how keen the weather, it is a difficult thing to keep the rabbit hunter indoors. Then another thing about rabbit hunting is that no matter what the weather, with a little persisting one is always sure of his reward, as the rabbits are particularly plentiful this fall all over the state, and they are easy game at all times.</p>
          
@@ -124,12 +124,12 @@
          
          <cit>
             
-            <bibl default="NO">December 8, 1912. <title>Omaha Sunday Bee</title> 42(25): 3-S.</bibl>
+            <bibl default="false">December 8, 1912. <title>Omaha Sunday Bee</title> 42(25): 3-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

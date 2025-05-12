@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00287">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00287">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Fauna of Nebraska.</title><title level="j">Forest and Stream</title><author>Phillips, C. H.</author><date>1876-06-08</date><biblScope>6(18): 284.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Fauna of Nebraska.</head>
          
@@ -86,12 +86,12 @@
          
          <cit>
             
-            <bibl default="NO">June 8, 1876. <title>Forest and Stream</title> 6(18): 284. Scientific names not included in transcription.</bibl>
+            <bibl default="false">June 8, 1876. <title>Forest and Stream</title> 6(18): 284. Scientific names not included in transcription.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

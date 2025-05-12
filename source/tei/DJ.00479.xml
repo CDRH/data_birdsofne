@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00479">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00479">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Lake Creek's "Haunted Hole" and How Discovered by the Old Merganzers.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1917-04-08</date><biblScope>52(28): 11-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Lake Creek's "Haunted Hole" and How Discovered by the Old Merganzers</head>
          
@@ -122,12 +122,12 @@
          
          <cit>
             
-            <bibl default="NO"> April, 8, 1917. <title>Omaha Sunday World-Herald</title> 52(28): 11-W.</bibl>
+            <bibl default="false"> April, 8, 1917. <title>Omaha Sunday World-Herald</title> 52(28): 11-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

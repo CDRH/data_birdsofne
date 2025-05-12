@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00231">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00231">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Duck Hunting at the Lakes and Sloughs North of Cody].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1904-03-13</date><biblScope>39(165): 18. A portion of the Forest, Field and Stream column.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Duck Hunting at the Lakes and Sloughs North of Cody (1888) </head>
          
@@ -52,12 +52,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. March 13, 1904. [Duck Hunting at the Lakes and Sloughs North of Cody]. <title>Omaha Sunday World-Herald</title> 39(165): 18. A portion of the Forest, Field and Stream column.</bibl>
+            <bibl default="false">Sandy Griswold. March 13, 1904. [Duck Hunting at the Lakes and Sloughs North of Cody]. <title>Omaha Sunday World-Herald</title> 39(165): 18. A portion of the Forest, Field and Stream column.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

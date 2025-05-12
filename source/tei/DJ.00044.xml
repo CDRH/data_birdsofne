@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00044">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00044">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Fine Fall Spoils Shooting. Weather Too Good for the Men Behind the Hammerless. No Big Flight Now Likely. Birds Doing Well Up North, and Only Straggling Movements to Southern Winter Quarters Looked For.</title><title level="j">Omaha Sunday Bee</title><author>Sports Writer.</author><date>1912-10-27</date><biblScope>42(19): 4-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Fine Fall Spoils Shooting</head>
          
@@ -90,12 +90,12 @@
          
          <cit>
             
-            <bibl default="NO">October 27, 1912. <title>Omaha Sunday Bee</title> 42(19): 4-S.</bibl>
+            <bibl default="false">October 27, 1912. <title>Omaha Sunday Bee</title> 42(19): 4-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

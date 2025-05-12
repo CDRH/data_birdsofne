@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00156">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00156">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">What Cheer In a Cemetery Where Birds Find Paradise.</title><title level="j">Omaha Sunday World-Herald</title><author>Greenleaf, Miles.</author><date>1916-05-21</date><biblScope>51(35): 3-M. Includes four pictures.</biblScope></bibl></sourceDesc>
       
@@ -42,17 +42,17 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>What Cheer In a Cemetery Where Birds Find Paradise</head>
          
-         <table width="230">
+         <table n="230">
             
             <row role="data">
                
                <cell role="data" cols="1" rows="1">
                   
-                  <figure entity="GreenleafMarshForestLawn">
+                  <figure facs="GreenleafMarshForestLawn">
                      
                      <figDesc>Greenleaf and Marsh at Forest Lawn cemetery.</figDesc>
                   
@@ -66,7 +66,7 @@
          
          </table>
          
-         <head>By Miles Greenleaf.</head>
+         </div><div><head>By Miles Greenleaf.</head>
          
          <p>As we entered the Forest Lawn cemetery bird sanctuary last week, a big male cardinal sat upon one of the huge masonry gate-posts and welcomed us most cordially.</p>
          
@@ -80,7 +80,7 @@
          
          <p>Yet that is the case, not only with happy family of cardinals, but also with three score other varieties of songsters which have also found perfect peace, quiet and contentment within the safe borders of this burial place.</p>
          
-         <figure entity="CemeteryBirdland">
+         <figure facs="CemeteryBirdland">
             
             <figDesc>Sketch of flying birds for cemetery sanctuary.</figDesc>
          
@@ -88,7 +88,7 @@
          
          <p>Omaha has much to be proud of, many substantial features that have made her the envy of the whole country, but her recent awakening to the necessity of studying and conserving wild bird life is perhaps the most remarkable of them all.</p>
          
-         <head>Omaha Takes the Lead.</head>
+         </div><div><head>Omaha Takes the Lead.</head>
          
          <p>Remarkable as it seems to grudging eastern newspapers that Omaha, the busy mart grown in the wild and wooly, western plains, should take th lead in the preserving of songbird life, following the example of a few New England cities which realized the folly of bird destruction when the enlightenment was nearly too late.</p>
          
@@ -98,13 +98,13 @@
          
          <p>Himself a lifelong lover of the songsters, Mr. Mann last fall addressed a letter to the National Association of Audubon Societies at New York, suggesting Forest Lawn as a bird sanctuary and asking advice as to procedure. It is interesting to note that about three weeks after this letter was mailed, the National Audubons sent broadcast, through the medium of the Associated Press, an invitation to all cemeteries in the United States to turn these burying grounds into bird sanctuaries!</p>
          
-         <table width="245">
+         <table n="245">
             
             <row role="data">
                
                <cell role="data" cols="1" rows="1">
                   
-                  <figure entity="FatherSanctuaryForestLawn">
+                  <figure facs="FatherSanctuaryForestLawn">
                      
                      <figDesc>Mann, father of bird sancturay at Forest Lawn.</figDesc>
                   
@@ -122,7 +122,7 @@
          
          <p>Being a member of the Nebraska Audubon society at the time of its rejuvenation last fall, Mr. Mann discussed Forest Lawn as a sanctuary during one of the regular meetings of that society at the public library. His suggestion was enthusiastically received and on December 14 Dr. Solon R. Towne, president of the Nebraska Audubons, addressed the board of directors of the Forest Lawn Cemetery association on the sanctuary suggestion and was cordially received.</p>
          
-         <head>Mr. Mann Not Doubted.</head>
+         </div><div><head>Mr. Mann Not Doubted.</head>
          
          <p>About a month later, acting with authority tendered him by his directors, Mr. Mann wrote the board of education offering to furnish materials for the construction of bird houses to be made by the pupils in the manual training classes of the Omaha schools to be later placed in Forest Lawn. This communication was tabled.</p>
          
@@ -136,7 +136,7 @@
          
          <p>Billy Marsh and the writer last week paid our first visit to Forest Lawn since it had been made a haven for the birds, and were astounded at the number of songsters, as well as the number of varieties which fluttered about at our feet or in the trees but a few yards away. Seemingly fearless and perfectly confident that we were their friends, they apparently welcomed our presence. Not a couch in this last resting place of those who have gone away but that the deep-throated warble or the cheerful twittering of heaven's own choir serenaded in a continual song of hopefulness and peace.</p>
          
-         <head>Marsh Veteran Bird Lover.</head>
+         </div><div><head>Marsh Veteran Bird Lover.</head>
          
          <p>For twenty-five years Billy Marsh has stalwartly and perhaps silently studied and harbored the songbirds to the best of his ability, and the recent success of the Omaha campaign for a general interest in this great work has given him a great happiness. Therefore, when he stood with bared head before a large and simple monument in the very heart of this sanctuary of the birds he has loved for so long, I stole a glimpse of the stone. Upon it was graven the name of his father, long since dead, Captain William Wallace Marsh, an Omaha pioneer.</p>
          
@@ -148,7 +148,7 @@
          
          <p>But here in the beauty of the sanctuary - that it has taken the feathered clans but a few brief months to ascertain that Forest Lawn welcomes them and that the human beings within those boundaries are unqualified friends of the birds. Outside the limits of the cemetery the songsters are no more plentiful than in any other wooded section or rolling prairie - inside they are myriad.</p>
          
-         <head>Birds Found There.</head>
+         </div><div><head>Birds Found There.</head>
          
          <p>Besides the cardinal, gorgeous guardian of the outer portals, we found ourselves hobnobbing with scarlet tanagers, brown thrashers, wood thrushes and catbirds which amiably shared the paths and roadways with us. Many different sparrows busily fluttered under foot about the green-sward, while white-breasted nuthatches, chickadees, bluebirds, Baltimore orioles, rose breasted grosbeaks and other beauties in this haven of refuge greeted us at every step. Bronzed grackles squeaked and gurgled about the pines, while a pair of mysterious cowbirds entertained us with their wiry squeals scarcely ten feet distant.</p>
          
@@ -256,7 +256,7 @@
          
          <p>Of the fourteen original trustees of the Forest Lawn Cemetery association, who incorporated the institution in 1885, but four are living, and they are: Moses H. Bliss, Eben K. Long, Arthur P. Wood and Orlando S. Wood.</p>
          
-         <head>Heartily in Sympathy.</head>
+         </div><div><head>Heartily in Sympathy.</head>
          
          <p>These original trustees, as well as the present directors, are heartily in sympathy with the bird conservation movement, and promise that everything shall be done to maintain this as the best, if not the very first cemetery bird sanctuary in the United States.</p>
          
@@ -282,12 +282,12 @@
          
          <cit>
             
-            <bibl default="NO">May 21, 1916. <title>Omaha Sunday World-Herald</title> 51(35): 3-M. Includes four pictures.</bibl>
+            <bibl default="false">May 21, 1916. <title>Omaha Sunday World-Herald</title> 51(35): 3-M. Includes four pictures.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

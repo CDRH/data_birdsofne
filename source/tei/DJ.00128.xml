@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00128">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00128">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Bright Outlook for the Prairie Chicken Crop].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-06-26</date><biblScope>33(269): 24. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-15">2006-06-15</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-15"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream</head>
          
@@ -60,12 +52,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. June 26, 1898. [Bright Outlook for the Prairie Chicken Crop.] <title>Omaha Sunday World-Herald</title> 33(269): 24.</bibl>
+            <bibl default="false">Sandy Griswold. June 26, 1898. [Bright Outlook for the Prairie Chicken Crop.] <title>Omaha Sunday World-Herald</title> 33(269): 24.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

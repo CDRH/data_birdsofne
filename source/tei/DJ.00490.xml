@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00490">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00490">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Legend of Prairie Creek.</title><title level="j">Forest and Stream</title><author>Griswold, Sandy.</author><date>1909-07-03</date><biblScope>73(1): 13.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Game Bag and Gun</head>
          
@@ -79,12 +79,12 @@
          
          <cit>
             
-            <bibl default="NO">July 3, 1909. <title>Forest and Stream</title> 73(1): 13. Game Bag and Gun.</bibl>
+            <bibl default="false">July 3, 1909. <title>Forest and Stream</title> 73(1): 13. Game Bag and Gun.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

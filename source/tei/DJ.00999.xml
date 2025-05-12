@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00999">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00999">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Lost Bird Returns to His Haunts of Old.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1919-07-20</date><biblScope>54(42): 13-N. Repeats much of 4 March 1900 column.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>A Lost Bird Returns to His Haunts of Old</head>
          
@@ -56,12 +56,12 @@
          
          <cit>
             
-            <bibl default="NO">July 20, 1919. <title>Omaha Sunday World-Herald</title> 54(42): 13-N. Repeats much of a 4 March 1900 column. This portion is not repeated here. The name used with this article was George A. Hoagland, not John Petty. There were also a few trivial deletions of words in this version.</bibl>
+            <bibl default="false">July 20, 1919. <title>Omaha Sunday World-Herald</title> 54(42): 13-N. Repeats much of a 4 March 1900 column. This portion is not repeated here. The name used with this article was George A. Hoagland, not John Petty. There were also a few trivial deletions of words in this version.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00251">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00251">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">"Eat, Drink and be Merry." The Second Annual Banquet of the Omaha Gun Club.</title><title level="j">Omaha Sunday Bee</title><author>[O'Brien, E.A.].</author><date>1886-10-24</date><biblScope>p. 2.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>"Eat, Drink and be Merry"</head>
          
@@ -328,12 +328,12 @@
          
          <cit>
             
-            <bibl default="NO">[E.A. O'Brien]. October 24, 1886. <title>Omaha Sunday Bee</title> p. 2.</bibl>
+            <bibl default="false">[E.A. O'Brien]. October 24, 1886. <title>Omaha Sunday Bee</title> p. 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

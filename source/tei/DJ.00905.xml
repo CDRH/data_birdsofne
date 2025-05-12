@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00905">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00905">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,22 +32,14 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Time of the Hunter's Idyl. Prospects Good for Capital Sport Among the Wild Fowl This Fall.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1892-10-02</date><biblScope>22(105): 20.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-06-30"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-06-30"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -55,7 +47,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Time of the Hunter's Idyl.</head>
          
@@ -105,12 +97,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. October 2, 1892. <title>Omaha Sunday Bee</title> 22(105): 20.</bibl>
+            <bibl default="false">Sandy Griswold. October 2, 1892. <title>Omaha Sunday Bee</title> 22(105): 20.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

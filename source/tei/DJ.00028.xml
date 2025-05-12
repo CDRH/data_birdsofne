@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00028">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00028">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">An Appeal for the Birds.</title><title level="j">Omaha Daily Herald</title><author>Herald editor.</author><date>1877-02-03</date><biblScope>12(97): 2. An editorial.</biblScope></bibl></sourceDesc>
       
@@ -42,13 +42,13 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>An Appeal for the Birds.</head>
          
          <p>In The Herald's Lincoln letter yesterday, our correspondent spoke of the danger of not passing the bill to spare the birds-that it might be put off so long that it could not be passed this session, or if passed, so amended that it would be useless. The Herald is at loss to conceive how any true sportsman who has the interests of the State at heart, is not willing to forego the pleasure he derives in hunting, for the space of three years, that an experiment known and believed to be of great value to any agricultural people, may be tried. We happen to know that there is a great deal of feeling on this subject throughout the State and the farmers in various sections have organized into societies to arrest and prosecute those who may be found shooting birds on their premises. There is not a farmer in the State, who understands the question, who is opposed to this legislation to save the birds. This is pre-eminently an agricultural State and whatever conduces to the prosperity of the farmers, tends also to the prosperity of every other citizen.</p>
          
-         <head>"The farmers feeds us all"</head>
+         </div><div><head>"The farmers feeds us all"</head>
          
          <p>According to the census returns of last spring the State had a population of nearly 250,000, and The Herald is of the opinion that it is actually less today by several thousands, because of the grasshopper visitation last summer, and it believes the census returns this coming spring will show it. Men were panic stricken when the came last summer and many abandoned rich claims, well improved, or sold them for a mere song, and left the State. The birds, such as prairie chickens, prairie snipe, quails, and other insect destroyers should be allowed to remain undisturbed for at least three years. It is not enough that the time in which these insect destroyers may be killed be limited from the 15th of August to the 1st day of December in each year. All through the summer and autumn months these insect destroying birds are the most active in their work, and when the locusts visit the State as late as they did last year and in 1874, there should not a bird be killed before the 1st of October in any year.</p>
          
@@ -60,7 +60,7 @@
          
          <cit>
             
-            <bibl default="NO">Herald editor. February 3, 1877. <title>
+            <bibl default="false">Herald editor. February 3, 1877. <title>
                   
                   <title>Omaha Daily Herald</title>
                
@@ -68,8 +68,8 @@
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00337">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00337">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Game in Central Nebraska.</title><title level="j">Forest and Stream</title><author>Wolfe, W.M. - Shoshone.</author><date>1888-06-14</date><biblScope>30(21): 414.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-06-08"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-06-08"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
 
@@ -58,7 +50,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Game in Central Nebraska.</head>
          
@@ -88,12 +80,12 @@
          
          <cit>
             
-            <bibl default="NO">June 14, 1888. <title>Forest and Stream</title> 30(21): 414.</bibl>
+            <bibl default="false">June 14, 1888. <title>Forest and Stream</title> 30(21): 414.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

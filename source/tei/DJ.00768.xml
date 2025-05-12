@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00768">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00768">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Semi-annual Fall Hunt of the Omaha Sportsman's Club. The Result of One Day's Hunt.</title><title level="j">Omaha Weekly Tribune and Republican</title><author>Editor.</author><date>1871-11-08</date><biblScope>13(33): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Sporting.</head>
          
@@ -306,7 +306,7 @@
          
          </table>
          
-         <table width="200">
+         <table n="200">
             
             <row role="data">
                
@@ -434,12 +434,12 @@
          
          <cit>
             
-            <bibl default="NO">November 8, 1871. <title>Omaha Weekly Tribune</title> and Republican 13(33): 4.</bibl>
+            <bibl default="false">November 8, 1871. <title>Omaha Weekly Tribune</title> and Republican 13(33): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

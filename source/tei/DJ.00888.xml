@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00888">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00888">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Sweet As a Baby's Breath Are the Spring Flowers. In the Woods on the River Road—The Gamest Bird That Ever Spread Wing Is Our Common Jacksnipe.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1905-04-16</date><biblScope>40(198): 15. Includes stories on flora and wood duck with a sketch.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-20">2006-06-20</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-20"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Sweet As a Baby's Breath Are the Spring Flowers</head>
          
@@ -98,7 +90,7 @@
          
          <p>And these are the foxgloves, which while highly charming and ornamental to our landscape are invaluable from a medicinal standpoint, the leaves making a most powerful potion, both sedative and diuretic. And there are other beauties, too, besides these so unpretentiously mentioned, illuminating the darks of the river roads woods, the little deer flower, with its tiny mauve face, peeping from amidst a mass of disentangling vegetation, specked as the red-backed sandpiper, the sharp-lobed fox's ear, the moose flower, and scores of others, like tiny nuggets along an auriferous trail.</p>
          
-         <figure entity="WoodducksElkhornShore">
+         <figure facs="WoodducksElkhornShore">
             
             <figDesc>Sketch of wood ducks on the Elkhorn shore.</figDesc>
          
@@ -112,12 +104,12 @@
          
          <cit>
             
-            <bibl default="NO">April 16, 1905. <title>Omaha Sunday World-Herald</title> 40(198): 15. Includes the stories on flora and wood duck with a sketch.</bibl>
+            <bibl default="false">April 16, 1905. <title>Omaha Sunday World-Herald</title> 40(198): 15. Includes the stories on flora and wood duck with a sketch.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

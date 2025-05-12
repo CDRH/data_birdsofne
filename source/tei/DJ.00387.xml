@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00387">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00387">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Habits of Shore Birds].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1899-08-20</date><biblScope>34(323): 23. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream</head>
          
@@ -50,7 +50,7 @@
          
          <p>Years ago, so John Petly tells me, the swarming flocks of yellowlegs, both lesser and greater, of dowitchers, willets and grass plovers, of which a few stragglers got in here as early as the middle of July, mustered all their forces about this time in August and began their southward flight. Early in the month they came along in considerable numbers, but it was not until after the northeast storm, which is annually looked for during the first week in August, and which we enjoyed some dozen days ago, that the flight was fully on. Fortunate, the man who found himself up at Horseshoe, Willow, Florence of Cut-off lake during this storm. Little cared he for the rain or wind, for the birds were sure to be plenty and the shooting good. Then, sometimes, later in the month or early in September came another easterly storm, which was apt to bring to our plowed fields and reeking meadows immense flights of golden plovers of Esquimaux curlew, whose coming all our old day local gunners will vividly recall.</p>
          
-         <figure entity="HabitsShoreBirdsSport">
+         <figure facs="HabitsShoreBirdsSport">
             
             <figDesc>Habits of game birds - setter Sport.</figDesc>
          
@@ -66,12 +66,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. August 20, 1899. [Habits of Shore Birds.] <title>Omaha Sunday World-Herald</title> 34(323): 23.</bibl>
+            <bibl default="false">Sandy Griswold. August 20, 1899. [Habits of Shore Birds.] <title>Omaha Sunday World-Herald</title> 34(323): 23.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

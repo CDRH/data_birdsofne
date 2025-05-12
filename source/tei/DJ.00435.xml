@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00435">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00435">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,29 +32,21 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Shooting in the Spring. Arrival of the Avant Coureurs of the Feathered Hosts.</title><title level="j">Omaha Sunday Bee</title><author>Griswold, Sandy.</author><date>1895-03-03</date><biblScope>p. 10.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
 
-<revisionDesc>
-<change>
-  <date value="2005-08-11"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-11"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Shooting in the Spring.</head>
          
@@ -78,12 +70,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy	Griswold. March 3, 1895. <title>Omaha Sunday Bee</title> p. 10.</bibl>
+            <bibl default="false">Sandy	Griswold. March 3, 1895. <title>Omaha Sunday Bee</title> p. 10.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

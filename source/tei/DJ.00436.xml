@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00436">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00436">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunting Stories on Tap. Interesting Collection of Munchausen's Swap Tales of the Season. Judge Stout Bright When a Boy and Ruminates on the Events of His Childhood. Then He Grew to be a Big Hunter and Was Only Stopped by the Pappio—Some Rare Anecdotes.</title><title level="j">Omaha Sunday World-Herald</title><author>Rex M. [Eugene O. Mayfield].</author><date>1901-03-17</date><biblScope>36(168): 13. With two sketches.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-22">2006-06-22</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-22"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunting Stories on Tap</head>
          
@@ -116,12 +108,12 @@
          
          <cit>
             
-            <bibl default="NO">Rex M. [Eugene O. Mayfield]. March 17, 1901. <title>Omaha Sunday World-Herald</title> 36(168): 13. With two sketches.</bibl>
+            <bibl default="false">Rex M. [Eugene O. Mayfield]. March 17, 1901. <title>Omaha Sunday World-Herald</title> 36(168): 13. With two sketches.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

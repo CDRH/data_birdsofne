@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00296">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00296">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Feathered Picnickers [Grackle and Jay].</title><title level="j">Omaha Sunday World-Herald</title><author>Editor [possibly Greenleaf].</author><date>1919-08-10</date><biblScope>54(45): 10-E. A bird editorial. Feathered Picnicker column repeats 19 Sep 1926.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Feathered Picnickers.</head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">Editor [possibly Miles Greenleaf]. August 10, 1919. Feathered Picnickers [Grackle and Jay]. <title>Omaha Sunday World-Herald</title> 54(45): 10-E. A bird editorial. Feathered Picnicker column repeats 19 Sep 1926.</bibl>
+            <bibl default="false">Editor [possibly Miles Greenleaf]. August 10, 1919. Feathered Picnickers [Grackle and Jay]. <title>Omaha Sunday World-Herald</title> 54(45): 10-E. A bird editorial. Feathered Picnicker column repeats 19 Sep 1926.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

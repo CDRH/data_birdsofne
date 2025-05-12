@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00512">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00512">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Luxury of Cabin Door Upon Lovely Prairie Land at Sunset].</title><title level="j">Omaha Arrow</title><author>Johnson, J.E. or Jno. W. Pattison, Editors and Proprietors.</author><date>1854-09-08</date><biblScope>1(4): 2.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>What a luxury it is to sit in one's cabin door upon this lovely prairie land just as the sun's last rays linger coquettishly upon the prairie slopes far far away. Your camp summer is over, your coddy of havanna is in full blast, and away go your thoughts to the ideal world, upon the railroad track of fancy, or if a few friends of the right kind are with you, the laugh and joke go merrily around until the late hours come stealing along. Such is an outline of life in Nebraska. The roll of the surrounding prairie set off in beauty by the evening twilight, lends an enchantment which partakes not of earth, and then as twilight deepens into darkness and star after star come stealing out from the great blue ceiling above, until the whole heaven seems studded with brilliant diamonds, oh, it is glorious, beyond description. Or, if perchance the pale moon comes quietly, and majestically up the heaven giving a dim outline to the prairie lea, then, indeed it is lovely and one's heart beats in unison with the blessed present, and a camp life in Nebraska seems clothed in a tenfold lovelier cast than the pen of romance can portray.</p>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">Johnson or Pattison, editors. September 8, 1854. [Luxury of Cabin Door Upon Lovely Prairie Land at Sunset]. <title>Omaha Arrow</title> 1(4): 2.</bibl>
+            <bibl default="false">Johnson or Pattison, editors. September 8, 1854. [Luxury of Cabin Door Upon Lovely Prairie Land at Sunset]. <title>Omaha Arrow</title> 1(4): 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

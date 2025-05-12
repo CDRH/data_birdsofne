@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00894">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00894">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Teachers Brave Rain to Go Bird Studying. Twenty-five Visit Elmwood Park, Led by Audubon Society Representatives. David Waterman Discovers Scarlet Tanager, First Seen There for Years.</title><title level="j">Omaha Sunday World-Herald</title><author>Anonymous.</author><date>1916-04-30</date><biblScope>51(31): 1-N.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Teachers Brave Rain to Go Bird Studying</head>
          
@@ -66,12 +66,12 @@
          
          <cit>
             
-            <bibl default="NO">Anonymous. April 30, 1916. <title>Omaha Sunday World-Herald</title> 51(31): 1-N. On the front page.</bibl>
+            <bibl default="false">Anonymous. April 30, 1916. <title>Omaha Sunday World-Herald</title> 51(31): 1-N. On the front page.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

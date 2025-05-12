@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00836">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00836">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Sportsmens Hunt. The Count in Detail Showing the Game that Each Killed. It Was a Bad Day for Ducks. The Club Supper To-night.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1875-10-15</date><biblScope>10(317): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Sportsmens Hunt.</head>
          
@@ -54,7 +54,7 @@
          
          <p>Members of the Omaha sportsmen club returned from their various hunting grounds yesterday and assembled at 3 p.m. at D.C. Sutphen's store for the grand count. Their annual fall hunt had occurred on the previous day and although one side had to be defeated in the struggle for victory both had done well. Each ahd been allowed to select his favorite ground. Some went to the vicinity of Missouri valley Junction, others to Skeleton or bartlett, also in Iowa, two went to Columbus in this state, two to Horse Shoe lake and others hunted in the vicinity of Bellevue. The following is the count, viz:</p>
          
-         <head>Captain Preston's Side.</head>
+         </div><div><head>Captain Preston's Side.</head>
          
          <p>Byron Reed killed 3 hawks, 12 mallards, 1 dusky duck, 4 pin tail ducks, 7 teal, 1 Wilson snipe, i kildeer, 5 yellow shanks. Total count, 79.</p>
          
@@ -85,7 +85,7 @@
          
          <p>Total for Preston's side 976.</p>
          
-         <head>Capt. Kennedy's Side.</head>
+         </div><div><head>Capt. Kennedy's Side.</head>
          
          <p>H.W. Yates, 5 mallards, 6 pin tail, 1 wood, 4 teal, 5 snipe, 1 yellow leg, 1 plover, 1 hawk. Total count, 50.</p>
          
@@ -115,12 +115,12 @@
          
          <cit>
             
-            <bibl default="NO">Anonymous. October 15, 1875. <title>Omaha Daily Herald</title> 10(317): 4.</bibl>
+            <bibl default="false">Anonymous. October 15, 1875. <title>Omaha Daily Herald</title> 10(317): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

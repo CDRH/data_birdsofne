@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00379">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00379">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Great Spring Flight of Ducks at South Dakota Sandhill Lakes].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1901-02-24</date><biblScope>36(147): 20. Forest, Field and Stream.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Great Spring Flight of Ducks at South Dakota Sandhill Lakes (1896) </head>
          
@@ -62,12 +62,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. February 24, 1901. [Great Spring Flight of Ducks at South Dakota Sandhill Lakes.] <title>Omaha Sunday World-Herald</title> 36(147): 20. Forest Field and Stream.</bibl>
+            <bibl default="false">Sandy Griswold. February 24, 1901. [Great Spring Flight of Ducks at South Dakota Sandhill Lakes.] <title>Omaha Sunday World-Herald</title> 36(147): 20. Forest Field and Stream.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

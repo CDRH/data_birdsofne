@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00790">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00790">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Signs of Delightful Spring and Hunting Grounds Along the Bottoms of the Platte River at Rogers].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1900-02-25</date><biblScope>35(147): 23. Forest, Field and Stream. A Flicker adorns the sketch-letter of the first paragraph.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -72,12 +72,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. February 25, 1900. [Signs of Delightful Spring and Hunting Grounds Along the Bottoms of the Platte River at Rogers.] <title>Omaha Sunday World-Herald</title> 35(147): 23. A Flicker adorns the sketch-letter of the first paragraph.</bibl>
+            <bibl default="false">Sandy Griswold. February 25, 1900. [Signs of Delightful Spring and Hunting Grounds Along the Bottoms of the Platte River at Rogers.] <title>Omaha Sunday World-Herald</title> 35(147): 23. A Flicker adorns the sketch-letter of the first paragraph.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

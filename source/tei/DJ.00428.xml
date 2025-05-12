@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00428">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00428">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Hunting Ducks. Three Days of Sport and the Grand Results.</title><title level="j">Omaha Daily Herald</title><author>Herald writer.</author><date>1878-03-14</date><biblScope>13(123): 8.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Hunting Ducks.</head>
          
@@ -54,12 +54,12 @@
          
          <cit>
             
-            <bibl default="NO">Herald writer. March 14, 1878. <title>Omaha Daily Herald</title> 13(123): 8.</bibl>
+            <bibl default="false">Herald writer. March 14, 1878. <title>Omaha Daily Herald</title> 13(123): 8.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

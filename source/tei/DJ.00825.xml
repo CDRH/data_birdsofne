@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00825">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00825">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Sporting.</title><title level="j">Omaha Nebraskian</title><author>Anonymous.</author><date>1856-10-15</date><biblScope>2(38): 3.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Sporting.</head>
          
@@ -50,12 +50,12 @@
          
          <cit>
             
-            <bibl default="NO">October 15, 1856. <title>Omaha Nebraskian</title> 2(38): 3.</bibl>
+            <bibl default="false">October 15, 1856. <title>Omaha Nebraskian</title> 2(38): 3.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

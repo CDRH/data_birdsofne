@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00885">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00885">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Sunset in the Sandhills and Hunting on Lake Creek].</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1898-11-13</date><biblScope>34(44): 24. Continues: 11/20, 34(51): 23; 11/27, 34(58): 24; 12/4, 34(65): 23; 12/11, 34(72): 21, 24; and 12/18, 34(79): 22-23; 12/25, 34(86): 24; 1/8/1899, 34(100): 21; 1/15, 34(107): 16; and 1/22, 34(114): 24. Revision 1/26 to March 1908.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-15">2006-06-15</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-15"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Forest, Field and Stream.</head>
          
@@ -652,12 +644,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. November 13, 1898. [Sunset in the Sandhills and Hunting on the Lake Creek marshes.] Forest, Field and Stream column. <title>Omaha Sunday World-Herald</title> 34(44): 24. Continues: 11/20, 34(51): 23; 11/27, 34(58): 24; 12/4, 34(65): 23; 12/11, 34(72): 21, 24; and 12/18, 34(79): 22-23; 12/25, 34(86): 24; 1/8/1899, 34(100): 21; 1/15, 34(107): 16; and 1/22, 34(114): 24. Revision reprinted 1/26/1908 to 3/22. Quotes similar as well as text blocks.</bibl>
+            <bibl default="false">Sandy Griswold. November 13, 1898. [Sunset in the Sandhills and Hunting on the Lake Creek marshes.] Forest, Field and Stream column. <title>Omaha Sunday World-Herald</title> 34(44): 24. Continues: 11/20, 34(51): 23; 11/27, 34(58): 24; 12/4, 34(65): 23; 12/11, 34(72): 21, 24; and 12/18, 34(79): 22-23; 12/25, 34(86): 24; 1/8/1899, 34(100): 21; 1/15, 34(107): 16; and 1/22, 34(114): 24. Revision reprinted 1/26/1908 to 3/22. Quotes similar as well as text blocks.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

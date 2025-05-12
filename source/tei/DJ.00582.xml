@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00582">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00582">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">A Nebraska Eagle.</title><title level="j">Forest and Stream</title><author>D.B. F__.</author><date>1882-04-20</date><biblScope>18:(18): 226.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2005-08-08"/>
-    <respStmt>
-	<name>Katharine Potter</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2005-08-08"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
 
 
 
@@ -58,18 +50,18 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>A NEBRASKA EAGLE.—Fairmont, Neb., April 4.—On last Thursday, Messrs. Beecher and Nixon, while hunting ducks and geese, about five miles southwest of this town, killed a large gray eagle measuring seven feet and four inches from tip to tip of wings. It was donated by them to the museum of Doane College, at Crete, Neb.—D.B.F.</p>
          
          <cit>
             
-            <bibl default="NO">April 20, 1882. <title>Forest and Stream</title> 18:(18): 226.</bibl>
+            <bibl default="false">April 20, 1882. <title>Forest and Stream</title> 18:(18): 226.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

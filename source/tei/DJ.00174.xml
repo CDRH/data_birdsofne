@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00174">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00174">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Chirp of the Cricket Tolls the Summer's End. First Pursuivants of the Approach of the Golden Autumn Time. Through the Mysterious Alchemy of Nature the Changes Come.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1908-08-16</date><biblScope>43(46): 2-M.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-19">2006-06-19</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-19"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Chirp of the Cricket Tolls the Summer's End</head>
          
@@ -80,12 +72,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. August 16, 1908. <title>Omaha Sunday World-Herald</title> 43(46): 2-M.</bibl>
+            <bibl default="false">Sandy Griswold. August 16, 1908. <title>Omaha Sunday World-Herald</title> 43(46): 2-M.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00840">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00840">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Out on the Sprawling Platte in the Fabled Olden Days. Sandy's Thrilling First Hunt on the Platte in Fierce March Blasts.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1911-02-26</date><biblScope>46(22): 10-E. Also: 3/12, 46(24): 1-S.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Out on the Sprawling Platte in the Fabled Olden Days</head>
          
@@ -56,13 +56,13 @@
          
          <p>The rapid settling of the country, however, with its attendant enormous increase of hunters, has done much to reduce the flocks that come in here nowadays, and instead of countless thousands, they are only to be seen in scattered bunches, some days more, some days less, but never in that avalanche of gray and black and white, such as literally overwhelmed the region regularly, season in and season out, twenty or twenty-five years ago.</p>
          
-         <head>Avalanche of Ducks.</head>
+         </div><div><head>Avalanche of Ducks.</head>
          
          <p>I will venture to say that on the first trip I ever made on this wondrous old river, twenty-four years ago March 9 next, together with the late John Hardin and Billy Townsend, out at Clark's I saw more wild geese at a single glance of the eye than visit this same region today in a whole season, and, including at that, the entire stretch from Brady Island to Rogers.</p>
          
          <p>At that time Charlie Hoyt, gone from the country these many years, was the big noise in the goose killing line who rendezvoused at this classic old village, with Bill Douglas, then a stripling, Sam Brindle, Dr. Richardson, Attorney Jack Martin and Dr. Little trailing along a close second. Sam Richmond was then in knickerbockers, a mere urchin, who with his famous old Zulu had just began to nose along after the big hunting parties, like a muskrat sniffing for tender roots and crawfish and snails, along the river's sedgy selvedge in the dawn and the twilight of those golden days.</p>
          
-         <head>Immense Day's Harvest.</head>
+         </div><div><head>Immense Day's Harvest.</head>
          
          <p>The first day, with Hoyt in command, and Sam as an all round helper, we shot from the bars in the vicinity of Crook's Island, below the town, and, of course, had grand luck, Hardin Sam and I killing thirty-one big, black fellows, and Townsend and Hoyt over fifty, including twenty-eight white geese. At that, our bag was the best of the two, for our birds were all Canadas, with the exception of two. We were in the right line of flight for these birds, while the white geese would not decoy to us at all.</p>
          
@@ -78,7 +78,7 @@
          
          <p>To old Charlie and the venturesome Sam, it was but an idle jest, and with the lust of the hunt upon us, with the blood pumping hard for action within our veins, we soon partook of a kindred spirit and the deed was done.</p>
          
-         <head>A Wonderful Old River.</head>
+         </div><div><head>A Wonderful Old River.</head>
          
          <p>But the Platte, it was and is still, for that matter, a wonderful river, especially in spring time like the one we recall-a seeming interminable stretch of watery wilderness, the whole country for miles in all directions appearing to be so engulfed and swallowed up by its gaping shores as to make it an impossible job to pick out the river itself from its scores of imitating channels and currents. The main sluiceway, or torrent would be more apropos, if there is such a thing, at such a time, even by an old habitant of the river, or to one thoroughly familiar with the topography and configuration of the landscape, cannot be, at all times, correctly defined from amidst the countless counter currents of the many rivers in a distraught race for the mastery, with their myriads of divides, cul de sacs, swirling bayous, all in contention, but making up the turbulent whole. However, it is seldom, if ever, in this locality, much over a man's head, although from one to one and a quarter mile wide, but there are long, tortuous channels, deeper than others, treacherous washouts, holes and beds of quicksand, which make it extremely hazardous, even for the most adventurous and skilled hunter to enter; yet in high mackintoshes and waders, they boldly penetrate to the most dangerously situated bar, and cross and re-cross, here, there and everywhere, without either fear or disaster, and yet many an unwary and inexperienced spring time wild fowler has met death in its powerful, merciless and perfidious depths. These fatalities, however, in almost every case, have occurred in the spring breakup, when the river is at its highest, the floating ice most dangerous, and the beds of quicksand most frequently formed. The hunter, however, deft at mastering this unstable stream, cannot be too cautious in his maneuvers on the old river in the boisterous freshets of the early spring, and the youngster who is now, for the first time, contemplating a trip, this warning is sounded with redoubled emphasis.</p>
          
@@ -96,7 +96,7 @@
          
          <p>A hardy robin piped, perched on a nearby willow, his joyous welcome as blithesome as if tilting amid the green foliage of the southern home he had so lately left, and a wandering breeze, with much promise in its caresses, fluttered along the gorged shores, and soon we were electrified by many long lines of geese which the rumble of our wagons over the frozen clods had set awing, and which were seen cleaving their way from distant bars to more distant feeding fields.</p>
          
-         <head>Preparing for the Attack.</head>
+         </div><div><head>Preparing for the Attack.</head>
          
          <p>Being new to the scene, we clogged the operations of Hoyt and Sam, and lost the cream of the morning flight-the matutinal departure from the river roosts-but as we didn't know the difference, what did it matter?</p>
          
@@ -122,7 +122,7 @@
          
          <p>Crack! crack! crack! crack! and crack and crack again, went our guns.</p>
          
-         <head>Pilot is First to Fall.</head>
+         </div><div><head>Pilot is First to Fall.</head>
          
          <p>Sam got a bird with each barrel, but Hardin only got his second one down, and the old pilot, as I singled into him, looked as big to me as the mystic Roc in the Arabian Nights, but I was there. I poked my first load full into his broad, ashen breast, and then as he wheeled, with an outburst of dismayed honka-honk-honks, and began to climb toward the unflecked blue above, I steadied myself, and down he came, whirling heels over head until he hit the water with a loud splash, in reply to my second barrel.</p>
          
@@ -136,7 +136,7 @@
          
          <p>There was little time for conversation or idle jest for an hour after that, the birds were pouring into the river by the thousands, and enough of them came our way to keep our guns warm, I can warrant you.</p>
          
-         <head>Canvasbacks Sighted.</head>
+         </div><div><head>Canvasbacks Sighted.</head>
          
          <p>It was nearly noon and there was a cessation in the flight, and we were just getting ready to go into shore for a hot cup of coffee and a slice of woods broiled goose, when Sam discovered a flock of canvasback circling over the water a half mile below us. These were the first ducks we had seen, with the exception of the early stream of pintails that went over high in the air, and Sam said:</p>
          
@@ -152,7 +152,7 @@
          
          <p>A fire started, and the aroma of good, rich, M__ mingling with the savory smell of goose on the coals filled with the sunlit air, and, well, what is the use of saying anything further? If the spirit moves me, I'll give you the story of the afternoon's shoot in next Sunday's World-Herald.</p>
          
-         <head>Sandy's Thrilling First Hunt on the Platte in Fierce March Blasts</head>
+         </div><div><head>Sandy's Thrilling First Hunt on the Platte in Fierce March Blasts</head>
          
          <p>Again recalling, according to promise, my first goose shoot out on the old Platte, nearly a quarter of a century ago.</p>
          
@@ -162,17 +162,17 @@
          
          <p>It was not a typical goose day, by any means, and Sam told me at the outset that we would not accomplish much, but that we would have a good time by ourselves, anyway. While it was uncomfortably chilly, it was clear and calm, and Sam said it was going to be too right and sunshiny for success in a shooting way, and that if the birds refused to move, we would put in the day enjoying ourselves as best we could.</p>
          
-         <head>Predictions Prove Accurate.</head>
+         </div><div><head>Predictions Prove Accurate.</head>
          
          <p>And true enough, after the sun had risen well into the morning sky, it became suspiciously sultry, and after the geese had left the bars, which they did earlier than usual, it grew distressingly quite, even the pintails keeping themselves scarce. Of course, we saw a good many birds during the morning hours, and even killed what would be called a grand bag today. Most of them went over high in the air, and Sam and I were so much interested in each other, and in our reconnoitering about all the adjacent towheads, that we didn't care much whether we got any more or not. Indescribable is the happiness of the sportsman who is mated with the right companion on a shooting trip. In such a union the rules of mathematics go for naught, for while twice one is two, and two guns may bag twice as much game as one, it is not the game that cuts the most important figure in detail, for the satisfaction two friends of similar tastes, views and inclinations, can get out of a day in the woods and on the waters is tenfold, yes, ten times tenfold what one can derive from it alone, no matter how fast the shooting may come. With two souls with but a single thought the bulk of the happiness of all such days consists in the companionships they create, foster and cement. Take away from a hunt this element of intercourse and often there will be mighty little left. Some of the happiest, firmest and most lasting friendships of a lifetime have been formed on the ducking grounds, on the snipe bogs, on the stream and in the woods. Such is the friendship Sam Richmond and I have gloried in ever since that first stormy March day out on the Platte at Clark's, twenty four years ago. Sam is a man to like and to love. There is something distinctively charming in the directness, the simplicity, and I may well add, the crystalline moral beauty of the life of a man like Sam Richmond. With all his frivolities-almost all of them of the past-his companionship carries with it a real moral force. Of charming personality, like all men great in any phase in the tangled skein we call life, he is free from ostentation, free from egotism, in make-up today as much of a happy boy as he was in the days of which I write. He, too, is always interesting as only a man of research, sure of his ground in ever minute particular, can be, and many is the golden hour I have passed with him.</p>
          
-         <head>A Cyclopedia of the Platte.</head>
+         </div><div><head>A Cyclopedia of the Platte.</head>
          
          <p>Among them were all of those of this one day on the Platte, and as young as he was then, we discussed together the habits of all the birds and of all the animals that lived and visited along that wondrous old stream, and what Sam did not know about them would not much interest even the most learned of our scientific naturalists. A hunt with Sam has in it a culture of its own which is unique and far-reaching-broad and deep in all that he does know, loving everything in nature, and he is one of the most interesting men with whom I have ever hunted.</p>
          
          <p>Late that afternoon, as the sun was slowly dropping toward the western rim of the cottonwoods, great flocks of Canadas came up out of the distant pastures and stubble fields and bore down upon the gleaming Platte, until, with querulous cackling, they settled along its thousand bars. We had crossed over on the south below Crook's Island, and for an hour before dark we witnessed one of the most thrilling sights ever fashioned for sportsman's eyes. Coming in, every few minutes or so, high above us in the thinly nebulous sky, were thousands and thousands of these magnificent birds. They took good care, of course, to keep out of our reach, as we lolled carelessly on the darkening shore, but kept pouring in, clanging out their wild signals, and by turns showing triangles, od dusky brown and snowy white, as they veered round, far up or down the river, or rose higher in their majestic voyage as they passed over, unheeding Sam's most seductive calls, but moving out over the broad river and settling serenely on its long, glistening bars. Flock followed flock, until scores became hundreds, and hundreds thousands, in that never-to-be-forgotten convocation on the flowing, ice-clogged river on that glorious March evening so long ago.</p>
          
-         <head>Conditions Different Then.</head>
+         </div><div><head>Conditions Different Then.</head>
          
          <p>But, as I remarked before, those were the days when game shooting was goose shooting, and the Platte was the Platte, the days of which such venerable old sportsmen as Judge B.E.B. Kennedy, and George A. Hoagland love to descant, love to swing round and go back to by memory's charming route.</p>
          
@@ -182,7 +182,7 @@
          
          <p>White crane!"</p>
          
-         <head>Luring the White Crane.</head>
+         </div><div><head>Luring the White Crane.</head>
          
          <p>They were now getting thrillingly near and Charlie began to call, through his hands placed funnel-shaped at his mouth, that long drawn, far-reaching tremolo, which alone the whooping crane sounds.</p>
          
@@ -194,7 +194,7 @@
          
          <p>Just as we were indulging in our good night sorties, old Uncle George came in from out on the board walk in front of the hotel, where he had been taking his usual nocturnal meteorological observations, and threw a wet blanket on our enthusiasm be declaring:</p>
          
-         <head>A Dire Prophecy.</head>
+         </div><div><head>A Dire Prophecy.</head>
          
          <p>"We are going to have a hellofa storm before morning, and more cold, and you'll have hard work shooting on the river tomorrow."</p>
          
@@ -214,7 +214,7 @@
          
          <p>"Well, we'll get ready. We'll be on the river in an hour, and I shouldn't wonder but what we would have one of the shoots of our lives.</p>
          
-         <head>A Wild Adventure.</head>
+         </div><div><head>A Wild Adventure.</head>
          
          <p>It was really a hazardous venture. But what did we care? If the game wasn't worth some effort to get it, then it wasn't worth anything. And then, too, we were both younger than we are today; there was no slowing up, as yet, of the pulsations of heart of blood, and we agreed that some of the happiest hunts we had ever had fairly bulged with discomfort and hardship.</p>
          
@@ -222,7 +222,7 @@
          
          <p>Under the protection of the timbered shores there was a partial calm, and the only inconvenience we experienced were the deep drifts that barred our way out onto the river. The ice, as Sam said it would be, was stout enough to have borne a four-horse team, but once out on the level, the going was not so bad, and we rapidly drew near the towhead, aided by the wind, which at times blew so fiercely that we had to brace our backs against it to keep from being blown sprawling on the ice.</p>
          
-         <head>Big Flock Sails Over.</head>
+         </div><div><head>Big Flock Sails Over.</head>
          
          <p>When about 200 yards from the towhead a big flock of Canadas and speckled fronts arose from the off side of the island and with a raucous honking and cackling, were soon lost sight of in the thick scud to the leeward.</p>
          
@@ -230,7 +230,7 @@
          
          <p>Getting back to the towhead, I realized that it was rapidly getting colder. It was all I could do to regain the little sheltered tuft in the teeth of the wind. But as I had declared, I was game, and we soon had our blind arranged, and our decoys lined up to the windward, when we snuggled down behind this barrier and waited. I was facing the southwest, and Sam to the east, and for further comfort I leaned back against the stout willows and surrendered myself to listening to the moaning of the wild winds and watching the sun lowering through the gray ocean above and toward the rime of the far-away hills. It was still snowing thinly, but with much relief, I noticed that the storm was abating, and that the geese were in motion. We watched the approach of the first flock, a tremendous one, as they came on majestically, despite the changing wind currents, with that mighty wing-beat, which seems so slow when you see a flock coming from afar, but which is really so swift and effective; watched them till they came n close, but out of gun shot, passed over us, and then went on down the river and out of sight.</p>
          
-         <head>A Rush of Guests.</head>
+         </div><div><head>A Rush of Guests.</head>
          
          <p>Again we were aroused by a sounding unk! auh-unk! unk! of a goose close at hand, and as we whirled alertly, a large flock swept down to the leeward, and gracefully sweeping round, came back toward us, heavily against the lessening gale. It was hardly necessary for Sam to call, but he did softly once or twice, a quavering welcome, and with a confused by contented gabbling, with which a settled flock always greets newcomers, the bunch came in.</p>
          
@@ -238,7 +238,7 @@
          
          <p>With loud, affrighted clamor, the balance of the great flock rose up into the storm, and Sam gave them his second barrel, and I was fairly electrified to see two more drop those big gray sails and hit the ice with a dull ker-plunk.</p>
          
-         <head>Shooting Under Difficulties.</head>
+         </div><div><head>Shooting Under Difficulties.</head>
          
          <p>And then, for another three quarters of an hour, it was nothing but geese, and while we scored heavily, the wind and mist and flying scud was much against us, and we really shot like tenderfeet, as Sam put it. But you can imagine the scene probably more vividly than I could describe it, and I will come to a close by saying that at the end of the interval above mentioned, darkness was creeping up from the east, and the weather being yet unsettled and frightfully frigid, Sam said we had better not wait any longer, that there was such a thing as even he getting lost on the Platte. While warmed with excitement, I was nothing loth, and tying our geese by the necks with a rope Sam hid in one of the decoy sacks, we hauled the decoys in, and piled them round he blind, and started for the shore.</p>
          
@@ -256,12 +256,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. February 26, 1911. <title>Omaha Sunday World-Herald</title> 46(22): 10-E. Also: 3/12, 46(24): 1-S.</bibl>
+            <bibl default="false">Sandy Griswold. February 26, 1911. <title>Omaha Sunday World-Herald</title> 46(22): 10-E. Also: 3/12, 46(24): 1-S.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

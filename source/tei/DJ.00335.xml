@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00335">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00335">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,21 +32,13 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Game Birds of the Plains.</title><title level="j">Forest and Stream</title><author>Wolfe, W.M. - Shoshone.</author><date>1890-01-16</date><biblScope>33(26): 513-514. Game Bag and Gun.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-  <date value="2006-05-10"/>
-    <respStmt>
-	<name>Vicki Martin</name>
-    </respStmt>
-    <item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-05-10"><name>Vicki Martin</name> Proofread from Source</change></revisionDesc>
 
 
    
@@ -54,7 +46,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Game Bag and Gun.</head>
          
@@ -130,7 +122,7 @@
             
             <item>
                
-               <hi rend="italic">Chen c&#156;rulescens</hi> Linn.—Blue goose.</item>
+               <hi rend="italic">Chen c&#x9c;rulescens</hi> Linn.—Blue goose.</item>
             
             <item>
                
@@ -258,7 +250,7 @@
             
             <item>
                
-               <hi rend="italic">Pedioc&#156;tes phasianellus campestris</hi> Ridg.—Sharp-tailed grouse.</item>
+               <hi rend="italic">Pedioc&#x9c;tes phasianellus campestris</hi> Ridg.—Sharp-tailed grouse.</item>
             
             <item>
                
@@ -292,12 +284,12 @@
          
          <cit>
             
-            <bibl default="NO">January 16, 1890. <title>Forest and Stream</title> 33(26): 513-514.</bibl>
+            <bibl default="false">January 16, 1890. <title>Forest and Stream</title> 33(26): 513-514.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

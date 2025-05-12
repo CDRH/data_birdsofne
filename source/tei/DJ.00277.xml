@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00277">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00277">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Fall Hunt. Captain William Preston's Side Victorious. Semi-Annual Hunt of the Omaha Sportsmen's Club - Where the Hunters Went - The Score 976 to 533 - Grand Supper This Evening.</title><title level="j">Omaha Daily Republican</title><author>Omaha Sportsmen's Club.</author><date>1875-10-15</date><biblScope>18(10): 4.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Fall Hunt.</head>
          
@@ -236,7 +236,7 @@
          
          <p>The losing side will give a grand game supper to the Club at the Grand Central this evening at 8:30 o'clock. Mr.Hughes, the secretary of the Club, desires us to give notice that members of the Club can secure their supper tickets by calling upon him at the First National Bank this afternoon.</p>
          
-         <head>An Eagle Shot.</head>
+         </div><div><head>An Eagle Shot.</head>
          
          <p>Mr. Yankee Hathaway was so fortunate as to kill a Golden Eagle, near Calhoun lake, which measured seven feet and two inches from tip to tip. It was the most noticeable item of game that was brought in by any of the sportsmen.</p>
          
@@ -244,12 +244,12 @@
          
          <cit>
             
-            <bibl default="NO">October 15, 1875. <title>Omaha Daily Republican</title> 18(10): 4.</bibl>
+            <bibl default="false">October 15, 1875. <title>Omaha Daily Republican</title> 18(10): 4.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00609">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00609">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,20 +32,12 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Note on Prairie Chicken and Game Prospects].</title><title level="j">Forest and Stream</title><author>Polk, Burr H.</author><date>1882-08-10</date><biblScope>19(2): 27.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
-      <revisionDesc>
-      <change>
-        <date value="2005-08-08"/>
-          <respStmt>
-      	<name>Katharine Potter</name>
-          </respStmt>
-          <item>Proofread from Source</item>
-      </change>
-      </revisionDesc>
+      <revisionDesc><change when="2005-08-08"><name>Katharine Potter</name> Proofread from Source</change></revisionDesc>
       
       
       
@@ -56,7 +48,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <p>There is no doubt that prairie chickens are unusually abundant in Nebraska this year. Everything is abundant and the crops marvelous. Ponds are full of water and we anticipate excellent fall goose and duck shooting. Quail are heard on every hand.</p>
          
@@ -65,12 +57,12 @@
          
          <cit>
             
-            <bibl default="NO">August 10, 1882. [Note on Prairie Chicken and Game Prospects.] <title>Forest and Stream</title> 19(2): 27.</bibl>
+            <bibl default="false">August 10, 1882. [Note on Prairie Chicken and Game Prospects.] <title>Forest and Stream</title> 19(2): 27.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

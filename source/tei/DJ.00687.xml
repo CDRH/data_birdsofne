@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00687">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00687">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,27 +32,19 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">[Prairie Chicken and Grouse Market Hunters and Game Laws].</title><title level="j">Omaha Sunday World-Herald</title><author>Hardin, John J.</author><date>1898-12-18</date><biblScope>34(79): 23.</biblScope></bibl></sourceDesc>
       
       </fileDesc>
 
-<revisionDesc>
-<change>
-<date value="2006-06-15">2006-06-15</date>
-<respStmt>
-<name>Karin Dalziel</name>
-</respStmt>
-<item>Proofread from Source</item>
-</change>
-</revisionDesc>
+<revisionDesc><change when="2006-06-15"><name>Karin Dalziel</name> Proofread from Source</change></revisionDesc>
    
    </teiHeader>
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>[Prairie Chicken and Grouse Market Hunters and Game Laws]</head>
          
@@ -68,12 +60,12 @@
          
          <cit>
             
-            <bibl default="NO">December 18, 1898. <title>Omaha Sunday World-Herald</title> 34(79): 23.</bibl>
+            <bibl default="false">December 18, 1898. <title>Omaha Sunday World-Herald</title> 34(79): 23.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

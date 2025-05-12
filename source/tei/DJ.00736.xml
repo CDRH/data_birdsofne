@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00736">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00736">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">The Roar of Wings up Hay Creek Valley. An Evening with the Ducks in the Days of Auld Lang Syne. Old Bill's Shooting Lodge on the Shores of the Ricey Hackberry.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1904-03-13</date><biblScope>42(165): 18.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>The Roar of Wings up Hay Creek Valley</head>
          
@@ -70,12 +70,12 @@
          
          <cit>
             
-            <bibl default="NO">Sandy Griswold. March 13, 1904. <title>Omaha Sunday World-Herald</title> 42(165): 18.</bibl>
+            <bibl default="false">Sandy Griswold. March 13, 1904. <title>Omaha Sunday World-Herald</title> 42(165): 18.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

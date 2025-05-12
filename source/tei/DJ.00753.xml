@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00753">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00753">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Save the Birds.</title><title level="j">Omaha Daily Herald</title><author>Pearl, China.</author><date>1877-01-23</date><biblScope>12(72): 2. From the Fremont Herald.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Save the Birds.</head>
          
@@ -72,12 +72,12 @@
          
          <cit>
             
-            <bibl default="NO">China Pearl. January 23, 1877. <title>Omaha Daily Herald</title> 12(72): 2.</bibl>
+            <bibl default="false">China Pearl. January 23, 1877. <title>Omaha Daily Herald</title> 12(72): 2.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>

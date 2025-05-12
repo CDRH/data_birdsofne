@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2 id="DJ.00216">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DJ.00216">
    
    
-   <teiHeader type="text" status="new">
+   <teiHeader>
       
       <fileDesc>
          
@@ -20,7 +20,7 @@
             
             <pubPlace/>
             
-            <idno/>
+            
             
             <availability status="unknown">
                
@@ -32,7 +32,7 @@
             
             <date>Â© 2003 </date>
          
-         </publicationStmt>
+         <idno/></publicationStmt>
          
          <sourceDesc><bibl><title level="a">Delightful Meeting With Flock of Harris Sparrows.</title><title level="j">Omaha Sunday World-Herald</title><author>Griswold, Sandy.</author><date>1922-03-26</date><biblScope>57(23=26): 3-W.</biblScope></bibl></sourceDesc>
       
@@ -42,7 +42,7 @@
    
    <text>
       
-      <body>
+      <body><div>
          
          <head>Delightful Meeting With Flock of Harris Sparrows</head>
          
@@ -58,7 +58,7 @@
          
          <p>The Harris sparrow is certainly an interesting bird. He is beautifully, but not gaudily attired, with a line of black splotches on his chest, a slender strand apparently holding them in place, and a head, the frontal prominence, and the throat, set in rich ebony. His saddle and larger tail feathers are a filmy shade of grayish brown, and this is a mark that makes it easy to tell him from the fox sparrow, whom he greatly resembles in looks and habits, whose rump is a decided reddish brown. The feet, legs and back of the Harris are pinkish, and this tine gives him much the appearance of a small woodland coxcomb. At this early spring time the Harris is in his most heightened color, the whole top of the head, chin and throat being of a glossy, velvety black.</p>
          
-         <head>Far Northern Bird.</head>
+         </div><div><head>Far Northern Bird.</head>
          
          <p>This bird is a far-northern sojourner and usually are early spring arrivals here, and yet at that they some times winter here, and in the fall do not bid us good by until late in November or early December.</p>
          
@@ -66,13 +66,13 @@
          
          <p>I have seen Harris sparrows in the deep woods up north of Florence on the old River Road, but not very frequently, and always, however, where the underbrush was thick and plentiful. You will seldom find one in the open. They are extremely diffident about parading themselves, shyly loitering about the thickest windrows, hedges and among the piles of brush in clearings adjoining woodlands. They are just as precautionary, too, as they are wary, and it isn't often they stroll or wing themselves far from their chosen haunts of thicket and copse, and when they do, the slightest unusual sound or object will send them scuttling hurriedly, with angry chirps of protest, to the nearest coverts.</p>
          
-         <head>Exceedingly Provoking.</head>
+         </div><div><head>Exceedingly Provoking.</head>
          
          <p>They are exceedingly provoking in their penchant to keep you from studying them, and it is not very often you get to look one square in the face. You will find them, tail toward you, most of the time when you stumble upon them. However, I have often had more good full views of them, but never more so than last week out on the Platte. One, in particular, I caught standing, straight as a shoulder, on the top of a huge pile of brush, with his tail pointing upward, and his crest plumes erect, the very picture of wild alertness and caution. He certainly made a beautiful picture, and, withal a rare one.</p>
          
          <p>And better still, I heard this fellow thrill a few notes of his favorite springtime roundelay, something like the sweet tremolo of the white-throat, who was my favorite operatic star among the Adirondacks, where I spent many season in my younger days. He was still perched on the brush heap, but, after getting rid of those first few undulatory notes, there was little in the balance of his melodious expression, to remind me of the precious whitethroat, who has few rivals. This fellow, while his brief chanson was a genuine treat, had in none of his attempted trills that sweet, rhythmic triad of my dear little friend of the deer parks among the Adirondacks. Yet, withal, it was as mellifluous and dear as could be, and it will be many a long day ere its tender cadences leave my hearing.</p>
          
-         <head>Another Queer Thing.</head>
+         </div><div><head>Another Queer Thing.</head>
          
          <p>There is another queer thing about the Harris sparrow, possibly the queerest of them all. They are plentiful during both their vernal and autumnal migrations over in our sister state, Missouri, but as familiar as they are even there, they are a deep enigma to most consistent of bird students over there, as they have never been able to locate a single nest, and know literally nothing about their breeding habits. As I remarked before they are far northern breeders - like the pine grosbeak - and a favorite region is among the rocky tarns of Ungava, way up in the lonely arctic region. I d not know of any bird friend who ever saw the nest of a Harris sparrow, and the truth is, but few of our most indefatigable and persistent naturalists - have had this wonderful experience. In fact I have never known of any man who ever saw one of this mystic bird's nests.</p>
          
@@ -80,12 +80,12 @@
          
          <cit>
             
-            <bibl default="NO">March 26, 1922. <title>Omaha Sunday World-Herald</title>	57(23=26): 3-W.</bibl>
+            <bibl default="false">March 26, 1922. <title>Omaha Sunday World-Herald</title>	57(23=26): 3-W.</bibl>
          
          </cit>
       
-      </body>
+      </div></body>
    
    </text>
 
-</TEI.2>
+</TEI>
